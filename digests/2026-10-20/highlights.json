@@ -1,66 +1,66 @@
 {
   "ai-cli": [
-    "Windows desktop stability dominates Codex and Claude Code bugs",
-    "MCP OAuth and sandbox regressions hit Copilot CLI",
-    "Seven major AI CLI tools shipping nightly or alpha builds",
-    "Subagent trust emerges as new frontier in Gemini CLI, Pi",
-    "Cost and quota runaway a recurring community concern",
-    "CI/runner capacity now a first-class concern for Qwen Code"
+    "Trust erosion plagues all six AI CLI tools",
+    "Claude Code v2.1.304 ships amid stale backlog",
+    "MCP OAuth bugs hit Claude, Codex, Copilot, Gemini",
+    "Silent failures and permission issues spark complaints",
+    "Windows and CJK localization remain pain points",
+    "Mobile and headless clients emerge as next battleground"
   ],
   "ai-agents": [
-    "OpenClaw ships v2026.10.10-beta.2 workspace-safety fix",
-    "OpenClaw sees 500 PRs and 132 issues in 24 hours",
-    "238 OpenClaw PRs merged against 262 still open",
-    "Long-lived P0/P1 OpenClaw defects linger with stale label",
-    "Multi-file apply_patch now rejected before any file change",
-    "OpenClaw release quality under pressure despite throughput"
+    "OpenClaw beta v2026.10.10-beta.2 fixes apply_patch safety",
+    "500 issues and 500 PRs updated in 24h at OpenClaw",
+    "Upgrade path 2026.9.x to 2026.10.x causes P0 regressions",
+    "Gateway startup blocking reported after upgrade",
+    "Plugin migration non-convergence and session wedging",
+    "231 PRs merged today, ~46% merge rate"
   ],
   "ai-infra": [
-    "Serving engines shift to correctness hardening, no releases",
-    "MoE correctness bugs surface across vLLM, SGLang, llama.cpp",
-    "Qwen3.8-Flash-Next and GLM-5.3-Flash drive model support",
-    "AMD ROCm gfx950 MI355X now a first-class enablement target",
-    "Unsloth ships v0.1.909-beta release",
-    "LiteLLM gateway billing and rate-limiting correctness lags"
-  ],
-  "ai-trending": [
-    "ai-job-search explodes with +3,856 stars in a single day",
-    "opencode gains +1,311 stars as multi-agent harnesses rise",
-    "orca adds +1,590 stars in bring-your-own-subscription wave",
-    "headroom compresses tool outputs for 20-95% token savings",
-    "CLI-Anything frames making all software agent-native",
-    "ComfyUI stays default creative-AI backend with +1,011 stars"
+    "SGLang battles silent KV staleness regression",
+    "vLLM faces non-deterministic decoding bugs",
+    "Ollama hit by empty tool-definition bug",
+    "LiteLLM tracker now dominated by billing accounting",
+    "LiteLLM spend correctness and TPM refill in focus",
+    "Unsloth pushes FSDP2, MoE caching, quantization"
   ],
   "ai-web": [
-    "Anthropic's AI Expectations Gap shows expert-public divide",
+    "Anthropic publishes AI Expectations Gap research",
+    "Half of Anthropic staff expect 80% job automation",
     "91% of Anthropic staff expect Nobel-level AI by 2030",
-    "METR gets employee-like access under White House Accord",
-    "OpenAI teases Low Resource Programming Languages index page",
-    "Only 5% of US workers expect AI to do 80% of their job",
-    "Anthropic pivots toward transparency and third-party oversight"
+    "METR gets employee-like model eval access",
+    "OpenAI posts empty Low Resource Programming page",
+    "Anthropic pivots toward safety transparency"
   ],
   "ai-hn": [
-    "DeepSeek-v4.1-Flash tops HN with 955 points, 718 comments",
-    "DHS bans DeepSeek from federal civilian agencies",
-    "Managing AI-written code you don't understand hits 439 points",
-    "Mistral ships Timestral time-series foundation models",
-    "Inception Labs pushes Mercury 3 diffusion LLMs",
-    "Anthropic IPO trust structure sparks governance debate"
+    "DHS bans DeepSeek across US federal agencies",
+    "DeepSeek ships open-source inference engine",
+    "DeepSeek-V4.1-Flash-1017 tops HN with 956 points",
+    "Mercury 3 brings diffusion LLMs at scale",
+    "Ask HN on shipping AI code you don't understand",
+    "Mistral lands CERN partnership and time-series model"
   ],
   "ai-ph": [
-    "Inbox Zero open-source Superhuman alternative tops 358 votes",
-    "MyLens scales AI-powered 1-on-1 live presentations",
-    "shim-cli offers privacy-first monitoring of AI coding agents",
-    "Tomo for ChatGPT launches on Product Hunt",
-    "Lightweight, modular, secure AI tools gain momentum",
-    "Open-source projects strong in today's Product Hunt lineup"
+    "Beam.win leads with 354 votes for remote agent control",
+    "readywhen embeds assistant inside WhatsApp",
+    "walkai-talkai reimagines coding agent via walkie-talkie",
+    "buddylist revives retro buddy lists for agents",
+    "Kai Resolve by Gleap and Tori target AI support",
+    "Open source and local-first theme across slate"
   ],
   "ai-arxiv": [
+    "LatComm enables reusable latent context compression",
+    "TokenGate and KEEP-Bench target token pruning",
     "Halcyon T2I model trained without language pretraining",
-    "Safety Mid-Training makes safety a foundational capability",
-    "WeAct questions shared-weight updates for long-horizon agents",
-    "Reusable latent compression targets context and memory costs",
-    "Graph-structured life-science benchmarks raise the bar",
-    "Visual-reference-conditioned web dev signals richer evaluation"
+    "New agentic papers on planning and memory",
+    "Safety mid-training and visual attribution in RL",
+    "ProteinGeoBench and LG-Bench target new domains"
+  ],
+  "ai-community": [
+    "HustleRadar tops Dev.to with 53 reactions",
+    "Post on coding losing its fun draws 17 comments",
+    "MCP token overhead and tree-shaking discussed",
+    "Persistent agent teams and WebMCP for React",
+    "Tests pass while features remain wrong warning",
+    "Lobste.rs covers Mistral Timestral and in-browser RAG"
   ]
 }
