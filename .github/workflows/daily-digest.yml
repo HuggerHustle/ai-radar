@@ -2,14 +2,14 @@ name: Daily AI Radar
 
 on:
   schedule:
-    # 22:37 UTC daily = 06:37 CST (UTC+8) the next day. A ~20 min run started
-    # then lands the digest around 07:00 CST, which is when it is expected.
+    # 21:03 UTC daily = 06:03 KST (UTC+9) / 05:03 CST (UTC+8) the next day.
+    # A ~20 min run started then lands the digest around 06:20 KST.
     #
     # The minute is deliberately off the hour. GitHub queues scheduled runs and
     # drops them under load, and the :00 slot is the most contended one. At
     # "0 23 * * *" this workflow degraded badly in August 2026: the 08-26 run
     # was dispatched 5h07m late and the 08-27 run was never created at all.
-    - cron: "37 22 * * *"
+    - cron: "3 21 * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,6 +1,6 @@
 # ai-radar
 
-A GitHub Actions workflow that runs every day at 22:37 UTC. It aggregates AI ecosystem signals from 10 data sources, then publishes English daily digests as GitHub Issues and committed Markdown files.
+A GitHub Actions workflow that runs every day at 21:03 UTC (06:03 KST). It aggregates AI ecosystem signals from 10 data sources, then publishes English daily digests as GitHub Issues and committed Markdown files.
 
 ### Data Sources
 
@@ -401,12 +401,12 @@ Weekly and monthly rollup reports were discontinued in July 2026; past ones rema
 
 | Workflow     | Cron          | UTC         |
 |--------------|---------------|-------------|
-| Daily digest | `37 22 * * *` | 22:37 daily |
+| Daily digest | `3 21 * * *` | 21:03 daily |
 
-Digest folders are named by the China Standard Time (UTC+8) date, so a 22:37 UTC run writes the next day's folder.
+Digest folders are named by the China Standard Time (UTC+8) date, so a 21:03 UTC run writes the next day's folder.
 
 To change the schedule, edit the cron expression in `.github/workflows/daily-digest.yml`.
 
-GitHub's scheduled runs are queued, not guaranteed — typical delay for this workflow is 10-15 minutes, so a 22:37 UTC start lands the digest around 22:50 UTC. The minute is off the hour on purpose: the `:00` slot is the most contended, and while this workflow sat at `0 23 * * *` the delays degraded from minutes to hours (the 2026-08-26 run was dispatched 5h07m late, and the 2026-08-27 run was never created at all).
+GitHub's scheduled runs are queued, not guaranteed — typical delay for this workflow is 10-15 minutes, so a 21:03 UTC start lands the digest around 21:20 UTC (06:20 KST). The minute is off the hour on purpose: the `:00` slot is the most contended, and while this workflow sat at `0 23 * * *` the delays degraded from minutes to hours (the 2026-08-26 run was dispatched 5h07m late, and the 2026-08-27 run was never created at all).
 
 When a scheduled run is late enough that you dispatch a catch-up run manually, the two would otherwise both build the same day's digest and open a duplicate set of issues. Two guards prevent that: a `concurrency: daily-digest` group serializes overlapping runs, and a `guard` job skips any **scheduled** run whose `digests/YYYY-MM-DD` folder (CST date) is already committed. Manual `workflow_dispatch` runs always proceed, so you can still force a regeneration.

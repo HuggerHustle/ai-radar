@@ -2,7 +2,7 @@
 
 ## Project overview
 
-ai-radar is a daily digest generator for the AI open-source ecosystem. A GitHub Actions cron job runs at 22:37 UTC (06:37 CST next day) and produces English reports, published as GitHub Issues and committed Markdown files.
+ai-radar is a daily digest generator for the AI open-source ecosystem. A GitHub Actions cron job runs at 21:03 UTC (06:03 KST next day) and produces English reports, published as GitHub Issues and committed Markdown files.
 
 ## Commands
 
