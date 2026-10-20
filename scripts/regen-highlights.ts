@@ -6,7 +6,7 @@
  *   npx tsx scripts/regen-highlights.ts [--notify]
  *
  * Env vars:
- *   ANTHROPIC_API_KEY (or LLM_PROVIDER + matching key)
+ *   OPENROUTER_API_KEY
  *   TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID (only if --notify)
  */
 

@@ -2,21 +2,15 @@ import { describe, it, expect, vi, beforeEach, afterEach } from "vitest";
 import fs from "node:fs";
 
 // ---------------------------------------------------------------------------
-// Mock provider — intercepts createProvider() so the module-level `provider`
-// in report.ts uses our controllable mock instead of a real SDK client.
+// Mock OpenRouter — callLlm in report.ts goes through our controllable mock
+// instead of a real SDK client.
 // ---------------------------------------------------------------------------
 
 const { mockCall } = vi.hoisted(() => ({
   mockCall: vi.fn<(prompt: string, maxTokens: number) => Promise<string>>(),
 }));
 
-vi.mock("../providers/index.ts", async (importOriginal) => {
-  const orig = await importOriginal<typeof import("../providers/index.ts")>();
-  return {
-    ...orig,
-    createProvider: () => ({ name: "mock", call: mockCall }),
-  };
-});
+vi.mock("../openrouter.ts", () => ({ callOpenRouter: mockCall }));
 
 import {
   is429,
@@ -257,7 +251,7 @@ describe("callLlm", () => {
     vi.useRealTimers();
   });
 
-  it("passes prompt and maxTokens to provider.call()", async () => {
+  it("passes prompt and maxTokens to callOpenRouter()", async () => {
     mockCall.mockResolvedValueOnce("response text");
 
     const result = await callLlm("hello", 2048);

@@ -17,9 +17,7 @@ export const LLM_TOKENS_TRENDING = 6144;
  *  headroom for the multi-row tables plus 2-sentence summaries. */
 export const LLM_TOKENS_LISTING = 6144;
 export const LLM_TOKENS_WEB = 8192;
-import { type LlmProvider, createProvider } from "./providers/index.ts";
-
-const provider: LlmProvider = createProvider();
+import { callOpenRouter } from "./openrouter.ts";
 
 // ---------------------------------------------------------------------------
 // Concurrency limiter — prevents rate-limit (429) errors when many LLM calls
@@ -202,7 +200,7 @@ export async function callLlm(prompt: string, maxTokens = LLM_TOKENS_DEFAULT): P
     await acquireSlot();
     let released = false;
     try {
-      return await provider.call(prompt, maxTokens);
+      return await callOpenRouter(prompt, maxTokens);
     } catch (err) {
       const rateLimited = is429(err);
       const maxRetries = rateLimited ? MAX_RETRIES_429 : MAX_RETRIES_CONNECTION;

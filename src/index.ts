@@ -2,15 +2,14 @@
  * ai-radar: daily digest for AI CLI tools and OpenClaw.
  *
  * Env vars:
- *   LLM_PROVIDER        - "anthropic" | "openai" | "github-copilot" | "openrouter" (default: anthropic)
+ *   OPENROUTER_API_KEY  - OpenRouter API key (required); OPENROUTER_MODEL overrides the model
  *   GITHUB_TOKEN        - GitHub token for API access and issue creation
  *   DIGEST_REPO         - owner/repo where digest issues are posted (optional)
- *
- * Provider-specific env vars — see src/providers/ for full list.
  */
 
 import fs from "node:fs";
 import path from "node:path";
+import { openRouterModel } from "./openrouter.ts";
 import {
   type GitHubItem,
   type RepoFetch,
@@ -346,10 +345,12 @@ async function main(): Promise<void> {
   const utcStr = toUtcStr(now);
   const digestRepo = process.env["DIGEST_REPO"] ?? "";
 
-  const providerName = process.env["LLM_PROVIDER"] ?? "anthropic";
+  // Fail before any fetch: without a key every LLM call fails and the run
+  // only learns it at the first health gate.
+  if (!process.env["OPENROUTER_API_KEY"]) throw new Error("OPENROUTER_API_KEY is not set");
   const isHfWeek = weekdayOf(dateStr) === HF_REPORT_WEEKDAY;
   console.log(
-    `[${now.toISOString()}] Starting digest | provider: ${providerName} | HF weekly: ${isHfWeek ? "yes" : "no"}`,
+    `[${now.toISOString()}] Starting digest | model: ${openRouterModel()} | HF weekly: ${isHfWeek ? "yes" : "no"}`,
   );
 
   // 1. Fetch all data in parallel
