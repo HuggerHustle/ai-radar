@@ -25,9 +25,9 @@ Browse all historical digests in a clean, dark-themed interface — no login req
 
 ![Web UI](assets/web.png)
 
-## Telegram notifications
+## Slack notifications
 
-When `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` are set, each run sends a message linking to all of that day's reports, with highlights. See [Add Secrets](#3-add-secrets).
+When `SLACK_BOT_TOKEN` and `SLACK_CHANNEL_ID` are set, each run posts one Slack message linking to each of that day's reports on GitHub, with highlights. See [Add Secrets](#3-add-secrets).
 
 ## RSS Feed
 
@@ -224,24 +224,18 @@ Go to **Settings → Secrets and variables → Actions** and add:
 
 | Secret | Required | Description |
 |--------|----------|-------------|
-| `LLM_PROVIDER` | optional | `anthropic` (default), `openai`, `github-copilot`, `openrouter`, `deepseek`, or `qwen` |
-| `ANTHROPIC_API_KEY` | if Anthropic | API key — works with both Anthropic and Kimi Code |
-| `ANTHROPIC_BASE_URL` | optional | API endpoint override. Set to `https://api.kimi.com/coding/` for Kimi Code; leave unset for Anthropic |
-| `OPENAI_API_KEY` | if OpenAI | OpenAI API key |
-| `OPENAI_BASE_URL` | optional | OpenAI endpoint override |
-| `OPENROUTER_API_KEY` | if OpenRouter | OpenRouter API key |
-| `DEEPSEEK_API_KEY` | if DeepSeek | DeepSeek API key |
-| `DASHSCOPE_API_KEY` | if Qwen | Alibaba Model Studio API key |
-| `TELEGRAM_BOT_TOKEN` | optional | Telegram bot token from [@BotFather](https://t.me/BotFather). If set, a message is sent after each digest run |
-| `TELEGRAM_CHAT_ID` | optional | Telegram chat/channel/group ID to send notifications to |
+| `OPENROUTER_API_KEY` | yes | [OpenRouter](https://openrouter.ai/keys) API key — every LLM call goes through it |
+| `PRODUCTHUNT_TOKEN` | optional | Product Hunt API token; without it the Product Hunt report is skipped |
+| `SLACK_BOT_TOKEN` | optional | Slack bot token (`xoxb-…`) with the `chat:write` scope |
+| `SLACK_CHANNEL_ID` | optional | ID of the channel to post to (e.g. `C0123456789`) |
 
-> `GITHUB_TOKEN` is provided automatically by GitHub Actions. When using `github-copilot` as the provider, the same `GITHUB_TOKEN` is used for LLM calls.
+> `GITHUB_TOKEN` is provided automatically by GitHub Actions.
 
-**Setting up Telegram notifications** (optional):
-1. Message [@BotFather](https://t.me/BotFather) on Telegram, create a bot, and copy the token
-2. Add the bot to your channel/group, or start a DM with it
-3. Get the chat ID via [@userinfobot](https://t.me/userinfobot) or the [getUpdates](https://core.telegram.org/bots/api#getupdates) API
-4. Add `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID` as repository secrets
+**Setting up Slack notifications** (optional):
+1. Create a Slack app at [api.slack.com/apps](https://api.slack.com/apps) and add the `chat:write` bot scope
+2. Install it to the workspace and copy the **Bot User OAuth Token** (`xoxb-…`)
+3. Invite the bot to the channel (`/invite @your-bot`) and copy the channel ID from the channel's details
+4. Add `SLACK_BOT_TOKEN` and `SLACK_CHANNEL_ID` as repository secrets
 
 > If either secret is missing, the notification step is skipped.
 
@@ -253,24 +247,16 @@ To test immediately, go to **Actions → Daily AI Radar → Run workflow**.
 
 > **First run note**: The web content step will fetch up to 50 articles (25 per site) and may take a few extra minutes. Subsequent runs are fast — only new articles are processed.
 
-## LLM providers
+## LLM
 
-Set `LLM_PROVIDER` to choose which model backend powers the digest generation. Defaults to `anthropic`.
+Every LLM call goes through [OpenRouter](https://openrouter.ai), so any model it lists works without a code change.
 
-| Provider | `LLM_PROVIDER` | Required env vars | Default model |
-|----------|---------------|-------------------|---------------|
-| Anthropic | `anthropic` | `ANTHROPIC_API_KEY` | `claude-sonnet-4-6` |
-| OpenAI | `openai` | `OPENAI_API_KEY` | `gpt-4o` |
-| GitHub Copilot | `github-copilot` | `GITHUB_TOKEN` | `gpt-4o` |
-| OpenRouter | `openrouter` | `OPENROUTER_API_KEY` | `anthropic/claude-sonnet-4` |
-| DeepSeek | `deepseek` | `DEEPSEEK_API_KEY` | `deepseek-v4-flash` |
-| Qwen | `qwen` | `DASHSCOPE_API_KEY` | `qwen-flash` |
+| Env var | Default |
+|---------|---------|
+| `OPENROUTER_API_KEY` | — (required) |
+| `OPENROUTER_MODEL` | `deepseek/deepseek-v4.1-flash` |
 
-Override the model name with `ANTHROPIC_MODEL`, `OPENAI_MODEL`, `GITHUB_COPILOT_MODEL`, `OPENROUTER_MODEL`, `DEEPSEEK_MODEL`, or `QWEN_MODEL` respectively. The Qwen endpoint can be overridden with `DASHSCOPE_BASE_URL`.
-
-The scheduled daily run uses `qwen` / `qwen-flash`.
-
-The provider abstraction lives in `src/providers/` — each provider is a separate file implementing the `LlmProvider` interface. Adding a new provider only requires creating a new file and registering it in the factory.
+Reasoning is turned off on every request: reasoning tokens count against the output budget and would cut reports short.
 
 ## Running locally
 
@@ -279,27 +265,8 @@ pnpm install
 
 export GITHUB_TOKEN=ghp_xxxxx
 
-# Option A: Anthropic (default)
-export ANTHROPIC_API_KEY=sk-ant-xxxxxxxx
-
-# Option B: OpenAI
-# export LLM_PROVIDER=openai
-# export OPENAI_API_KEY=sk-xxxxxxxx
-
-# Option C: GitHub Copilot (uses GITHUB_TOKEN)
-# export LLM_PROVIDER=github-copilot
-
-# Option D: OpenRouter
-# export LLM_PROVIDER=openrouter
-# export OPENROUTER_API_KEY=sk-or-xxxxxxxx
-
-# Option E: DeepSeek
-# export LLM_PROVIDER=deepseek
-# export DEEPSEEK_API_KEY=sk-xxxxxxxx
-
-# Qwen (Alibaba Model Studio)
-# export LLM_PROVIDER=qwen
-# export DASHSCOPE_API_KEY=sk-xxxxxxxx
+export OPENROUTER_API_KEY=sk-or-xxxxxxxx
+# export OPENROUTER_MODEL=deepseek/deepseek-v4.1-flash   # any OpenRouter model id
 
 export DIGEST_REPO=your-username/ai-radar  # optional; omit to only write files
 

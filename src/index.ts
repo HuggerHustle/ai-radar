@@ -496,8 +496,8 @@ async function main(): Promise<void> {
   // A connection failure is a different animal: attempt 1 has already burned
   // callLlm's full ~3 min connection ladder, so firing attempt 2 immediately
   // re-enters an outage that is demonstrably still going. On 2026-09-19 both
-  // attempts failed back to back inside the same DashScope outage and the day
-  // shipped with an empty highlights.json — Slack rendered
+  // attempts failed back to back inside the same LLM endpoint outage and the
+  // day shipped with an empty highlights.json — the notification rendered
   // section links and no bullets. Wait out a cooldown first; a malformed-JSON
   // retry still goes straight through.
   const generateHighlights = async (prompt: string): Promise<ReportHighlights> => {

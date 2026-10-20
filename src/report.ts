@@ -136,8 +136,8 @@ const MAX_RETRIES_429 = 3;
  * provider pushing back on *us*; an unreachable endpoint is a network outage
  * that lasts minutes and clears on its own.
  *
- * On 2026-09-03 the DashScope cn-beijing endpoint was unreachable from the
- * GitHub runner for the entire LLM phase (00:36–00:40 UTC). Every one of the
+ * On 2026-09-03 the LLM endpoint was unreachable from the GitHub runner
+ * for the entire LLM phase (00:36–00:40 UTC). Every one of the
  * ~30 calls burned its 5+10+20 s ladder inside the first 35 s, gave up, and the
  * run published a digest built entirely out of "generation failed" placeholders.
  * Six retries capped at 60 s cover ~3 min of outage instead of 35 s.
