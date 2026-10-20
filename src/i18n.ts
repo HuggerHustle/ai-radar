@@ -135,7 +135,7 @@ export const REPORT_LABELS: Record<string, string> = {
 };
 
 // ---------------------------------------------------------------------------
-// Telegram notification labels (used in notify.ts)
+// Slack notification labels (used in notify.ts)
 // ---------------------------------------------------------------------------
 
 export const NOTIFY_LABELS: Record<string, string> = {

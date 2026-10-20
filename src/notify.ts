@@ -1,12 +1,13 @@
 /**
- * Telegram notification — reads manifest.json and sends a message
- * with links to the latest reports. Skips silently if secrets are not set.
+ * Slack notification — reads manifest.json and posts one message to a channel
+ * with a link to each of the latest reports plus its highlights. Skips silently
+ * if the secrets are not set.
  *
  * Required env vars:
- *   TELEGRAM_BOT_TOKEN  — bot token from @BotFather
- *   TELEGRAM_CHAT_ID    — channel/group/user chat ID
+ *   SLACK_BOT_TOKEN     — bot token (xoxb-…) with the chat:write scope
+ *   SLACK_CHANNEL_ID    — channel to post to; the bot must be a member
  * Optional:
- *   PAGES_URL           — GitHub Pages base URL (defaults to the public deployment)
+ *   GITHUB_REPOSITORY   — owner/repo the report links point at (set by GitHub Actions)
  */
 
 import fs from "node:fs";
@@ -15,58 +16,61 @@ import { pathToFileURL } from "node:url";
 import { NOTIFY_LABELS } from "./i18n.ts";
 import type { ReportHighlights } from "./prompts-data.ts";
 
-const PAGES_URL_DEFAULT = "https://huggerhustle.github.io/ai-radar";
+const REPO_DEFAULT = "HuggerHustle/ai-radar";
 
-function escapeHtml(s: string): string {
+/** Slack mrkdwn treats only these three characters as control characters. */
+function escapeMrkdwn(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
-async function sendTelegram(text: string): Promise<void> {
-  const BOT_TOKEN = process.env["TELEGRAM_BOT_TOKEN"] ?? "";
-  const CHAT_ID = process.env["TELEGRAM_CHAT_ID"] ?? "";
-  const url = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
-  const res = await fetch(url, {
+export async function sendSlack(text: string): Promise<void> {
+  const res = await fetch("https://slack.com/api/chat.postMessage", {
     method: "POST",
-    headers: { "Content-Type": "application/json" },
+    headers: {
+      "Content-Type": "application/json; charset=utf-8",
+      Authorization: `Bearer ${process.env["SLACK_BOT_TOKEN"] ?? ""}`,
+    },
     body: JSON.stringify({
-      chat_id: CHAT_ID,
+      channel: process.env["SLACK_CHANNEL_ID"] ?? "",
       text,
-      parse_mode: "HTML",
-      disable_web_page_preview: true,
+      unfurl_links: false,
+      unfurl_media: false,
     }),
   });
-  if (!res.ok) {
-    const body = await res.text();
-    throw new Error(`Telegram API ${res.status}: ${body}`);
+  // Slack answers HTTP 200 for most failures (bad token, bot not in channel)
+  // and reports them in the body, so `ok` is the real success signal.
+  const body = (await res.json().catch(() => ({}))) as { ok?: boolean; error?: string };
+  if (!res.ok || !body.ok) {
+    throw new Error(`Slack API ${res.status}: ${body.error ?? "unknown error"}`);
   }
 }
 
 export function buildMessage(
   date: string,
   reports: string[],
-  pagesUrl?: string,
+  repo?: string,
   highlights?: ReportHighlights | null,
 ): string {
-  const PAGES_URL = (pagesUrl ?? process.env["PAGES_URL"] ?? PAGES_URL_DEFAULT).replace(/\/$/, "");
-  const lines: string[] = [`📡 <b>ai-radar · ${date}</b>`];
+  const base = `https://github.com/${repo ?? (process.env["GITHUB_REPOSITORY"] || REPO_DEFAULT)}`;
+  const lines: string[] = [`📡 *ai-radar · ${date}*`];
 
   for (const r of reports) {
     lines.push(""); // blank line before each report section
-    lines.push(`• <a href="${PAGES_URL}/#${date}/${r}">${NOTIFY_LABELS[r] ?? r}</a>`);
+    lines.push(`• <${base}/blob/master/digests/${date}/${r}.md|${NOTIFY_LABELS[r] ?? r}>`);
 
     // Add highlights as indented sub-items.
     for (const h of highlights?.[r] ?? []) {
-      lines.push(`  ◦ ${escapeHtml(h)}`);
+      lines.push(`    ◦ ${escapeMrkdwn(h)}`);
     }
   }
 
-  lines.push(`\n<a href="${PAGES_URL}">🌐 Web UI</a>  ·  <a href="${PAGES_URL}/feed.xml">⊕ RSS</a>`);
+  lines.push(`\n<${base}/tree/master/digests/${date}|📁 All of today's reports>`);
   return lines.join("\n");
 }
 
 async function main(): Promise<void> {
-  if (!process.env["TELEGRAM_BOT_TOKEN"] || !process.env["TELEGRAM_CHAT_ID"]) {
-    console.log("[notify] TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set — skipping.");
+  if (!process.env["SLACK_BOT_TOKEN"] || !process.env["SLACK_CHANNEL_ID"]) {
+    console.log("[notify] SLACK_BOT_TOKEN or SLACK_CHANNEL_ID not set — skipping.");
     return;
   }
 
@@ -99,8 +103,8 @@ async function main(): Promise<void> {
 
   const text = buildMessage(date, reports, undefined, highlights);
 
-  console.log(`[notify] Sending Telegram message for ${date} (${reports.length} reports)…`);
-  await sendTelegram(text);
+  console.log(`[notify] Sending Slack message for ${date} (${reports.length} reports)…`);
+  await sendSlack(text);
   console.log("[notify] Done!");
 }
 

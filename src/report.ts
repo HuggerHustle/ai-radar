@@ -96,7 +96,7 @@ export function llmHealthLine(): string {
  *
  * Every individual call site degrades gracefully, so without this check a total
  * outage still walks the whole pipeline: it writes placeholder reports, commits
- * them, opens eight GitHub issues and pushes a Telegram message with no
+ * them, opens eight GitHub issues and pushes a Slack message with no
  * highlights — and exits 0, so nothing alerts. That is exactly what happened on
  * 2026-09-03. Throwing makes `pnpm start` exit non-zero, which fails the job and
  * skips the commit, notify and issue steps, so the day is simply missing rather
