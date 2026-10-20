@@ -17,9 +17,7 @@ export const LLM_TOKENS_TRENDING = 6144;
  *  headroom for the multi-row tables plus 2-sentence summaries. */
 export const LLM_TOKENS_LISTING = 6144;
 export const LLM_TOKENS_WEB = 8192;
-import { type LlmProvider, createProvider } from "./providers/index.ts";
-
-const provider: LlmProvider = createProvider();
+import { callOpenRouter } from "./openrouter.ts";
 
 // ---------------------------------------------------------------------------
 // Concurrency limiter — prevents rate-limit (429) errors when many LLM calls
@@ -98,7 +96,7 @@ export function llmHealthLine(): string {
  *
  * Every individual call site degrades gracefully, so without this check a total
  * outage still walks the whole pipeline: it writes placeholder reports, commits
- * them, opens eight GitHub issues and pushes a Telegram message with no
+ * them, opens eight GitHub issues and pushes a Slack message with no
  * highlights — and exits 0, so nothing alerts. That is exactly what happened on
  * 2026-09-03. Throwing makes `pnpm start` exit non-zero, which fails the job and
  * skips the commit, notify and issue steps, so the day is simply missing rather
@@ -138,8 +136,8 @@ const MAX_RETRIES_429 = 3;
  * provider pushing back on *us*; an unreachable endpoint is a network outage
  * that lasts minutes and clears on its own.
  *
- * On 2026-09-03 the DashScope cn-beijing endpoint was unreachable from the
- * GitHub runner for the entire LLM phase (00:36–00:40 UTC). Every one of the
+ * On 2026-09-03 the LLM endpoint was unreachable from the GitHub runner
+ * for the entire LLM phase (00:36–00:40 UTC). Every one of the
  * ~30 calls burned its 5+10+20 s ladder inside the first 35 s, gave up, and the
  * run published a digest built entirely out of "generation failed" placeholders.
  * Six retries capped at 60 s cover ~3 min of outage instead of 35 s.
@@ -202,7 +200,7 @@ export async function callLlm(prompt: string, maxTokens = LLM_TOKENS_DEFAULT): P
     await acquireSlot();
     let released = false;
     try {
-      return await provider.call(prompt, maxTokens);
+      return await callOpenRouter(prompt, maxTokens);
     } catch (err) {
       const rateLimited = is429(err);
       const maxRetries = rateLimited ? MAX_RETRIES_429 : MAX_RETRIES_CONNECTION;

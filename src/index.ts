@@ -2,15 +2,14 @@
  * ai-radar: daily digest for AI CLI tools and OpenClaw.
  *
  * Env vars:
- *   LLM_PROVIDER        - "anthropic" | "openai" | "github-copilot" | "openrouter" (default: anthropic)
+ *   OPENROUTER_API_KEY  - OpenRouter API key (required); OPENROUTER_MODEL overrides the model
  *   GITHUB_TOKEN        - GitHub token for API access and issue creation
  *   DIGEST_REPO         - owner/repo where digest issues are posted (optional)
- *
- * Provider-specific env vars — see src/providers/ for full list.
  */
 
 import fs from "node:fs";
 import path from "node:path";
+import { openRouterModel } from "./openrouter.ts";
 import {
   type GitHubItem,
   type RepoFetch,
@@ -346,10 +345,12 @@ async function main(): Promise<void> {
   const utcStr = toUtcStr(now);
   const digestRepo = process.env["DIGEST_REPO"] ?? "";
 
-  const providerName = process.env["LLM_PROVIDER"] ?? "anthropic";
+  // Fail before any fetch: without a key every LLM call fails and the run
+  // only learns it at the first health gate.
+  if (!process.env["OPENROUTER_API_KEY"]) throw new Error("OPENROUTER_API_KEY is not set");
   const isHfWeek = weekdayOf(dateStr) === HF_REPORT_WEEKDAY;
   console.log(
-    `[${now.toISOString()}] Starting digest | provider: ${providerName} | HF weekly: ${isHfWeek ? "yes" : "no"}`,
+    `[${now.toISOString()}] Starting digest | model: ${openRouterModel()} | HF weekly: ${isHfWeek ? "yes" : "no"}`,
   );
 
   // 1. Fetch all data in parallel
@@ -471,7 +472,7 @@ async function main(): Promise<void> {
   // commit step, so they are never published.
   assertLlmHealthy("report");
 
-  // 5. Generate highlights for Telegram notification
+  // 5. Generate highlights for the Slack notification
   const readReport = (name: string): string | undefined => {
     const p = path.join("digests", dateStr, name);
     return fs.existsSync(p) ? fs.readFileSync(p, "utf-8") : undefined;
@@ -487,7 +488,7 @@ async function main(): Promise<void> {
     if (content) reports[id] = content;
   }
 
-  console.log("  Generating highlights for Telegram...");
+  console.log("  Generating highlights for Slack...");
   // Retry once: the LLM occasionally emits slightly malformed JSON that
   // repairJson can't fix (seen 2026-07-13: "Expected ',' or ']' after array
   // element"); a fresh generation usually returns valid JSON.
@@ -495,8 +496,8 @@ async function main(): Promise<void> {
   // A connection failure is a different animal: attempt 1 has already burned
   // callLlm's full ~3 min connection ladder, so firing attempt 2 immediately
   // re-enters an outage that is demonstrably still going. On 2026-09-19 both
-  // attempts failed back to back inside the same DashScope outage and the day
-  // shipped with an empty highlights.json — Telegram rendered
+  // attempts failed back to back inside the same LLM endpoint outage and the
+  // day shipped with an empty highlights.json — the notification rendered
   // section links and no bullets. Wait out a cooldown first; a malformed-JSON
   // retry still goes straight through.
   const generateHighlights = async (prompt: string): Promise<ReportHighlights> => {

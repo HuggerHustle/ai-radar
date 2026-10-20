@@ -172,7 +172,7 @@ ${isAnyFirstRun ? "6. **Content Landscape Overview** — First full crawl only: 
 
 // ---------------------------------------------------------------------------
 // Highlights prompt — extracts structured highlights from finished reports
-// for use in Telegram notifications.
+// for use in Slack notifications.
 // ---------------------------------------------------------------------------
 
 export interface ReportHighlights {

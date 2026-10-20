@@ -1,20 +1,20 @@
 /**
  * One-off script: regenerate highlights.json from existing reports
- * and optionally resend Telegram notification.
+ * and optionally resend the Slack notification.
  *
  * Usage:
  *   npx tsx scripts/regen-highlights.ts [--notify]
  *
  * Env vars:
- *   ANTHROPIC_API_KEY (or LLM_PROVIDER + matching key)
- *   TELEGRAM_BOT_TOKEN + TELEGRAM_CHAT_ID (only if --notify)
+ *   OPENROUTER_API_KEY
+ *   SLACK_BOT_TOKEN + SLACK_CHANNEL_ID (only if --notify)
  */
 
 import fs from "node:fs";
 import path from "node:path";
 import { callLlm, parseLlmJson } from "../src/report.ts";
 import { buildHighlightsPrompt, type ReportHighlights } from "../src/prompts-data.ts";
-import { buildMessage } from "../src/notify.ts";
+import { buildMessage, sendSlack } from "../src/notify.ts";
 
 const DATE = process.argv[2] && !process.argv[2].startsWith("-") ? process.argv[2] : null;
 const NOTIFY = process.argv.includes("--notify");
@@ -74,34 +74,13 @@ async function main() {
   console.log(`  Keys: ${Object.keys(highlights).join(", ")}`);
 
   if (NOTIFY) {
-    const BOT_TOKEN = process.env["TELEGRAM_BOT_TOKEN"] ?? "";
-    const CHAT_ID = process.env["TELEGRAM_CHAT_ID"] ?? "";
-
-    if (!BOT_TOKEN || !CHAT_ID) {
-      console.error("  TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID not set, cannot send notification.");
+    if (!process.env["SLACK_BOT_TOKEN"] || !process.env["SLACK_CHANNEL_ID"]) {
+      console.error("  SLACK_BOT_TOKEN or SLACK_CHANNEL_ID not set, cannot send notification.");
       process.exit(1);
     }
-
-    const text = buildMessage(dateStr, Object.keys(reports), undefined, highlights);
-
-    console.log(`  Sending Telegram notification...`);
-    const res = await fetch(`https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        chat_id: CHAT_ID,
-        text,
-        parse_mode: "HTML",
-        disable_web_page_preview: true,
-      }),
-    });
-
-    if (!res.ok) {
-      const body = await res.text();
-      console.error(`  Telegram API ${res.status}: ${body}`);
-      process.exit(1);
-    }
-    console.log("  Telegram notification sent!");
+    console.log("  Sending Slack notification...");
+    await sendSlack(buildMessage(dateStr, Object.keys(reports), undefined, highlights));
+    console.log("  Slack notification sent!");
   }
 
   console.log("Done!");

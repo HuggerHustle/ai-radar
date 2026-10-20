@@ -1,66 +1,66 @@
 {
   "ai-cli": [
-    "Claude Code v2.1.304 released with stability fixes",
-    "OpenAI Codex rolls out 3 alpha releases today",
-    "Gemini CLI hits nightly v0.66.0.20261019",
-    "GitHub Copilot CLI sees no new PRs",
-    "Qwen Code gains traction in agent workflows",
-    "Pi tool expands terminal AI integration"
+    "Windows desktop stability dominates Codex and Claude Code bugs",
+    "MCP OAuth and sandbox regressions hit Copilot CLI",
+    "Seven major AI CLI tools shipping nightly or alpha builds",
+    "Subagent trust emerges as new frontier in Gemini CLI, Pi",
+    "Cost and quota runaway a recurring community concern",
+    "CI/runner capacity now a first-class concern for Qwen Code"
   ],
   "ai-agents": [
-    "OpenClaw v2026.10.10-beta.2 fixes workspace safety",
-    "30+ P0/P1 issues reported in OpenClaw",
-    "New beta release improves patch resilience",
-    "Hermes Agent gains momentum in research",
-    "IronClaw enhances plugin reliability",
-    "QwenPaw advances multi-agent coordination"
+    "OpenClaw ships v2026.10.10-beta.2 workspace-safety fix",
+    "OpenClaw sees 500 PRs and 132 issues in 24 hours",
+    "238 OpenClaw PRs merged against 262 still open",
+    "Long-lived P0/P1 OpenClaw defects linger with stale label",
+    "Multi-file apply_patch now rejected before any file change",
+    "OpenClaw release quality under pressure despite throughput"
   ],
   "ai-infra": [
-    "SGLang v0.5.22 released: major milestone",
-    "vLLM v0.32.0 under scrutiny, avoid prod",
-    "llama.cpp b11748+ fixes critical SYCL bug",
-    "Ollama stable: v0.40.5 no new release",
-    "LiteLLM strengthens multi-provider routing",
-    "Unsloth boosts fine-tuning efficiency"
+    "Serving engines shift to correctness hardening, no releases",
+    "MoE correctness bugs surface across vLLM, SGLang, llama.cpp",
+    "Qwen3.8-Flash-Next and GLM-5.3-Flash drive model support",
+    "AMD ROCm gfx950 MI355X now a first-class enablement target",
+    "Unsloth ships v0.1.909-beta release",
+    "LiteLLM gateway billing and rate-limiting correctness lags"
   ],
   "ai-trending": [
-    "ComfyUI surges +1011 stars today",
-    "Claude Code gains +167 stars",
-    "CLI-Anything enables universal agent use",
-    "Headroom tool optimizes RAG context",
-    "ai-job-search matures into production",
-    "Vibe-Trading emerges for finance AI"
+    "ai-job-search explodes with +3,856 stars in a single day",
+    "opencode gains +1,311 stars as multi-agent harnesses rise",
+    "orca adds +1,590 stars in bring-your-own-subscription wave",
+    "headroom compresses tool outputs for 20-95% token savings",
+    "CLI-Anything frames making all software agent-native",
+    "ComfyUI stays default creative-AI backend with +1,011 stars"
   ],
   "ai-web": [
-    "Anthropic's AI Expectations Gap paper published",
-    "METR gets employee-like model access",
-    "OpenAI launches 'Low Resource Languages' index",
-    "91% of Anthropic staff expect Nobel-level AI",
-    "Public vs expert AI expectations diverge",
-    "White House Accord on Superintelligence cited"
+    "Anthropic's AI Expectations Gap shows expert-public divide",
+    "91% of Anthropic staff expect Nobel-level AI by 2030",
+    "METR gets employee-like access under White House Accord",
+    "OpenAI teases Low Resource Programming Languages index page",
+    "Only 5% of US workers expect AI to do 80% of their job",
+    "Anthropic pivots toward transparency and third-party oversight"
   ],
   "ai-hn": [
-    "Timestral: Mistral's time-series models launch",
-    "DeepSeek-v4.1-Flash-1017 tops benchmarks",
-    "Hybrid Reasoning Agents combine LLMs & symbols",
-    "CERN–Mistral partnership announced",
-    "Anthropic IPO faces scrutiny",
-    "Time-aware reasoning gains traction"
+    "DeepSeek-v4.1-Flash tops HN with 955 points, 718 comments",
+    "DHS bans DeepSeek from federal civilian agencies",
+    "Managing AI-written code you don't understand hits 439 points",
+    "Mistral ships Timestral time-series foundation models",
+    "Inception Labs pushes Mercury 3 diffusion LLMs",
+    "Anthropic IPO trust structure sparks governance debate"
   ],
   "ai-ph": [
-    "Inbox Zero gains 358 votes on Product Hunt",
-    "MyLens enables AI live 1-on-1 presentations",
-    "shim-cli offers privacy-first agent monitoring",
-    "Open-source Superhuman alternative launched",
-    "AI productivity tools dominate trends",
-    "Lightweight, secure AI tools rise fast"
+    "Inbox Zero open-source Superhuman alternative tops 358 votes",
+    "MyLens scales AI-powered 1-on-1 live presentations",
+    "shim-cli offers privacy-first monitoring of AI coding agents",
+    "Tomo for ChatGPT launches on Product Hunt",
+    "Lightweight, modular, secure AI tools gain momentum",
+    "Open-source projects strong in today's Product Hunt lineup"
   ],
-  "ai-community": [
-    "Agent retry bugs are distributed systems issues",
-    "AWS agent detects 7,600 fake repos in 2026",
-    "Senior engineers slow down validating AI",
-    "Token bloat and session leakage exposed",
-    "Security risks in AI-generated code grow",
-    "Verification trap undermines senior devs"
+  "ai-arxiv": [
+    "Halcyon T2I model trained without language pretraining",
+    "Safety Mid-Training makes safety a foundational capability",
+    "WeAct questions shared-weight updates for long-horizon agents",
+    "Reusable latent compression targets context and memory costs",
+    "Graph-structured life-science benchmarks raise the bar",
+    "Visual-reference-conditioned web dev signals richer evaluation"
   ]
 }
