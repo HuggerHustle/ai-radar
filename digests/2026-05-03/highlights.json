@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code faces billing crisis amid enterprise adoption",
+    "OpenAI Codex leads PR velocity with 50 PRs in 24h",
+    "Gemini CLI invests heavily in agentic infrastructure",
+    "Qwen Code prioritizes background task orchestration",
+    "OpenCode bets on open-source extensibility",
+    "Kimi CLI grapples with opaque cost structures"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "v2026.5.2 introduces npm-first plugin ecosystem",
+    "Critical CPU regression hits v2026.4.29 release",
+    "452 open PRs show merge bottleneck crisis",
+    "Three new releases in rapid 2026.5.2 cycle",
+    "Plugin infrastructure reaches maturity milestone"
+  ],
+  "ai-trending": [
+    "ruvnet/ruflo surges +1,299 stars for Claude agents",
+    "TradingAgents gains +2,225 stars for financial AI",
+    "jcode rises +482 stars as Rust coding agent",
+    "Browserbase skills adds +346 on browser automation",
+    "Ollama hits 170,576 stars supporting Kimi-K2.5",
+    "MCP protocols dominate integration patterns"
+  ],
+  "ai-hn": [
+    "Richard Dawkins claims Claude chatbot is conscious",
+    "Anthropic rumored at $900B valuation round",
+    "LLMs can hide text in same-length steganography",
+    "Researchers coin 'trendslop' for bad LLM advice",
+    "South Africa withdraws AI-generated policy",
+    "Agent tooling dominates Show HN submissions"
+  ],
+  "ai-ph": [
+    "Buda launches multi-agent company orchestration",
+    "Marx Finance pits AI agents in market debates",
+    "Zed 1.0 releases highly anticipated launch",
+    "Montage builds runtime for agentic UIs",
+    "Shift from copilot to autonomous teammate",
+    "Multi-agent workflows replace single-model tools"
+  ],
+  "ai-hf": [
+    "gemma-4-31B-it hits 7.8M downloads in one week",
+    "DeepSeek-V4-Pro ranks with 381,587 downloads",
+    "Qwen variants occupy one-third of trending slots",
+    "NVIDIA launches any-to-any multimodal reasoning",
+    "MiMo-V2.5-Pro emerges from Xiaomi ecosystem",
+    "Laguna-XS.2 targets specialized coding agents"
+  ],
+  "ai-community": [
+    "AI agent quality depends on repo structure",
+    "Docker-based self-hosted agent replaces manual work",
+    "Hidden layer breaking production AI systems",
+    "NHS opposes open source AI policy stance",
+    "Post-hype phase sorts real engineering from demos",
+    "Energy sustainability emerges for AI workloads"
+  ]
+}

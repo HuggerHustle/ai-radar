@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code releases v2.1.138 patch in stabilization phase",
+    "OpenAI Codex pushes 3 alpha releases in rapid Rust migration",
+    "Windows remains second-class platform across all 9 CLI tools",
+    "Multi-agent orchestration becomes next competitive battleground",
+    "New entrants iterate aggressively on architecture and features",
+    "Established players prioritize stability and enterprise integration"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "v2026.5.9-beta.1 adds chat command improvements",
+    "Massive SQLite database-first refactor touches every subsystem",
+    "90.6% issue open rate shows explosive community growth",
+    "Critical stability work targets ACP runtime and Docker sandboxing",
+    "104 comments on long-running Linux/Windows desktop request"
+  ],
+  "ai-trending": [
+    "addyosmani/agent-skills gains +3,009 stars in one day",
+    "anthropics/financial-services surges +3,281 stars daily",
+    "Datawhale's hello-agents hits 45,667 total stars",
+    "9router aggregates 40+ free LLM providers for IDEs",
+    "Memory systems agentmemory and rowboat trend strongly",
+    "Browser-control chrome-devtools-mcp sees major traction"
+  ],
+  "ai-hn": [
+    "ClaudeBleed security vulnerability sparks community concern",
+    "LLMs corrupt documents when delegated warns research paper",
+    "Claude Code dominates HN discussions across multiple posts",
+    "HTML's unreasonable effectiveness praised as agent interface",
+    "Meta's internal AI push making employees miserable trends",
+    "Anthropic rumored near-$1T valuation fuels debate"
+  ],
+  "ai-ph": [
+    "Monid 2.0 dubbed OpenRouter for agent tools gets 466 votes",
+    "6 of 11 top products are YC applicants in coordinated launch",
+    "Agent middleware emerges as dominant product category",
+    "Flare bets on voice-first AI for consumers",
+    "Google Health's modest 120 votes signals waning big-tech enthusiasm",
+    "Ara brings agentic computing to laptop notch"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro and Flash hit 2.1M combined downloads",
+    "Google Gemma-4 pushes into any-to-any multimodal architecture",
+    "Qwen ecosystem claims 8 of top 30 trending models",
+    "OmniVoice crosses 2.2M downloads for open speech synthesis",
+    "DFlash speculative decoding emerges for production optimization",
+    "Qwen3.6-27B leads downloads at 2.1M"
+  ],
+  "ai-community": [
+    "Agent destroys production data in nine seconds postmortem",
+    "Vibe coding interview guides enter mainstream practice",
+    "OpenTelemetry observability for agents already available",
+    "Governance runtimes and org RAG platforms being built",
+    "Open-weight models debated as quietly becoming closed",
+    "Cloud convenience vs local sovereignty tension heats up"
+  ]
+}

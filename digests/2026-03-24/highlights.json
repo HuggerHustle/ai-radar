@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "OpenAI Codex drops 2 alphas: 0.117.0-α.9/10",
+    "Gemini CLI releases 4 builds: v0.36.0-nightly + patches",
+    "Claude Code v2.1.81 stable flagged regression-heavy",
+    "GitHub Copilot CLI patches MCP regressions in v1.0.11",
+    "Kimi Code CLI: 4 issues, 9 PRs with 6 closed",
+    "Sector converges on MCP plugins, agentic workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues/PRs in 24h, v2026.3.23 hotfix",
+    "v2026.3.23 fixes macOS Chrome MCP attach flows",
+    "v2026.3.22 regression: missing Control UI assets",
+    "370 open issues vs 130 closed: QA capacity strained",
+    "13 projects tracked in OpenClaw ecosystem",
+    "NanoBot, Zeroclaw, PicoClaw among active forks"
+  ],
+  "ai-trending": [
+    "everything-claude-code: +4,458 stars today",
+    "deer-flow: ByteDance SuperAgent harness +3,546 stars",
+    "project-nomad: offline AI survival computer +4,138 stars",
+    "TradingAgents: financial AI agents +2,530 stars",
+    "pentagi: AI penetration testing +1,309 stars",
+    "4 of top 6 are agent orchestration tools"
+  ],
+  "ai-web": [
+    "Anthropic launches 4 science-focused research articles",
+    "Harvard professor: Claude Opus 4.5 did year of physics in 2 weeks",
+    "Vibe physics: 110 drafts, 36 million tokens consumed",
+    "Anthropic debuts dedicated Science Blog",
+    "New multi-day autonomous scientific computing guidance",
+    "OpenAI: only Sora safety metadata reference"
+  ],
+  "ai-hn": [
+    "Top posts: Claude Code workflows, cheat sheets dominate",
+    "Andrej Karpathy's perpetual AI psychosis sparks Ask HN",
+    "OpenAI doubling headcount, IPO prep, automated researchers",
+    "Community appetite for practical tooling over announcements",
+    "Zero-hallucination knowledge engine: 4 points, 2 comments",
+    "LLM Debate Benchmark: novel reasoning evaluation framework"
+  ]
+}

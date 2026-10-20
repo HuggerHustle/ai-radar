@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.280 hotfix released",
+    "OpenAI Codex updates to rust-v0.156.0",
+    "Gemini CLI rolls out nightly build",
+    "GitHub Copilot CLI v1.0.89-0 live",
+    "OpenCode gains traction with extensibility",
+    "Pi launches with plugin-driven workflow"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues in 24h",
+    "Critical memory leaks in OpenClaw",
+    "No new OpenClaw release despite activity",
+    "Hermes Agent evolves for personalization",
+    "QwenPaw gains momentum in agent space",
+    "ZeroClaw focuses on lightweight agents"
+  ],
+  "ai-infra": [
+    "vLLM leads with 52 PRs merged",
+    "SGLang updates internal engine",
+    "llama.cpp releases b11115 patch",
+    "Ollama fixes critical bugs",
+    "LiteLLM v1.102.0 sec-focused",
+    "Unsloth beta v0.1.814 experimental"
+  ],
+  "ai-trending": [
+    "Google ax surges +2,305 stars",
+    "dream-num/univer unifies AI workspace",
+    "RAG + persistent memory trend rising",
+    "LangChain remains agent foundation",
+    "ECC optimizes Claude Code execution",
+    "Hermes Agent learns over time"
+  ],
+  "ai-web": [
+    "OpenAI launches GPT-6 Sol & Luna",
+    "GPT-6 Sol cracks Enigma cipher claim",
+    "Sol/Luna pages duplicated for indexing",
+    "Priorities Principles now third-party assessed",
+    "OpenAI rebrands ahead of launch",
+    "Anthropic silent on new content"
+  ],
+  "ai-hn": [
+    "GPT-6 Sol and Luna spark debate",
+    "Claude Opus 5.5 outperforms in benchmarks",
+    "Enigma message breakthrough questioned",
+    "Pentagon blames AI for school strike",
+    "Meta Muse AI reads private messages",
+    "AI mental health concerns rise"
+  ],
+  "ai-ph": [
+    "Superset Mobile turns phones into dev hubs",
+    "Jev enables real-time AI decisions",
+    "Arcjet adds runtime security",
+    "Cronhq guarantees cron jobs",
+    "slop-grader enforces rule-based text checks",
+    "Jevtown validates content pre-publish"
+  ],
+  "ai-arxiv": [
+    "LoRA hypernetworks enable on-device personalization",
+    "onPanda improves alignment data annotation",
+    "DolphinBench evaluates agent memory",
+    "OSWorld-Pro tests process fidelity",
+    "SPECTRA boosts speculative decoding",
+    "Recursive self-improvement advances"
+  ],
+  "ai-community": [
+    "Agent test runs cut from 2,490 to 206",
+    "Default to 'secret' prevents API leaks",
+    "Docker isolates Hermes Agent safely",
+    "AI hiring bias sparks backlash",
+    "Hybrid models split speed vs control",
+    "ChatGPT accesses cross-site tracking"
+  ]
+}

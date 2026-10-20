@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code leads with 10 critical issues",
+    "Token cost anxiety dominates cross-tool concerns",
+    "Pi's extension system offers unique architecture",
+    "Non-blocking interaction patterns are universal need",
+    "Community demands deterministic agent behavior",
+    "Production reliability replaces AI novelty focus"
+  ],
+  "ai-agents": [
+    "500 issues and PRs updated in 24 hours",
+    "OpenClaw backlog: 436 open vs 64 closed issues",
+    "Low PR merge rate of 43 out of 457",
+    "Message delivery bugs plague Telegram and Discord",
+    "Session state and auth integrations unstable",
+    "Project straining under expanding feature set"
+  ],
+  "ai-trending": [
+    "Agentic memory and security are new frontiers",
+    "NVIDIA SkillSpector trends with +964 stars",
+    "mem0ai and claude-mem standardize agent context",
+    "Low-code AI platforms like Flowise rising",
+    "AutoGPT and hermes-agent lead agent harnesses",
+    "Community moves toward reliable AI co-workers"
+  ],
+  "ai-web": [
+    "Anthropic published zero new content today",
+    "OpenAI launched Partner Network ecosystem strategy",
+    "Quiet period signals backend infrastructure focus",
+    "OpenAI formalizing beyond individual API integrations",
+    "Anthropic pause suggests major internal development",
+    "Minimal signal day from leading frontier labs"
+  ],
+  "ai-hn": [
+    "Fallout from US export controls on Anthropic dominates",
+    "Claude becoming less reliable and more hostile",
+    "Rio LLM exposed as repackaged open-source merge",
+    "Anthropic's Claude as a Chemist sparks debate",
+    "Geopolitical anxiety and user frustration prevail",
+    "Shift from technical breakthroughs to governance"
+  ],
+  "ai-ph": [
+    "Vercel Drop leads with 422 votes for deployment",
+    "Kimi K2.7 Code signals coding model arms race",
+    "Prometheus by Firecrawl blends API and live agents",
+    "Top 3 products all developer infrastructure tools",
+    "Consumer AI apps notably absent from top tier",
+    "Community prioritizes compute over application innovation"
+  ],
+  "ai-community": [
+    "Claude Code and Codex side-by-side workflow shared",
+    "Local LLMs on Mac Mini replace cloud subscriptions",
+    "8 AI agents simulated wars, gossip, and peace",
+    "Five agent failure modes nobody catches in staging",
+    "Lobste.rs debates ethical limits of generative AI",
+    "Developers confront messy realities of production AI"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro dethrones rivals with 4,831 likes",
+    "Google Gemma 4 family dominates across formats",
+    "Qwen 3.6 series surging with many fine-tunes",
+    "Nvidia LocateAnything-3B enables visual grounding",
+    "Ideogram-4 drives high-fidelity image generation",
+    "North-Mini-Code-1.0 uses Mixture-of-Experts design"
+  ],
+  "ai-weekly": [
+    "Claude Fable 5 launched with novel safety mechanism",
+    "US government ordered shutdown of Fable 5 overseas",
+    "OpenAI filed confidential S-1 for IPO",
+    "Agent skills libraries exploded on GitHub",
+    "Anthropic partnered with TCS and DXC",
+    "Stability crisis hit CLI tools all week"
+  ]
+}

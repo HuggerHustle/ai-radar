@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code digest generation failed",
+    "OpenAI Codex ships daily updates",
+    "Gemini CLI managing complex rollouts",
+    "Communities demand reliable state mgmt",
+    "Session corruption is a key pain point",
+    "Security hardening is a central theme"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.2-beta.3 released",
+    "Remote coding sessions introduced",
+    "High-severity P0 bug cluster detected",
+    "401 issues updated in 24 hours",
+    "500 PRs updated in last day",
+    "State migration regression challenges"
+  ],
+  "ai-trending": [
+    "Code intelligence graphs dominate",
+    "kimi-cli enters CLI agent space",
+    "AirLLM runs 70B on 4GB GPU",
+    "Hermes Agent hits 216,859 stars",
+    "Agent-first infrastructure is key",
+    "Local-first dev tools gain momentum"
+  ],
+  "ai-hn": [
+    "GPT-5.6 solves 30-year math problem",
+    "Inkling open-weights model at 1213 pts",
+    "AI logo humor goes viral at 414 pts",
+    "Debate on AI's role in reasoning",
+    "Kaiser nurses AI surveillance sparks",
+    "Open-source vs proprietary lock-in divide"
+  ],
+  "ai-ph": [
+    "Unabyss for Claude gets 589 votes",
+    "Kimi K3 open-source hits 437 votes",
+    "Pebbles Ai targets B2B sales teams",
+    "Cross-app memory for Claude launched",
+    "Browser automation tools are trending",
+    "Market fragmenting into specialized use"
+  ],
+  "ai-hf": [
+    "GLM-5.2 leads with 4,126 likes",
+    "Gemma-4-31B-it hits 12M downloads",
+    "1-bit GGUF quantization dominates",
+    "Unlimited-OCR drives vision trends",
+    "Mobile inference on high-param models",
+    "Ultra-low-bit quantization is key"
+  ],
+  "ai-community": [
+    "Open models run 63% of token traffic",
+    "Kimi K3 claims 120B mobile inference",
+    "Debate on agent memory architecture",
+    "Mozilla data shows open model tipping",
+    "Historical AI discussions resurface",
+    "Agent reliability is top focus"
+  ]
+}

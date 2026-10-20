@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.181 released",
+    "Copilot CLI gets /diagnose command",
+    "Qwen Code integrates with Gemini",
+    "DeepSeek TUI adds session resilience",
+    "Pi supports multi-agent orchestration",
+    "Mature tools battle scalability bugs"
+  ],
+  "ai-agents": [
+    "OpenClaw 500 issues, 500 PRs",
+    "Subagent model resolution bug fixed",
+    "High activity but low closure rate",
+    "Focus on multi-agent orchestration",
+    "No new releases today",
+    "Critical reliability and security fixes"
+  ],
+  "ai-trending": [
+    "mattpocock/skills hits +1,523 stars",
+    "google-research/timesfm gains +606 stars",
+    "vllm-project/vllm: 83,195 stars",
+    "Agentic video tooling on the rise",
+    "Codebase-memory-mcp solves agent bottlenecks",
+    "Multi-platform internet access for agents"
+  ],
+  "ai-web": [
+    "Anthropic opens Seoul office",
+    "Project Glasswing and Mythos preview",
+    "Frontier Red Team retrospective published",
+    "Classifier co-developed with DOE/NNSA",
+    "NAVER deploys Claude at scale",
+    "OpenAI data metadata-only"
+  ],
+  "ai-hn": [
+    "OpenAI financial leak sparks debate",
+    "Anthropic model offline due to politics",
+    "AI chemist improves medicinal reaction",
+    "Adam YC W25: open-source AI CAD",
+    "Careful interest in drug discovery AI",
+    "Dot-com bubble parallels drawn"
+  ],
+  "ai-ph": [
+    "Goldfish wins top product of day",
+    "Invoko: floating hand AI for Mac",
+    "Mac-native AI assistant dominates",
+    "Local-first low-latency trend clear",
+    "Slack-based bots in top 10",
+    "Coordinated Vercel Day ecosystem push"
+  ],
+  "ai-arxiv": [
+    "Variable-width transformers challenge norms",
+    "Fixed-point reasoners with looped transformers",
+    "On-policy self-distillation for dLLMs",
+    "Autonomous policy improvement in robotics",
+    "Animal welfare benchmarks for AI",
+    "Doctrinal legal reasoning evaluation"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro: 2.8M downloads",
+    "Kimi-K2.7-Code multimodal code model",
+    "Gemma 4 sparks community fine-tunes",
+    "NVIDIA's LocateAnything-3B popular",
+    "North-Mini-Code-1.0 compact MoE",
+    "Qwen3.6-35B-A3B millions of downloads"
+  ],
+  "ai-community": [
+    "Premortems with Claude and Codex",
+    "Context window degradation measured",
+    "Modular instruction architecture proposed",
+    "Siri privacy shortcomings debated",
+    "gzip as language model explored",
+    "Production AI reliability lessons shared"
+  ]
+}

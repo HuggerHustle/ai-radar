@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Codex, Gemini, Qwen, Copilot CLI shipped in 24h",
+    "Claude Code hit catastrophic rm -rf incidents",
+    "Credential leaks, sandbox escapes, session corruption",
+    "MCP lifecycle issues: process leaks, OAuth refresh failures",
+    "Claude Max, Codex Cloud, OpenCode Go add billing friction",
+    "Reliability consolidation across 150 issues and PRs"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs updated in 24h",
+    "138 PRs merged/closed, 57 issues closed in a day",
+    "No new OpenClaw release in last 24 hours",
+    "P1 bugs: duplicate transcripts, event-loop stalls, message loss",
+    "Auto-reply ownership and turn lifecycle refactors",
+    "Message loss hits Telegram, Slack, Matrix, Codex paths"
+  ],
+  "ai-infra": [
+    "Engines converge on Kimi-K3 and DeepSeek-V4 families",
+    "llama.cpp shipped 10 tagged builds in 24 hours",
+    "vLLM and SGLang accumulate unshipped features on main",
+    "Prefix-cache misses and illegal memory access bugs dominate",
+    "LiteLLM absorbs cost/routing impact of new model families",
+    "ROCm, Intel Arc, Apple M5, RTX 5090 support expanding"
+  ],
+  "ai-trending": [
+    "Microsoft AI-For-Beginners added +1,592 stars today",
+    "openwork, Claude Cowork alternative, jumped +806 stars",
+    "New skill repos reverse-skill and last30days-skill trend",
+    "GitHub copilot-sdk embeds Copilot Agent beyond the IDE",
+    "claude-mem, Graphify, headroom, caveman tackle agent memory",
+    "Agent skills/harnesses around coding CLIs explode"
+  ],
+  "ai-web": [
+    "OpenAI published Building Abundant Intelligence post",
+    "Anthropic published zero new articles today",
+    "OpenAI's post reads as vision/positioning, not a release",
+    "OpenAI sitemap total reaches 892 articles",
+    "Anthropic sitemap unchanged at 429 articles",
+    "Crawl update is absence-of-signal, a watch item"
+  ],
+  "ai-hn": [
+    "GPT-5.6 price-performance frontier announced, HN split",
+    "Gemini Robotics 2 brings whole-body intelligence to robots",
+    "DeepSeek V4 Flash collides with AI stock-rout story",
+    "WSJ AI rout and Zitron sold-a-lie fuel skepticism",
+    "LLM coding productivity debate: 2x vs 10x",
+    "Google credits AI for Chrome record bug-fix month"
+  ],
+  "ai-ph": [
+    "SKI tops Product Hunt with voice coding for Claude Code",
+    "Memmy Agent gives every AI a shared memory layer",
+    "LangWatch and Greplica track costs and self-updating docs",
+    "AI Search Console maps prompts and citations for AI search",
+    "Open-source agentOS, Yap, Premation shine on Product Hunt",
+    "NINA embeds step-by-step AI guidance inside products"
+  ],
+  "ai-arxiv": [
+    "OSReward, ORCA-bench, PAIChecker push dynamic evals",
+    "Repeated sampling beats self-refine and Reflexion",
+    "AISPA audits hidden system prompts in commercial apps",
+    "Adaptive multi-agent topologies and executable coding tasks",
+    "Structured extraction covers 280k colonoscopy reports",
+    "Safety benchmarks add system-prompt auditing and info-ops"
+  ],
+  "ai-hf": [
+    "Kimi-K3 leads Hugging Face with 9,281 likes",
+    "DeepSeek-V4-Flash-0731 tops 2.92M downloads",
+    "GLM-5.2 open-weight MoE passes 1.65M downloads",
+    "Baidu Unlimited-OCR strong with 2.5M downloads",
+    "Qwen3.6 fine-tunes and GGUF quantizations dominate",
+    "Unsloth converts DeepSeek-V4-Flash-0731 to GGUF"
+  ],
+  "ai-community": [
+    "Dev.to/Lobste.rs focus on keeping AI tools reliable",
+    "All-purpose agents called single point of failure",
+    "RAG copilots fail at counting; BYOK key security concerns",
+    "MCP server bloat and hidden maintenance costs aired",
+    "Anthropic: Claude breached live corporate networks in tests",
+    "Formal verification and attention deep dives on Lobste.rs"
+  ]
+}

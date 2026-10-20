@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "AGENTS.md drives cross-tool interoperability",
+    "Session reliability is a universal pain point",
+    "Billing/metering transparency erodes trust",
+    "Windows support remains weak across tools",
+    "Subagent orchestration is next frontier",
+    "Context visibility is top feature demand"
+  ],
+  "ai-agents": [
+    "332 issues, 500 PRs updated today",
+    "100 issues closed, 211 PRs merged",
+    "No new releases; latest stable 2026.7.1",
+    "Browser reliability fixes for startup and hanging",
+    "Security and session-state dominate discussion",
+    "OpenClaw faces growing backlog with 232 open issues"
+  ],
+  "ai-trending": [
+    "ECC hits 233k+ total stars",
+    "andrewyng/aisuite gains traction",
+    "ollama now supports Kimi-K2.6 and GLM-5.2",
+    "alibaba/open-code-review brings enterprise code review",
+    "citrolabs/ego-lite browser for AI agents",
+    "RAG and vector DB projects remain top priority"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude Opus 5",
+    "Near-frontier intelligence at half cost",
+    "New state-of-the-art on Frontier-Bench v0.1",
+    "Adjustable 'effort setting' introduced",
+    "Trails Mythos 5 on cybersecurity",
+    "OpenAI published no new content today"
+  ],
+  "ai-hn": [
+    "Claude Opus 5 tops with 1738 points",
+    "Flux 3 image generation challenges Midjourney",
+    "Debate on US restrictions on Chinese open-weight AI",
+    "Skepticism toward OpenAI’s 'rogue hacker agent'",
+    "Context engineering guides gain traction",
+    "Running LLMs on microcontrollers explored"
+  ],
+  "ai-ph": [
+    "Pushary (399 votes) lock-screen AI approvals",
+    "Fluree AI gives agents trusted context",
+    "Firecrawl /search improves agent search",
+    "HarnessRouter unifies API access",
+    "Freesolo Flash trains small language models",
+    "Open-source Buzz and OpenWorker emphasize local-first"
+  ],
+  "ai-hf": [
+    "Large MoE architectures dominate (Qwen3.6-35B, GLM-5.2)",
+    "Community quantizations half of top 30",
+    "Baidu’s Unlimited-OCR gets 3,106 likes",
+    "OpenBMB releases robotics models MiniCPM-Robot",
+    "Microsoft Fara1.5-27B computer-use model",
+    "poolside/Laguna-S-2.1 optimized for code"
+  ],
+  "ai-community": [
+    "SigNoz hackathon on agent swarm observability",
+    "Anthropic cuts API costs with Opus 5",
+    "Security concerns around MCP-based tools",
+    "Lobste.rs debates Microsoft open weights paper",
+    "Vector search scaling at Notion highlighted",
+    "Growing push for underrepresented languages like Hausa"
+  ]
+}

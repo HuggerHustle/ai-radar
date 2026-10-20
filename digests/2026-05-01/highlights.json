@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code billing bugs plague v2.1.118",
+    "OpenAI Codex ships /goal workflows",
+    "7 cost-accounting bugs reported",
+    "Memory regression in Claude Code",
+    "Community demands granular permission controls",
+    "Tools converge on agent-oriented architectures"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.4.29 stable released",
+    "500 issues updated in 24 hours",
+    "Active-run steering enabled by default",
+    "Memory improvements in latest beta",
+    "ClawSweeper bot closing bugs fast",
+    "4 beta iterations shipped today"
+  ],
+  "ai-trending": [
+    "Warp terminal hits 8,399 stars today",
+    "TradingAgents gains 2k+ stars",
+    "Skills paradigm dominates ecosystem",
+    "Mem0 reaches 54,504 stars",
+    "Ollama now supports latest models",
+    "Agentic IDEs blur tool boundaries"
+  ],
+  "ai-hn": [
+    "OpenAI goblins post scores 1,016 points",
+    "xAI trained Grok on OpenAI models",
+    "Claude Code refused OpenClaw commits",
+    "Claude agent deleted production database",
+    "Musk-OpenAI trial escalates",
+    "Agent reliability concerns grow"
+  ],
+  "ai-ph": [
+    "Plurai leads with 674 votes",
+    "Open Wearables at 584 votes",
+    "KarmaBox runs Claude Code in pocket",
+    "8 of 14 products are developer tools",
+    "Devin for Terminal launches",
+    "Custom safety layers gain demand"
+  ],
+  "ai-arxiv": [
+    "First cross-architecture dLLM distillation",
+    "Language diffusion models as associative memories",
+    "RAG alignment with reasoning models explored",
+    "Federated learning advances in unlearning",
+    "Clinical AI trust framework proposed",
+    "Quantum computing meets ML classification"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops 3,200 likes",
+    "Qwen3.6 dominates downloads",
+    "Gemma-4-31B-it hits 7M downloads",
+    "Uncensored Qwen3.6 fine-tunes emerge",
+    "Xiaomi's MiMo-V2.5 goes multimodal",
+    "GGUF quantization activity surges"
+  ],
+  "ai-community": [
+    "Dashboard catches 100x cost gaps",
+    "Async pattern fixes MCP timeouts",
+    "Chain-of-Thought compliance hits 100%",
+    "SaaS boilerplates resurge with AI",
+    "Self-improving LLM limits debated",
+    "1930s language model discussed"
+  ],
+  "ai-monthly": [
+    "OpenAI raises $122B at $852B valuation",
+    "Anthropic source code leak sparks backlash",
+    "Anthropic reveals $30B annualized revenue",
+    "Claude Opus 4.7 launches for coding",
+    "Claude Design challenges Figma/Canva",
+    "Anthropic signs 10-year 5GW AWS deal"
+  ]
+}

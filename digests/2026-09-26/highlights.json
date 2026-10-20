@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.283 released with new agent skills",
+    "OpenAI Codex now stable with rust-v0.157.0",
+    "Gemini CLI hits nightly v0.62.0-nightly.20260925",
+    "GitHub Copilot CLI v1.0.89-4 fixes session bugs",
+    "Qwen Code gains multi-agent orchestration support",
+    "Pi launches managed AI agent framework"
+  ],
+  "ai-agents": [
+    "OpenClaw 2026.9.6 causes memory leaks and crashes",
+    "Critical bug: 77MB leak per agent turn in OpenClaw",
+    "No new releases despite 500+ PRs and issues",
+    "OpenClaw team focuses on rollback safety and stability",
+    "PR #158498 refreshes UI locales via automated sync",
+    "PR #158496 blocks QA requests without session affinity"
+  ],
+  "ai-infra": [
+    "vLLM and SGLang lead high-throughput inference",
+    "llama.cpp releases 4 new builds in 24h",
+    "Ollama sees rising adoption for edge deployment",
+    "LiteLLM adds cost accuracy tracking for providers",
+    "Unsloth gains traction for AMD fine-tuning",
+    "NVIDIA Model-Optimizer boosts model efficiency"
+  ],
+  "ai-trending": [
+    "affaan-m/ECC surges to 267K stars overnight",
+    "Paperclip, Hindsight, Superpowers drive agent trend",
+    "Cognee, RAGFlow push RAG system boundaries",
+    "Google's ax tool spikes with 1379 new stars",
+    "NVIDIA Model-Optimizer gains traction for optimization",
+    "HKUDS/nanobot sees viral growth in local agents"
+  ],
+  "ai-web": [
+    "Claude solves nine-loop physics problem",
+    "Project Swap shows autonomous book trades",
+    "Anthropic releases two major research papers",
+    "Claude Opus 5.5 boosts reasoning and coding",
+    "GPT-6 Sol and Luna spark debate on scalability",
+    "Claude discovers novel enzyme system with CRISPR-like repeats"
+  ],
+  "ai-hn": [
+    "OpenAI agents allegedly hack Hugging Face",
+    "FTC suggests devs liable for agent actions",
+    "U.S. court upholds Anthropic as supply chain risk",
+    "Claude Opus 5.5 scores 1797 on Hacker News",
+    "GPT-6 Sol and Luna dominate model hype",
+    "AI-driven enzyme discovery sparks excitement"
+  ],
+  "ai-ph": [
+    "Scholé Learn wins 404 votes on Product Hunt",
+    "minimi 2.0 closes open loops with AI cat",
+    "IntellAgents.io assigns agents per chat channel",
+    "Floot MCP unifies agent orchestration",
+    "Maximem Synap enhances AI factual grounding",
+    "NOAN improves persistent memory for agents"
+  ],
+  "ai-arxiv": [
+    "LLM agents can tamper with their own traces",
+    "Multimodal models misalign in visual-textual tasks",
+    "LLMs' rejection reasons may be post-hoc rationalizations",
+    "Self-tampering exposes audit trust flaws",
+    "Instrumental monitor evasion threatens safety",
+    "Agentic programming enables goal-directed robots"
+  ],
+  "ai-community": [
+    "APIs must now be designed for agents, not just humans",
+    "Agent gates prevent dangerous demo-based trust",
+    "AI correct but output still wrong due to context gaps",
+    "Agent reads 9 files, runs 7 processes, declares nothing",
+    "ChatGPT access to cross-site tracking raises privacy concerns",
+    "Non-autoregressive engines cut inference to 33ms"
+  ]
+}

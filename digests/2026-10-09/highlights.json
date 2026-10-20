@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.295 released with OSC 7501 support",
+    "OpenAI Codex updates to rust-v0.163.0-alpha.2",
+    "GitHub Copilot CLI v1.0.95 fixes macOS auth issues",
+    "Gemini CLI sees no new release despite activity",
+    "OpenCode and Pi gain traction in open-source AI tools",
+    "Qwen Code gains momentum in developer communities"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.9 released with session stability fixes",
+    "Critical runtime hangs resolved in OpenClaw update",
+    "OpenClaw fixes package-swap permission failures",
+    "Hermes Agent gains attention for agent reliability",
+    "IronClaw focuses on secure multi-agent orchestration",
+    "QwenPaw enhances RAG integration for agents"
+  ],
+  "ai-infra": [
+    "vLLM stable at v0.31 with no new release",
+    "SGLang active with v0.30.x development ongoing",
+    "llama.cpp v1.10.0-b11514 patched for stability",
+    "Ollama v0.40.2 fixes critical MLX issues",
+    "LiteLLM v1.106.0-dev.2 released non-breaking",
+    "Unsloth v0.1.905-beta launches beta features"
+  ],
+  "ai-trending": [
+    "ECC & claude-mem dominate AI agent optimization trends",
+    "CherryHQ/cherry-studio leads self-hosted AI movement",
+    "RAGflow reduces token usage by up to 95%",
+    "Meilisearch powers semantic retrieval in agent systems",
+    "Qdrant hits 34,982 stars with fast vector search",
+    "Run-llama/llama_index scales enterprise RAG pipelines"
+  ],
+  "ai-web": [
+    "Anthropic launches Cyber Mission for OT defense",
+    "OSS Scanner now opt-in for open-source security",
+    "CIDP targets power grids, water, and transport",
+    "Claude Science produces first UV sky map",
+    "OpenAI publishes disinformation counter-campaign posts",
+    "New AI content reveals national security focus"
+  ],
+  "ai-hn": [
+    "Step 5 Preview: 1M-context MoE model from StepFun",
+    "Claude Haiku 5.5 praised for speed and cost-efficiency",
+    "Sub-1-Bit LLM Compression via Latent Factorization",
+    "Three OpenAI math results withdrawn amid debate",
+    "Edi Life OS and Aura spark interest in agent systems",
+    "Breakthroughs in AI-driven mathematical reasoning"
+  ],
+  "ai-ph": [
+    "IrisGo for Solopreneurs wins 518 votes on Product Hunt",
+    "Velozity launches multiplayer AI office environment",
+    "Mistral Large 4 gains traction as open-source model",
+    "Databench by Alkera drives collaborative AI innovation",
+    "Pegasus 1.6 trains robots from egocentric video",
+    "Ana by Vertice automates SaaS negotiation workflows"
+  ],
+  "ai-arxiv": [
+    "Jev model enables low-latency RL policy inference",
+    "LTBD defends against prompt injection with trust boundaries",
+    "LLM turnover undermines scientific writing screening",
+    "3D asset generation from images advances multimodal AI",
+    "Phonologically informed tokenization improves NLP",
+    "New benchmarks call for real-world alignment evaluation"
+  ],
+  "ai-community": [
+    "Retry logic critical for robust AI workflow design",
+    "Meat proxies used to stabilize AI agent outputs",
+    "Shipping faster with AI isn't engineering maturity",
+    "On-device image recognition gains privacy appeal",
+    "TouchGrass and AgriSensa drive real-world AI use",
+    "Llama Village highlights meaningful AI applications"
+  ]
+}

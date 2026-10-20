@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code, Gemini CLI lead stability race",
+    "Kimi Code stalled in branding migration",
+    "OpenCode recovered from multi-day API outage",
+    "Agent trust and reliability top concern",
+    "Subagent outcome accuracy issues reported",
+    "Memory leaks plague background processes"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.1-beta.2 released",
+    "GPT-5.6 support added to OpenClaw",
+    "500 issues opened in 24 hours",
+    "500 PRs updated in a single day",
+    "New `openclaw attach` command introduced",
+    "Massive community engagement surge"
+  ],
+  "ai-trending": [
+    "caveman stars surge to +1,052",
+    "strix: AI pentesting tool hits +1,114 stars",
+    "meetily: local AI meeting assistant +1,409",
+    "Codex plugin bridges Claude Code and Codex",
+    "system_prompts_leaks gains +981 stars",
+    "Cross-platform agent interoperability emerges"
+  ],
+  "ai-hn": [
+    "Claude Fable rewrites library for under $150",
+    "Canada's Palantir deal draws sharp criticism",
+    "Microsoft Copilot price hike called a corporate tax",
+    "sqlite-utils 4.0rc2 mostly AI-written",
+    "Bigco AI agents warned for sensitive IP",
+    "Tripadvisor AI flagged for dangerous recommendations"
+  ],
+  "ai-ph": [
+    "Vida lets you clone yourself with AI",
+    "Termi Protocol visualizes AI agents in 3D",
+    "ChecklistFox automates task management",
+    "CentryAI powers personal task management",
+    "Autonomous agents dominate today's launches",
+    "AI clone concept drives massive engagement"
+  ],
+  "ai-hf": [
+    "GLM-5.2 leads with 3,470 likes",
+    "Nvidia's LocateAnything-3B at 2,618 likes",
+    "DeepSeek-V4-Pro-DSpark features DSpark optimization",
+    "NVFP4 quantization production-ready for MoE",
+    "Uncensored Qwen3.6 fine-tune trending",
+    "GGUF models dominate with 1.5M downloads"
+  ],
+  "ai-community": [
+    "AI agents failing silently in production",
+    "LLM API costs surprise developers",
+    "LangChain migrations to native architectures",
+    "Code quality degrades under AI shipping pressure",
+    "Novel matrix technique improves recurrent memory",
+    "AI-generated fiction analyzed for idiosyncrasies"
+  ]
+}

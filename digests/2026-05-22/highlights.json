@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Memory management crisis across all tools",
+    "Claude Code v2.1.146-147 rapid-fire releases",
+    "Codex CLI and Gemini CLI active this week",
+    "OAuth hardening and compliance on rise",
+    "Terminal compatibility remains friction point",
+    "Power users filing instrumented bug reports"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "95% open rate signals review bottleneck",
+    "Breaking change: skill wrapper migration needed",
+    "Discord voice session following added",
+    "Exec approvals hardening released",
+    "v2026.5.20 stable ships with changes"
+  ],
+  "ai-trending": [
+    "Codegraph gains 4,294 stars today",
+    "Agent-native tooling paradigm shift",
+    "Multi-agent platforms like multica surge",
+    "Oh-My-Pi challenges GUI agents",
+    "CLI-Anything makes software agent-native",
+    "Skill-based orchestration explodes"
+  ],
+  "ai-hn": [
+    "OpenAI confidential IPO filing discussed",
+    "Anthropic paying SpaceX $15B annually",
+    "Multi-Stream LLMs paper sparks debate",
+    "AI engineer burnout concerns rise",
+    "Claude audits Symfony, finds 19 vulns",
+    "Backlash against AI-generated answers"
+  ],
+  "ai-ph": [
+    "StoreClaw leads with 633 votes",
+    "Runtime sandboxes coding agents",
+    "mailX tackles email deliverability",
+    "Emdash unifies multiple coding agents",
+    "Contextberg provides agent memory",
+    "Agents move beyond simple chatbots"
+  ],
+  "ai-arxiv": [
+    "Minimal RLVR training via rank-1 paths",
+    "DelTA: token-level credit for RLVR",
+    "Reward hacking in long-horizon tasks",
+    "Power-aware serving for MoE models",
+    "Generative ghost ethics studied",
+    "Hyperparameter transfer quantified"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro gets 4M downloads",
+    "Qwen MoE 35B-A3B dominates vision",
+    "Sulphur-2-base text-to-video trending",
+    "GGUF quants for Qwen3.6 surge",
+    "Cohere and Microsoft expand on-device",
+    "New entrants from Tencent emerge"
+  ],
+  "ai-community": [
+    "Google I/O 2026 agent architectures buzz",
+    "AI coding agents write 2019-like code",
+    "Dev.to: AI fatigue and burnout discussed",
+    "Lobste.rs skeptical of AI hype",
+    "Deterministic non-LLM solutions praised",
+    "93 agents consume 2.6 billion tokens"
+  ]
+}

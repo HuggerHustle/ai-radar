@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code billing crisis erupts",
+    "OpenAI Codex faces Windows CP issues",
+    "Pi and Qwen Code lead PR throughput",
+    "MCP integration becomes battleground",
+    "Seven major tools show active development",
+    "Platform compatibility pains remain"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 326 issues, 500 PRs",
+    "Critical P0/P1 regressions in 2026.7.x",
+    "Session state corruption plagues releases",
+    "186 PRs merged in intense maintenance",
+    "Cross-channel session degradation persists",
+    "Hotfix release likely imminent"
+  ],
+  "ai-trending": [
+    "Ollama leads LLM runtime trend",
+    "VLLM drives inference engine adoption",
+    "Firecrawl tops AI web scraping",
+    "LangChain framework stays dominant",
+    "Milvus, Qdrant, Weaviate vector DBs",
+    "Ultralytics leads CV frameworks"
+  ],
+  "ai-web": [
+    "Claude for Creative Work launches",
+    "Connectors for Ableton, Adobe released",
+    "Claude Opus 4.7 features safety guardrails",
+    "Anthropic pushes vertical enterprise integration",
+    "OpenAI hints at Health in ChatGPT",
+    "Productization marks strategic shift"
+  ],
+  "ai-hn": [
+    "OpenAI-Hugging Face security incident erupts",
+    "Terence Tao uses ChatGPT for math proof",
+    "GigaToken claims 1000x speedup",
+    "F16s fly with AI control from DARPA",
+    "Stripe buys OpenRouter for ~$10B",
+    "Oracle fires 21k in AI bet gone wrong"
+  ],
+  "ai-ph": [
+    "Humalike x Hermes tops with 509 votes",
+    "Kastra adds runtime authorization 389 votes",
+    "Gemini 3.6 Flash Family launches",
+    "AgentManager keeps Claude sessions alive",
+    "Agent infrastructure dominates today",
+    "Claude/Codex ecosystem tools surge"
+  ],
+  "ai-arxiv": [
+    "Agentic memory solutions surge in papers",
+    "Prolog-MCP merges logic with LLMs",
+    "Multi-agent safety blind spot revealed",
+    "Chain-of-thought bimodal pattern found",
+    "GPT-5.6 tested on dangerous objectives",
+    "Multilingual LLMs fail everyday trivia"
+  ],
+  "ai-hf": [
+    "Bonsai 1-bit quantization explodes downloads",
+    "Gemma-4-31B-it tops 12.6M downloads",
+    "Qwen3.6 dominates fine-tuning ecosystem",
+    "NVIDIA streaming ASR model trending",
+    "Qwen TTS with voice cloning surges",
+    "Laguna-S-2.1 code model spawns variants"
+  ],
+  "ai-community": [
+    "AI agent mysticism debunked in top post",
+    "RAG costs underestimated by 3-5x",
+    "Production RAG failures tied to architecture",
+    "Devs move from 'can AI' to 'how to contain'",
+    "OCaml GC for Rust competes with AI hype",
+    "Eval sets that test nothing criticized"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.235; Codex rust-v0.14",
+    "Mature CLI tools focus on enterprise reliability and compliance",
+    "Cost and billing transparency dominate CLI community discussions",
+    "Windows/desktop reliability gaps reported in six of nine tools",
+    "MCP process lifecycle bugs are industry's weak point",
+    "Challengers race on multi-agent coordination and session continuity"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs, no new releases",
+    "P1 regressions and session-state data-loss bugs dominate",
+    "New Matrix initial-sync loop regression #125679",
+    "Gateway event-loop block in beta.2 (#124788)",
+    "167 PRs merged/closed in last 24 hours",
+    "Critical issues stalled awaiting maintainer review"
+  ],
+  "ai-infra": [
+    "Kimi K3, DeepSeek V4, GLM-5.2 drive kernel optimization",
+    "No major infra releases; llama.cpp ships nightlies",
+    "Ollama ROCm KV-state bleed and llama.cpp response leak",
+    "Speculative decoding stack fragile: MTP crashes and deadlocks",
+    "vLLM fixes Kimi K3 CUDA-graph corruption at batch=1",
+    "SGLang faces sm_103/B300 kernel crashes and DSV4 hang"
+  ],
+  "ai-trending": [
+    "ai-memory surges +730 stars for persistent agent memory",
+    "Anthropic-Cybersecurity-Skills +726 stars",
+    "MoneyPrinterTurbo top gainer +2,306 stars",
+    "OpenViking +298 stars for cross-agent handoff",
+    "omlx brings LLM inference to Apple Silicon menu bar",
+    "ai-agent-book +556 stars for agent engineering education"
+  ],
+  "ai-web": [
+    "Claude designs protein binders at 22–35% vs 10–15% baseline",
+    "Opus 5 produces lab-grade NMR/LC-MS in ~20 minutes",
+    "OpenAI posts five URLs across four announcements",
+    "OpenAI announces Codeai partnership",
+    "OpenAI publishes cyber-capability governance statement",
+    "ChatGPT for Teens product item appears"
+  ],
+  "ai-hn": [
+    "GPT-5.6 Sol price cut 50% on OpenRouter",
+    "Fake think tank designed to influence chatbots draws debate",
+    "Daring Fireball attacks Claude watermarking",
+    "Google buys Spirit Airlines data; 381 comments",
+    "Snowflake/Jira compromise via AI-generated Copilot autofix",
+    "OpenAI training pause seen as safety or expectation management"
+  ],
+  "ai-ph": [
+    "Meridian tops Product Hunt with 435 votes",
+    "Omni by xpander brings agent oversight to Slack",
+    "Clears automates path from code to shipped software",
+    "Vendo lets end-users build features inside SaaS",
+    "Treg launches 2,600-API gateway",
+    "OpenTrade offers trading harness for Claude Code/Codex"
+  ],
+  "ai-arxiv": [
+    "Proteus: incremental memory activation for long context",
+    "Model Hypnosis shows strong control via subliminal cues",
+    "PIHF brings post-training RL to in-context learning",
+    "Le Critique uses privileged value functions for LLM RL",
+    "AlphaEvolve attacks matrix-multiplication exponent",
+    "AutoSR enables open-ended symbolic regression"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B leads trending with 11,111 likes",
+    "Qwen3.8-2.4T-A95B: 2.4T params, 95B active",
+    "DeepSeek-V4-Pro-0813 trending",
+    "MiniMax H3 video and Music3 audio gain adoption",
+    "Comfy-Org H3 packaging hits 14.6M downloads",
+    "Kimi-K3 earns 10.8k likes with compressed tensor architecture"
+  ],
+  "ai-community": [
+    "COSP trick lets LLM grade its own outputs",
+    "Nuxt + AI SDK 7 permission-first agent guide",
+    "Five governments issue guidance on securing AI agents",
+    "Rare-books shipment ends at Amazon AI training facility",
+    "Dev.to focuses on evals, bills, and guardrails",
+    "Cost realism posts: per-task billing and MCP overhead"
+  ]
+}

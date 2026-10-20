@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI market splits into enterprise platforms vs fast challengers",
+    "Reliability, not raw model power, now top concern",
+    "Security hardening rises across AI CLI tools",
+    "Windows/desktop stability remains weakest for major CLIs",
+    "MCP integration maturity is a key cross-tool concern",
+    "Cost observability and resource guardrails gain priority"
+  ],
+  "ai-agents": [
+    "OpenClaw ships v2026.8.1-beta.3",
+    "Beta adds GPT-5.6 Sol, Terra, Luna, Ultra reasoning",
+    "OpenClaw sees 500 issues and 500 PRs in 24h",
+    "Control UI now continues setup into Custodian and channels",
+    "Puppeteer-compatible CDP relay for paired Chrome sessions",
+    "Top concerns: message delivery, session-state loss, leaks"
+  ],
+  "ai-infra": [
+    "llama.cpp ships 7 releases: b10604–b10615",
+    "SGLang cuts model load time from 306s to under 1s",
+    "DeepSeek-V4-Flash 8x KV-cache regression hits production",
+    "Ollama Qwen3.8 tool-loop logs 500s errors",
+    "NVIDIA Rubin, AMD gfx950, Ascend NPU support advancing",
+    "No new vLLM, SGLang, Ollama releases in 24h"
+  ],
+  "ai-trending": [
+    "awesome-gpt-image-2 leads stars with +2,442",
+    "openai/codex adds +1,990 stars today",
+    "hermes-agent gains +899 stars",
+    "Claude Code ecosystem becomes plugin distribution platform",
+    "Memory tools: apache/maka logs every agent action",
+    "Cost control layer emerges: headroom, freellmapi"
+  ],
+  "ai-web": [
+    "Anthropic cuts Fable 5 biology fallback events by 85%",
+    "Claude watermarking explainer ties into EU AI Act",
+    "Claude shows strong protein binder design results",
+    "Anthropic pushes into analytical chemistry workflows",
+    "OpenAI crawl yields metadata-only entry, no text",
+    "Anthropic publishes four new items in one day"
+  ],
+  "ai-hn": [
+    "FT: Anthropic adoption struggles top HN with 759 points",
+    "OpenAI GPT-5.6 price cut scores 269 points",
+    "Paul Graham urges learning LLMs from scratch",
+    "Coding expertise collapse sparks big thread",
+    "Local LLM quality and agent.md files draw devs",
+    "Live Skyrim AI companion gains strong engagement"
+  ],
+  "ai-ph": [
+    "Construct Computer AI coworker tops Product Hunt with 336 votes",
+    "FetchSandbox MCP and OverMCP boost MCP ecosystem",
+    "Anthropic launches Claude Academy for official education",
+    "OPENBOT offers open-source Grokbot alternative",
+    "OpenLogi gains traction as open-source option",
+    "Vertical AI apps target sales, video, storytelling"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B official release tops likes at 12,508",
+    "Unsloth GGUF build leads downloads with 7M",
+    "MiniMax-H3 video model reaches 4.4M downloads",
+    "Lightricks LTX-2.5 ships single-file video diffusion",
+    "DeepSeek-V4-Flash-0731 logs 3.2M downloads",
+    "Abliterated and quantized Qwen variants fill trend list"
+  ],
+  "ai-community": [
+    "Dev.to: agents fail on memory, not reasoning",
+    "Evals pass but contracts can still be wrong",
+    "Over-engineering AI apps: start with thinnest LLM call",
+    "Community shifts from model scores to system audits",
+    "RAG hallucination and multi-agent war stories shared",
+    "Lobste.rs explores Bongard problems and AI chips"
+  ]
+}

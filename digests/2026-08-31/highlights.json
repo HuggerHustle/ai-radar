@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 hot issues today",
+    "OpenAI Codex releases alpha v0.152.0",
+    "Gemini CLI rolls out nightly v0.59.0",
+    "Copilot CLI sees 10 new issues",
+    "Qwen Code gains traction in CLI space",
+    "Pi tool active with 10 issue reports"
+  ],
+  "ai-agents": [
+    "OpenClaw beta v2026.8.1-beta.3 under validation",
+    "500 issues and PRs in OpenClaw ecosystem",
+    "Session state corruption bug reported",
+    "Memory leaks affecting agent stability",
+    "Hermes Agent gaining community momentum",
+    "IronClaw enhances multi-channel delivery"
+  ],
+  "ai-infra": [
+    "LiteLLM releases v1.100.0-rc.1",
+    "vLLM sees rising issue count (42)",
+    "SGLang adds speculative decoding support",
+    "Unsloth improves edge deployment",
+    "Ollama faces 52 open issues",
+    "llama.cpp grows with 48 open issues"
+  ],
+  "ai-trending": [
+    "K-Dense-AI gains 1,114 stars in 24h",
+    "THU-MAIC hits 1,370 new stars",
+    "freellmapi offers 34 free LLM providers",
+    "archify boosts visual AI tooling",
+    "vphone-cli targets voice interface dev",
+    "scientific-agent-skills now used by 190k+"
+  ],
+  "ai-hn": [
+    "Judge rules Anthropic blacklisting illegal",
+    "GLM-5.3-Flash sets speed records",
+    "Claude Code tricked by simple summaries",
+    "Autonomous math discovery sparks debate",
+    "CEO fired for AI—developers revolt",
+    "Censorship removal tool goes viral"
+  ],
+  "ai-ph": [
+    "1752vc Pitch Deck Analyzer launches",
+    "Tencent’s Hy4 preview draws attention",
+    "Cohere Parse 5 excels at data extraction",
+    "Staats turns analytics into chat",
+    "Democruit guides job seekers",
+    "God’s Eye View simulates satellite data"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Flash-0731 hits 4.5M downloads",
+    "Qwen3.8-Flash-Next gains 121k downloads",
+    "zai-org/GLM-5.3-Flash hits 346k downloads",
+    "unsloth/Qwen3.8-27B-GGUF passes 8.8M",
+    "MiniMax-H3 dominates video generation",
+    "Kimi-K3 leads multimodal efficiency"
+  ],
+  "ai-community": [
+    "AI agent nearly triggered rollback",
+    "Self-debating model more critical",
+    "CORS offloaded to GKE Gateway",
+    "MCP server security concerns rise",
+    "Jalapeño chip challenges NVIDIA",
+    "Minimalism praised over over-engineering"
+  ]
+}

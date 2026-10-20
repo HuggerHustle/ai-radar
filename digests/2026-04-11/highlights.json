@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.101 ships amid token cost crisis",
+    "OpenAI Codex v0.119.0 advances 4-PR agent identity stack",
+    "Gemini CLI hits v0.39.0-nightly with context management focus",
+    "8 tools now compete on MCP integration and sandboxed execution",
+    "Enterprise demand shifts to TLS proxy, SSO, audit trails",
+    "Cost transparency becomes dominant community tension"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues/PRs in 24h, stabilization phase",
+    "Zero new releases as project clears beta blockers",
+    "WhatsApp media delivery reliability tops priority list",
+    "GPT-5.4/Codex runtime parity in active development",
+    "Multi-agent trust verification emerging as key theme",
+    "406 open issues show exceptional community velocity"
+  ],
+  "ai-trending": [
+    "Archon (+756): first open-source AI coding harness builder",
+    "Microsoft markitdown (+2,352): enterprise RAG infrastructure play",
+    "rowboat (+507) and multica (+1,506): AI coworkers with memory",
+    "Kronos (+601): foundation model for financial markets language",
+    "DeepTutor (+1,424): personalized learning agents breakthrough",
+    "MCP ecosystems consolidating across Claude/Cursor/OpenCode workflows"
+  ],
+  "ai-web": [
+    "Anthropic ships two publications vs OpenAI zero",
+    "Managed Agents: decoupling interfaces from implementations",
+    "Claude for Financial Services: first vertical solution bundle",
+    "Anthropic productizing technical advantages aggressively",
+    "OpenAI silence suggests consolidation or pre-announcement phase",
+    "MCP connectors + expanded limits target enterprise"
+  ],
+  "ai-hn": [
+    "OpenAI backs Illinois liability shield bill tops discussion",
+    "Molotov cocktail attack on Sam Altman's home second story",
+    "Anthropic Mythos claims face intense HN skepticism",
+    "Community debunks thousands of zero-days as marketing hype",
+    "Claude Code alternatives and integrations launch actively",
+    "Cynicism toward AI lab marketing, regulatory capture concerns"
+  ],
+  "ai-ph": [
+    "Brila (1,190 votes): Google Maps reviews → instant websites",
+    "Offsite (561 votes): human-AI hybrid team orchestration",
+    "Grass: Claude Code from your phone with 24/7 VM",
+    "AgentMail: dedicated email inboxes for AI agents",
+    "Four of nine products focus on agent infrastructure",
+    "Shift from consumer apps to persistent agent environments"
+  ],
+  "ai-arxiv": [
+    "Meta-cognitive arbitration: when to use tools vs internal knowledge",
+    "RLVR extends beyond math to general reasoning, multimodal",
+    "Mechanistic interpretability matures into actionable steering",
+    "ClawBench, KnowU-Bench, PIArena: agent evaluation benchmarks",
+    "KV cache offloading, quantization for resource constraints",
+    "Photonic neural networks advance efficiency frontier"
+  ],
+  "ai-hf": [
+    "Google Gemma 4 family dominates: 26B-31B + any-to-any variants",
+    "Jackrong Qwen 3.5 Claude-4.6 Opus distillation: 567K downloads",
+    "Uncensored/abliterated tags signal unfiltered model demand",
+    "Netflix enters Hub with zero-download video inpainting",
+    "Tencent, Baidu expand Chinese multimodal offerings",
+    "Unsloth GGUF conversions essential infrastructure"
+  ],
+  "ai-community": [
+    "Rune, Blackdesk: engineers building personal AI runtimes",
+    "TDD with AI agents: velocity vs maintainability tension",
+    "Prompt injection, system prompt leaks raise security alarms",
+    "Shift from AI hype to AI hygiene: cost, observability, structure",
+    "Claude Code + local Ollama: 3-minute decentralization setup",
+    "Anthropic Project Glasswing: zero-day discovery as infrastructure"
+  ]
+}

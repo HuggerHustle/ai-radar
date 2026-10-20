@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.83 ships with regression fixes",
+    "OpenAI Codex fires 5 alphas in stabilization sprint",
+    "Gemini CLI v0.36.0-preview.3 pushes SDD architecture",
+    "Kimi Code CLI v1.26.0 debuts beta plugin system",
+    "All seven tools converge on MCP extensibility standard",
+    "Windows/WSL parity gaps dominate issue backlogs"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "v2026.3.24 adds OpenAI-compatible gateway endpoints",
+    "OAuth token handling breaks after v2026.3.22 upgrade",
+    "Linux GTK4 app expands cross-platform footprint",
+    "Model Router and episodic memory target enterprise",
+    "Same-day PR merges show maintainer responsiveness"
+  ],
+  "ai-trending": [
+    "deer-flow gains 3,787 stars as ByteDance SuperAgent",
+    "ruflo adds 1,174 stars for agent orchestration",
+    "supermemory builds persistent LLM memory layers",
+    "RuView pioneers WiFi-based sensing hardware",
+    "ollama adds Kimi-K2.5, GLM-5, gpt-oss support",
+    "litellm +301 stars as universal LLM gateway"
+  ],
+  "ai-web": [
+    "Anthropic drops 9 articles in biggest 2026 content push",
+    "Claude Code auto mode targets 93% approval fatigue",
+    "New Science Blog shows Claude doing physics in 2 weeks",
+    "Machine learning classifier automates safety decisions",
+    "OpenAI only posts 3 metadata-only entries today",
+    "Asymmetric info environment favors Anthropic narrative"
+  ],
+  "ai-hn": [
+    "90% of Claude output goes to repos under 2 stars",
+    "Claude ranks third-top contributor in OpenAI repo",
+    "Show HN projects give AI full virtual desktops",
+    "Tired of AI post signals community fatigue",
+    "Sanders/AOC data center moratorium bill emerges",
+    "Tamp cuts LLM context size 50% without code changes"
+  ]
+}

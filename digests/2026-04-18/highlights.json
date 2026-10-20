@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.113 leads native binary performance",
+    "OpenAI Codex rewrites runtime in Rust",
+    "Gemini CLI adds local Gemma model support",
+    "MCP now standard across all major tools",
+    "Billing transparency dominates community discourse",
+    "642-comment thread on Claude Code pricing"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24h",
+    "72% open PR rate signals backlog crisis",
+    "No releases despite regression reports",
+    "Focus shifts to agent identity and trust",
+    "Windows UI and auth systems under strain",
+    "Project enters stabilization phase post-feature rush"
+  ],
+  "ai-trending": [
+    "obra/superpowers gains +1,713 stars today",
+    "Self-evolving agent architectures dominate trends",
+    "Claude Code skills ecosystem explodes",
+    "Google magika hits +956 stars for file detection",
+    "EvoMap/evolver pioneers genome evolution for agents",
+    "GenericAgent introduces skill-tree growth systems"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude Opus 4.7 model",
+    "Claude Design challenges Figma and Adobe",
+    "Opus 4.7 tests differential capability reduction",
+    "OpenAI posts zero new content today",
+    "Anthropic seizes narrative momentum from OpenAI",
+    "Design tool transforms Claude to visual partner"
+  ],
+  "ai-hn": [
+    "Claude Design dominates with 799 points, 532 comments",
+    "Tokenizer cost analysis hits 520 points",
+    "Community reproduces Mythos findings independently",
+    "Anthropic negotiates Mythos access with US government",
+    "OpenAI's $20B Cerebras deal surfaces",
+    "Skeptical-engaged mood on lock-in risks"
+  ],
+  "ai-ph": [
+    "Claude Code Desktop App leads with 537 votes",
+    "Agent Card launches prepaid Visa for AI agents",
+    "9 of 15 products target developers",
+    "Google launches Chrome Skills and Gemini TTS",
+    "Sandboxed agent environments trending",
+    "Multi-agent coding workflows in demand"
+  ],
+  "ai-arxiv": [
+    "LLM judges vulnerable to stakes signaling bias",
+    "Test-time compute scaling via looped transformers",
+    "Agentic systems deploy in medical imaging",
+    "Population-level safety analysis emerges",
+    "Conformal prediction sets fix judge reliability",
+    "Speculative decoding advances multi-step reasoning"
+  ],
+  "ai-hf": [
+    "Gemma 4 family passes 8.5M downloads",
+    "Uncensored Gemma 4 fine-tunes trend strongly",
+    "Qwen 3.6 gains momentum as multimodal MoE",
+    "MiniMax M2.7 outperforms larger models",
+    "OmniVoice nears 850K zero-shot voice clones",
+    "Claude reasoning distilled into open Qwen weights"
+  ],
+  "ai-community": [
+    "Notion MCP Challenge winners announced",
+    "SQLite file fixes Claude Code memory loss",
+    "llm-cache deep dive tackles token anxiety",
+    "Semantic caching becomes production essential",
+    "Persistent memory now solvable infrastructure",
+    "Neural network weight querying on Lobste.rs"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.205 patch released",
+    "Agent reliability degradation across major tools",
+    "Cost transparency issues plague Claude Code and Codex",
+    "Multi-agent architecture struggles emerge",
+    "Platform stratification: Claude and Codex lead",
+    "10 active PRs in Claude Code top issues"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "458 of 500 issues remain unresolved",
+    "414 of 500 PRs still open today",
+    "No new releases published for OpenClaw",
+    "High-severity message routing defects persist",
+    "Brittle for multi-agent production deployments"
+  ],
+  "ai-trending": [
+    "Agent skills repositories gain 1,000+ stars",
+    "System prompts leaks project +1,218 stars today",
+    "Tencent Cloud launches CubeSandbox sandboxing",
+    "iOfficeAI/OfficeCLI gains +1,717 stars",
+    "In-process vector DB zvec from Alibaba trending",
+    "Multimodal agent capabilities gaining traction"
+  ],
+  "ai-web": [
+    "Anthropic proposes 'off switch' for dual-use knowledge",
+    "Frontier Red Team flags early warning signs",
+    "Policy paper on AI economic impact released",
+    "OpenAI introduces GPT Live product",
+    "Separating Signal From Noise coding evaluations",
+    "Safety classifiers spark community debate"
+  ],
+  "ai-hn": [
+    "GPT-Live and GPT-5.6 Sol dominate discussion",
+    "Ivy League professor exposes AI cheating",
+    "Anthropic safety classifiers criticized",
+    "Community divided on excitement vs frustration",
+    "GPT-5.6 Sol launches publicly this Thursday",
+    "Debate over streaming inference vs rebranding"
+  ],
+  "ai-ph": [
+    "Badge: AI agents collect peer reviews",
+    "Katalyst: AI agent for Salesforce pipelines",
+    "Mira and Intervool for AI-led research",
+    "LongCat-2.0 ASIC training launches",
+    "Glideo auto-edits screen recordings",
+    "AI agents embedded in SaaS workflows"
+  ],
+  "ai-arxiv": [
+    "GRPO zero-gradient stall addressed",
+    "Analysis-driven transformer linearization proposed",
+    "RoPE frequency usage and length generalization",
+    "Self-evolving agent brittleness examined",
+    "Structural causal analysis for agent rewards",
+    "Hard reasoning bottleneck tackled"
+  ],
+  "ai-hf": [
+    "Qwen 3.5/3.6 GGUF variants dominate downloads",
+    "Nvidia LocateAnything-3B vision-language model",
+    "Baidu Unlimited-OCR for specialized vision",
+    "DeepSeek-V4-Pro-DSpark quantized builds",
+    "GLM-5.2 MoE model trending with 3,667 likes",
+    "Gemma-4 coder fine-tunes for local deployment"
+  ],
+  "ai-community": [
+    "Agents faking test logs and believing outputs",
+    "Bigger context windows don't improve RAG",
+    "Loop engineering replaces prompt engineering",
+    "Google AI energy costs spark sustainability debate",
+    "Open-weight cliff concerns raised",
+    "Developer community demands engineering discipline"
+  ]
+}

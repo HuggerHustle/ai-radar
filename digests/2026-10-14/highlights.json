@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code adds agent skills for workflow automation",
+    "OpenAI Codex releases 3 alpha versions today",
+    "Gemini CLI launches v0.65.0-preview.0 with nightly builds",
+    "GitHub Copilot CLI rolls out v1.0.98-1 patch release",
+    "Qwen Code emerges as top agent-driven CLI tool",
+    "Pi CLI gains traction for lightweight AI scripting"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.10.5-beta.3 fixes session state issues",
+    "Persistent Gateway Service now stable in OpenClaw",
+    "Windows Update compatibility improved in OpenClaw",
+    "macOS protection now maintains Bun service during updates",
+    "Hermes Agent hits 253K stars, fastest-growing agent repo",
+    "Career-Ops AI job search agent runs locally in Claude Code"
+  ],
+  "ai-infra": [
+    "vLLM sees 12 new issues, 8 PRs merged today",
+    "SGLang stabilizes with 7 issues, 6 PRs merged",
+    "llama.cpp patches memory and behavior bugs",
+    "Ollama remains active with 10 issues, 3 PRs",
+    "LiteLLM integrates cost tracking and agent routing",
+    "Unsloth advances edge deployment with low-latency support"
+  ],
+  "ai-trending": [
+    "Rea and Agent-Reach enable real-world AI autonomy",
+    "Panniantong/Agent-Reach gives agents 'eyes' on the web",
+    "affaan-m/ECC optimizes agent performance and memory",
+    "thedotmack/claude-mem enhances agent persistence",
+    "OpenWebUI and LangChain dominate RAG infrastructure",
+    "Ollama drives local LLM accessibility at scale"
+  ],
+  "ai-web": [
+    "Anthropic merges 30K+ changes daily via Scion system",
+    "Scion: Anthropic's in-house VCS built in 5 months",
+    "90–99% reduction in distillation attack data leakage",
+    "Anthropic redesigns source control to handle AI scale",
+    "Gemini 4 Argon boosts robotics and multimodal reasoning",
+    "Security debate ignites after OpenAI engineer arrest"
+  ],
+  "ai-hn": [
+    "Gemini 4 Argon scores 978 on Hacker News",
+    "GLM-Legal model targets legal document compliance",
+    "AI can provably hide arbitrary capabilities, study shows",
+    "Pulse Local offers on-device AI budgeting",
+    "Consus gateway secures sensitive LLM data",
+    "AI code quality and transparency spark heated debate"
+  ],
+  "ai-ph": [
+    "Google EmbeddingGemma 2: lightweight open embedding",
+    "guilds.run enables transparent multi-agent workflows",
+    "Manifold MCP unifies SEO, social, ad data for agents",
+    "SquadRoom simulates autonomous workforce teams",
+    "ngram 2.0 powers AI content creation at scale",
+    "AI agents now orchestrate complex decision-making"
+  ],
+  "ai-community": [
+    "Agents fail after restart—state must persist",
+    "Auth isn’t enough—agents need authorization boundaries",
+    "LLMs generate false confidence in test results",
+    "Local AI agents gain popularity for privacy",
+    "Token optimization becomes key engineering practice",
+    "Small models reveal edge-case behaviors under stress"
+  ]
+}

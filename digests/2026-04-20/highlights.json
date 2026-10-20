@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "OpenAI Codex shipped alpha.11→alpha.12 in 24h",
+    "Claude Code hit 50 issues, 9 PRs on billing/VMs",
+    "Gemini CLI landed 29 PRs with quality community work",
+    "All major tools converging on AST-aware, hierarchical memory",
+    "Cowork VMs and Goal Mode push autonomous agents",
+    "MCP ecosystem stability dominates enterprise concerns"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs, 2 beta releases in 24h",
+    "v2026.4.19-beta.2 fixes OpenAI backend usage reporting",
+    "60/40 open-to-closed ratio signals backlog growth",
+    "Multi-agent identity management is top community focus",
+    "Agent reasoning leak prevention drives design debates",
+    "13 projects covered in fast-maturing agent ecosystem"
+  ],
+  "ai-trending": [
+    "openai-agents-python gained 752 stars launch day",
+    "EvoMap/evolver: 527 stars for genetic agent evolution",
+    "thunderbird/thunderbolt: 695 stars for privacy-first routing",
+    "BasedHardware/omi trends as ambient AI companion",
+    "Claude Code used as OS for game dev studios",
+    "vllm hits 77,329 stars as essential inference infra"
+  ],
+  "ai-hn": [
+    "Anthropic system prompt changes spark developer backlash",
+    "Claude Opus 4.7 constraints debated for power users",
+    "Study: AI assistance reduces persistence, hurts performance",
+    "Switzerland pushes digital sovereignty vs Microsoft",
+    "Uber's $3.4B AI budget struggles fuel skepticism",
+    "Developers build Claude Code proxies as workarounds"
+  ],
+  "ai-ph": [
+    "Claude Design tops with 491 votes for prototyping",
+    "CraftBot: 263 votes for self-hosted local-first AI",
+    "Notebooks in Gemini gets 297 votes for context",
+    "Cloudflare launches agent-ready tooling",
+    "Hipocampus debuts AI operators for workflows",
+    "Privacy-preserving infrastructure dominates demand"
+  ],
+  "ai-hf": [
+    "Gemma-4 family: 9M+ combined downloads dominate",
+    "Qwen3.6 MoE architecture sparks intense interest",
+    "5+ uncensored/abliterated fine-tunes in top 30",
+    "Tencent Hunyuan expands to embodied AI, world models",
+    "Chinese labs: nearly half of trending releases",
+    "Distilled Qwen3.5-Claude-4.6-Opus gets 2,734 likes"
+  ],
+  "ai-community": [
+    "EM OS: AI knowledge mgmt becomes core pattern",
+    "Claude auto-memory bloat criticized by developers",
+    "Vibecoding still needs architectural discipline",
+    "Earth Day AI projects tackle sustainability use cases",
+    "API key governance, LLM budgeting go operational",
+    "Claude Design deep dives for non-designers trend"
+  ],
+  "ai-weekly": [
+    "Anthropic launches Claude Opus 4.7 with safety framework",
+    "OpenAI expands Codex to general-purpose agent",
+    "OpenAI debuts GPT-Rosalind life sciences model",
+    "Anthropic launches Claude Design visual tool",
+    "Anthropic appoints Novartis CEO to board",
+    "Qwen Code free tier termination causes crisis"
+  ]
+}

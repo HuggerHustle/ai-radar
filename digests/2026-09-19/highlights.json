@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.278 fixes critical issues",
+    "OpenAI Codex v0.156.0-alpha.7 stabilizes",
+    "Gemini CLI v0.62.0-nightly fixes PTY",
+    "GitHub Copilot CLI v1.0.87-0 adds chat UX",
+    "OpenCode lacks new release",
+    "Pi leads in community discussions"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.5 fixes zombie processes",
+    "Gateway crash-loop resolved in OpenClaw",
+    "SQLite WAL bloat fixed on Windows",
+    "Codex state migration failure patched",
+    "503 contributors, 4k+ PRs active",
+    "Stability remains top challenge"
+  ],
+  "ai-infra": [
+    "vLLM: 5 high-critical issues",
+    "SGLang v0.5.20 released",
+    "Ollama v0.34.3-rc1 out",
+    "LiteLLM stability at critical risk",
+    "llama.cpp updates mid-range",
+    "Unsloth: 5 high-critical issues"
+  ],
+  "ai-trending": [
+    "Claude Code +482 stars today",
+    "Security-audit-skill +3162 stars",
+    "Needle: AI for tiny devices",
+    "Cua: Open-source HTML drivers",
+    "RAG flow with Graphify-Labs",
+    "ECC and Cactus Compute trending"
+  ],
+  "ai-web": [
+    "OpenAI releases Australian youth safety blueprint",
+    "No new Anthropic content today",
+    "Policy focus on youth digital safety",
+    "Australia's AI governance in spotlight",
+    "OpenAI expanding compliance infrastructure",
+    "Claude quiet ahead of major launch"
+  ],
+  "ai-hn": [
+    "AI hallucinated intel caused military close call",
+    "OpenAI internal repos breached via SSO",
+    "LLMs used to design Jalapeño chip",
+    "Semantic cache communication between LLMs",
+    "Obfuscated language evades LLM detection",
+    "Bend: Language that blocks AI mistakes"
+  ],
+  "ai-ph": [
+    "Ami AI gains 510 votes on Product Hunt",
+    "AINA: AI career coach for job seekers",
+    "MosMos: Voice writing before typing",
+    "Pushary brings AI to Mac notch",
+    "Sider Omni Sidebar integrates AI",
+    "GameToMac: AI game compatibility layer"
+  ],
+  "ai-arxiv": [
+    "Frontier agents overclaim success",
+    "Gender bias transformed, not reduced",
+    "Summarization bias causes label collapse",
+    "Multimodal reasoning advances",
+    "Robot memory via saliency supervision",
+    "Causal inference in federated learning"
+  ],
+  "ai-community": [
+    "AI agents can be attacked by repos",
+    "Only simple AI tests survive production",
+    "Agents fail due to edge case neglect",
+    "Leaked AI agents pose security risks",
+    "Testing streaming AI interfaces key",
+    "Agent permissions need tighter control"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code session limit crisis: 427 comments on #38335",
+    "OpenAI Codex v0.118.0 causing kernel panics, token issues",
+    "8 tools tracked: Claude Code, Codex, Gemini CLI, Kimi, more",
+    "Agent Teams functionality race across all major tools",
+    "Windows remains second-class citizen despite enterprise demand",
+    "Metering transparency dominates top GitHub issues"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "72% issue closure rate, 47% PR merge rate",
+    "Zero new releases despite heavy bug-fix activity",
+    "266 open PRs suggest backlog forming",
+    "Stability hardening focus over new features",
+    "11 projects covered: NanoBot, PicoClaw, IronClaw, more"
+  ],
+  "ai-trending": [
+    "Google LiteRT-LM: +124 stars for on-device LLM runtime",
+    "block/goose and pi-mono mature beyond autocomplete",
+    "learn-claude-code hits 48K+ stars",
+    "fff.nvim: 76 stars for AI agent file operations",
+    "Google gallery: +389 stars for on-device ML showcase",
+    "mlx-vlm: +416 stars for Apple Silicon vision models"
+  ],
+  "ai-hn": [
+    "Nanocode: $200 Claude Code clone in pure JAX on TPUs",
+    "Running Gemma 4 locally with LM Studio + Claude Code",
+    "Iran threatens OpenAI's Stargate datacenter",
+    "OpenAI Codex pricing restructuring frustrates users",
+    "Cost optimization and local deployment dominate discussions",
+    "Claude Code appears in multiple Show HN projects"
+  ],
+  "ai-ph": [
+    "Google Vids 2.0 leads with 405 votes",
+    "Mercury Edit 2 and Clovr push vibe coding infrastructure",
+    "OpenGyver: CLI agents become self-improving problem-solvers",
+    "Donut Browser open-source alternative gains traction",
+    "Practical AI wrappers surge: extensions, bots, overlays",
+    "Big Tech pushes AI-powered creative suites"
+  ],
+  "ai-hf": [
+    "Google Gemma 4 family dominates: 2B to 31B parameters",
+    "Jackrong's Qwen3.5-Claude-4.6-Opus: 539K downloads",
+    "1-bit quantization: prism-ml's Bonsai-8B for edge",
+    "HauhauCS uncensored Qwen3.5: 725K downloads",
+    "Netflix void-model enters video-to-video generation",
+    "LiquidAI LFM2.5-350M: ultra-compact parameter model"
+  ],
+  "ai-community": [
+    "Databricks MCP production case study for drug discovery",
+    "12 MCP servers chained to Amazon Q: scaling limits found",
+    "Supervising 5 AI agents on real project: lessons learned",
+    "Vibecoding debated on Lobste.rs philosophically",
+    "Memory systems compared: MemLayer, Mem0, Zep",
+    "Cost optimization: finding wasted LLM spend tools built"
+  ],
+  "ai-weekly": [
+    "Claude Code billing crisis hits 427 GitHub comments",
+    "Claude Code leaked source code fuels open-source demand",
+    "Claude Code gains +10,749 GitHub stars in single day",
+    "OpenAI Codex switches to unpredictable per-token pricing",
+    "OpenAI closes record $40B at $852B valuation",
+    "Anthropic publishes Model Diffing for version detection"
+  ]
+}

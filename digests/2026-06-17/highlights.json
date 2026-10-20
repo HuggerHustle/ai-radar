@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.179 released today",
+    "Open-source community beats vendor activity",
+    "Session state management is key battleground",
+    "DeepSeek TUI rebranded to CodeWhale",
+    "Context compaction bugs plague tools",
+    "Multi-agent coordination failures discussed"
+  ],
+  "ai-agents": [
+    "OpenClaw has 500 updated issues today",
+    "Two new releases focus on Telegram/WhatsApp",
+    "Session-state and message-loss bugs persist",
+    "Multi-agent orchestration remains unstable",
+    "Security feature requests await maintainers",
+    "Maintainer bandwidth may lag community growth"
+  ],
+  "ai-trending": [
+    "Agent infrastructure dominates GitHub trending",
+    "Tokenizer-free speech generation VoxCPM2 emerges",
+    "Alibaba's ZVec in-process vector database",
+    "vllm hits 83K stars for production inference",
+    "ollama tops 174K stars for local LLMs",
+    "Financial AI agents see vertical specialization"
+  ],
+  "ai-web": [
+    "Anthropic studies 400K Claude Code sessions",
+    "Every occupation matches coders with AI",
+    "TCS puts Claude into 50,000 employee hands",
+    "Targets financial services and healthcare",
+    "Anthropic re-emphasizes safety-first stance",
+    "OpenAI only posts metadata page today"
+  ],
+  "ai-hn": [
+    "Anthropic faces service outages and ban",
+    "U.S. government bans advanced Anthropic models",
+    "OpenAI losses hit $21B on $13B revenue",
+    "DeepSeek V4 Pro costs 5% of Claude",
+    "GLM-5.2 released with open weights",
+    "Cost-efficient alternatives gain traction"
+  ],
+  "ai-ph": [
+    "Novu Connect leads product hunt launches",
+    "Ship agents inside messaging platforms",
+    "Wobo tackles autonomous job searching",
+    "Agent reliability verification emerges key",
+    "Coding agents dominate today's releases",
+    "Memory-capable systems in high demand"
+  ],
+  "ai-arxiv": [
+    "LLMs track their own trajectory value",
+    "ContextRL trains LLMs on key evidence",
+    "ExpRL improves reasoning via exploration",
+    "KV cache management advances for agents",
+    "Reinforcement learning converges with robotics",
+    "New causal frameworks audit synthetic data"
+  ],
+  "ai-hf": [
+    "DeepSeek V4 Pro tops 4,895 likes",
+    "Qwen3.6-35B-A3B has 3.3M downloads",
+    "Google's DiffusionGemma advances multimodal",
+    "Rio model is 397B government-developed",
+    "GLM-5.2 offers permissive open weights",
+    "Unsloth GGUF variants drive quantization"
+  ],
+  "ai-community": [
+    "Fable 5 crisis exposes AI supply chain",
+    "Government letter broke entire AI product",
+    "AI moderation flags human articles as low",
+    "Vendor lock-in fears spike after crisis",
+    "Satirical AI Economics for Dummies goes viral",
+    "CrankGPT human-powered AI draws laughs"
+  ]
+}

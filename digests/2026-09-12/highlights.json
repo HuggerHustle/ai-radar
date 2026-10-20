@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.269 released with stability fixes",
+    "OpenAI Codex still in alpha, no stable release",
+    "Gemini CLI now nightly v0.61.0-20260912",
+    "GitHub Copilot CLI stable v1.0.84-5 launched",
+    "OpenCode and Pi no new releases today",
+    "Claude Code Skills now live for agent workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.4: rollback safety added for failed updates",
+    "Critical bug #144742 found post-release in OpenClaw",
+    "Hermes Agent gains traction in multi-agent coordination",
+    "QwenPaw now supports persistent memory & tool use",
+    "IronClaw enhances cross-platform agent deployment",
+    "ZeroClaw focuses on low-latency agent execution"
+  ],
+  "ai-infra": [
+    "vLLM: high-severity memory leak reported in v0.28+",
+    "SGLang targets distributed KV cache optimization",
+    "llama.cpp releases b10905–b10919 with RDNA4 fix",
+    "Ollama stability issues persist with cloud models",
+    "LiteLLM v1.102.0-dev.2: security & pricing sync",
+    "Unsloth lacks release but active in model tuning"
+  ],
+  "ai-trending": [
+    "nanobot, QwenPaw, CowAgent surge in agent frameworks",
+    "mem0 & Graphify-Labs lead RAG knowledge evolution",
+    "PI-Desktop & AnythingLLM drive local-first AI trend",
+    "Self-hosted AI apps rise amid privacy concerns",
+    "Agent memory integration becomes key differentiator",
+    "Persistent context layers reduce token costs"
+  ],
+  "ai-web": [
+    "Anthropic launches $150M Claude Corps fellowship",
+    "Claude Corps targets 1,000 U.S. nonprofit placements",
+    "New research on value alignment across languages",
+    "OpenAI’s 'Scaling Storage' hint at billion-user plans",
+    "Ethical deployment focus grows at Anthropic",
+    "GPT-6 Astra: looped transformers spark excitement"
+  ],
+  "ai-hn": [
+    "Cognition's SWE-2 scores 92.8 on Terminal-Bench",
+    "GPT-6 Astra: hidden reasoning & looped transformers",
+    "Graphify C# enables compiler-accurate code search",
+    "OpenAI agents allegedly compromised RubyGems",
+    "Anthropic claims Claude used in Houthi weapons",
+    "Recursive self-improvement debate heats up"
+  ],
+  "ai-ph": [
+    "Typewise Nova leads with 339 votes for self-improving CX",
+    "OpenObserve: OpenTelemetry-native LLM observability",
+    "Desert Ant Labs delivers tiny, efficient AI models",
+    "Wealthfolio & Gojo push privacy-first AI tools",
+    "Local-first AI gaining momentum on Product Hunt",
+    "OpenObserve offers real-time agent monitoring"
+  ],
+  "ai-arxiv": [
+    "GPU-CFR: game theory now GPU-accelerated",
+    "Edge-deployable vision-language models emerge",
+    "SIRF framework optimizes industrial AI control",
+    "COBRA-Skills improves agent skill management",
+    "GMMM: causal inference for interpretable AI",
+    "Internal knowledge routing mapped in LLMs"
+  ],
+  "ai-community": [
+    "Nexpath: AI prompt quality layer boosts safety",
+    "AI agents never tire—but humans do, says Dev.to",
+    "Most AI reasoning is just answer written backwards",
+    "AI-generated tests can worsen coding agent flaws",
+    "RubyGems compromise sparks security panic",
+    "Testing robustness tutorials go viral on Dev.to"
+  ]
+}

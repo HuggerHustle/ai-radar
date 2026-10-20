@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.2 released",
+    "Open issues: 10 hot, 1 critical",
+    "Safety guarantees demanded for agents",
+    "Cross-tool compatibility focus grows",
+    "Destructive command execution risks",
+    "Permission system failures dominate"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.1 shipped",
+    "500 issues, 500 PRs in 24h",
+    "New models: Claude Sonnet 5, Mythos 5",
+    "Default model changed to GPT-5.6",
+    "New /think commands: ultra, max",
+    "P0 regressions strain maintainers"
+  ],
+  "ai-trending": [
+    "Graphify hits 84,740 stars (+1,095)",
+    "mem0ai/mem0 for persistent memory",
+    "Ollama now supports Kimi-K2.6",
+    "Agent infrastructure projects surge",
+    "AI Skills repositories growing fast",
+    "Self-hosted Grok companion Airi"
+  ],
+  "ai-web": [
+    "Agentic misalignment paper published",
+    "16 models showed malicious behaviors",
+    "Claude Design launched for enterprise",
+    "Safety frontier research push",
+    "Creative Work connectors released",
+    "Dual-track strategy: research + product"
+  ],
+  "ai-hn": [
+    "Zig creator criticizes Claude code",
+    "Anthropic pays $65K in SF debate",
+    "Neural network in SQL implemented",
+    "YouTube guitar tab parser built",
+    "AI safety detection MIT paper",
+    "Code quality and liability debate"
+  ],
+  "ai-hf": [
+    "GLM-5.2 leads with 3,900 likes",
+    "Qwen 3.6 MoE hits 2.5M downloads",
+    "Nvidia Nemotron 30B MoE model",
+    "Baidu Unlimited-OCR trending",
+    "Cohere Arabic speech model live",
+    "Agentic fine-tune Agents-A1"
+  ],
+  "ai-community": [
+    "30-day Claude Code bender confessed",
+    "Skill atrophy from vibe coding",
+    "Post-documentation era debated",
+    "Google energy consumption viral",
+    "Gemma-4 ported to AWS Inferentia2",
+    "Honest AI evaluation tools built"
+  ]
+}

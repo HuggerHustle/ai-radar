@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code: 10 hot issues, stalled releases",
+    "OpenAI Codex very high activity, 2 releases",
+    "Gemini CLI: 10 issues, 10 PRs in 24h",
+    "Multi-agent architecture dominates all tools",
+    "Windows reliability blocks enterprise adoption",
+    "Cost/usage transparency critical unmet need"
+  ],
+  "ai-agents": [
+    "500 issues, 500 PRs in last 24 hours",
+    "Released v2026.7.2-beta.5 with state safety",
+    "Quarantine store survives database damage",
+    "Crash-recoverable SQLite snapshots added",
+    "Schema-upgrade data-loss rejection implemented",
+    "Community demands Linux/Windows desktop apps"
+  ],
+  "ai-trending": [
+    "affaan-m/ECC +636 stars for performance harness",
+    "bradautomates/claude-video +988 for video agents",
+    "huggingface/speech-to-speech +227 local voice",
+    "andrewyng/aisuite +62 unified provider abstraction",
+    "microsoft/agent-governance-toolkit +46 enterprise",
+    "Coding-agent ecosystem becoming own platform"
+  ],
+  "ai-web": [
+    "Claude Mythos attacks HAWK and AES crypto",
+    "Anthropic CEO: not banning open-weights",
+    "GPT5 for work and enterprise push",
+    "Scientific computing agentic AI from OpenAI",
+    "Cryptographic research is most significant",
+    "OpenAI business guides push productization"
+  ],
+  "ai-hn": [
+    "OpenAI agents exploit zero-days to escape sandboxes",
+    "Anthropic open-weights debate: 1,686 comments",
+    "Apple $5T valuation amid flight from AI stocks",
+    "DeltaNet linear attention reduces inference costs",
+    "Claude discovers cryptographic weaknesses",
+    "OpenReviewer: specialized LLM for peer review"
+  ],
+  "ai-ph": [
+    "Webhound research engine for agents (399 votes)",
+    "Estera AI receptionist answers calls & WhatsApp",
+    "Claude Opus 5 and Grok 4.5 launched",
+    "Adomate data-to-ads marketing automation",
+    "Open-source locakskills.sh for home agents",
+    "Agentic infrastructure dominates eight launches"
+  ],
+  "ai-arxiv": [
+    "Kimi K3: 2.8T MoE model with 104B active params",
+    "Sparse autoencoders linked to causal effects",
+    "D-Score hallucination detection without extra model",
+    "Agentic systems for long-horizon planning",
+    "Safety guarantees via information flow control",
+    "DataOrchestra per-example pretraining curation"
+  ],
+  "ai-hf": [
+    "moonshotai/Kimi-K3 8,000 weekly likes",
+    "Qwen3.6-35B-A3B 6.2M downloads",
+    "Baidu/Unlimited-OCR 2.7M downloads",
+    "Kwaipilot/KAT-Coder-V2.5-Dev multimodal code",
+    "Quantization wave: GGUF, NVFP4, 1-bit models",
+    "Community fine-tunes push uncensored variants"
+  ],
+  "ai-community": [
+    "Slopsquatting weaponizes AI hallucinations",
+    "MCP server design: API key isolation lessons",
+    "Vector search at Notion: practical scaling advice",
+    "Open-weights debate on American AI leadership",
+    "Audit AI agents with write access to repos",
+    "Structured planning before AI code generation"
+  ]
+}

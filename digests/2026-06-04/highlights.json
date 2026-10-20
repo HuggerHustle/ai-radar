@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code releases v2.1.16",
+    "Token transparency emerges as pain point",
+    "Cross-platform parity crisis for Windows",
+    "9 actively maintained tools compete",
+    "Context window management is universal",
+    "Platform parity debt under pressure"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues, 500 PRs",
+    "OpenClaw v2026.6.2-beta.1 released",
+    "Plugin install security model overhauled",
+    "Session state reliability is top focus",
+    "Multi-channel stability across 6 platforms",
+    "Growth phase with significant in-flight work"
+  ],
+  "ai-trending": [
+    "Headroom gains 3,530 stars in one day",
+    "NousResearch/hermes-agent adds 1,735 stars",
+    "Agent harness paradigm solidifying",
+    "PaddleOCR pushes PDF-to-AI pipeline",
+    "ollama now supports Kimi-K2.6",
+    "milvus-io/milvus hits 44,615 total stars"
+  ],
+  "ai-web": [
+    "Anthropic publishes agent containment blog",
+    "Threat intelligence report maps AI attacks",
+    "Enterprise partner network expanded",
+    "Safety engineering for autonomous agents",
+    "OpenAI repeats 'GPT Rosalind' mentions",
+    "Coordinated narrative on safe deployment"
+  ],
+  "ai-hn": [
+    "Hyper (YC P26) 'company brain' tops",
+    "Bernie Sanders bill for public AI stake",
+    "Google's Gemma 4 fits 16GB laptops",
+    "Counterfeit DDR5 RAM scam viral",
+    "Gemini Spark trip planning impresses",
+    "EU demands energy cuts due to AI"
+  ],
+  "ai-ph": [
+    "Fundraisly tops with 1,026 votes",
+    "Vokal AI agent collab space launched",
+    "Gigacatalyst for non-engineers trending",
+    "Enshittifier satirizes AI hype",
+    "Agents moving beyond conversation",
+    "Direct monetization in high-value niche"
+  ],
+  "ai-arxiv": [
+    "Neurons show divergent selectivity",
+    "LLMs need sleep to consolidate memories",
+    "Self-correcting AI systems emerge",
+    "Rubric-based RL for post-training",
+    "Model internals revisited with scale",
+    "UAV navigation from reasoning models"
+  ],
+  "ai-community": [
+    "Docker sandboxes for AI agent safety",
+    "Speed loan metaphor for AI debt",
+    "NVIDIA laptop-based agent architecture",
+    "webMCP live demo sparks debate",
+    "Tool calls reveal actual behavior",
+    "35B MoE models run on aging GPUs"
+  ]
+}

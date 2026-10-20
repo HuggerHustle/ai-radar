@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.157 adds plugin decentralization",
+    "OpenAI Codex and Gemini CLI compete for enterprise cloud",
+    "Qwen Code and Kimi Code CLI push vertical integration",
+    "Pi and OpenCode offer multi-provider agnostic alternatives",
+    "DeepSeek TUI targets local-first Rust deployments",
+    "MCP ecosystems and multi-agent workflows dominate feature race"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 326 issues and 500 PRs in 24 hours",
+    "Four beta releases harden Codex runtime reliability",
+    "Subagent workspace isolation prevents cross-contamination",
+    "2:1 open-to-closed PR ratio shows heavy feature work",
+    "Production bug reports target OAuth and session state",
+    "NanoBot and Hermes Agent lead 13-project ecosystem"
+  ],
+  "ai-trending": [
+    "MoneyPrinterTurbo gains +3,567 stars today",
+    "stop-slop project fights AI generic output detection",
+    "taste-skill rises +2,062 stars for quality control",
+    "Compound Engineering plugin hits +353 for agent harness",
+    "ECC surges +1,406 for agent performance optimization",
+    "microsoft/markitdown gains +1,873 for RAG pipelines"
+  ],
+  "ai-web": [
+    "Anthropic publishes zero new articles today",
+    "OpenAI posts four entries, three are duplicates",
+    "Biosecurity resilience remains OpenAI priority focus",
+    "Evaluation framework post suggests governance push",
+    "Duplicate Rosalind Biodefense entry likely publishing error",
+    "Low-signal day for direct product announcements"
+  ],
+  "ai-hn": [
+    "Liquid AI reveals 8B-A1B MoE on 38 trillion tokens",
+    "Claude Opus 4.8 alleged Qwen distillation sparks debate",
+    "Gartner predicts 40% of AI agents face demotion",
+    "Mystery company burns $500M on accidental Claude spend",
+    "Tiny-vLLM targets efficient inference optimization",
+    "AISlop emerges for AI code quality control"
+  ],
+  "ai-ph": [
+    "Pancake brings OpenClaw autonomy to Slack",
+    "Robinhood enters agentic autonomous trading",
+    "Memori solves persistent memory from agent traces",
+    "NeuralAgent 2.5 enables voice computer control",
+    "Four of top seven products are developer tools",
+    "Strong open-source showing: Memori, AccountyCat, Compartment"
+  ],
+  "ai-arxiv": [
+    "LLMSurgeon diagnoses hidden LLM training mixtures",
+    "Latent reasoning decoupled from token generation",
+    "LoRA parametric memory law quantifies fine-tuning",
+    "Biosecurity refusal audits test AI safety rigor",
+    "Sabotage propensity testing for deployed agents",
+    "Any-to-any Lance model unifies multimodal foundations"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4 Pro nears 5.8M downloads",
+    "Qwen 3.6 family dominates with multiple variants",
+    "Unsloth drives aggressive quantization efforts",
+    "Sulphur-2-base advances video generation",
+    "LongCat-Video-Avatar-1.5 pushes digital humans",
+    "Lance any-to-any architecture signals unified future"
+  ],
+  "ai-community": [
+    "One AGENTS.md standardizes multi-agent instructions",
+    "MCP gateways flood Dev.to tutorials",
+    "No-code AI testing displaces traditional QA",
+    "Data engineer role shifts to LLM-integrated architecture",
+    "Papal encyclical joins AI open-closed debate",
+    "Memory leaks plague production agent deployments"
+  ]
+}

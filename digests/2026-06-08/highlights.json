@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "No stable releases shipped across all 9 tools in 24h.",
+    "Claude Code: 10+ hot issues, high user frustration volume.",
+    "OpenAI Codex: 10+ issues tracked in single day.",
+    "Field bifurcated: established players vs. clean-slate emerging tools.",
+    "Universal pain points: context failures, opaque token economics.",
+    "Differentiation hinges on agent autonomy and sandboxing maturity."
+  ],
+  "ai-agents": [
+    "OpenClaw: 296 issues, 500 PRs touched in 24h.",
+    "OpenClaw backlog growing: 177 active issues, 374 open PRs.",
+    "No releases today; targeting monthly cadence (2026.6.1).",
+    "Activity concentrated in messaging reliability and gateway fixes.",
+    "Multi-channel contributions: Telegram, Feishu, Discord, iMessage.",
+    "Potential maintainer bottleneck signaled by open-to-closed ratios."
+  ],
+  "ai-trending": [
+    "Three agent projects gained 1,100+ stars in single day.",
+    "turbovec shattered records: 1,554 daily stars for vector search.",
+    "Skill economy emerging: modular agent capabilities trending.",
+    "Rust + Python hybrid stack dominates new infrastructure.",
+    "Agent harness terminology crystallizes as 2026 defining pattern.",
+    "NousResearch/hermes-agent leads agent infrastructure surge."
+  ],
+  "ai-hn": [
+    "Claude Linux desktop support plea: 438 points, 248 comments.",
+    "Jane Street replacing Figma with Claude Code signals tool shift.",
+    "Analysis: major AI labs may be burning 10x their revenue.",
+    "Data center water consumption: 264B gallons gaining traction.",
+    "MoE routing patterns may leak sensitive information.",
+    "Age of Empires II paper challenges LLM anthropomorphism."
+  ],
+  "ai-ph": [
+    "Manus Shopify Connector dominates with 248 votes.",
+    "Agentic commerce takes center stage on Product Hunt.",
+    "Ejentum Reasoning Harness targets AI drift and hallucination.",
+    "Spec-to-code automation emerges via Almanac Seed, Bleenk.",
+    "Wearable-AI integration novel frontier via freddy.",
+    "Market shifts from raw capability to trustworthy deployment."
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro: 4,696 likes, 5.5M downloads this week.",
+    "NVIDIA drops 7 models spanning vision, speech, video generation.",
+    "LocateAnything-3B tops weekly likes for vision grounding.",
+    "Gemma-4 shows strong ecosystem adoption and quantizations.",
+    "Qwen3.6-35B-A3B-Uncensored signals uncensored model demand.",
+    "Video generation gains with Sulphur-2-base, Bernini-R renderer."
+  ],
+  "ai-community": [
+    "$2.8M AI testing failure viral on Dev.to.",
+    "Vibe coding matures from meme to security concern.",
+    "Executive AI hype collides with engineering reality.",
+    "LLM spend attribution and rate limiting dominate discussions.",
+    "Safety and observability critical in agent systems.",
+    "Recursive AI redistributes rather than eliminates engineering craft."
+  ],
+  "ai-weekly": [
+    "Anthropic files S-1 at $965B valuation",
+    "Claude Mythos reaches 200 global partners",
+    "Anthropic reveals internal blast radius framework",
+    "16 research papers published in one day",
+    "OpenAI Codex hit by gpt-5.5 outages",
+    "Jane Street engineer drops Figma for Claude"
+  ]
+}

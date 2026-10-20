@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Claude Code controversial spyware",
+    "OpenAI Codex sees heavy activity",
+    "Gemini CLI gains traction",
+    "Cross-tool reliability issues",
+    "9 tools tracked this week",
+    "Agent orchestration challenges"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.6.11 released",
+    "315 issues, 500 PRs updated",
+    "60 PRs merged in 24 hours",
+    "Silent message loss bugs",
+    "Session starvation problems",
+    "High maintainer throughput"
+  ],
+  "ai-trending": [
+    "Agent infrastructure gold rush",
+    "browser-use hits 721 stars",
+    "obra/superpowers at 890 stars",
+    "msitarzewski +1,791 stars",
+    "mem0ai hits 59.8k stars",
+    "ollama now supports Kimi-K2.6"
+  ],
+  "ai-web": [
+    "Claude Sonnet 5 announced",
+    "Claude Science workbench launched",
+    "Frontier Red Team research live",
+    "OpenAI Genebench Pro hinted",
+    "Sonnet near Opus performance",
+    "Vertical productization play"
+  ],
+  "ai-hn": [
+    "Claude Sonnet 5 sparks debate",
+    "Spyware allegations in Claude Code",
+    "5x price hike controversy",
+    "Export controls lifted on models",
+    "Brain2Qwerty non-invasive BCI",
+    "Community trust issues emerge"
+  ],
+  "ai-ph": [
+    "Agent Mode by Receiptor AI",
+    "ClinePass for open-weight models",
+    "483 votes for Receiptor AI",
+    "ClinePass cracks model access",
+    "Autonomous bookkeeping agent",
+    "Vertical automation workflows"
+  ],
+  "ai-arxiv": [
+    "35B agent matches trillion-params",
+    "WorldEvolver improves planning",
+    "Hybrid attention model method",
+    "Reward hacking in offline RL",
+    "Attractor states in conversations",
+    "Human Creativity Benchmark"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE leads with 3k likes",
+    "Qwen-AgentWorld-35B trending",
+    "Ornith-1.0 series gaining traction",
+    "Gemma-4-12B coder quantized",
+    "LTX-2.3 video generation",
+    "Uncensored Qwen variants popular"
+  ],
+  "ai-community": [
+    "The Log Is the Agent",
+    "Local AI future emerging",
+    "Loop engineering for agents",
+    "Smaller models often enough",
+    "AI security deep dives",
+    "Post-hype pragmatism shift"
+  ],
+  "ai-monthly": [
+    "Anthropic's $65B round and Opus 4.8 release",
+    "Claude Code 'Cost Runaway' crisis erupts",
+    "OpenAI secret IPO filing and $38B loss leak",
+    "'Agent Skill' ecosystem explodes on GitHub",
+    "Fable 5 triggers 10-20x token consumption",
+    "Agent reliability overtakes raw model capability"
+  ]
+}

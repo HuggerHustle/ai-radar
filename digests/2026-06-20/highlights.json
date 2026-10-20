@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code subagent recursion bug critical",
+    "OpenAI Codex 4 crash-related issues",
+    "Cross-tool runaway token consumption crisis",
+    "Claude Code v2.1.183 released",
+    "Gemini CLI Linux compatibility issues",
+    "DeepSeek TUI faces Linux problems"
+  ],
+  "ai-agents": [
+    "OpenClaw 500 issues updated in 24h",
+    "v2026.6.9-beta.1 released today",
+    "Memory leaks and session-state bugs",
+    "ClawSweeper automation queued with fixes",
+    "P0/P1 regression fixes being merged",
+    "Telegram delivery improved in beta"
+  ],
+  "ai-trending": [
+    "headroom compresses tool output 95%",
+    "agentic engineering platforms maturing",
+    "google-research/timesfm gains 1,510 stars",
+    "obra/superpowers gains 1,110 stars",
+    "codebase-memory-mcp gains 1,058 stars",
+    "GLM-5 gains 480 stars today"
+  ],
+  "ai-web": [
+    "Anthropic studies 400K Claude Code sessions",
+    "Debugging time fell nearly half",
+    "Domain expertise multiplies AI output",
+    "Agentic usage shifted to deployment tasks",
+    "OpenAI had no new content today",
+    "Paper covers Oct 2025 to Apr 2026"
+  ],
+  "ai-hn": [
+    "GPT-5.5 hallucinates 3x more than GLM",
+    "GLM-5.2 beats Fable 5 at design",
+    "Anthropic hires AlphaFold's John Jumper",
+    "Amazon drops Sam Altman biopic",
+    "Open-weight models challenge Big AI",
+    "Community debates diminishing incumbents"
+  ],
+  "ai-ph": [
+    "Upstream leads with 653 votes",
+    "Elvin finds work before you ask",
+    "Tabstack Dev Tools gains 355 votes",
+    "Agentic videos by D-ID launching",
+    "Jesse extracts real-time internet data",
+    "Human-AI inboxes gaining mainstream"
+  ],
+  "ai-arxiv": [
+    "Papers focus on agent safety",
+    "Probabilistic verification for agents",
+    "DiffusionGemma transparency analyzed",
+    "Safety alignment jailbreak revealed",
+    "Calibration under distribution shift",
+    "Red-teaming agents in production"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 5K likes",
+    "GLM-5.2 gains 1,532 likes",
+    "Unsloth leads GGUF conversions",
+    "Qwen3.6 uncensored variant 3.7M downloads",
+    "Google diffusiongemma surges",
+    "Kimi-K2.7-Code quantized"
+  ],
+  "ai-community": [
+    "AI agents silently introduced bugs",
+    "MCP servers and multi-agent systems",
+    "AI summaries without receipts worthless",
+    "Chinese models undercut OpenAI 95%",
+    "gzip as language model thought experiment",
+    "Security conferences in AI era debated"
+  ]
+}

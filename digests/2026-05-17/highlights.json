@@ -1,0 +1,50 @@
+{
+  "ai-cli": [
+    "Claude Code hits 50 issues in 24h, merge-light phase",
+    "Gemini CLI leads with 35 PRs in reliability sprint",
+    "OpenAI Codex advances major 7-PR stack",
+    "All 9 tools race to production-grade infrastructure",
+    "Competitive frontier shifts to cost transparency",
+    "Session lifecycle management now critical differentiator"
+  ],
+  "ai-agents": [
+    "OpenClaw ships 3 beta releases in one day",
+    "500 issues and 500 PRs in 24 hours",
+    "430 open issues signal triage bottleneck",
+    "414 open PRs show review bottleneck",
+    "Multi-channel integration: Discord to Feishu",
+    "Security hardening: gateway, policy, sentinel"
+  ],
+  "ai-trending": [
+    "openhuman surges +1,549 stars today",
+    "superpowers gains +1,305 stars for agent skills",
+    "RuView hits +1,010 stars for spatial AI",
+    "Rust dominates 4 of 8 trending repos",
+    "Agent harnesses eclipse raw model development",
+    "codegraph cuts Claude Code token use 100% local"
+  ],
+  "ai-ph": [
+    "OpenHuman leads with 488 votes on Product Hunt",
+    "TrustClaw self-hosts 1000+ app connections on Vercel",
+    "Vercel Day tag hits 8 products",
+    "Top 3 products capture 37% of total votes",
+    "Web-to-AI connectivity emerges as micro-trend",
+    "Cursor for X spreads to product managers via mia"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro: 4K likes, 3M downloads",
+    "Qwen 3.6 MoE hits 5.2M downloads",
+    "Gemma 4 debuts with any-to-any model",
+    "LTX 2.3 video derivatives proliferate",
+    "MiniCPM-V 4.6 targets on-device deployment",
+    "Unsloth GGUFs flood Qwen ecosystem"
+  ],
+  "ai-community": [
+    "Hermes Agent skill drifts wildly over 7 days",
+    "Developer builds CLI eyes to fix agent blindness",
+    "Gemma 4 MoE searches where dense model refuses",
+    "AI as social technology debated on Lobste.rs",
+    "Vibe coding erosion sparks philosophical tension",
+    "Swift and OCaml ML performance work surfaces"
+  ]
+}

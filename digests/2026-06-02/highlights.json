@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code leads enterprise mindshare despite Windows bugs",
+    "OpenAI Codex shipped rust-v0.136.0 with multi-agent runtime",
+    "Google Gemini CLI aggressively closes feature gaps on pricing",
+    "OpenCode is most provider-agnostic but permission system stressed",
+    "Qwen Code and DeepSeek TUI compete on local model support",
+    "Sector shifting from novelty to production infrastructure demands"
+  ],
+  "ai-agents": [
+    "OpenClaw hit 469 issues and 500 PRs in 24 hours",
+    "Three beta releases dropped for runtime recovery fixes",
+    "v2026.6.1-beta.2 fixes Codex/Harmony runtime recovery",
+    "292:177 open-to-closed issue ratio shows heavy triage",
+    "Multi-channel delivery focus: Telegram, WhatsApp, iMessage, Slack",
+    "Project executing coordinated stability sprint pre-major release"
+  ],
+  "ai-trending": [
+    "microsoft/markitdown surged +3,034 stars in one day",
+    "Hermes Agent ecosystem gained +945 stars today",
+    "heretic censorship removal tools emerging as new category",
+    "MoneyPrinterTurbo shows sustained AI content automation demand",
+    "Agent harness terminology coalescing as new architectural pattern",
+    "oh-my-pi brings hash-anchored edits with LSP integration"
+  ],
+  "ai-web": [
+    "Anthropic raises $65B Series H at $965B valuation",
+    "Anthropic files confidential draft S-1 for IPO preparation",
+    "Claude Opus 4.8 released with 3x fast mode cost reduction",
+    "Anthropic discloses $47 billion run-rate revenue figure",
+    "OpenAI's only activity: AWS availability metadata update",
+    "Funding-to-IPO pipeline executed in rapid succession"
+  ],
+  "ai-hn": [
+    "Anthropic's confidential IPO filing dominates discussion at 436 points",
+    "Florida sues OpenAI and Sam Altman personally over ChatGPT harms",
+    "Florida lawsuit cites ChatGPT-linked murders as alleged harm",
+    "Open-source protein model claims 1B predictions vs AlphaFold",
+    "Stanford CS336 publishes official AI agent guidelines",
+    "Community grapples with AI financial maturation vs regulatory backlash"
+  ],
+  "ai-ph": [
+    "Clipto leads with 453 votes for private media NL search",
+    "Second Brain for AI: free open-source persistent memory across LLMs",
+    "Privacy-first local-first trend dominates top three products",
+    "No pure LLM launches signal shift to application layer",
+    "Multiple vibe coding workflow tools in long tail",
+    "AnyFrame platform targets enterprise multi-agent management"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 4,530 likes and 5.8M downloads",
+    "DeepSeek-V4-Flash MIT-licensed with near-Pro performance",
+    "Qwen 3.6 family spans NVIDIA variants to 2-bit quantizations",
+    "Ternary quantization emerges with bonsai-image-ternary-4B",
+    "Multimodal models now outnumber pure text in trending list",
+    "Meituan's LongCat-Video-Avatar-1.5 hints at audio-image-text-to-video"
+  ],
+  "ai-community": [
+    "$660K AI platform replaced worker then rolled back wrong patch",
+    "AI agents warned as potential C2 security servers",
+    "Claude Mythos exploit generation capabilities alarm community",
+    "MCP servers struggle with adoption despite hype",
+    "Debloating AI-grown codebases becomes critical discipline",
+    "Mid-tier models debated as flagship replacements for cost"
+  ]
+}

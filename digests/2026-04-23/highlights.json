@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "MCP adoption dominates reliability concerns across all tools",
+    "OpenAI Codex shipped 3 alpha releases in 24 hours",
+    "Claude Code faces 14 spam PRs among 16 total",
+    "Rust and TypeScript emerge as dominant implementation languages",
+    "Enterprise readiness separates production tools from hobby projects",
+    "Token quota transparency is a universal trust fracture point"
+  ],
+  "ai-agents": [
+    "OpenClaw hit 500 issues and 500 PRs in one day",
+    "v2026.4.21 introduced critical dependency regression",
+    "Regression broke Feishu, WhatsApp, Telegram, Nostr plugins",
+    "295 merged PRs vs 205 open shows strong maintainer throughput",
+    "Community demands cross-platform support and real-time voice",
+    "Image generation upgraded to gpt-image-2 in latest release"
+  ],
+  "ai-trending": [
+    "claude-context gained 871 stars in a single day",
+    "Shannon emerges as autonomous white-box AI pentester",
+    "Vectorless retrieval gains traction with RAG-Anything, PageIndex",
+    "Chinese projects increasingly dominate global trending",
+    "Vercel's skills tool hits 333 stars with npx deployment",
+    "LLM SEO crystallizes as distinct product category"
+  ],
+  "ai-web": [
+    "Anthropic launches 81,000-response Economic Index Survey",
+    "OpenAI ships 5 product entries in 2-day push",
+    "OpenAI targets privacy, healthcare, workspace agents",
+    "Anthropic builds credibility through transparency and research",
+    "OpenAI accelerates enterprise feature shipping",
+    "Divergent strategies: research vs productization"
+  ],
+  "ai-hn": [
+    "Anthropic Mythos security incident generates multiple submissions",
+    "First major breach of frontier cybersecurity-capable model",
+    "Community alarmed by dual-use AI proliferation risks",
+    "Frustration over silent Claude Code feature removals",
+    "Skepticism of AI hype cycles shows in comment ratios",
+    "OpenAI Workspace Agents drive enterprise discussion"
+  ],
+  "ai-ph": [
+    "Chronicle captures screen context for Codex",
+    "YourMemory slashes token waste via self-pruning MCP",
+    "Kimi K2.6 launches with long-horizon coding capabilities",
+    "LLM SEO category emerges with Dageno AI, Gauge Sentiment",
+    "Cosine Swarm deploys parallel agents for complex tasks",
+    "Spectrum bridges agents to iMessage, GitHub, messaging"
+  ],
+  "ai-arxiv": [
+    "Micro language models hit sub-100ms on edge devices",
+    "Pause or Fabricate? tackles ungrounded LLM reasoning",
+    "Safety-critical control advances via Lyapunov-certified RL",
+    "Visual semantic arithmetic frameworks emerge",
+    "Training dynamics at edge of stability studied",
+    "Preference-based personalized explanations proposed"
+  ],
+  "ai-hf": [
+    "Qwen3.6 family dominates trending with 35B-A3B MoE flagship",
+    "Gemma-4-31B-it nears 4.8M downloads",
+    "Unsloth GGUF releases cross 1.1M downloads",
+    "Uncensored fine-tunes sustain strong demand",
+    "Tencent HY-World-2.0 enters world models and 3D",
+    "Kimi-K2.6 features compressed tensor optimization"
+  ],
+  "ai-community": [
+    "Devs feel 20% faster with AI, measure 19% slower",
+    "Anthropic's unreleased model leaked to Discord group",
+    "Harness engineering emerges as agent craft discipline",
+    "Counterfactual: would AI have stifled React's invention?",
+    "OpenClaw challenge drives hands-on agent experimentation",
+    "Lobste.rs probes theoretical limits of LLM reasoning"
+  ]
+}

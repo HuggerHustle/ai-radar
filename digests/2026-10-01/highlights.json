@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.286 stabilizes agent workflows",
+    "OpenAI Codex rolls out rust-v0.159.3 alpha",
+    "Gemini CLI hits nightly v0.64.0",
+    "GitHub Copilot CLI updates to v1.0.91-0",
+    "OpenCode gains traction in open-agent space",
+    "Pi CLI now supports multi-session agents"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.7 fixes critical memory leaks",
+    "SQLite WAL growth capped at 2.8GB in OpenClaw",
+    "Gateway crash loops resolved in OpenClaw",
+    "Agent startup failures fixed in OpenClaw",
+    "Silent subagent completion loss now patched",
+    "Session-state corruption addressed in OpenClaw"
+  ],
+  "ai-infra": [
+    "vLLM v0.30.1rc1 boosts MoE throughput",
+    "SGLang pre-release targets low-latency inference",
+    "llama.cpp adds cross-platform AI support",
+    "Ollama v0.35.0 marked as pre-release",
+    "LiteLLM sees 12 high-priority issues",
+    "Unsloth optimizes local model performance"
+  ],
+  "ai-trending": [
+    "NVIDIA OpenShell hits +1,281 stars",
+    "t8y2/dbx supports 100+ databases",
+    "OpenShell: secure agent runtime launched",
+    "VoiceStudio drives local generative media",
+    "MoneyPrinterTurbo gains momentum",
+    "MCP-based agents see rising adoption"
+  ],
+  "ai-web": [
+    "Anthropic launches Life Sciences Verification Program",
+    "Mythos, Opus, Sonnet models now accessible",
+    "75% of U.S. physical jobs automatable",
+    "GLM-5.3 flagged as dangerous cyber threat",
+    "Public survey on AI futures launched",
+    "LSVP enables drug discovery use cases"
+  ],
+  "ai-hn": [
+    "Gemini 4 Argon sparks AI debate",
+    "GPT 6.1 Sol claims 'near-Astra' intelligence",
+    "OpenAI Dots raises privacy concerns",
+    "FTC investigates AI giants",
+    "AI behavior tracking paper released",
+    "Corporate AI narratives under scrutiny"
+  ],
+  "ai-ph": [
+    "iFixAi leads with 412 votes for audit tool",
+    "LUCI Desktop remembers user context",
+    "Claude Sonnet 5.5 released",
+    "Hopscotch AI offers plug-and-play agents",
+    "Semos.ai Manager Agents gain traction",
+    "Memory-aware agents redefine assistants"
+  ],
+  "ai-arxiv": [
+    "RefCon enables real-time agent memory",
+    "Multi-LLM alignment via Stackelberg games",
+    "LexReward framework for legal models",
+    "Conservative bandits improve safety",
+    "MoE routing stability improved",
+    "ViLegalExpert benchmark launched"
+  ],
+  "ai-community": [
+    "1 in 5 AI-suggested packages don’t exist",
+    "Slopsquatting attack vector exposed",
+    "AI guardrails catch only 1% of attacks",
+    "Mock outputs become de facto docs",
+    "Physical AI agents gaining traction",
+    "Forward Deployed Engineers trend rises"
+  ]
+}

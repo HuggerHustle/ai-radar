@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Daemon/server modes now table stakes across tools",
+    "Qwen Code v0.16 ships persistent background agents",
+    "AGENTS.md config emerging as shared convention",
+    "MCP ecosystem integration dominates engineering focus",
+    "Cost control demands spike after billing incidents",
+    "OpenAI-compatible API layers forming interoperability"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 879 updates in 24 hours",
+    "295 open PRs suggest backlog forming",
+    "P1 regressions in session state actively triaged",
+    "Beta releases v2026.5.26-beta.1 focus on latency",
+    "Linux/Windows apps still missing from platform",
+    "Core gateway reliability under fire in 5.x cycle"
+  ],
+  "ai-trending": [
+    "Understand-Anything gains 4,697 stars in one day",
+    "Agent harness tooling surges as new category",
+    "ECC optimizer hits 194,333 total stars",
+    "Anti-slop quality controls emerge as demand",
+    "Memory persistence becomes first-class infrastructure",
+    "Skill file projects multiply across ecosystem"
+  ],
+  "ai-web": [
+    "Anthropic reveals withheld Claude Mythos Preview model",
+    "Korea usage hits 3.5x population-adjusted rate",
+    "KiYoung Choi appointed Seoul office lead",
+    "Containment architecture deep-dive published",
+    "OpenAI publishes zero articles today",
+    "Enterprise cloud veteran signals B2B priority"
+  ],
+  "ai-hn": [
+    "Sleep-like LLM consolidation paper tops at 180 points",
+    "Altman and Amodei walk back jobs apocalypse claims",
+    "Uber burned quarterly AI budget in one quarter",
+    "Xiaomi slashes MiMo-v2.5 pricing by 99%",
+    "Hallucinations mathematically inevitable per OpenAI",
+    "China tightens AI talent travel restrictions"
+  ],
+  "ai-ph": [
+    "Unabyss leads with 660 votes for MCP-native memory",
+    "MCP infrastructure goes mainstream in launches",
+    "Yansu turns work patterns into software",
+    "Pi Coding Agent open-source among top tools",
+    "AI penetrates music production with Orchestria",
+    "Persistent context demand drives category growth"
+  ],
+  "ai-arxiv": [
+    "Sleep-inspired consolidation solves quadratic scaling",
+    "Self-generated replay eliminates stored exemplars",
+    "Causal methods reframe LLM experimental design",
+    "Decentralized video generation training submitted",
+    "Benchmark auditing frameworks address reliability crisis",
+    "Inference-time safety controls gain research focus"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 5 million downloads",
+    "Qwen 3.6 family claims eight top-30 spots",
+    "ByteDance Lance pushes any-to-any multimodal",
+    "Sulphur-2-base nears 1.4 million downloads",
+    "MiniCPM-V-4.6 advances vision-language boundaries",
+    "Microsoft Lens-Turbo debuts text-to-image research"
+  ],
+  "ai-community": [
+    "Cursor 3 parallel agents get workflow tutorials",
+    "Pope's AI encyclical draws 53 Lobste.rs comments",
+    "Usage-based billing patterns emerge for agents",
+    "OpenClaw vs CraftBot local agent comparison ships",
+    "Open/closed problem sparks philosophical debate",
+    "Network security lags behind AI-generated code"
+  ]
+}

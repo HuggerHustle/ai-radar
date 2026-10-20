@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code removes /buddy, faces 506 upvote backlash",
+    "OpenAI Codex adds conversational permissions, timers",
+    "Gemini CLI surges with 48 PRs on Windows/WSL fixes",
+    "All major tools converge on agentic session management",
+    "Memory management becomes new battleground for trust",
+    "Cost transparency emerges as key differentiator"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues/PRs in 24 hours",
+    "v2026.4.12-beta.1 hardens plugin security architecture",
+    "76% open issue rate signals healthy backlog",
+    "GPT-5.4 agentic parity drives community focus",
+    "Memory/dreaming features top request list",
+    "Two releases ship in past two days"
+  ],
+  "ai-trending": [
+    "NousResearch/hermes-agent gains 7,454 stars",
+    "microsoft/markitdown adds 2,513 stars today",
+    "Archon emerges as first open-source harness builder",
+    "Agent harness category marks production maturation",
+    "shiyu-coder/Kronos breaks through in financial AI",
+    "virattt/ai-hedge-fund builds autonomous trading teams"
+  ],
+  "ai-hn": [
+    "Claude Opus 4.6 drops from 83% to 68% on BridgeBench",
+    "Anthropic quota exhaustion erodes developer trust",
+    "Silent cache downgrades spark community backlash",
+    "Claudraband wrapper hits 85 points on Show HN",
+    "European AI sovereignty gains traction via Mistral",
+    "Valuation corrections signal maturing critical market"
+  ],
+  "ai-ph": [
+    "Claude for Word leads with 355 votes",
+    "Claude Code ultraplan takes second at 319 votes",
+    "Ambient AI companions replace chat interfaces",
+    "Clicky brings cursor-side AI to Mac",
+    "5 of 15 products now open-source",
+    "Meta-problems dominate: measuring, monitoring, protecting"
+  ],
+  "ai-hf": [
+    "Gemma-4 family dominates with 26B-31B variants",
+    "HauhauCS/Qwen3.5-35B-A3B-Uncensored hits 1M downloads",
+    "Jackrong's Claude-4.6-Opus distillation leads weekly likes",
+    "unsloth provides three Gemma-4 GGUF releases",
+    "zai-org/GLM-5.1 introduces MoE-DSA architecture",
+    "LiquidAI's LFM2.5-VL pushes sub-billion vision-language"
+  ],
+  "ai-community": [
+    "Banks deploy first MCP server via Nymbus",
+    "Salesmotion turns AI into live pipeline analyst",
+    "30 MCP-related CVEs found in 60 days",
+    "Local LLM setups gain privacy-focused traction",
+    "Developers question if AI tools accelerate shipping",
+    "Lobste.rs debates what it's like to be an LLM"
+  ],
+  "ai-weekly": [
+    "Anthropic unveils Claude Mythos Preview and Project Glasswing",
+    "Anthropic announces $30B run-rate, multi-gigawatt TPU deal",
+    "Anthropic launches Managed Agents architecture",
+    "Claude for Healthcare and Financial Services released",
+    "OpenAI acquires Cirrus Labs amid talent consolidation",
+    "Hermes Agent gains 7,454 GitHub stars in one day"
+  ]
+}

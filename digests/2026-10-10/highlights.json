@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.296 released with new skills",
+    "OpenAI Codex updates: rust-v0.163.0-alpha.5",
+    "Gemini CLI v0.65.0-nightly now live",
+    "Qwen Code gains multi-agent coordination",
+    "Pi tool now supports session resilience",
+    "OpenCode launches MCP-driven workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw 2026.9.8 stuck in publishing phase",
+    "500+ issues reported in OpenClaw ecosystem",
+    "Critical fix: llama-server orphan process resolved",
+    "GitHub profile verification added to agents",
+    "Hermes Agent hits 252K stars on GitHub",
+    "ZeroClaw launches agent sandboxing feature"
+  ],
+  "ai-infra": [
+    "vLLM stable; v0.31.0 pending release",
+    "SGLang main branch unstable for TP8",
+    "Ollama 0.40.x marked unstable",
+    "LiteLLM dev release fixes security flaw",
+    "Unsloth no new release since Nov 2025",
+    "llama.cpp patch builds only available"
+  ],
+  "ai-trending": [
+    "Codewhale: 41K stars, Rust agent engine",
+    "ECC: 276K stars, agent harness for Claude",
+    "BerriAI/litellm: 95 stars, unified API gateway",
+    "Open-code-review: 326 stars, hybrid code review",
+    "Hermes Agent: 252K stars, self-evolving framework",
+    "Agent workflow trends dominate GitHub"
+  ],
+  "ai-web": [
+    "Anthropic releases 'Investigating Unintended Actions'",
+    "Claude Corps: $150M national fellowship launched",
+    "OSS Scanner: opt-in vulnerability finder live",
+    "Claude Science discovers new astronomical data",
+    "Anthropic publishes transparency report",
+    "Real-world AI safety risks highlighted"
+  ],
+  "ai-hn": [
+    "Anthropic AI falsely reports homicide",
+    "OpenAI withdraws 3 math results",
+    "Step 5 Preview: 1M-context MoE model",
+    "Mistral Large 4: game-changer for inference",
+    "Training without VAEs: major breakthrough",
+    "Safety researchers fired at OpenAI"
+  ],
+  "ai-ph": [
+    "OpenSwarm leads PH with 383 votes",
+    "Claude Haiku 5.5: faster lightweight model",
+    "OpenSEO: open-source SEO alternative",
+    "Clippo: agent orchestration tool",
+    "Markdoc: AI workflow integration",
+    "Polylane for Vercel: ambient assistant"
+  ],
+  "ai-arxiv": [
+    "Predicting alignment with value representations",
+    "Psychometric audit of AI safety benchmarks",
+    "METR: time-horizon metrics for agents",
+    "BrickBench: agentic LEGO design benchmark",
+    "FAITH: proactive safety framework",
+    "WOVEN: multimodal spatial reasoning"
+  ],
+  "ai-community": [
+    "AI agents crown themselves king in test",
+    "Offline AI predicts frost dates locally",
+    "Super-intelligent yes-men: truth ignored",
+    "Local models gain traction in rural areas",
+    "Voice-driven AI experiences trending",
+    "16.9MB speech-to-text engine released"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Security-first maturation phase underway",
+    "MCP ecosystem integration becomes universal",
+    "Major tools: Claude Code v2.1.187, Gemini CLI",
+    "Enterprise audit trails shaping features",
+    "Community frustrated by cross-platform bugs",
+    "Rapid releases create innovation and instability"
+  ],
+  "ai-agents": [
+    "OpenClaw ecosystem: 188 issues, 500 PRs",
+    "Path 3 migration refactors session store",
+    "Critical 'diamond lobster' bugs remain open",
+    "31 PRs merged or closed today",
+    "High activity but review bottleneck evident",
+    "No new releases published today"
+  ],
+  "ai-trending": [
+    "Shift from vibe coding to agentic engineering",
+    "OpenMontage: +3,592 stars today for video AI",
+    "NousResearch/hermes-agent tops 200K stars",
+    "ByteDance deer-flow SuperAgent harness",
+    "Agent-specific operating systems emerge",
+    "Multi-agent production systems rising"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude Tag in Slack",
+    "65% of Anthropic code now AI-generated",
+    "Claude Tag redefines AI as persistent teammate",
+    "Strategic pivot to autonomous colleagues",
+    "OpenAI had no new content today",
+    "Direct competition with embedded agents"
+  ],
+  "ai-hn": [
+    "Anthropic outage sparks user backlash",
+    "Age verification policy shift controversial",
+    "OpenAI GPT-5.5-Cyber security pivot",
+    "OpenAI ad pitch to marketers raises concerns",
+    "TikZ Editor tops HN with 314 points",
+    "No AI Co-Authors manifesto gains traction"
+  ],
+  "ai-ph": [
+    "AgentX leads with 553 votes for agent eval",
+    "Skybridge: 534 votes for MCP development",
+    "Clawd: local offline AI browser pet",
+    "Open-source local-first tools gaining demand",
+    "Legal AI and design tools show vertical growth",
+    "Top 3 target agent stack layers"
+  ],
+  "ai-arxiv": [
+    "Randomized YaRN boosts LLM length generalization",
+    "Tapered Language Models challenge uniform layers",
+    "Limits of prompt-conditioned learning probed",
+    "Multi-agent systems research surging",
+    "Dexterous robotics moving to real-world",
+    "Safety metric reliability questioned"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 5,030 likes",
+    "Gemma-4 ecosystem exploding with fine-tunes",
+    "nvidia/LocateAnything-3B: 2,315 likes",
+    "GLM-5.2 MoE-DSA maintains strong momentum",
+    "Uncensored Qwen3.6 hits 3.95M downloads",
+    "Community quantizations show massive demand"
+  ],
+  "ai-community": [
+    "Agent memory loss is dominant theme",
+    "80/20 rule of AI code generates debate",
+    "1991 Munich roots of AI boom explored",
+    "Prompt injection as role confusion flagged",
+    "LLM visibility tools push for transparency",
+    "Local voice assistants gain traction"
+  ]
+}

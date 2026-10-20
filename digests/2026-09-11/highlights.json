@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.268 released",
+    "OpenAI Codex: 3 Rust alphas out",
+    "Gemini CLI: nightly v0.61.0 released",
+    "GitHub Copilot CLI v1.0.84-4 live",
+    "Pi has 10 open PRs, active discussions",
+    "Qwen Code hits 107 open issues"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.6.35: final LTS release",
+    "Safer provider boundaries in OpenClaw",
+    "Security hardening for native integrations",
+    "Process leaks and session corruption reported",
+    "Hermes Agent gains traction in research",
+    "IronClaw now supports multi-agent orchestration"
+  ],
+  "ai-infra": [
+    "vLLM: 82 open issues, high latency focus",
+    "SGLang integrates DSV4.1, CI/CD blockers",
+    "llama.cpp: b10901 & b10899 releases",
+    "Ollama: critical CVEs dominate issues",
+    "LiteLLM: stable release expected soon",
+    "Unsloth leads in fine-tuning speed"
+  ],
+  "ai-trending": [
+    "vercel-labs/skills: 122 stars, modular AI",
+    "OmniRoute: 626 stars, 352 providers",
+    "affaan-m/ECC: 255K stars, agent optimization",
+    "OpenMAIC: immersive AI education agents",
+    "Vibe-Trading: AI agents for finance",
+    "ECC: security-first agent harness"
+  ],
+  "ai-web": [
+    "Anthropic $50B US infrastructure push",
+    "Bun acquisition boosts Claude Code",
+    "Claude Opus 4.5 exploits $4.6M smart contracts",
+    "Claude Code hits $1B run-rate revenue",
+    "Microsoft, Salesforce, Snowflake partnerships",
+    "Accenture joins Claude enterprise rollout"
+  ],
+  "ai-hn": [
+    "SWE-2 scores 92.8 on Terminal-Bench",
+    "GPT-6 Astra: looped transformers debate",
+    "OpenAI Navier-Stokes includes Lean 4 proof",
+    "OpenAI re-enabled 'allow training' setting",
+    "Meta's Muse sparks autonomy debate",
+    "Viral 'blue Add to Cart' prompt injection"
+  ],
+  "ai-ph": [
+    "Mastra Factory: 479 votes, full automation",
+    "Harden: 399 votes, agent integrity layer",
+    "ChatGPT Images 2.5: refined image quality",
+    "AlphaGenome Atlas: DNA mutation mapping",
+    "49agents IDE: fatigue-free agent execution",
+    "Agent workflows dominate new product launches"
+  ],
+  "ai-arxiv": [
+    "IdeaAMBIG: benchmarking implementation gaps",
+    "ConvMem: convolutional memory for LLMs",
+    "Fortunate Recall: ontology-driven memory",
+    "Formal resolution of gap-entropy conjecture",
+    "KV-cache reuse across contexts breakthrough",
+    "View-structured conformal prediction advances"
+  ],
+  "ai-community": [
+    "AI agents break systems silently (Dev.to)",
+    "Lena signed client—AI unaware of audit",
+    "CauterRule detects redundant code changes",
+    "Cost control: MCP and token budgets hot topics",
+    "Model performance: RAG vs HNSW debates",
+    "Guardrails and local-first workflows rising"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.84–85 shipped with Agent Teams",
+    "OpenAI Codex rust-v0.117.0 stable with MCP extraction",
+    "Gemini CLI v0.36.0-preview.4 fixes infinite loops",
+    "8 releases across 5 tools in 24 hours",
+    "MCP now universal interoperability standard",
+    "Terminal UI reliability issues dominate feedback"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "Stability crisis: versions 2026.3.12–24 crash",
+    "Users advised to pin to 2026.3.8 or earlier",
+    "PR merge rate only 25.6% (quality-focused)",
+    "128 PRs merged today amid firefighting",
+    "Linux/Windows apps still unfulfilled promise"
+  ],
+  "ai-trending": [
+    "deer-flow +2,394 stars: ByteDance SuperAgent harness",
+    "last30days-skill +2,685 stars: cross-platform research agent",
+    "RuView +1,002 stars: WiFi-based DensePose sensing",
+    "ollama now supports Kimi-K2.5, GLM-5, MiniMax",
+    "unsloth: 2x faster fine-tuning, 70% less memory",
+    "firecrawl: 98,812 stars for web-to-LLM pipelines"
+  ],
+  "ai-web": [
+    "Anthropic published 4 substantial research pieces",
+    "Project Vend Phase Two: Claude 4.0/4.5 economic agent",
+    "Mozilla Firefox: Claude Opus 4.6 found 14 high-severity bugs",
+    "Project Fetch: Claude-trained robot dog in half the time",
+    "OpenAI published zero articles today",
+    "Claude enabling autonomous business operation"
+  ],
+  "ai-hn": [
+    "$500 GPU outperforms Claude Sonnet on coding",
+    "Federal judge blocks Pentagon Anthropic supply chain ban",
+    "Claude Code users rage over tightened session limits",
+    "$7 VPS-hosted agents trending on Show HN",
+    "Executable oracles prevent bad LLM code",
+    "Strong appetite for self-hosted AI alternatives"
+  ]
+}

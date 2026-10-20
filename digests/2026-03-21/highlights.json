@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.81 adds --bare flag for CI/CD",
+    "OpenAI Codex Rust alpha 0.117.0-alpha.6 released",
+    "Gemini CLI patches 2 critical OOM bugs",
+    "50+ issues tracked across tools in 24 hours",
+    "MCP emerging as universal plugin standard",
+    "Token burn regression draws 162 comments on Codex"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24h",
+    "245 PRs merged indicating continuous integration",
+    "API key mask reduced from 16 to 4 characters",
+    "77% open issue ratio signals growth phase",
+    "v2026.3.13 remains current stable release",
+    "Infrastructure strain on auth and gateway stability"
+  ],
+  "ai-trending": [
+    "claude-hud gains +1,068 stars for observability",
+    "superpowers framework explodes +2,819 stars today",
+    "langchain-ai/open-swe adds +635 stars",
+    "PDF-to-AI pipeline tool gains +1,812 stars",
+    "Rust and Python dominate new infrastructure",
+    "TypeScript consolidates agent interface hold"
+  ],
+  "ai-web": [
+    "Anthropic Academy launches with two major tracks",
+    "Claude 4.6 Opus revealed alongside 4.5 family",
+    "New Files API and PDF support announced",
+    "Experimental prompt generation APIs introduced",
+    "Six official SDKs including Java, Go, Ruby",
+    "OpenAI publishes zero new articles today"
+  ],
+  "ai-hn": [
+    "OpenCode launch dominates front page with 309 points",
+    "OpenAI rumored desktop superapp sparks discussion",
+    "Covenant-72B is largest decentralized LLM pre-training run",
+    "Pentagon concerns over Anthropic's Chinese workforce",
+    "H&R Block TLS backdoor controversy emerges",
+    "149 comments on OpenCode signal strong community interest"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 hot issues today",
+    "OpenAI Codex: 3 alpha releases in 24h",
+    "Gemini CLI: nightly release v0.62.0",
+    "Pi v0.86.1 released with fixes",
+    "Qwen Code sees 10 new issues",
+    "GitHub Copilot CLI no new release"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues in 24h",
+    "Critical memory leaks in OpenClaw",
+    "No release notes for v2026.9.5",
+    "SQLite WAL growth bug reported",
+    "Process leaks causing crash loops",
+    "Update failures marked P0 severity"
+  ],
+  "ai-infra": [
+    "vLLM: 13 high-severity issues open",
+    "SGLang CI flakiness reported",
+    "llama.cpp: 3 incremental updates",
+    "Ollama: 16 open high-severity issues",
+    "LiteLLM: stability concerns grow",
+    "Unsloth: edge deployment advances"
+  ],
+  "ai-trending": [
+    "ECC: 263K stars, rising fast",
+    "security-audit-skill: +2.4K stars",
+    "Agent skills gaining traction",
+    "TypeScript dominates AI projects",
+    "Claude Code driving agentic trends",
+    "Research-first agent engineering"
+  ],
+  "ai-hn": [
+    "Qwen Image 2.1: open-weight launch",
+    "Cache-to-Cache LLM communication",
+    "Two-brain theory: neuroscience breakthrough",
+    "ChatGPT tracking user behavior?",
+    "New models challenge AI hype",
+    "Ethics debate intensifies on HN"
+  ],
+  "ai-ph": [
+    "Bolt Forge: 50X faster usage",
+    "VoiceCap: real-time multilingual transcribe",
+    "Ruby UTCP: secure tool calling alternative",
+    "Doneit 3.2: Siri AI integration",
+    "Bolt Forge leads Product Hunt",
+    "Seamless workflow integration trend"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B: 7.3M downloads",
+    "unsloth/Qwen3.8-27B-GGUF: 6.9M dl",
+    "LTX-2.5: video generation surge",
+    "MiniMax-H3 gains traction",
+    "Edge0-35B-A3B-preview: MoE model",
+    "Fable-Cold-Fusion: uncensored tune"
+  ],
+  "ai-community": [
+    "DevSecOps pipeline for AI agents",
+    "DPO/RLHF shapes AI alignment",
+    "Flow state disrupted by AI coding",
+    "Secret leaks in AI tooling",
+    "Budget burn rates under scrutiny",
+    "Jev and Orca gain community interest"
+  ]
+}

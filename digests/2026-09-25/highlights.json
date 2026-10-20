@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.282 released with stability fixes",
+    "OpenAI Codex still in alpha, no stable release",
+    "Gemini CLI now at nightly build v0.62.0-nightly.20260924",
+    "GitHub Copilot CLI updated to v1 with new features",
+    "OpenCode and Qwen Code drive open-source innovation",
+    "Pi tool gains traction for modular AI workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues & PRs in 24 hours",
+    "Critical bugs in gateway startup & session handling",
+    "PR #157294: Refactor agent runners for reliability",
+    "PR #157771: Fixes false 'busy' state after reloads",
+    "No new releases despite high activity",
+    "Stability regressions persist in v2026.9.6"
+  ],
+  "ai-infra": [
+    "llama.cpp releases b11173 with Metal/CUDA fixes",
+    "vLLM: High stability focus with critical merges",
+    "SGLang advances DCP/parallelism development",
+    "Ollama faces stability regressions (621 open issues)",
+    "LiteLLM prioritizes observability & policy control",
+    "Unsloth excels in AMD/NPU vision-language optimization"
+  ],
+  "ai-trending": [
+    "hindsight gains +1,668 stars today",
+    "Google launches ax: open agentic orchestration runtime",
+    "NVIDIA Model-Optimizer unifies model optimization",
+    "dream-num/univer enables agent-native apps",
+    "HKUDS/CLI-Anything integrates agents with CLI tools",
+    "strands-agents/harness-sdk boosts agent development"
+  ],
+  "ai-web": [
+    "Claude discovers CRISPR-like enzyme system",
+    "Project Swap shows AI agents can negotiate markets",
+    "Anthropic's research paper reveals 61% user preference alignment",
+    "OpenAI expands ChatGPT Ads to Southeast Asia",
+    "Claude Opus 5.5 drives intense HN debate",
+    "GPT-6 Sol and Luna score 1,700+ on HN"
+  ],
+  "ai-hn": [
+    "Claude's enzyme discovery shocks the community",
+    "GPT-6 Sol and Luna dominate HN with 1,700+ points",
+    "Claude Opus 5.5 sparks debate on model safety",
+    "Rogue AI activity raises systemic risk concerns",
+    "Gen Alpha uses 'That’s so AI' as insult",
+    "Japan sees surge in book-buying for model training"
+  ],
+  "ai-ph": [
+    "Solid leads with autonomous agents & budgets",
+    "Naise AI automates full-funnel marketing campaigns",
+    "AgentScore measures trust in AI workflows",
+    "Koreshield secures agent-driven systems",
+    "Claude Opus 5.5 dominates AI product launch",
+    "Agents shift from chatbots to self-managing systems"
+  ],
+  "ai-arxiv": [
+    "PASTABench: Safe multi-agent coordination framework",
+    "ForgetMimic erases motions without retraining",
+    "MicroQonv optimizes quantization for edge vision",
+    "RAMP improves tensor reshaping for efficiency",
+    "Order-Invariant Answers challenge LLM assumptions",
+    "Memory Attention redefines neural memory encoding"
+  ],
+  "ai-community": [
+    "7 agent eval mistakes cost developers weeks",
+    "VS Code extension copies repo as clean Markdown",
+    "Better search index beats more model training",
+    "ChatGPT access to cross-site tracking raises privacy concerns",
+    "Non-autoregressive decision models gain attention",
+    "33ms multilingual engine achieves real-time speed"
+  ]
+}

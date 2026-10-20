@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.92 adds enterprise policy controls",
+    "OpenAI Codex ships 3 alphas in 24 hours",
+    "Codex migrates to Rust CLI with WebRTC",
+    "Kimi Code CLI proposes Bun runtime rewrite",
+    "Token metering emerges as universal pain point",
+    "Rust vs TypeScript runtime debate intensifies"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "ACP protocol refinements top maintainer priority",
+    "Regression density elevated post-2026.3.28",
+    "Plugin SDK hardening drives stabilization phase",
+    "Cross-platform desktop apps in high demand",
+    "MCP protocol support requested by community"
+  ],
+  "ai-trending": [
+    "OmX gains +1,789 stars as breakout project",
+    "Block's Goose agent hits +935 stars",
+    "Microsoft launches agent-framework for enterprise",
+    "mlx-vlm debuts with +343 Apple Silicon stars",
+    "Composability beats chat in 2026 demand",
+    "Local-first AI agents dominate developer interest"
+  ],
+  "ai-hn": [
+    "Anthropic emotion research sparks 140 comments",
+    "Microsoft's 18x return revealed in cap table",
+    "Half of US data center builds face delays",
+    "sllm.cloud gains traction for GPU sharing",
+    "Developer ban controversy hits Anthropic",
+    "Show HN clusters on token management tools"
+  ],
+  "ai-ph": [
+    "Google Gemma 4 leads with 412 votes",
+    "Cursor 3 unifies local/cloud agent execution",
+    "Straude gamifies Claude Code with leaderboards",
+    "ZooClaw consolidates AI specialists at 372 votes",
+    "AI-native IDEs mature toward orchestration",
+    "Developer tooling dominates consumer apps"
+  ],
+  "ai-hf": [
+    "Gemma-4 31B hits 287K downloads in debut",
+    "Qwen3.5-Claude distillate tops at 2,289 likes",
+    "Unsloth GGUF ports see massive volumes",
+    "Netflix enters open model with video inpainting",
+    "Cohere expands into speech recognition",
+    "1-bit compression research from prism-ml"
+  ],
+  "ai-community": [
+    "$3M bet on 12-day-old AI startup closes",
+    "Intelligence-per-token becomes 2026's key metric",
+    "Fake AI tool deletes 150 repos in attack",
+    "OpenAI raises $122B at $852B valuation",
+    "Gemma 4 tutorials flood developer blogs",
+    "Vibecoding debate splits code quality camps"
+  ]
+}

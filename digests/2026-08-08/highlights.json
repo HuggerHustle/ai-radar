@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "AI CLIs split into enterprise vs community tracks",
+    "Session lifecycle reliability dominates issue trackers",
+    "Gemini CLI shipped an SSRF fix",
+    "Kimi CLI had destructive rm -rf in yolo mode",
+    "DeepSeek TUI ExecPolicy bypass reported",
+    "MCP memory leaks and zombie processes across four tools"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24 hours",
+    "No new OpenClaw releases this window",
+    "P0/P1 SQLite migration and state corruption issues",
+    "Gateway memory leaks and premature compaction flagged",
+    "95 PRs merged/closed in last 24 hours",
+    "Fixes target session-state and process-lifecycle bugs"
+  ],
+  "ai-infra": [
+    "SGLang v0.5.17 ships with Kimi K3 day-0 support",
+    "llama.cpp released 9 versions (b10308 to b10326)",
+    "DeepSeek-V4-Flash/0731 unstable across inference engines",
+    "Gemma-4 KV corruption and DSpark CUDA-graph crashes",
+    "AMD/Vulkan silent wrong-output bugs remain open",
+    "LiteLLM adds cache-warmth-aware routing"
+  ],
+  "ai-trending": [
+    "PrimeIntellect prime-agent gains +2,293 stars in one day",
+    "Four agent-skills repos trend on GitHub",
+    "Cloudflare computer-use project appears in trending",
+    "Context engineering: semantica, mem0, claude-mem trending",
+    "11 of 17 trending repos are AI-relevant",
+    "Focus shifts to reusable skills and persistent memory"
+  ],
+  "ai-web": [
+    "Anthropic cuts Fable 5 biology fallbacks by ~85%",
+    "Fable 5 expands everyday health and educational queries",
+    "Hard gates remain on virology and toxicology",
+    "Anthropic bets on biology and medicine vertical",
+    "OpenAI published no new content in this crawl",
+    "Trusted access pathways planned for professional research"
+  ],
+  "ai-hn": [
+    "LLMs reward expertise tops HN with 1,402 points",
+    "AMD's Taalas acquisition sparks 882-point discussion",
+    "Google DeepMind leadership changes draw 847 points",
+    "Qwen3.8 Max tops agentic index (533 points)",
+    "OpenAI improves GPT-5.6 Sol and expands Luna access",
+    "HN shifts from capabilities to managing AI"
+  ],
+  "ai-ph": [
+    "Cloudflare OS tops Product Hunt as AI operating system",
+    "Rippling AI Spend Console drives 124 comments",
+    "Superlog Responder open-source bug-fixer gets 294 votes",
+    "Meta's Muse Code terminal agent gets 241 votes",
+    "CopilotKit Channels SDK for deploying agents",
+    "Grounding tools: Brandfetch MCP and Shieldstral"
+  ],
+  "ai-arxiv": [
+    "Selective Context Preference Optimization teaches trust",
+    "RRC unlocks generative reward models for RL",
+    "On-policy self-distillation works without supervision",
+    "Agent research targets tool-calling and trajectories",
+    "Meta-benchmarks and audits scrutinize evaluation metrics",
+    "New optimal agnostic PAC learner closes statistical gap"
+  ],
+  "ai-hf": [
+    "MiniMax-H3 video ecosystem dominates Hugging Face trending",
+    "Comfy-Org/MiniMax-H3 hits 3.14M downloads",
+    "DeepSeek-V4-Flash-0731 reaches 702,709 downloads",
+    "Kimi-K3 leads new multimodal releases at 10,282 likes",
+    "LiquidAI LFM2.5-2.6B gains traction for edge inference",
+    "Uncensored Qwen3.6 GGUF variants occupy trending share"
+  ],
+  "ai-community": [
+    "Dev.to: observability vs reality gap discussed widely",
+    "Agent observability reframed as semantic evaluation problem",
+    "Prompt-injection detectors show language bias",
+    "Agent sandboxes limit blast radius in Kubernetes",
+    "Lobste.rs: random-walk models for social rabbit holes",
+    "Builders focus on debugging and cost-managing agents"
+  ]
+}

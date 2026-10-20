@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.288 released with stability fixes",
+    "OpenAI Codex now in rust-v0.162.0-alpha.8",
+    "Gemini CLI nightly update: v0.64.0-nightly.20261002.gc9096a847",
+    "Qwen Code v0.24.7-nightly released for better agent workflows",
+    "GitHub Copilot CLI v1.0.92-3 now stable with new tooling",
+    "Pi CLI gains traction with 4 active discussions"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.8.35 (extended-stable) released with security fixes",
+    "Critical crash loop resolved in OpenClaw MCP server init",
+    "Memory corruption fix in long-lived agent sessions",
+    "New model support: Google Vertex Gemini 3.1 Pro Preview",
+    "30+ high-priority PRs under review in OpenClaw",
+    "Agent stability issues dominate community bug reports"
+  ],
+  "ai-infra": [
+    "vLLM sees 12 open issues on SM120/ROCm fixes",
+    "SGLang focuses on speculative decoding stability",
+    "llama.cpp releases b11364, b11362, b11355 today",
+    "Ollama and LiteLLM lead in cross-provider proxying",
+    "Unsloth bridges local runtime and agent-native workflows",
+    "Critical regressions block production use in vLLM"
+  ],
+  "ai-trending": [
+    "DietrichGebert/ponytail: 151K stars, viral for AI efficiency",
+    "affaan-m/ECC: 271K stars, agent harness for Claude & Codex",
+    "NVIDIA/OpenShell: Rust-based private AI runtime",
+    "mksglu/context-mode: reduces session memory by 98%",
+    "mem0ai/mem0 enables persistent context across sessions",
+    "thedotmack/claude-mem adds memory to Claude agents"
+  ],
+  "ai-web": [
+    "Anthropic launches $100M Claude Frontier Academy",
+    "Claude Frontier Academy targets 10K enterprise engineers",
+    "McKinsey, Deloitte join first cohort of training program",
+    "OpenAI publishes 'Practical Guide Building GPT-6'",
+    "GPT-6 guide hints at imminent technical maturity",
+    "Enterprise adoption accelerates with certified FDEs"
+  ],
+  "ai-hn": [
+    "Gemini 4 Argon dominates HN with 1683 score",
+    "FLUX 3 Image praised for speed and image quality",
+    "AI masters Stratego—opaque info handling breakthrough",
+    "ds4: lightweight LLM runner from Redis creator",
+    "Rai and OpenDLSS gain traction for local inference",
+    "macOS access controls raise AI agent security concerns"
+  ],
+  "ai-ph": [
+    "Monospace from Directus leads PH with 457 votes",
+    "Dots by OpenAI: always-on autonomous agent",
+    "Polylane automates incident detection and repair",
+    "JevGPT: open-source AI agent gaining momentum",
+    "Cura: AI travel agent with real-world use case",
+    "Omnia Agent: SEO automation for content teams"
+  ],
+  "ai-arxiv": [
+    "LLM2Jev paper reveals LLMs as Jev-style decision models",
+    "TACO fine-tuning enables scalable LLM training",
+    "KaliBench benchmark tests real-world tool use",
+    "HumanoidToolBench evaluates physical coordination",
+    "Self-repair phenomena studied in mechanistic analysis",
+    "Interpretability research advances circuit discovery"
+  ],
+  "ai-community": [
+    "73% of AI models ignored real company hacking target",
+    "Repacked QAT Gemma 4 hits 675 tokens/sec on TPU v5e",
+    "Model-swapping attacks expose data leakage risks",
+    "Quantization boosts local inference performance",
+    "Prompt engineering focus grows for adversarial robustness",
+    "Watermark removal techniques raise trust concerns"
+  ]
+}

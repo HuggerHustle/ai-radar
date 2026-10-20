@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Gemini CLI hits 50 PRs in 24 hours with AgentSession refactor",
+    "Kimi CLI merges plugin system, community contributions surge",
+    "Claude Code releases v2.1.80 with hook system hardening",
+    "OpenAI Codex ships rust-v0.116.0 with V8 migration",
+    "Qwen Code and OpenCode lead open extensible platform trend",
+    "Copilot CLI stagnates at v1.0.9 with terminal UX debt"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "Linux GTK4 companion app PR under active review",
+    "WhatsApp Web listener regressions being fixed post-2026.3.13",
+    "Active phishing scam exploiting OpenClaw name detected",
+    "Project in stabilization phase after major release",
+    "No new release today as maintainers prioritize quality"
+  ],
+  "ai-trending": [
+    "obra/superpowers gains +3,494 stars for agentic skills framework",
+    "jarrodwatts/claude-hud hits +1,851 stars for context visibility",
+    "gsd-build/get-shit-done rises +1,491 stars for meta-prompting",
+    "shareAI-lab/learn-claude-code gains +1,448 stars for education",
+    "opendataloader-pdf hits +1,416 stars solving PDF parsing pain",
+    "Three of top 11 trending projects extend Claude Code ecosystem"
+  ],
+  "ai-web": [
+    "OpenAI publishes three articles, most active content day tracked",
+    "OpenAI acquires Astral in continued M&A expansion",
+    "Two articles on monitoring coding agents for misalignment",
+    "Anthropic publishes zero content creating narrative asymmetry",
+    "Coding agent misalignment signals operational deployment at scale",
+    "Astral acquisition marks Python tooling consolidation move"
+  ],
+  "ai-hn": [
+    "OpenAI acquires Astral: 1,181 points, 731 comments",
+    "Anthropic sues OpenCode over unofficial Claude client",
+    "EsoLang-Bench tests if LLMs truly reason or pattern-match",
+    "81k user interviews show demand for reliability over capability",
+    "Community skeptical of centralized power moves in AI",
+    "Consolidation anxiety over corporate capture of open source"
+  ]
+}

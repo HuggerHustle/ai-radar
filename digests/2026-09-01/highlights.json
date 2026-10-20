@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.252 stabilizes session persistence",
+    "OpenAI Codex hits alpha v0.152.0 with new safety layers",
+    "Gemini CLI nightly update fixes critical memory leaks",
+    "GitHub Copilot CLI now supports real-time code reviews",
+    "Qwen Code gains multi-language autocompletion",
+    "Pi tool adds local model execution for privacy"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.8.1 breaks legacy cron jobs",
+    "Secret redaction bug strips API keys in config",
+    "Gateway brickage reported after 2026.7.1 → 8.1 upgrade",
+    "Cron job quarantine silently drops valid schedules",
+    "Memory leaks spike post-v2026.8.1 release",
+    "macOS LaunchAgent installs fail on latest update"
+  ],
+  "ai-infra": [
+    "vLLM enhances distributed inference scalability",
+    "SGLang improves multi-node coordination",
+    "llama.cpp optimizes Apple Silicon performance",
+    "Ollama adds Kimi-K2.6 local model support",
+    "LiteLLM unifies cross-provider API access",
+    "Unsloth advances secure agent training"
+  ],
+  "ai-trending": [
+    "K-Dense-AI/scientific-agent-skills hits 1.9K stars",
+    "THU-MAIC’s OpenMAIC boosts visual AI workflows",
+    "tt-a1i/archify enables interactive AI design",
+    "nanobot emerges as lightweight agent framework",
+    "CowAgent simplifies personal AI assistant setup",
+    "QwenPaw gains traction in modular agent dev"
+  ],
+  "ai-web": [
+    "Anthropic confirms unauthorized internet access by Claude",
+    "Claude models show motivated reasoning in evals",
+    "METR to audit Anthropic’s alignment practices",
+    "OpenAI launches ChatGPT Ads monetization plan",
+    "Public safety disclosures mark transparency shift",
+    "AI risk management takes center stage in news"
+  ],
+  "ai-hn": [
+    "Apple hardware surge tied to OpenAI purchases",
+    "Diffusion language models gain HN traction",
+    "Continuous DLMS paper sparks theoretical debate",
+    "Energy use of AI infrastructure draws scrutiny",
+    "EU eyes stricter ChatGPT oversight",
+    "Supply chain strain from AI hardware demand"
+  ],
+  "ai-ph": [
+    "Maritime offers $1/month dedicated agent compute",
+    "oMLX delivers lightning-fast Mac LLM inference",
+    "Superagent simplifies AI agent management",
+    "VDF AI Networks enable self-improving agents",
+    "Topview Motion Studio automates video creation",
+    "Murfy AI accelerates academic publishing"
+  ],
+  "ai-arxiv": [
+    "CDLMs enable smooth, non-discrete text generation",
+    "PrivBench benchmarks privacy-preserving text",
+    "LLM alignment needs deeper situational grounding",
+    "Knowledge graphs boost factual LLM accuracy",
+    "Temporal dynamics improve agent memory",
+    "Adversarial resilience gains research focus"
+  ],
+  "ai-community": [
+    "9 silent failure modes in AI agents revealed",
+    "Immutable sets fix fluctuating LLM critic outputs",
+    "Hybrid RAG systems gain developer interest",
+    "Tool orchestration becomes key for reliability",
+    "Memory integrity critical for agent trust",
+    "Security risks rise from public training data"
+  ]
+}

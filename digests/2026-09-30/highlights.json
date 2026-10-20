@@ -1,0 +1,34 @@
+{
+  "ai-cli": [
+    "Claude Code Skills: Smart contract auditor on TON Blockchain",
+    "md2video-audio: Turn Markdown into videos with voiceover",
+    "Qwen Code: New open-source AI coding tool launched",
+    "GitHub Copilot CLI: Enhanced developer workflow support",
+    "OpenAI Codex: Active development in AI code generation",
+    "Pi: Lightweight AI assistant for developers"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.8.33 released: LTS stability fix",
+    "500 issues & PRs in 24 hours: High activity",
+    "P0 bugs: Memory leaks and gateway crashes reported",
+    "New model support: DeepSeek-v4-flash added",
+    "v2026.9.6: Latest version has critical regressions",
+    "IronClaw: Agent framework under active development"
+  ],
+  "ai-infra": [
+    "vLLM: Programmable KV cache policies now live",
+    "ROCm: AMD MI355X Qwen3.8 optimization ongoing",
+    "Intel XPU: Host memory reduction issues persist",
+    "Qwen3-VL & GLM-5.3-Flash: Full support added",
+    "Ollama: New model integration in progress",
+    "LiteLLM: Expanded multi-provider routing"
+  ],
+  "ai-trending": [
+    "OpenShell: Secure agent runtime gains 990 stars",
+    "Hindsight: Adaptive memory for AI agents",
+    "VoiceStudio: Local voice cloning explodes",
+    "dbx: 25MB database client with AI support",
+    "PageIndex: Private RAG with efficient retrieval",
+    "LEANN: Novel vector database for privacy"
+  ]
+}

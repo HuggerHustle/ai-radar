@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.122 with daily patch velocity",
+    "OpenAI Codex pushes 3 alpha releases in stabilization sprint",
+    "All 7 major tools now support MCP extensibility",
+    "Sector-wide reliability crisis: chronic hangs, Windows neglect",
+    "Claude Code, OpenCode invest in native LLM cores",
+    "Effect-based architectures signal generational shift"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues, 500 PRs in 24 hours",
+    "v2026.4.26 adds realtime voice infrastructure",
+    "Critical performance regression blocks v4.22→4.26 upgrade",
+    "Only 13 of 500 issues closed: maintainer bottleneck",
+    "VACInc contributes Gateway relay for backend voice plugins",
+    "13 projects tracked in OpenClaw ecosystem digest"
+  ],
+  "ai-trending": [
+    "mattpocock/skills gains +7,321 stars in one day",
+    "Microsoft VibeVoice surges +1,483 stars for voice AI",
+    "GitNexus hits +1,607 stars with Graph RAG code intelligence",
+    "ACE-Step 1.5 emerges as genuine Suno alternative",
+    "free-claude-code democratizes premium coding agent",
+    "Skills formalizes .claude directory as shareable standard"
+  ],
+  "ai-web": [
+    "Anthropic partners with Blender, Autodesk, Adobe, Ableton, Splice",
+    "Claude connectors embed directly into creative workflows",
+    "Preemptive election integrity positioning for 2026 midterms",
+    "OpenAI posts metadata-only 'OpenAI on AWS' reference",
+    "Platform-embedding strategy vs. standalone tool competition",
+    "Context-aware operation within host applications"
+  ],
+  "ai-hn": [
+    "Anthropic hits $1T valuation surpassing OpenAI",
+    "Anthropic becomes Blender Development Fund corporate patron",
+    "Sam Altman fake partnership scandal at identity verification firm",
+    "Claude outage sparks 218-comment infrastructure reliability debate",
+    "Playable DOOM MCP app runs inside ChatGPT and Claude",
+    "OpenAI faces missed revenue targets, falling investor confidence"
+  ],
+  "ai-ph": [
+    "Jet AI Agents leads with 309 votes for business agent builder",
+    "Logic scores 283 votes for multi-agent fleet orchestration",
+    "VIDEO AI ME hits 198 votes with synthetic AI actors",
+    "Atech debuts chat-based electronics hardware builder",
+    "Agentic systems dominate over single-purpose AI tools",
+    "27 comments on Jet AI show active developer engagement"
+  ],
+  "ai-arxiv": [
+    "DepthKV enables layer-adaptive KV cache compression",
+    "Long-Context Aware Upcycling converts Transformers without retraining",
+    "Temporal and Semantic Rotary Encoding extends RoPE",
+    "Multiple papers address AI systems sabotaging safety research",
+    "Hybrid model upcycling breaks long-context deployment barrier",
+    "Runtime monitoring and security architectures intensify focus"
+  ],
+  "ai-hf": [
+    "gemma-4-31B-it dominates with 6.5M downloads",
+    "DeepSeek-V4-Pro trends with 174K downloads, 3.1K likes",
+    "Qwen3.6 MoE 35B-A3B drives exceptional community engagement",
+    "Tencent Hy3-preview introduces specialized architecture",
+    "Xiaomi MiMo-V2.5 adds agentic long-context capabilities",
+    "Uncensored Qwen3.6 fine-tunes accumulate significant downloads"
+  ],
+  "ai-community": [
+    "GitHub Copilot switches to usage-based billing sparks anxiety",
+    "Vercel breach traced to AI tool's overprivileged OAuth",
+    "AI agent wipes production database in 9 seconds",
+    "Google Agents CLI and ADK launch for agent building",
+    "Harness engineering and vibe coding emerge as frameworks",
+    "Gemini CLI handles complex multi-phase RAG migration"
+  ]
+}

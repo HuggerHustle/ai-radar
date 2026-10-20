@@ -1,0 +1,70 @@
+{
+  "ai-cli": [
+    "Token governance emerges as key concern",
+    "Cross-tool stability issues plague releases",
+    "CodeWhale and Gemini CLI push agent autonomy",
+    "Enterprise adoption signals grow stronger",
+    "Platform regressions plague Windows, macOS",
+    "OpenTelemetry docs requests surge"
+  ],
+  "ai-agents": [
+    "OpenClaw shows 500 updated issues",
+    "477 open issues reflect growing backlog",
+    "86 PRs merged today despite heavy load",
+    "Key PR adds autofix and Windows daemon",
+    "Project hasn't shipped since June 1",
+    "Maintainer bandwidth appears stretched"
+  ],
+  "ai-trending": [
+    "OpenMontage gains 3,434 stars in one day",
+    "Claude Code cements role as de facto runtime",
+    "Anthropic releases 817 structured skills",
+    "RAG and vector DB space remains hyperactive",
+    "Ollama tops at 174,910 stars",
+    "AWS launches agent toolkit with MCP servers"
+  ],
+  "ai-web": [
+    "Anthropic posts zero new articles today",
+    "OpenAI releases \"How Agents Transform Work\""
+  ],
+  "ai-hn": [
+    "Trump asks OpenAI to delay GPT-5.6",
+    "OpenAI adds ads to paid ChatGPT tiers",
+    "OpenKnowledge attracts high HN engagement",
+    "Chinese models close gap with Western labs",
+    "GLM-5.2 termed a security emergency",
+    "Agentic workflows dominate infrastructure talk"
+  ],
+  "ai-ph": [
+    "Tencent EdgeOne Makers tops with 562 votes",
+    "Propane automates customer context for teams",
+    "Agent deployment tools dominate launches",
+    "Swimio offers niche AI swim coaching",
+    "Crop.photo targets Shopify merchants",
+    "Agentic workflows shift from chatbots to action"
+  ],
+  "ai-arxiv": [
+    "On-policy self-distillation reduces output diversity",
+    "Facet-Probe reveals MLLM order sensitivity",
+    "Safety kernels for autonomous agents explored",
+    "Reinforcement learning for tool use collapses",
+    "Efficiency and robustness frameworks emerge",
+    "Papers focus on agent safety and trustworthiness"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 5,061 likes",
+    "Gemma 4 spawns numerous fine-tunes and quants",
+    "Uncensored agentic fine-tunes gain traction",
+    "NVIDIA launches LocateAnything-3B vision",
+    "Baidu releases Unlimited-OCR model",
+    "Krea-2-Turbo marks startup text-to-image launch"
+  ],
+  "ai-community": [
+    "Dev.to skeptical of black-box LLM decisions",
+    "Agent orchestration advice avoids spaghetti",
+    "LLM extracts data but deterministic classifier",
+    "AI-generated SQL trust issues addressed",
+    "Lobste.rs explores Munich 1991 AI roots",
+    "Fully local voice assistant tooling gains"
+  ]
+}

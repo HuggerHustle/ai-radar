@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.128 shipped with MCP visibility",
+    "OpenAI Codex released 2 Rust alphas (0.1)",
+    "Agent reliability lags behind marketing promises",
+    "Terminal UI fragility hits all major tools",
+    "Vertically-integrated stacks vs model-agnostic routers split field",
+    "Unattended multi-agent orchestration remains unreliable"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "v2026.5.4-beta.1 adds file-transfer plugin",
+    "436:64 open-to-closed issue ratio shows strain",
+    "vincentkoc closed 5 PRs on auth stability",
+    "Gateway reliability emerges as critical pressure point",
+    "Third iteration of file-transfer feature ships"
+  ],
+  "ai-trending": [
+    "ruvnet/ruflo surges +2,598 stars for Claude swarms",
+    "TradingAgents gains +2,182 stars for financial AI",
+    "DeepSeek-TUI hits +1,274 stars terminal-native shift",
+    "n8n-mcp bridge connects Claude to workflows (+496)",
+    "jcode Rust coding agent harness gets +548 stars",
+    "Browserbase skills add web browsing for Claude agents"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude Opus 4.7 with self-verification",
+    "Opus 4.7 targets unsupervised delegation of hardest coding",
+    "First differential cyber capability reduction implemented",
+    "Anthropic-Blackstone-Hellman-Goldman JV for enterprise services",
+    "OpenAI only posts low-latency voice infrastructure teaser",
+    "Project Glasswing safeguards tested before Mythos Preview"
+  ],
+  "ai-hn": [
+    "OpenAI voice AI scaling architecture tops HN (231 pts)",
+    "Hallucination Is Inevitable paper sparks split reactions",
+    "XGrammar-2 delivers 80x faster structured generation",
+    "Growing skepticism about AI practical ROI emerges",
+    "Trendslop critique of AI strategic advice gains traction",
+    "Engineering trade-offs between speed and cost dissected"
+  ],
+  "ai-ph": [
+    "Radar and PandaProbe tie at 378 votes open-source",
+    "Huddle01 VMs lead agent infrastructure shift",
+    "Rosentic detects coding agent collisions pre-merge (183 votes)",
+    "AgentFlow targets sovereign enterprise AI governance",
+    "Uncluttr organizes 80+ browser tabs with AI",
+    "Developer tools dominate over consumer AI apps"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro leads with 3,528 likes, 534K downloads",
+    "Gemma-4-31B-it hits 8M+ downloads as open-weight workhorse",
+    "Qwen3.6 family drives 6M+ weekly downloads across variants",
+    "NVIDIA Nemotron-3-Nano-Omni adds any-to-any multimodal",
+    "Privacy-filter token-classifier enters top three trending",
+    "Community fine-tuning surges around Qwen and Gemma"
+  ],
+  "ai-community": [
+    "6 agent gateway platforms surveyed for production use",
+    "4 cognitive archetypes of AI-pairing developers defined",
+    "AI Gateway vs MCP Gateway vs Agent Gateway clarified",
+    "Security vulnerabilities found in AI-built production apps",
+    "LLMs distort human language, Lobste.rs critics argue",
+    "Self-improvement limits in language models examined"
+  ]
+}

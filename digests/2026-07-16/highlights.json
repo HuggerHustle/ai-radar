@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.211 released",
+    "Gemini CLI faces agent-hanging issues",
+    "Copilot CLI debugging OAuth flows",
+    "OpenCode hardening tool security",
+    "Pi tool updates in active dev",
+    "Qwen Code fixes MCP gaps"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.2-beta.1 out",
+    "Gateway crash-loop in OpenClaw 2026.7.1",
+    "New remote coding sessions launched",
+    "472 issues updated in 24 hours",
+    "500 PRs active in OpenClaw",
+    "Critical stability bugs dominating"
+  ],
+  "ai-trending": [
+    "Graphify hits 87,764 stars",
+    "Claude-mem reaches 87,407 stars",
+    "vllm leads at 86,352 stars",
+    "HKUDS Vibe-Trading +915 today",
+    "Nutlope/hallmark +1,277 today",
+    "Anti-AI-slop movement growing"
+  ],
+  "ai-web": [
+    "Claude Tag launched for Slack",
+    "Claude for Teachers free access",
+    "10 finance agent templates released",
+    "$10M Canadian AI commitment",
+    "OpenAI posts GPT Red research",
+    "Anthropic targets education vertical"
+  ],
+  "ai-hn": [
+    "Inkling: 975B open-weights LLM",
+    "Codex Micro keyboard launched",
+    "OpenAI loses EU trademark case",
+    "Anthropic IPO news debated",
+    "OpenAI Bubble essay trending",
+    "Hardware manifesto: We don't use AI"
+  ],
+  "ai-ph": [
+    "ClawTeams: proactive AI e-commerce",
+    "Pazi: vibe code for operations",
+    "PgDog scales PostgreSQL easily",
+    "Claude Overlay aids coding",
+    "Branda open-source launched",
+    "Portero MIT-licensed product"
+  ],
+  "ai-arxiv": [
+    "CAVA enforces agent permissions",
+    "Safety Sentry routes interventions",
+    "Protective capacity hallucination found",
+    "Self-improving agent architectures",
+    "Experience memory graphs advanced",
+    "Multimodal medical imaging work"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE hits 3,998 likes",
+    "Tencent Hy3 model trending",
+    "Qwen 3.6 family expanding",
+    "Agents-A1 Qwen3.5 MoE out",
+    "Ternary quantization on consumer hardware",
+    "NVIDIA large open-weight release"
+  ],
+  "ai-community": [
+    "Agent disillusionment debate surges",
+    "Local-first AI push growing",
+    "Qwen + MCP epistemic humility",
+    "Schneier on AI surveillance",
+    "Chatbot post-mortem shared",
+    "Local MCP server for codebase memory"
+  ]
+}

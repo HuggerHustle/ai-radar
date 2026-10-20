@@ -1,0 +1,34 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.86 ships with plugin expansion",
+    "OpenAI Codex rapid Rust migration underway",
+    "Two alphas released in 24 hours: 0.118.0-alpha.2/3",
+    "Gemini CLI pursues spec-driven development workflow",
+    "Kimi Code CLI prioritizes security-first defaults",
+    "MCP ecosystem support converges across all tools"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and PRs in 24 hours",
+    "Stabilization phase with zero new releases today",
+    "89% open issue rate signals active triage",
+    "Critical fixes merged for plugin unload failures",
+    "Tool execution failures dominate discourse",
+    "Latest stable: 2026.3.13 with ongoing patches"
+  ],
+  "ai-trending": [
+    "obra/superpowers: +2,752 stars today",
+    "oh-my-claudecode: +1,411 stars for multi-agent orchestration",
+    "Skills-based agent architecture emerges as dominant pattern",
+    "Ollama adds Kimi-K2.5, GLM-5, MiniMax support",
+    "LangChain pivots to agent-centric architecture",
+    "Voice AI and scientific discovery agents trending"
+  ],
+  "ai-hn": [
+    "Claude Mythos leak confirms Anthropic step-change model",
+    "Capybara may be smaller efficient variant per analysis",
+    ".claude/ folder architecture dissected: 349 upvotes",
+    "Growing HN skepticism on AI hype and business impact",
+    "Microsoft's worst quarter since 2008 sparks debate",
+    "Anthropic subscription throttling frustrates power users"
+  ]
+}

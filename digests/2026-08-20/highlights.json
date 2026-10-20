@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Nine AI CLI tools active; focus on hardening",
+    "Windows reliability is top pain point everywhere",
+    "Copilot CLI shipped three patches in 24h",
+    "Codex shipped two alphas; Git removed from trusted paths",
+    "Persistent-memory and sandbox issues dominate repos",
+    "MCP interoperability is a key cross-tool focus"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24h",
+    "40 issues closed, 84 PRs merged/closed",
+    "v2026.8.1-beta.2 validation underway via #125626",
+    "P0 regressions: session corruption, silent message loss",
+    "Triage bottleneck: critical issues await maintainers",
+    "ClawSweeper bot is shipping fix PRs"
+  ],
+  "ai-infra": [
+    "Inference stack churns on DeepSeek-V4, Kimi-K3, Qwen3.6/3.8",
+    "Speculative decoding is top shared investment and risk",
+    "Silent corruption bugs hit MoE reduce and KV-state",
+    "llama.cpp b10502 ships with signed artifact attestations",
+    "Ollama v0.32.15-rc1 adds model metadata cache",
+    "LiteLLM v1.99.0-dev.1 adds cosign verification"
+  ],
+  "ai-trending": [
+    "MoneyPrinterTurbo is biggest star gainer +2,221",
+    "mattpocock/skills +1,214 leads agent skills wave",
+    "Anthropic-Cybersecurity-Skills +767 stars today",
+    "OpenViking self-evolving context database +803",
+    "obra/superpowers +514 packages agent skills",
+    "omlx local LLM server on Apple Silicon +467"
+  ],
+  "ai-web": [
+    "OpenAI expands ChatGPT Ads across Europe",
+    "OpenAI offers zero data retention for frontier models",
+    "Anthropic published no new content today",
+    "OpenAI captures were metadata-only from URL slugs",
+    "OpenAI sitemap total grows to 918 articles",
+    "Anthropic sitemap stays at 436 articles"
+  ],
+  "ai-hn": [
+    "OpenRouter joining Stripe is top HN story",
+    "Cerebras CS-4 and Spirit Airlines data draw buzz",
+    "Claude Code weekly limits anger developers",
+    "Anthropic Agents.md refusal under fire on HN",
+    "Ornith-1.5 proposes self-scaffolding to self-improvement",
+    "'Norway should buy OpenAI' essay stirs governance debate"
+  ],
+  "ai-ph": [
+    "Clara AI SDR tops Product Hunt with 439 votes",
+    "Taku AI no-code borrowing/customizing hits 401 votes",
+    "Superflow AI automates website QA with 261 votes",
+    "ElevenLabs MCP adds voice-agent management to Claude",
+    "Shepherd, Gauge, CrewTower target agentic workflows",
+    "Hubble and Finch bring health and personal-data AI"
+  ],
+  "ai-arxiv": [
+    "TokEval introduces tokenizer evaluation suite",
+    "Recirculation improves models with no added latency",
+    "Dynamic recurrent compression adapts at test time",
+    "Fragility of self-improving agents gets scrutiny",
+    "Uncertainty-calibrated judging advances LLM evaluation",
+    "Domain AI matures in radiology, finance, speech"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B tops with 11.5K weekly likes",
+    "Kimi-K3 hits 10.9K likes and 2.3M downloads",
+    "MiniMax H3 ComfyUI port reaches 15.2M downloads",
+    "DeepSeek-V4-Flash-0731 is strong non-Qwen contender",
+    "Qwen3.8 GGUF/FP8/abliterated variants fill top 30",
+    "Abliteration/uncensoring is biggest HF community trend"
+  ],
+  "ai-community": [
+    "Dev.to questions agent memory authority and token bills",
+    "Lobste.rs probes rare books at Amazon AI facility",
+    "Developers demand provenance and hard numbers",
+    "Prompt caching explained for cost-conscious builders",
+    "Type-level guardrails for AI gain traction",
+    "Test of 5 AI engines: none agreed on SEO"
+  ]
+}

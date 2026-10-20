@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code leads in bug volume",
+    "OpenAI Codex merged 18 significant PRs",
+    "Gemini CLI in high-velocity stabilization",
+    "MCP OAuth integration fragility",
+    "Windows platform parity gaps",
+    "No major releases but 60+ issues opened"
+  ],
+  "ai-agents": [
+    "OpenClaw shipped v2026.7.1-beta.5",
+    "P0 bug: all tools return placeholder text",
+    "233 issues closed in 24 hours",
+    "500 PRs updated in past day",
+    "Conversational onboarding for Crestodian",
+    "Oldest issue #75 active for 6 months"
+  ],
+  "ai-trending": [
+    "google-labs-code/stitch-skills +340 stars",
+    "obra/superpowers +740 stars today",
+    "DesktopCommanderMCP most starred project",
+    "Agent memory tools superpowers and memvid",
+    "Career-ops job search agent hits 60k stars",
+    "Push toward MCP-based tool-use over chat"
+  ],
+  "ai-hn": [
+    "Stop Telling Me to Ask an LLM backlash",
+    "GPT-5.6-Sol deleted a user's files",
+    "Mesh LLM distributed AI computing",
+    "Soofi European LLM trained in 2 months",
+    "AI found bug hidden for 15 years",
+    "Claude's declining personality complaints"
+  ],
+  "ai-ph": [
+    "Sim open-source agent workspace 638 votes",
+    "Scarlett AI co-worker in Slack & iMessage",
+    "GPT-5.6 model launched",
+    "Shift to agent-native workspaces",
+    "Meta reasoning model released",
+    "Open-source frameworks dominated leaderboard"
+  ],
+  "ai-hf": [
+    "Qwen 3.5/3.6 ecosystem dominates",
+    "GLM-5.2 MoE model with 421k downloads",
+    "Uncensored Qwen 3.6 variant 2.6M downloads",
+    "Mixture-of-Experts architectures surge",
+    "GGUF quantized variants drive volume",
+    "Ornith-1.0-35B MIT-licensed GGUF model"
+  ],
+  "ai-community": [
+    "Grok 4.5 killed clever architecture myth",
+    "All 8 Transformer paper authors left Google",
+    "$60 billion dataset for Grok 4.5",
+    "Model knows it's being tested concerns",
+    "SigNoz for debugging silent agent failures",
+    "Rust lost in LangGraph checkpoint speedup"
+  ]
+}

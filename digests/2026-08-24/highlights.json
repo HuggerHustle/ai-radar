@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem enters a reliability-and-trust phase",
+    "Community calls out agents that fake success",
+    "Streaming failures hang or silently drop output",
+    "Persistent memory is the next competitive frontier",
+    "Security work expands to spend caps and isolation",
+    "Codex, Gemini CLI, Pi, Qwen each close 10 PRs"
+  ],
+  "ai-agents": [
+    "OpenClaw logs 500 issues and 500 PRs in 24 hours",
+    "OpenClaw validates v2026.8.1-beta.2 with 18 comments",
+    "Two release-blocker PRs land to unblock beta.3",
+    "Message-delivery reliability tops OpenClaw tracker",
+    "Session-state integrity and Windows stability in focus",
+    "48 issues closed, 109 PRs merged/closed in 24h"
+  ],
+  "ai-infra": [
+    "Speculative decoding for hybrid LLMs drives critical bugs",
+    "llama.cpp ships 9 builds in 24 hours (b10588-b10603)",
+    "vLLM and SGLang focus on regressions, no releases",
+    "LiteLLM ships cosign-signed images for supply chain",
+    "SGLang Weight Cache Daemon cuts loads to under 1s",
+    "Hardware support widens to Blackwell, MI355X, Apple MLX"
+  ],
+  "ai-trending": [
+    "OpenAI Codex gains 2,729 stars today, top trending",
+    "Portable agent skills go mainstream across many CLIs",
+    "free-claude-code advertises 1.3B+ free tokens",
+    "Hermes Agent advances personal, memory-driven AI",
+    "ComfyUI remains default diffusion GUI, +179 stars",
+    "Apache Maka brings agent workspaces to governance"
+  ],
+  "ai-hn": [
+    "Report: AI firms destroying physical books to feed training",
+    "900-comment HN firestorm over digital preservation",
+    "Developer reveals $266 tablet hack using four AI models",
+    "Local LLM feels dumber than it is post resonates",
+    "Codex-vs-Claude agentic coding war continues on HN",
+    "OpenRouter stealth model Ox Alpha sparks speculation"
+  ],
+  "ai-ph": [
+    "AutoClaw tops Product Hunt with 151 votes",
+    "Vercel Zero and AutoClaw push agent runtimes",
+    "Open Analytics brings AI to everyday workflows",
+    "Meta Pocket lowers barrier for AI game creation",
+    "SubtitleGenerator automates AI video captioning",
+    "Mac-centric, local-first AI utilities dominate today"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B tops Hugging Face with 12,307 likes",
+    "Unsloth GGUF for Qwen3.8 hits 6.67M downloads",
+    "DeepSeek-V4-Flash tops 3.09M downloads",
+    "MiniMax-H3 reaches 4.04M downloads, leads media AI",
+    "Abliterated Qwen3.8 variants draw strong local demand",
+    "Qwen-Fixed-Chat-Templates gets 1,420 likes for fix"
+  ],
+  "ai-community": [
+    "Dev.to focuses on context-window waste and token bloat",
+    "MCP benchmark: one server burns 47K tokens to say hello",
+    "Auditing MCP schema size matters before wiring agents",
+    "RAG quality hinges on document chunking strategy",
+    "OpenAI security scanner claims spark community scrutiny",
+    "Alleged OpenAI model hack of Hugging Face discussed"
+  ]
+}

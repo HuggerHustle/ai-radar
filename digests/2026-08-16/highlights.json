@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem maturing toward autonomous workflows",
+    "OpenAI Codex ships rust-v0.148.0-alpha.19",
+    "Gemini CLI v0.56.0-nightly.20260815 lands",
+    "GitHub Copilot CLI releases v1.0.81-0",
+    "Windows TUI stability remains a regression hotspot",
+    "Context reliability and MCP stability top concerns"
+  ],
+  "ai-agents": [
+    "OpenClaw saw 500 issues and 500 PRs in 24h",
+    "OpenClaw v2026.8.1-beta.2 released with hardening",
+    "Secret egress host binding blocks plaintext leaks",
+    "P1 issues include Codex and cron reliability",
+    "Message loss hit Feishu, Telegram, MS Teams",
+    "PRs target Windows cron and MCP response caps"
+  ],
+  "ai-infra": [
+    "DeepSeek-V4-Flash forces engine rewrite wave",
+    "Silent corruption is the top failure mode",
+    "vLLM and SGLang race on Rubin sm_107",
+    "llama.cpp ships 9 releases, one breaking",
+    "LiteLLM faces security findings and ghost costs",
+    "SGLang DSA zero-kernel launch risks silent output"
+  ],
+  "ai-trending": [
+    "diagram-design tops AI movers with +1,619 stars",
+    "ECC reaches 240k stars for agent engineering",
+    "hermes-agent hits 231k stars",
+    "needle packs a 14MB foundation model",
+    "Soup enables fine-tuning on 4GB laptops",
+    "unsloth gains +435 stars for local training"
+  ],
+  "ai-web": [
+    "Anthropic red team studies multiagent system risks",
+    "Anthropic details text watermarking for EU AI Act",
+    "Watermarking promises privacy and cost neutrality",
+    "Agent interactions may outpace human oversight",
+    "OpenAI posted no new content in this crawl",
+    "Anthropic publishes two trustworthiness pieces"
+  ],
+  "ai-hn": [
+    "GLM-5.3 dominates HN with 1,134 points",
+    "Gemini 3.7 Flash draws 960 points on HN",
+    "Cerebras accelerates GPT-5.6 at ultra speed",
+    "HN argues text watermarks are trivially removable",
+    "ThoughtDAG context-graph tool wins developers",
+    "GLM-5.3 cyber capabilities spark safety debate"
+  ],
+  "ai-ph": [
+    "Outcome tops PH for AI sales personalization",
+    "Munder Difflin creates AI clones to do work",
+    "min. automates post-meeting follow-ups",
+    "Freebuff and BrowserAct Cloud lead dev tools",
+    "Gemini 3.7 Flash launches on Product Hunt",
+    "Today's PH launches skew to AI coding agents"
+  ],
+  "ai-hf": [
+    "Kimi-K3 tops HF with 10,722 likes and 2.1M downloads",
+    "Qwen3.8 family spans 27B to 2.4T MoE",
+    "MiniMax-H3 Comfy-Org pack hits 12.7M downloads",
+    "DeepSeek-V4-Flash reaches 1.79M downloads",
+    "Quantization and fine-tunes are first-class on HF",
+    "Muse-Glimmer, Nemotron, LiquidAI keep momentum"
+  ],
+  "ai-community": [
+    "4,200-trial test shows where LLM agents break",
+    "Orchestrator kept choosing zero workers in test",
+    "RAG emailed confidently outside its depth",
+    "Anthropic signs EU AI Act Code of Practice",
+    "Lobste.rs discusses OpenAI–Hugging Face incident",
+    "VoiceForBharat publishes 10-day voice agents"
+  ]
+}

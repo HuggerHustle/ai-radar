@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.293 stabilizes session handling",
+    "OpenAI Codex enters alpha with rust-v0.162.0",
+    "Gemini CLI hits v0.65.0-nightly.20",
+    "Qwen Code adds Kubernetes runtime support",
+    "Pi tool enables real-time AI collaboration",
+    "GitHub Copilot CLI gains new workflow integrations"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.10.1-beta.2 fixes memory leaks",
+    "Multiple P0 bugs reported in OpenClaw stability",
+    "Hermes Agent gains multi-agent coordination",
+    "IronClaw now supports remote workspace sync",
+    "QwenPaw launches decision model integration",
+    "ZeroClaw introduces zero-trust agent sandboxing"
+  ],
+  "ai-infra": [
+    "Ollama v0.40.1 released with critical fixes",
+    "SGLang prepares for v0.5.21 release",
+    "Unsloth v0.1.904-beta launches decision models",
+    "LiteLLM v1.106.0-dev.1 adds cosign signing",
+    "vLLM stable at v0.31.0 with no new release",
+    "llama.cpp b11481 active with performance focus"
+  ],
+  "ai-trending": [
+    "ECC gains 15K+ stars in 24 hours",
+    "affaan-m/ECC optimizes agent memory & security",
+    "Graphify-Labs launches deterministic knowledge graphs",
+    "Firecrawl supercharges agents with web data",
+    "thedotmack/claude-mem boosts context retention",
+    "Ollama remains de facto standard for local LLMs"
+  ],
+  "ai-web": [
+    "Claude discovers CRISPR-like enzyme system",
+    "Anthropic expands Cyber Verification Program",
+    "CVP now includes Claude Opus 5.5 access",
+    "New research initiative: 'What do you want from AI?'",
+    "AI-first biology pivot announced by Anthropic",
+    "Scientific co-innovation milestone achieved"
+  ],
+  "ai-hn": [
+    "Mistral Large 4 pushes reasoning boundaries",
+    "AI-assisted proof of optimal square packing",
+    "OpenAI shares math breakthroughs with HN",
+    "Claude Haiku 5.5 sparks excitement",
+    "GPT-6 launch draws strong community interest",
+    "Study reveals AI-driven price discrimination"
+  ],
+  "ai-ph": [
+    "Rill Browser leads with 430 votes",
+    "OpenBot offers local Grok Bot alternative",
+    "AUDR launches open standard for agent costs",
+    "Pheebs measures team productivity with AI",
+    "Rill Browser enables real-time AI coding",
+    "OpenBot supports multiplayer, local execution"
+  ],
+  "ai-arxiv": [
+    "Caddie trains advisors using task outcomes",
+    "MIRROR enables deep LLM personalization",
+    "Decoupling logic from persona prevents pollution",
+    "2-bit KV caching improves inference efficiency",
+    "Physics-informed constraints enhance robustness",
+    "Causal discovery works under small samples"
+  ],
+  "ai-community": [
+    "AI agent merged to production—once",
+    "Safety-first code system refuses blind trust",
+    "Model swap triggered bug—systemic issue found",
+    "Prompt injection risks rising in codebases",
+    "LLM routing tools gain traction",
+    "Self-hosting and cost optimization trending"
+  ]
+}

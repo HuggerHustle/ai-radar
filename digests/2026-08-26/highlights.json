@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "11 releases shipped across tracked CLIs in 24h",
+    "Claude Code, Codex, Gemini focus on enterprise reliability",
+    "OpenCode, Pi, CodeWhale push provider neutrality",
+    "Windows packaging and MCP auth top complaints",
+    "Small reliability bugs drive outsized user frustration",
+    "Copilot CLI: 42 updated issues, zero PRs"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24h",
+    "P0 SQLite corruption regression recurs on WSL2",
+    "WhatsApp blank bubbles, Telegram stuck outbound among P1s",
+    "Security improvements and Control UI redesign landing",
+    "Beta v2026.8.1-beta.3 under heavy field scrutiny",
+    "Maintainer review bandwidth gating long-standing P1s"
+  ],
+  "ai-infra": [
+    "Speculative decoding now table-stakes, top bug source",
+    "Kimi-K3 degeneration hits both vLLM and SGLang",
+    "vLLM reverts MXFP4+block-FP8 after H100 failures",
+    "Ollama CUDA build silently drops RTX 30-series GPUs",
+    "llama.cpp v0.3.0 and Unsloth two betas shipped",
+    "Multi-vendor hardware enablement drives new kernel work"
+  ],
+  "ai-trending": [
+    "Claude Code ecosystem dominates with plugin marketplaces",
+    "GPT-Image2 prompt engineering spikes +1,698 stars",
+    "OpenAI codex terminal agent gains strong traction",
+    "Apache Maka local-first agent workspace trending",
+    "Vertical AI agents hit job search, trading, Obsidian",
+    "Local-first memory and token optimization lead themes"
+  ],
+  "ai-web": [
+    "Anthropic commits $5M to wellbeing research grants",
+    "Clio renamed to Anthropic Insights (Aug 24)",
+    "Anthropic Economic Index spans Feb 2025–Aug 2026",
+    "OpenAI publishes Full Stack Behind Abundant Intelligence",
+    "OpenAI publishes Jalapeno First Results (duplicate crawl)",
+    "Frontier lab's most comprehensive labor-market measurement"
+  ],
+  "ai-hn": [
+    "Apple M6/M5 Ultra launch tops with 916-point thread",
+    "Anthropic model adoption flag and security-strike reports",
+    "OpenAI: Jalapeño chip, GPT-5.6 price cut, Codex limits",
+    "RL-tuning Qwen to paint with code scores 194 points",
+    "agent.md, Skyrim companion, Pi Qwen excite builders",
+    "Ox-Alpha provenance debate: GLM variant or new?"
+  ],
+  "ai-ph": [
+    "Decawork tops Product Hunt with 332 votes",
+    "Offloop: shared human-AI agent workspace at 308",
+    "Navigara ties AI spend to roadmap priorities",
+    "Cost governance becomes central to AI adoption",
+    "Trend shifts to production-ready control and memory",
+    "Localdock, Bumply, Lucid Train, Codity lead dev tools"
+  ],
+  "ai-arxiv": [
+    "Papers target safety degradation from reasoning fine-tuning",
+    "Proxy-token architectures proposed for ultra-long context",
+    "New benchmarks for whole-repository code migration",
+    "Study warns multi-agent interaction can reduce diversity",
+    "Training-free acceleration for diffusion transformers",
+    "Stable critic training recipe reduces RLHF overhead"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B dominates: 15 of top 30 models",
+    "Unsloth Qwen GGUF leads downloads at 7.3M",
+    "DeepSeek-V4-Flash passes 3.5M downloads",
+    "Kimi-K3 hits 10,996 likes; MiniMax-H3 4.6M downloads",
+    "Abliterated/uncensored Qwen fine-tunes proliferate",
+    "Ornith-1.5-35B-A3B MoE offers efficiency/quality trade-off"
+  ],
+  "ai-community": [
+    "PlannerCritic shares prompt-injection defense case study",
+    "RAG retrieval checklist draws 25 reactions on Dev.to",
+    "Lobste.rs discusses local AI inference on Apple silicon",
+    "Shift from vibe coding to responsible agentic engineering",
+    "Identity and authorization emerge as agent best practices",
+    "Bongard problems surface as reasoning benchmark"
+  ]
+}

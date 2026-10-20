@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Claude Code ships patches v2.1.231 and v2.1.232",
+    "Qwen Code, OpenCode, Pi push multi-agent features",
+    "Top frictions: context-window, Windows, MCP OAuth",
+    "Security work targets supply-chain CVEs and fail-open bugs",
+    "Grok Build stays dormant; Kimi CLI has two reliability issues",
+    "Established CLIs ship patch releases and harden infrastructure"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs updated in 24h",
+    "No new OpenClaw release; heavy maintenance phase",
+    "P1 reliability bugs hit message delivery, subagents, auth",
+    "Maintainer review bottleneck flags many high-severity issues",
+    "Control UI fix stops duplicate history entries in nav",
+    "Slack settings fix applies global defaults to new messages"
+  ],
+  "ai-infra": [
+    "vLLM and SGLang race on sparse-MLA and gfx950 kernels",
+    "llama.cpp ships 10 incremental builds (b10411-b10423)",
+    "LiteLLM consolidates billing and access-control correctness",
+    "Unsloth Desktop extends fine-tuning to local deployment",
+    "DeepSeek-V4 and Kimi-K3 enablement drives inference work",
+    "Agentic workloads expose deadlocks and KV-cache limits"
+  ],
+  "ai-trending": [
+    "Agent tooling dominates; diagram-design adds 4,475 stars",
+    "Anthropic skills repo pushes portable Agent Skills standard",
+    "Needle's 14MB edge model highlights on-device AI",
+    "NVIDIA Switchyard LLM router gains 408 stars today",
+    "macro adds 1,239 stars as agent tooling surges",
+    "Semantica bridges knowledge graphs and agent memory"
+  ],
+  "ai-web": [
+    "Anthropic: Claude improves Riemann zeta bound to 67.2%",
+    "Claude produced formally verifiable proof for math result",
+    "Anthropic red team examines systemic multiagent risks",
+    "OpenAI updates were metadata-only index pages",
+    "Riemann result seen as milestone for trustworthy AI reasoning",
+    "Anthropic dominates official AI content with two papers"
+  ],
+  "ai-hn": [
+    "DeepSeek V4 Pro 0813 tops HN with 1,017 points",
+    "Grok 4.6 drives largest HN thread with 603 comments",
+    "Gemini 3.7 Flash launches to strong attention",
+    "HN debates viability of AI text watermarking",
+    "Attackers spoof ClaudeBot for mass vulnerability scans",
+    "Samsung Claude chip-design struggles are a reality check"
+  ],
+  "ai-ph": [
+    "Dograh leads PH with 542 votes as VAPI alternative",
+    "Grok Bot sells AI teammates for real work tasks",
+    "Unsloth Desktop brings local-first fine-tuning",
+    "Agent infra launches: shared folders, memory, control planes",
+    "LaraCopilot agentic engineer turns requirements into apps",
+    "Open-source dev tools dominate Product Hunt today"
+  ],
+  "ai-arxiv": [
+    "Long-context training may undermine parametric knowledge",
+    "Test-time harnesses transfer capabilities without retraining",
+    "LLM rankings shift with token budget in new study",
+    "Papers examine agent skill hijacking and simulator collapse",
+    "Enterprise reasoning benchmarks debut in arXiv batch",
+    "Domain apps expand: clinical RAG and scientific diagrams"
+  ],
+  "ai-hf": [
+    "Kimi-K3 leads HF with 10.6k weekly likes",
+    "DeepSeek-V4-Flash-0731 hits 1.43M downloads",
+    "Qwen3.8-2.4T-A95B trends as next-gen large MoE",
+    "MiniMax-H3 image-to-video ports form largest HF cluster",
+    "Quantization rules: GGUF, FP8, NVFP4, LoRA entries",
+    "Uncensored community fine-tunes keep gaining attention"
+  ],
+  "ai-community": [
+    "Dev.to devs build gatekeepers after losing agent tool trust",
+    "AI code that passes all tests can still break later",
+    "Open-source agent-tooltrust adds human approval to tool calls",
+    "Vector databases no longer enough for agent memory",
+    "Lobste.rs: OpenAI-HF incident video sparks comments",
+    "Lobste.rs: AI book-destruction report draws top score"
+  ]
+}

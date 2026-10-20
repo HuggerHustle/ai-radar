@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.77–78 adds hook APIs, token limits",
+    "OpenAI Codex ships 3 alphas with minimal changelogs",
+    "Gemini CLI v0.35.0-preview.1 emphasizes ACP integration",
+    "Six-way vendor race: Anthropic plugins vs OpenAI sandboxing",
+    "MCP protocol adoption spreads across all major tools",
+    "Permission fatigue and Windows parity dominate community"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "Critical regressions in versions 2026.3.11–2026.3.13",
+    "No new releases as maintainers focus on stability fixes",
+    "102 comments on long-running i18n discussion thread",
+    "Gateway connectivity bugs plague recent releases",
+    "13 projects now in OpenClaw ecosystem family"
+  ],
+  "ai-trending": [
+    "obra/superpowers gains 3,078 stars for agentic skills",
+    "langchain-ai/deepagents earns 1,415 stars for subagents",
+    "Claude Code plugins emerge as distinct category",
+    "jarrodwatts/claude-hud adds agent observability",
+    "GitNexus brings zero-server knowledge graphs to browser",
+    "Local-first architectures dominate developer demand"
+  ],
+  "ai-web": [
+    "Anthropic introduces 'observed exposure' labor metric",
+    "AI labor penetration far below theoretical maximums",
+    "No systematic unemployment increase detected since 2022",
+    "OpenAI's GPT-5.4 Mini metadata lacks article text",
+    "Hiring of young workers in exposed roles decelerates",
+    "Frontier labs show divergent communication strategies"
+  ],
+  "ai-hn": [
+    "OpenAI releases GPT-5.4 Mini and Nano models",
+    "Anthropic suffers multiple Claude Code outage reports",
+    "Encyclopedia Britannica sues OpenAI over training data",
+    "Garry Tan's Claude Code setup goes viral on HN",
+    "Node.js PR rejected over AI-generated code controversy",
+    "Openpilot 0.11 first robotics agent trained in simulation"
+  ]
+}

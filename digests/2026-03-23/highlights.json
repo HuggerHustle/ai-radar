@@ -1,0 +1,10 @@
+{
+  "ai-weekly": [
+    "Kimi CLI merges 38 PRs in single day — largest batch this quarter",
+    "Qwen Code v0.13.0 ships emergency file-edit safety hardening",
+    "OpenAI Codex stacks 4 PRs for exec-server cloud architecture",
+    "Kimi CLI v1.23.0 launches first async background bash tasks",
+    "Gemini CLI fixes 1.7GB memory leak with P0 priority",
+    "Claude Code phone bug hits 458 comments — largest issue ever"
+  ]
+}

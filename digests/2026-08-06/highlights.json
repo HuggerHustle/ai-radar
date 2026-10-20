@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI tools shifting from demos to production infrastructure",
+    "OpenAI Codex tagged five alphas in one day",
+    "Copilot CLI shipped three stabilizing pre-releases",
+    "Claude Code released v2.1.223",
+    "Codex /undo restoration drew 373 upvotes",
+    "Session persistence and MCP interoperability top concerns"
+  ],
+  "ai-agents": [
+    "OpenClaw processed 500 issues and 500 PRs in 24h",
+    "58 issues closed, 73 PRs merged in OpenClaw",
+    "OpenClaw backlog dominated by P0/P1 session-state bugs",
+    "PR #119785 grants admin via Control UI links",
+    "PR #119402 unblocks queued replies after model retries",
+    "No new OpenClaw release published today"
+  ],
+  "ai-infra": [
+    "Frontier models DeepSeek-V4, Kimi-K3, MiniMax hitting serving stacks",
+    "llama.cpp shipped 9 builds in 24 hours",
+    "AMD gfx1250, Intel XPU, NVIDIA SM12x paths active",
+    "Speculative decoding is the new optimization frontier",
+    "LiteLLM hardening guardrails for agent tool traffic",
+    "SGLang preparing v0.5.17 cherry-pick patch"
+  ],
+  "ai-trending": [
+    "Agent infrastructure and memory systems dominate trending",
+    "TencentDB-Agent-Memory gained 1,892 stars today",
+    "firecrawl/pdf-inspector added 1,582 stars",
+    "Cloudflare's computer up 891 stars",
+    "obra/superpowers up 931 stars",
+    "DeepSeek-Reasonix gained 747 stars"
+  ],
+  "ai-hn": [
+    "DeepMind reshuffle: Hassabis to Chair, Jeff Dean departing",
+    "Cloudflare unveils 'OS for agents' vision",
+    "Essay argues LLMs reward expertise, not democratize",
+    "Meta served AI-generated CSAM ads, HN wary",
+    "Apple in trade-secret dispute with OpenAI",
+    "LLMs Can't Jump paper sparks debate (239 pts)"
+  ],
+  "ai-ph": [
+    "Hey Noah tops Product Hunt with 572 votes",
+    "Driven brings AI investing with 265 votes",
+    "Atlaso offers shared AI memory, 250 votes",
+    "AI agents verticalize into founder support roles",
+    "MCP connectors and Claude Code session-resume tools launch",
+    "Open-source privacy tools SpeakoFlow, Finyuus gain traction"
+  ],
+  "ai-arxiv": [
+    "WorldCup Arena offers leakage-free live benchmark",
+    "Test-time scaling methods systematized in new paper",
+    "Agentic self-improvement pushes beyond single-trajectory reasoning",
+    "Multimodal research moves to continuous-video deep research",
+    "Study exposes numerical underflow in ALiBi",
+    "Fine-tuning degradation and routing vulnerabilities highlighted"
+  ],
+  "ai-hf": [
+    "Kimi-K3 tops HF with 10,125 likes, 1.1M downloads",
+    "GLM-5.2 reaches 2.23M downloads",
+    "DeepSeek-V4-Flash-0731 draws 433K downloads",
+    "Baidu Unlimited-OCR hits 2.7M downloads",
+    "MiniMax-H3 sparks ComfyUI ports and GGUF quants",
+    "LG's 750B K-EXAONE-2.0 is MoE flagship"
+  ],
+  "ai-community": [
+    "81% of developers buried in AI code review tax",
+    "OpenAI solved 1999 problem but can't ask its own question",
+    "AWS open-sources Kiro Crew agent orchestrator",
+    "Lobste.rs asks why cognitive scientists dislike LLMs",
+    "Internet Archive warns anti-bot rules harm good AI bots",
+    "Developers demand verification and guardrails over adoption"
+  ]
+}

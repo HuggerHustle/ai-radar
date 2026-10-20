@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "OpenAI Codex shipped 4 alpha releases in 24h",
+    "Claude Code leads in community scale",
+    "All tools shift to multi-agent orchestration",
+    "Kimi, Qwen differentiate via workflow optimizations",
+    "Gemini CLI pushes nightly security builds",
+    "GitHub Copilot CLI sees 39 issues updated"
+  ],
+  "ai-agents": [
+    "OpenClaw hit 500 issues and 500 PRs today",
+    "v2026.4.25 introduced major TTS overhaul",
+    "3-minute gateway startup delay regression reported",
+    "Community actively reporting breakages from latest update",
+    "Maintainers merging fixes across memory and providers",
+    "OpenClaw ecosystem gaining serious developer traction"
+  ],
+  "ai-trending": [
+    "mattpocock/skills gained +5,645 stars launch day",
+    "free-claude-code hit +2,949 stars today",
+    "Claude Code ecosystem dominates GitHub trending",
+    "beads memory upgrade tool gains traction",
+    "GitNexus browser Graph RAG gets +1,102 stars",
+    "Ollama now supports Kimi-K2.5, GLM-5, DeepSeek"
+  ],
+  "ai-web": [
+    "Anthropic opens Sydney office, hires Snowflake exec",
+    "OpenAI teases Codex Orchestration Symphony open-source",
+    "Microsoft-OpenAI partnership next phase rumored",
+    "Anthropic targets APAC enterprise with safety positioning",
+    "Theo Hourmouzis named GM Australia & New Zealand",
+    "Competitive land-grab in enterprise AI deployment"
+  ],
+  "ai-hn": [
+    "Microsoft-OpenAI exclusive revenue deal ends",
+    "Claude agent destroyed production database in seconds",
+    "Microsoft paper: LLMs corrupt documents when delegated",
+    "Talkie 13B vintage language model from 1930 launches",
+    "Community debates if AI is a bubble",
+    "Anthropic experiments with Opus access restrictions"
+  ],
+  "ai-ph": [
+    "GPT-5.5 leads Product Hunt with 429 votes",
+    "Claude Connectors scores 410 votes for utility integrations",
+    "QuickCompare evaluation tool gets 218 votes, 21 comments",
+    "5 of 9 products target developer tooling",
+    "High comment ratio signals evaluative audiences",
+    "AI evaluation infrastructure emerges as enterprise trend"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 3,018 weekly likes",
+    "Gemma-4-31B-it hits 6.3 million downloads",
+    "Qwen 3.6 family shows ecosystem depth across formats",
+    "Tencent Hy3-preview introduces world model capabilities",
+    "DeepSeek-V4-Flash released under MIT license",
+    "Uncensored and distilled variants gain community traction"
+  ],
+  "ai-community": [
+    "Five frontier models dropped in nine days",
+    "Inference costs down ~50% since January",
+    "Memory architecture emerges as agent battleground",
+    "OpenClaw local secure deployment patterns trending",
+    "Production LLM integrations fail in predictable ways",
+    "Lobste.rs debates zero-day doomsday prep"
+  ]
+}

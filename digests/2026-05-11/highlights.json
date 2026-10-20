@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "OpenCode's Agent Teams request hits 110 👍",
+    "Qwen Code sees 30 daily issues opened",
+    "Claude Code faces cost crises dominating discussions",
+    "OpenAI Codex adds goals + multi-env execution",
+    "Gemini CLI competes on subagent architectures",
+    "Kimi Code CLI pushes WebUI modernization"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24h",
+    "OpenClaw releases v2026.5.10-beta.1/2 for Telegram QA",
+    "Codex replacing Pi as default OpenAI runtime",
+    "438:62 open-to-closed issue ratio signals backlog",
+    "446:54 open-to-merged PR ratio shows triage strain",
+    "13 projects covered in OpenClaw ecosystem"
+  ],
+  "ai-trending": [
+    "UI-TARS-desktop gains 669 stars in one day",
+    "everything-claude-code surges +1,081 stars today",
+    "agent-skills jumps +1,065 stars today",
+    "9router free AI coding router +803 stars today",
+    "CloakBrowser stealth automation +496 stars today",
+    "Chinese hello-agents education initiative trending"
+  ],
+  "ai-hn": [
+    "Maryland's $2B grid upgrade for data centers tops charts",
+    "LLMorphism paper sparks philosophical identity debate",
+    "Claude Code ecosystem dominates tooling discussions",
+    "PS3 emulator PR flooding shows AI code quality woes",
+    "ShowHN ranking uses LLM judge + TrueSkill meta-evaluation",
+    "Skeptical-commercial sentiment on corporate AI concentration"
+  ],
+  "ai-ph": [
+    "OpenAI Codex in Chrome launches for browser automation",
+    "ClawTick offers cron jobs for AI agents with one command",
+    "MolmoAct 2 from Allen Institute reasons in 3D before acting",
+    "Nylas CLI provides communications infrastructure for agents",
+    "Prism assesses organizational AI readiness",
+    "4 of 13 products explicitly open-source today"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 1.3M downloads this week",
+    "Gemma-4 family dominates trending models",
+    "Qwen 3.6 variants see intense quantization activity",
+    "Any-to-any pipeline tags signal multimodal shift",
+    "Unsloth delivers optimized GGUF variants within weeks",
+    "Sulphur-2-base text-to-video approaches commercial viability"
+  ],
+  "ai-community": [
+    "FastMCP framework for production MCP servers tops Dev.to",
+    "200+ specialist model architecture challenges GPT-5.5",
+    "Sub-200ms multilingual chat system built with custom LLM",
+    "AGENTS.md standard emerges for coding agent context",
+    "Chinese models disrupt US AI pricing dynamics",
+    "Developers grapple with trusting autonomous agent transactions"
+  ],
+  "ai-weekly": [
+    "Anthropic signs 300MW SpaceX GPU deal",
+    "Claude financial agents launch with 10 templates",
+    "Teaching Claude Why shifts alignment paradigm",
+    "Natural Language Autoencoders decode model thoughts",
+    "DeepSeek-TUI gains 6,175 GitHub stars daily",
+    "9router aggregates 40+ free AI APIs"
+  ]
+}

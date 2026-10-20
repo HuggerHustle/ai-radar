@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.87 shipped with quota bugs dominating discourse",
+    "OpenAI Codex telemetry architecture work ongoing, no release",
+    "Gemini CLI debuts voice mode, SDD infrastructure maturing",
+    "All major tools hit scaling limits in billing infrastructure",
+    "Claude Code leads in plugin ecosystem extensibility",
+    "Token accounting accuracy bugs plague entire category"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.3.28 ships with breaking Qwen OAuth changes",
+    "500 issues and 500 PRs updated in last 24 hours",
+    "Windows platform parity is key focus area",
+    "Memory/QMD system hardening underway",
+    "Multi-channel reliability fixes landing",
+    "388:112 open-to-closed issue ratio signals growth phase"
+  ],
+  "ai-trending": [
+    "obra/superpowers gains +2,230 stars today, highest velocity",
+    "learn-claude-code hits 42,668 total stars, +919 today",
+    "Ollama adds Kimi-K2.5, GLM-5, MiniMax support",
+    "Agent harness pattern emerges for simpler orchestration",
+    "VibeVoice and Deep-Live-Cam surge in voice AI",
+    "Four Claude Code ecosystem projects in top 12 trending"
+  ],
+  "ai-hn": [
+    "Claude Code git reset --hard bug hits front page",
+    "Claude Code quota draining bug sparks safety debate",
+    "LLMs Do Not Grade Essays Like Humans research trending",
+    "Moving Towards Determinism with LLMs resonates with engineers",
+    "Circumstantial Complexity criticizes AI-driven architecture",
+    "Community tension between AI enthusiasm and production fragility"
+  ],
+  "ai-weekly": [
+    "OpenAI shutters Sora video platform after 15 months",
+    "Claude Opus 4.5 completes 1-year physics research in 2 weeks",
+    "Claude Code Auto Mode hits 93% user approval rate",
+    "Claude Code bug runs git reset --hard every 10 minutes",
+    "ByteDance deer-flow peaks at 4,346 GitHub stars",
+    "OpenAI Codex burns $40 in hours, 319-comment backlash"
+  ]
+}

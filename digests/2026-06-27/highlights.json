@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.195 released weekly",
+    "Cross-tool agent reliability concerns rising",
+    "Billing transparency is a key demand",
+    "Users want deterministic auditable behavior",
+    "Platform parity macOS vs Windows debated",
+    "MCP ecosystem stability faces challenges"
+  ],
+  "ai-agents": [
+    "OpenClaw 500 issues 500 PRs today",
+    "Intense community engagement on feature request",
+    "Focus on session state management bugs",
+    "Multi-agent orchestration stability issues",
+    "51 PRs merged or closed today",
+    "Heavy development phase no new releases"
+  ],
+  "ai-trending": [
+    "design.md gains 2,407 stars today",
+    "Agent-to-Internet bridge projects emerging",
+    "gstack packages full startup team simulation",
+    "MinerU PDF pipeline hits 960 stars",
+    "OpenMontage adds 52 video tools",
+    "Community wants agents that see and plan"
+  ],
+  "ai-web": [
+    "Claude Tag makes Claude proactive in Slack",
+    "Anthropic Claude Corps $150M fellowship",
+    "Gates Foundation $200M partnership announced",
+    "DXC and TCS enterprise partnerships signed",
+    "GPT-5.6 Sol placeholder appears on OpenAI",
+    "Anthropic leads agentic productization push"
+  ],
+  "ai-hn": [
+    "GPT-5.6 Sol sparks regulation debate",
+    "White House asked OpenAI to slow release",
+    "Mythos limited to trusted partners only",
+    "Community split on centralized AI control",
+    "Smart model routing tools gain traction",
+    "Self-hosted LLM gateways discussed heavily"
+  ],
+  "ai-ph": [
+    "BrowserAct tops with 536 votes today",
+    "Oxlo.ai addresses rising API costs",
+    "Brain² by ClickUp embeds AI in workflows",
+    "Polygraph enables cross-repo agent memory",
+    "Heron brings eBPF observability to agents",
+    "Agent infrastructure dominates Product Hunt"
+  ],
+  "ai-arxiv": [
+    "RiVER enables RL without ground truth",
+    "Co-failure ceiling limits multi-model systems",
+    "Hard limits found on model ensembles",
+    "Test-time scaling for embodied agents",
+    "Hallucination mitigation in world models",
+    "Prompt injection vulnerabilities in hiring"
+  ],
+  "ai-hf": [
+    "Qwen3.6 quantized model gets 4.8M downloads",
+    "GLM-5.2 emerges as major open-weight model",
+    "MiniMax-M3 multimodal MoE gains traction",
+    "NVIDIA LocateAnything-3B for vision",
+    "Baidu Unlimited-OCR excels at text extraction",
+    "VibeThinker-3B popular for math reasoning"
+  ],
+  "ai-community": [
+    "Functional doesn't mean correct code",
+    "Agent-to-Agent handoffs cause most failures",
+    "Claude Code billing analyzed in 4-part series",
+    "Hidden LLM costs surprise developers",
+    "AI worms pose security risks debated",
+    "Small model practical limits discussed"
+  ]
+}

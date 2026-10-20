@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "130+ issues, 70 PRs updated; no major releases",
+    "Silent state loss tops agent failure complaints",
+    "Persistence, memory, observability are convergence focus",
+    "Open-source tools outpace enterprise in PR velocity",
+    "Windows reliability remains ecosystem blind spot",
+    "10 AI CLI tools covered in cross-tool report"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.2-beta.7 targets state safety",
+    "500 issues, 500 PRs updated in last 24h",
+    "447 issues open, 53 closed; 340 PRs open",
+    "P1s: session state, message loss, auth, crash-loops",
+    "Clawsweeper bot drives automated PR triage",
+    "Quarantine store protects data if DB damaged"
+  ],
+  "ai-infra": [
+    "DeepSeek-V4, Kimi-K3 drive engine consolidation",
+    "llama.cpp shipped 10 builds b10225→b10235",
+    "Speculative decoding is key performance lever",
+    "Hardware porting: Ampere, SM80, ROCm, XPU",
+    "Silent corruption top failure class in engines",
+    "Pinning versions now required practice"
+  ],
+  "ai-trending": [
+    "Microsoft AI-For-Beginners gains 2,629 stars",
+    "reverse-skill agent pack adds 1,141 stars",
+    "airllm runs 70B model on a 4GB GPU",
+    "TencentDB-Agent-Memory trending with +602",
+    "AI education dominates GitHub trending today",
+    "antirez/ds4 local DeepSeek 4 engine starred"
+  ],
+  "ai-hn": [
+    "DeepSeek V4 Flash 0731 analysis tops HN",
+    "qm's multiplayer agent harness draws discussion",
+    "Google AI-accelerated Chrome bug fixing viewed skeptically",
+    "MIT says AI financial advice surprisingly good",
+    "Open-weight model economics split HN commenters",
+    "AI deepfake influencers collide with social norms"
+  ],
+  "ai-ph": [
+    "DeepSeek-V4-Flash-0731 tops PH with 325 votes",
+    "NudgeForMe AI email follow-up gets 324 votes",
+    "Port22 brings Claude Code and Codex to phone",
+    "AgentMicro, Tokimeter fill coding-agent gaps",
+    "NudgeForMe sparks 66 comments, most discussion",
+    "Day leans heavily to developer tooling"
+  ],
+  "ai-hf": [
+    "Kimi-K3 leads week with 9,640 likes",
+    "DeepSeek-V4-Flash tops 2.78M downloads",
+    "GLM-5.2 passes 2.05M downloads",
+    "Baidu Unlimited-OCR exceeds 2M downloads",
+    "Qwen3.6 GGUF fine-tunes trend on Hub",
+    "Inflect-Micro-v2, Audio8, BitNet ASR gain"
+  ],
+  "ai-community": [
+    "Dev.to urges verification loops over AI correctness",
+    "Agent eval harness breaks clean test narratives",
+    "Context-window growth called silent failure mode",
+    "Kimi Delta Attention draws architecture interest",
+    "GPT-5.6 Luna sparks price-intelligence debate",
+    "125M model beats 14B on narrow task"
+  ]
+}

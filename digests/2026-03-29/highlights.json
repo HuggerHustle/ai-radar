@@ -1,0 +1,34 @@
+{
+  "ai-cli": [
+    "Gemini CLI released v0.35.3 and v0.36.0-preview.6",
+    "OpenAI Codex leads with 50 active PRs",
+    "Claude Code has 10+ security regressions tracked",
+    "Kimi CLI rewriting ACP auth system",
+    "GitHub Copilot CLI shows possible feature freeze",
+    "MCP ecosystem standardization driving enterprise demand"
+  ],
+  "ai-agents": [
+    "OpenClaw released v2026.3.28-beta.1 with breaking changes",
+    "500 issues and 500 PRs updated in 24 hours",
+    "Critical fix for 'No API key for provider' failure",
+    "Qwen OAuth migration requires manual re-onboarding",
+    "444 open issues suggest triage challenges",
+    "Platform expansion for Linux/Windows apps prioritized"
+  ],
+  "ai-trending": [
+    "Deep-Live-Cam gained 1,814 stars for face swap",
+    "obra/superpowers hit 2,292 stars for agentic framework",
+    "SakanaAI/AI-Scientist-v2 trending for autonomous research",
+    "onyx added 880 stars as enterprise chat alternative",
+    "agentscope gained 398 stars for observable agents",
+    "dexter emerging for financial research AI"
+  ],
+  "ai-hn": [
+    "Claude Mythos leak sparks cybersecurity debate",
+    "Knuth's 'Claude Cycles' shows human-AI-proof collaboration",
+    "Pentagon interest in leaked Anthropic model noted",
+    "Community debates AI productivity vs 'lazy' work culture",
+    "Anthropic consumer growth signals shifting priorities",
+    "OpenAI pivoting toward revenue-generating features"
+  ]
+}

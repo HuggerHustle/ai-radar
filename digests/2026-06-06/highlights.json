@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.165 with bug fixes",
+    "OpenAI Codex hits v0.138.0-alpha.5, telemetry focus",
+    "Gemini CLI triple-releases in one day",
+    "Kimi CLI emerges as regional player",
+    "OpenCode leads open-source alternatives",
+    "MCP and prompt caching converge across tools"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 467 issues, 500 PRs in 24h",
+    "2026.6.1 release shows critical stability regressions",
+    "340 open issues signal maintainer strain",
+    "Session-state reliability dominates fixes",
+    "Auth provider resilience under fire",
+    "No new release cuts today"
+  ],
+  "ai-trending": [
+    "hermes-agent gains 1,845 stars in one day",
+    "headroom surges 2,473 stars for context compression",
+    "Agent harness systems emerge as hot category",
+    "Claude-mem and MemPalace chase context memory",
+    "NVIDIA cosmos signals Physical AI momentum",
+    "CopilotKit adds 366 stars, AG-UI protocol gains"
+  ],
+  "ai-web": [
+    "Anthropic dumps 16 articles in one day",
+    "Claude Opus 4.6 and 4.7 surface unannounced",
+    "Chris Olah speaks at Vatican on AI ethics",
+    "OpenAI publishes zero content today",
+    "Mythos Preview model referenced",
+    "Research spans chemistry to interpretability"
+  ],
+  "ai-hn": [
+    "Did Claude increase rsync bugs? 276 points",
+    "Statistical analysis challenges AI code quality",
+    "Anthropic finds Zcash bug, calls for AI freeze",
+    "Documentation shifts to AI-first explanations",
+    "Microsoft-Trump equity stakes raise eyebrows",
+    "Claude chemist paper gets zero HN comments"
+  ],
+  "ai-ph": [
+    "Astra Autonomous Pentest tops with 401 votes",
+    "8 of 15 products target developers",
+    "Gemma 4 12B pushes local AI execution",
+    "Boxes.dev joins self-hosted trend",
+    "Two collaborative voice products emerge",
+    "Build Club Campus revives education AI"
+  ],
+  "ai-arxiv": [
+    "TailLoR protects principal components in continual learning",
+    "PC Layer adds polynomial weight preconditioning",
+    "You Only Index Once shares sparse attention routing",
+    "Test-time optimization overtakes training metrics",
+    "Agent memory architectures advance",
+    "Causal reasoning meets emergent behavior"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 5.5M weekly downloads",
+    "DeepSeek-V4-Flash adds 3.4M more",
+    "NVIDIA places 8 models in top 30",
+    "Qwen 3.6 uncensored fine-tunes outperform official",
+    "Gemma-4-12B debuts any-to-any architecture",
+    "Sulphur-2-base sparks video generation revival"
+  ],
+  "ai-community": [
+    "MCP complexity debates dominate Dev.to",
+    "Claude Code plugin cuts costs 62%",
+    "Inference theft emerges as new attack vector",
+    "Gemma 4 12B runs on laptops",
+    "Security matures beyond prompt injection",
+    "Multi-agent patterns gain ecosystem traction"
+  ]
+}

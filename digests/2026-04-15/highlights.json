@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.107–108 rapid patches",
+    "OpenAI Codex v0.120.0 + 3 Rust alpha tags",
+    "Claude Code leads plugin ecosystem momentum",
+    "Codex fastest release cadence in field",
+    "Opus regressions and token inflation flagged",
+    "Hook infrastructure dominates Codex PRs"
+  ],
+  "ai-agents": [
+    "OpenClaw ships two releases in one day",
+    "v2026.4.14 triggered regression wave",
+    "500 issues and 500 PRs in 24 hours",
+    "414 open issues vs 86 closed",
+    "openai-codex provider failures spiked",
+    "313 open PRs signal stretched maintainers"
+  ],
+  "ai-trending": [
+    "Claude Code ecosystem gains 15K stars today",
+    "Single CLAUDE.md file hits 9,263 stars",
+    "hermes-agent gains 8,301 stars in one day",
+    "Memory tools becoming distinct product category",
+    "microsoft/markitdown +1,675 stars today",
+    "ollama now supports Kimi-K2.5, GLM-5, DeepSeek"
+  ],
+  "ai-web": [
+    "Anthropic appoints Vas Narasimhan to LTBT board",
+    "Trust-appointed directors now hold majority",
+    "Anthropic publishes automated alignment research",
+    "Paper tackles weak-to-strong supervision problem",
+    "OpenAI posts cyber defense metadata URL",
+    "No article text available for OpenAI entry"
+  ],
+  "ai-hn": [
+    "Claude Code Routines tops front page at 371 points",
+    "Sonnet 4.6 quality regression quantified on GitHub",
+    "Community debates if Anthropic is nerfing Claude",
+    "OpenAI cybersecurity initiative draws attention",
+    "OpenAI acquires personal finance startup Hiro",
+    "Sentiment: excited for tools, skeptical on models"
+  ],
+  "ai-ph": [
+    "Persistent memory for AI agents trending",
+    "MicroVM-based secure execution emerging",
+    "Cleo Labs and Legitify break top tier",
+    "5 of 14 launches are open source",
+    "Clarm gets 137 votes for AI lead routing",
+    "GhostDesk lands 91 votes for meeting copilot"
+  ],
+  "ai-arxiv": [
+    "First mechanistic analysis of looped reasoning LLMs",
+    "Causal mediation analysis of harmful generation",
+    "LangFlow closes continuous-discrete diffusion gap",
+    "Hidden failures in robustness evaluation exposed",
+    "Agentic systems scaling to real-world complexity",
+    "Actionable AI crosses into robots and healthcare"
+  ],
+  "ai-hf": [
+    "Gemma 4 family dominates one-third of trending list",
+    "Qwen3.5-27B-Claude-4.6-Opus-Reasoning hits 2,645 likes",
+    "Jackrong model nears 589K downloads",
+    "MiniMax-M2.7 signals rising Chinese lab momentum",
+    "netflix/void-model enters open video inpainting",
+    "unsloth contributes four GGUF variants"
+  ],
+  "ai-community": [
+    "MCP tutorials flood Dev.to front page",
+    "Voice-controlled local AI agents trending",
+    "Vibe coding matures into backend analysis",
+    "Security and cost governance become first-class",
+    "Rodney Brooks predictions scorecard on Lobste.rs",
+    "Amazon Bedrock beginner tutorial draws 22 reactions"
+  ]
+}

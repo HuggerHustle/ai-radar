@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.226 and gateway spend limits",
+    "Multi-agent orchestration emerging across six CLI projects",
+    "Copilot CLI, Kimi, Grok Build show zero code motion",
+    "Windows instability and broken /resume top CLI complaints",
+    "OpenCode, Pi, Qwen Code compete on extensibility",
+    "CLI field splits: platform agents vs fast movers"
+  ],
+  "ai-agents": [
+    "OpenClaw ships security patches v2026.6.33 and .34",
+    "OpenClaw closes 178 PRs and 49 issues in 24h",
+    "Delivery reliability remains top OpenClaw concern",
+    "Silent reply failures, lost subagent completions top issues",
+    "Steipete authors ~15 of OpenClaw's top 30 PRs",
+    "OpenClaw 2026.7.x line has three open P0 regressions"
+  ],
+  "ai-infra": [
+    "DeepSeek-V4 is stress-testing the entire serving stack",
+    "llama.cpp ships five releases b10327–b10331 in 24h",
+    "LiteLLM releases v1.97.0-rc.1 and v1.94.2",
+    "vLLM stable v0.26.0 still missing NVFP4 fix",
+    "FP4, multi-vendor, and agentic workloads all in flux",
+    "Cold start and memory hierarchy emerge as next frontier"
+  ],
+  "ai-trending": [
+    "PrimeAgent tops trending with +2,483 stars",
+    "'Agent Skills' packaging format takes off; Google joins",
+    "google/skills and addyosmani/agent-skills surge in stars",
+    "TradingAgents keeps financial multi-agent apps in spotlight",
+    "ECC: 238,815-star agent harness for Claude Code et al.",
+    "Ollama adds support for Kimi-K2.6, GLM-5.2, MiniMax"
+  ],
+  "ai-hn": [
+    "Qwen3.8 Max tops agentic index at 544 points",
+    "DeepMind WeatherNext breaks through in cyclone forecasting",
+    "AMD to acquire Taalas, boosting inference silicon race",
+    "DeepMind leadership shake-up sparks Google direction debate",
+    "Oracle's OpenJDK ban stirs governance concerns on HN",
+    "OpenAI's Hugging Face leak adds to trust worries"
+  ],
+  "ai-ph": [
+    "Coldtea.ai leads Product Hunt with 490 votes",
+    "Soloop's approval-first Agent OS launches with 479 votes",
+    "BrowserOS neo pushes browser layer for AI agents",
+    "Progress AI Observability targets production tracing",
+    "Firecrawl MCP brings agent-ready web context",
+    "On-device/open-source tools dominate today's agent slate"
+  ],
+  "ai-community": [
+    "Dev.to shifts from agent capabilities to trust",
+    "AI-generated Cursor SSRF fix still ships vulnerable code",
+    "Agent regression testing and evals are hot topics",
+    "Multi-RAG, knowledge graphs, MCP target model memory",
+    "OpenAI GPT-5.6 Sol update draws attention",
+    "Lobste.rs stays cool on AI, favors OCaml engineering"
+  ]
+}

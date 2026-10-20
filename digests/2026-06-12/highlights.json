@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "9 tools tracked, major cluster of regressions",
+    "Claude Code v2.1.173 bugfix released",
+    "Agent cost explosions hit Claude Code",
+    "Cross-tool streaming stability issues",
+    "OpenAI Codex in 4 Rust alpha builds",
+    "GitHub Copilot CLI hit by regression cluster"
+  ],
+  "ai-agents": [
+    "500 issues and PRs updated in 24 hours",
+    "0 new releases; maintainer bottleneck",
+    "110 PRs merged, but 478 issues remain",
+    "Cron job reliability fixed in two PRs",
+    "Community frustrated by growing backlog",
+    "Model catalog warning added to doctor command"
+  ],
+  "ai-trending": [
+    "Agent skills infrastructure gains 7K+ stars",
+    "addyosmani/agent-skills +3,278 stars today",
+    "NVIDIA/SkillSpector scans agent skills",
+    "phuryn/pm-skills +1,978 stars",
+    "ollama/ollama hits 173,899 stars",
+    "Shift from agents to reusable skill ecosystems"
+  ],
+  "ai-web": [
+    "Anthropic partners with DXC for regulated industries",
+    "$150M Claude Corps fellowship launched",
+    "OpenAI cryptic acquisition of ONA",
+    "Strategy shifts from models to integration",
+    "Claude embedded in banking and airlines",
+    "DXC alliance for government and enterprise"
+  ],
+  "ai-hn": [
+    "Anthropic apologizes for secret Claude guardrails",
+    "Price war between OpenAI and Anthropic",
+    "Opaque distillation guardrails breach trust",
+    "Claude Fable backlash with 273-score thread",
+    "Community debates censorship and pricing",
+    "Wired: Anthropic walks back sabotage policy"
+  ],
+  "ai-ph": [
+    "Top launches lean into agentic infrastructure",
+    "Publora: API for agents to post on 10 platforms",
+    "SeaTicket: AI agent resolving cross-channel issues",
+    "iArt.ai: video generation maturing",
+    "OLO Robotics: no-setup robot control",
+    "Shift from AI chat to AI automation"
+  ],
+  "ai-arxiv": [
+    "Inference-time compute shift across modalities",
+    "First audit of recursive model dependencies",
+    "Mechanistic interpretability for post-training",
+    "Impossibility of eliciting latent knowledge",
+    "Scalable governance for production agents",
+    "Where and when to allocate compute"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 4M+ downloads",
+    "Gemma-4 family has 10 variants in top 30",
+    "NVIDIA's LocateAnything-3B tops vision",
+    "Nemotron-3 Ultra 550B for enterprise",
+    "Boson AI and NVIDIA advance real-time audio",
+    "Community fine-tunes and quantizations explode"
+  ],
+  "ai-community": [
+    "Vibe coding reckoning hits front page",
+    "Google drops DiffusionGemma and ADK security",
+    "Nature paper on behavioral trait transmission",
+    "HazelJS 1.0.0 stable AI-native framework",
+    "Anthropic acquisition of Bun shapes tools",
+    "$3,000 unauthorized refund example shown"
+  ]
+}

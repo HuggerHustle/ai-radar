@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code shipped v2.1.104–105 today",
+    "OpenAI Codex Rust alpha v0.121.0-alpha.4/6 shipped",
+    "Codex hit 530-comment megathread on billing",
+    "Claude Code had 9 hot issues, 10 key PRs",
+    "All tools face token billing and MCP robustness crises",
+    "Enterprise readiness is the new differentiation battleground"
+  ],
+  "ai-agents": [
+    "OpenClaw released v2026.4.12 with memory fixes",
+    "OpenClaw had 500 issues and 500 PRs in 24h",
+    "Regression reports surged on builds 2026.4.9–12",
+    "New OpenClaw admin command: openclaw qa credentials",
+    "342 open PRs signal approaching release cycle",
+    "Model resolution and Telegram bugs are top regressions"
+  ],
+  "ai-trending": [
+    "NousResearch/hermes-agent gained +11,289 stars today",
+    "Claude Code ecosystem tools dominated GitHub trending",
+    "Kronos foundation model for market language is heating up",
+    "Archon and ralph show shift to AI-driven software engineering",
+    "microsoft/markitdown gained +2,808 stars today",
+    "blender-mcp bridges AI into 3D creative workflows"
+  ],
+  "ai-web": [
+    "Anthropic republished Building Effective AI Agents",
+    "OpenAI published zero new articles today",
+    "Anthropic distinguishes workflows vs agents sharply",
+    "Article update signals enterprise agentic AI push",
+    "OpenAI silence hints at lull before major announcement",
+    "332 total Anthropic sitemap articles tracked"
+  ],
+  "ai-hn": [
+    "Stanford HAI report on AI insider disconnect led discussions",
+    "Claude Mythos Preview dominated front-page posts",
+    "Invisible token consumption reports sparked concern",
+    "UK AISI evaluated Claude Mythos cyber capabilities",
+    "Labor market anxiety hit top discussions",
+    "228 comments on Stanford report reflect governance anxiety"
+  ],
+  "ai-ph": [
+    "Google Gemini Interactive Simulations topped with 385 votes",
+    "Ray open-source terminal CFO launched with 282 votes",
+    "Edgee Codex Compressor cuts Codex costs 35.6%",
+    "Eleven Labs Music Marketplace enables creator monetization",
+    "AI launches shifted to workflow-native utilities",
+    "Domain-specific tools beat general chatbots today"
+  ],
+  "ai-hf": [
+    "Google Gemma-4 family dominated model downloads",
+    "Qwen3.5-27B-Claude-4.6-Opus-Reasoning led with 2,620 likes",
+    "unsloth dropped GGUFs for Gemma-4, GLM-5.1, MiniMax-M2.7",
+    "Jackrong's reasoning-distilled model shows strong interest",
+    "Non-text modalities: TTS, video, audio gaining ground",
+    "uncensored fine-tunes posted strong download numbers"
+  ],
+  "ai-community": [
+    "Agent memory binding, not recall, is the real problem",
+    "DIY persistent memory layers for Claude Code trending",
+    "Cost visibility proxies are emerging for per-model spend",
+    "Gemini Live + Reachy Mini talking robot guide published",
+    "OpenClaw + Telegram laptop agent setup went viral",
+    "Skepticism grows toward AI-generated analytics narratives"
+  ]
+}

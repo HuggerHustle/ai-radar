@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "OpenAI Codex ships v0.120.0 with Realtime V2",
+    "Claude Code faces /buddy removal crisis",
+    "Gemini CLI adds /enhance command, UTF-8 fixes",
+    "GitHub Copilot CLI hit by billing explosion crisis",
+    "Kimi, OpenCode, Pi differentiate via UX iteration",
+    "Sector tension: agentic autonomy vs cost control"
+  ],
+  "ai-agents": [
+    "OpenClaw releases v2026.4.11-beta.1 with memory enhancements",
+    "500 issues and 500 PRs in 24 hours for OpenClaw",
+    "ChatGPT import added to Dreaming UI",
+    "GPT-5.4/Codex agentic runtime parity focus",
+    "342 open PRs suggest healthy but backlogged pipeline",
+    "Critical stability issues in context, cron, macOS agents"
+  ],
+  "ai-trending": [
+    "NousResearch/hermes-agent gains 6,438 stars daily",
+    "Microsoft launches markitdown for document AI",
+    "Archon harness builder targets deterministic workflows",
+    "Kronos: foundation model for financial market language",
+    "VoxCPM advances tokenizer-free multilingual TTS",
+    "Karpathy skills crystallize into open infrastructure"
+  ],
+  "ai-hn": [
+    "Anthropic Mythos release sparks security warnings",
+    "OpenAI acquires Cirrus Labs, consolidating infrastructure",
+    "Berkeley team exposes flaws in AI agent benchmarks",
+    "Borges essay on LLM interpretability resonates",
+    "GPT5.4 replicates Mythos 0-days",
+    "Meta-commentary on AI development sophistication rises"
+  ],
+  "ai-ph": [
+    "Claude Advisor pairs Opus with Sonnet/Haiku execution",
+    "Manus Skills packages workflows into reusable agents",
+    "Google and Perplexity compete on AI finance assistants",
+    "SoulLink brings 3D vibe coding to mobile",
+    "Viktor launches agent skill marketplace",
+    "Infrastructure-to-application ratio shows composability focus"
+  ],
+  "ai-hf": [
+    "Google Gemma 4 family dominates with 2B-31B variants",
+    "Jackrong distills Claude 4.6 Opus into Qwen 3.5",
+    "Nvidia PersonaPlex-7B targets speech-to-speech agents",
+    "Netflix releases rare video-to-video Void model",
+    "Unsloth GGUF quantizations meet local inference demand",
+    "Zhipu GLM-5.1 pushes MoE with DSA optimization"
+  ],
+  "ai-community": [
+    "Free browser video editor uses WebGPU, zero uploads",
+    "Local-first AI tools gain strong developer momentum",
+    "Agent observability and safety infrastructure expands",
+    "Non-developers increasingly ship AI-built projects",
+    "Kitchen-themed LLM analogies prove educational hit",
+    "Wildcard CORS bugs from AI code spark security fixes"
+  ]
+}

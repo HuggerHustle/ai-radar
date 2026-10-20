@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.228 patch",
+    "OpenAI Codex rust v0.148.0-alpha.8 released",
+    "Gemini CLI has two critical CVEs unfixed",
+    "Copilot CLI adm-zip CVE blocks Docker builds",
+    "OpenCode, Pi, Qwen Code 10 PRs each",
+    "Community cites cost, Windows, MCP lifecycle issues"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs",
+    "OpenClaw maintainer capacity remains bottleneck",
+    "Slack thread fix prevents silent reply loss",
+    "Google channel adds native video input",
+    "No new OpenClaw releases in 24h",
+    "392 OpenClaw issues still open/active"
+  ],
+  "ai-infra": [
+    "DeepSeek-V4-class model wave dominates ecosystem",
+    "vLLM ships v0.27.1 patch; two regressions remain",
+    "SGLang AMD bf16 all-reduce corruption found",
+    "llama.cpp has ROCm 7.14 runtime breakage",
+    "AMD/ROCm now first-class but sharp-edged",
+    "Agentic features: router KV state, Responses API"
+  ],
+  "ai-trending": [
+    "prime-agent coding agent gains +1,138 stars",
+    "agency-agents multi-agent app +958 stars",
+    "semantica graph context layer +893 stars",
+    "orca agent dev environment +875 stars",
+    "Anthropic skills repo launches as packaging format",
+    "Trends shift to domain-specific agent workflows"
+  ],
+  "ai-web": [
+    "OpenAI first mention of 'Daybreak' models",
+    "OpenAI Daybreak models now on AWS (URL slug)",
+    "No new Anthropic content this cycle",
+    "OpenAI item is metadata-only, title unverified",
+    "Crawl captured one OpenAI item only",
+    "No fresh Claude-side signals today"
+  ],
+  "ai-hn": [
+    "Muse Glimmer: 30B local agent model open-sourced",
+    "Research steals reasoning traces from LLM APIs",
+    "Needle2 packs 14MB agentic LLM for edge",
+    "Copilot MitM investigation scrutinizes AI coding tools",
+    "Zuckerberg attacks closed AI rivals",
+    "Claude watermarking post sparks debate"
+  ],
+  "ai-ph": [
+    "oqoqo tops PH with 364 votes for evals",
+    "Portfolio Lab reaches 317 votes",
+    "Paritok earns 267 votes",
+    "SecondBrain Note is MagSafe AI recorder",
+    "AI Group Call joins six AI minds on live call",
+    "Today's launches skew to agentic developer tooling"
+  ],
+  "ai-arxiv": [
+    "Verifier-free test-time scaling improves LLM reasoning",
+    "On-policy distillation exposed degenerate agreement",
+    "SWE-Bench ProMax finds flawed benchmark tests",
+    "SKALD distills skills into weights, not prompts",
+    "Adaptive harnesses proposed for LLM agent safety",
+    "Medical video consultations advance with multimodal models"
+  ],
+  "ai-hf": [
+    "MiniMax-H3 dominates video generation ecosystem",
+    "DeepSeek-V4-Flash-0731 passes 1M downloads",
+    "Kimi-K3 leads likes with 10,525",
+    "Unlimited-OCR amasses 2.9M downloads",
+    "Community quantization intense: GGUF and NVFP4",
+    "ComfyUI ports and Turbo LoRAs for MiniMax-H3"
+  ],
+  "ai-community": [
+    "Dev.to: agents say done when they failed",
+    "CISO-approved AI agent security model detailed",
+    "Pi Agent vs Claude Code after 100 hours",
+    "Compression as prediction debated on Lobste.rs",
+    "Developers build guardrails, evals, audit trails",
+    "Text watermarking and rare book costs discussed"
+  ]
+}

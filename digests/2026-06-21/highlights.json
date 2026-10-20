@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code hit by 3 critical regressions",
+    "OpenAI Codex faces backlash from rapid releases",
+    "Pi and DeepSeek TUI reducing architectural debt",
+    "Sub-agent governance emerges as key requirement",
+    "Context window transparency demanded by users",
+    "OS-level sandboxing seen as non-negotiable"
+  ],
+  "ai-agents": [
+    "OpenClaw has 500 issues and 500 PRs today",
+    "96% of OpenClaw issues remain open",
+    "Only 4% of PRs merged today",
+    "No new releases from OpenClaw today",
+    "Codex integration PR #94833 auto-merged",
+    "Session state regressions cluster as P1"
+  ],
+  "ai-trending": [
+    "headroom and codebase-memory-mcp gain 3,795 stars",
+    "OpenMontage is first open-source agentic video system",
+    "Google's TimesFM released for time-series forecasting",
+    "Kilo, flue, hermes-agent gain traction as harnesses",
+    "Ollama now supports Kimi-K2.6 and GLM-5.1",
+    "rig Rust framework reaches 7,694 stars"
+  ],
+  "ai-hn": [
+    "DeepMind's John Jumper departs for Anthropic",
+    "Anthropic role in U.S. export controls debated",
+    "Pen-testing model bypasses safety refusals",
+    "OpenAI Codex costs jump 10x since June 16",
+    "Community divided on regulatory capture fears",
+    "Agent reliability skepticism runs high"
+  ],
+  "ai-ph": [
+    "Claude Code Artifacts top with 448 votes",
+    "Agent interoperability is the strongest trend",
+    "Ask Ad Manager by Google Ads launches",
+    "Open-source launches continue gaining momentum",
+    "Focus shifts from building to connecting agents",
+    "Live previews solve opaque AI coding workflows"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 4,984 likes",
+    "MoE architectures dominate trending models",
+    "GLM-5.2 gains traction as efficient MoE",
+    "GGUF quantized coding variants see big downloads",
+    "Any-to-any multimodal pipelines rise",
+    "Qwen3.6-35B-A3B leads model charts"
+  ],
+  "ai-community": [
+    "Developers battle agent drift in production",
+    "Private AI debate questions vector DB privacy",
+    "LLM routing and semantic caching patterns shared",
+    "Offline-first AI systems for Global South discussed",
+    "Black box opacity of LLMs acknowledged",
+    "AI-generated code maintenance reality debated"
+  ]
+}

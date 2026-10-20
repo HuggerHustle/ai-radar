@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.133 daily patches",
+    "OpenAI Codex v0.130.0-alpha.1",
+    "Gemini CLI v0.42.0-nightly cadence",
+    "ACP/MCP protocol standardization",
+    "Agentic vs headless architecture split",
+    "Cross-platform parity struggles"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "285:215 open-to-closed issue ratio",
+    "v2026.5.7 maintenance release",
+    "Codex integration hardening",
+    "Channel reliability for Discord & Telegram",
+    "Production multi-agent scaling concerns"
+  ],
+  "ai-trending": [
+    "DeepSeek-TUI +5,799 stars today",
+    "agent-skills +3,062 stars",
+    "PageIndex vectorless RAG paradigm",
+    "9router +149 stars for cost routing",
+    "Ollama now supports Kimi-K2.5",
+    "vLLM reaches 79,321 stars"
+  ],
+  "ai-web": [
+    "Natural Language Autoencoders unveiled",
+    "Petri 3.0 alignment toolbox donated",
+    "Ten financial agent templates released",
+    "MCP app ecosystem expansion",
+    "OpenAI voice intelligence models",
+    "ChatGPT Trusted Contact feature"
+  ],
+  "ai-hn": [
+    "Mythos found 271 Firefox vulnerabilities",
+    "Cloudflare lays off 1,100 for AI",
+    "Ransomware hits Canvas Instructure",
+    "Claude interpretability via autoencoders",
+    "OpenAI new voice API models",
+    "Debate on AI security auditing efficacy"
+  ],
+  "ai-ph": [
+    "Kanwas: 480 votes for open-source brain",
+    "Superset 2.0 leading developer tools",
+    "Ads in ChatGPT monetization milestone",
+    "WOZCODE coding automation scaling",
+    "Gyro Autopilot for travel refunds",
+    "Contrario AI recruiting with experts"
+  ],
+  "ai-arxiv": [
+    "Impossibility Triangle of long-context",
+    "SoK on jailbreak attack robustness",
+    "Automated side-effect auditing pipeline",
+    "Grok-based mathematical theorem discovery",
+    "Black-box hallucination detectors",
+    "Formal proofs for mechanistic interpretability"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro 946,264 downloads",
+    "Gemma-4-31B-it crosses 8.5M downloads",
+    "Gemma-4-E4B-it at 5M downloads",
+    "Uncensored abliterated fine-tunes trending",
+    "Sulphur-2-base text-to-video model",
+    "OmniVoice zero-shot voice cloning"
+  ],
+  "ai-community": [
+    "200-line TypeScript AI router cuts bill 41%",
+    "Anthropic rents Musk's data center",
+    "MCP as emerging agent protocol standard",
+    "Cloudflare and Stripe agent APIs",
+    "Debate on open-weight models closing up",
+    "Mythos architecture reconstruction"
+  ]
+}

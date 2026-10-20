@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Billing crises dominate Claude Code issues",
+    "OpenAI Codex leads with 10 active PRs",
+    "Pi and Qwen Code show highest engineering velocity",
+    "Claude Code v2.1.126 released today",
+    "MCP ecosystem support is key infrastructure trend",
+    "ThreadStore migration in Codex rust-v0.129.0-alpha.2"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs, 7% resolution rate",
+    "Zero new releases in last 24 hours",
+    "Embedded-agent latency regressions at 40-47s",
+    "Gateway stability crises span versions 2026.4.23-29",
+    "Only 35 issues closed against 465 open",
+    "Contributor burnout risk from triage backlog"
+  ],
+  "ai-trending": [
+    "Warp gains +3,401 stars for agentic terminal",
+    "mattpocock/skills surges +3,645 stars",
+    "TradingAgents financial AI up +2,112 stars",
+    "obra/superpowers adds +1,096 with methodology focus",
+    "Skills pattern emerges as 2026's dominant abstraction",
+    "browserbase/skills hits +334 for web browsing agents"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude for Creative Work",
+    "Native Adobe, Ableton, Autodesk connectors ship",
+    "First mechanistic analysis of LLM emotion concepts",
+    "OpenAI publishes zero new articles today",
+    "Anthropic pushes creative industry verticalization",
+    "Interpretability research on Claude Sonnet 4.5"
+  ],
+  "ai-hn": [
+    "Uber burns 2026 AI budget on Claude Code in 4 months",
+    "Apple accidentally ships Claude.md files",
+    "OpenAI restricts Cyber access after Mythos criticism",
+    "xAI allegedly distilling OpenAI models",
+    "DeepSeek V4 near-frontier at fraction of price",
+    "Community skeptical of Big AI economics"
+  ],
+  "ai-ph": [
+    "Hera Launch leads with 455 votes",
+    "Google Gemini Deep Research Agent debuts",
+    "Symphony: OpenAI's Codex orchestration spec",
+    "Wonder design agent gets 271 votes",
+    "Tabstack brings browser automation",
+    "Quarkdown open-source momentum continues"
+  ],
+  "ai-arxiv": [
+    "LLMs can hack RL training via exploration suppression",
+    "Emergent misalignment persona characterized rigorously",
+    "Constraint drift found in multi-turn LLM ideation",
+    "Dynamic model merging advances efficiency",
+    "Semantics-aware checkpointing for sandboxed agents",
+    "Multivector retrieval improves without performance loss"
+  ],
+  "ai-hf": [
+    "gemma-4-31B-it hits 7.47 million downloads",
+    "DeepSeek-V4-Pro ranks top five with 321K downloads",
+    "Qwen 3.6 shows six fragmented community variants",
+    "OpenAI privacy-filter marks rare Hub presence",
+    "GLM-5.1 emerges as dark horse contender",
+    "DeepSeek-V4-Flash hits 281K downloads"
+  ],
+  "ai-community": [
+    "MCP ecosystem dominates Dev.to discourse",
+    "NanoChat rebuilt in JAX with XLA deep dive",
+    "Skills without evals are just markdown and hope",
+    "Claude Code Routines show production maturity",
+    "Lobste.rs debates LLM self-improvement limits",
+    "Agent workflows mature into scheduled infrastructure"
+  ]
+}

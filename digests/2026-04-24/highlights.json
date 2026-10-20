@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.118–119 ships amid user backlash",
+    "935 upvotes protest /buddy removal in Claude Code",
+    "OpenAI Codex rust-v0.123.0–124.0 plus 3 alphas",
+    "All 8 major tools shipped updates in 48 hours",
+    "Agentic autonomy vs user control tension intensifies",
+    "4 stacked PRs for human-agent interaction in Codex"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "OpenClaw v2026.4.22 expands xAI provider support",
+    "Critical installation regressions in OpenClaw v2026.4.21",
+    "356:144 open-to-closed issue ratio signals backlog risk",
+    "318:182 open-to-merged PR ratio shows scaling strain",
+    "13 projects covered in active agent ecosystem"
+  ],
+  "ai-trending": [
+    "free-claude-code gains +1,962 stars in one day",
+    "claude-context +1,011 stars solves context bottleneck",
+    "context-mode achieves 98% context compression",
+    "awesome-agent-skills launches skill marketplace category",
+    "HuggingFace ml-intern +720 stars: autonomous ML engineer",
+    "Agent skill marketplaces crystallize as new category"
+  ],
+  "ai-web": [
+    "Anthropic publishes rare quality degradation postmortem",
+    "OpenAI reveals 5 new GPT-5.5 URL slugs",
+    "GPT-5.5 naming implies incremental not generational leap",
+    "Unusual bio-safety emphasis in GPT-5.5 pages",
+    "Anthropic transparency timed against OpenAI news cycle",
+    "Three distinct changes caused Claude Code quality issues"
+  ],
+  "ai-hn": [
+    "GPT-5.5 launch hits 1009 upvotes, 664 comments",
+    "Anthropic faces multiple critical trust posts",
+    "Meta cuts 10% workforce to fund AI spending",
+    "Anthropic hits trillion-dollar secondary valuation",
+    "Mythos capabilities debated as overhyped",
+    "GPT-5.5 bio bug bounty draws safety focus"
+  ],
+  "ai-ph": [
+    "Stanley For 𝕏: 397 votes as AI Head of Content",
+    "Vibe coding tools converge with agentic coding",
+    "Qwen3.6-Max-Preview launches on Product Hunt",
+    "InstantDB addresses backend infrastructure complexity",
+    "Loomal tackles AI agent identity problem",
+    "ChatGPT Images 2.0 appears alongside open tools"
+  ],
+  "ai-arxiv": [
+    "Universal number representations found across architectures",
+    "Working memory constraints improve transformer learning",
+    "Multi-objective alignment abandons scalar rewards",
+    "Process-supervised reasoning advances in multimodal systems",
+    "Cognitive-inspired architectures gain research traction",
+    "Real-world deployment friction papers signal maturation"
+  ],
+  "ai-hf": [
+    "Gemma-4-31B-it surpasses 5.1M downloads",
+    "Gemma-4-E4B-it pioneers any-to-any architecture",
+    "Qwen 3.6 35B-A3B MoE sparks quantization flood",
+    "Uncensored fine-tunes trend: HauhauCS, OBLITERATUS",
+    "OpenAI privacy-filter makes rare Hub appearance",
+    "Tencent and NVIDIA world models hint 3D frontier"
+  ],
+  "ai-community": [
+    "Google splits TPU into training and inference chips",
+    "A2A protocol emerges as Cloud Next '26 real story",
+    "Developer tooling fatigue spawns AI hype stack audits",
+    "MCP server organization at scale gains traction",
+    "McDonald's chatbot coding incident raises security flags",
+    "Watermarking reversibility debated on Lobste.rs"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.158 with enterprise focus",
+    "OpenAI Codex shows high PR velocity at 10+ daily",
+    "Gemini CLI releases v0.45.0 nightly build",
+    "Nine tools now compete in AI CLI arena",
+    "MCP ecosystems converge across all tools",
+    "Agentic workflow reliability is universal pain point"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24h",
+    "v2026.5.28 hardens subagent workspace isolation",
+    "432:68 open-to-closed issue ratio shows throughput priority",
+    "337:163 open-to-merged PR ratio reveals heavy pipeline",
+    "13 projects now in OpenClaw ecosystem",
+    "Stale issues accumulate on gateway stability debt"
+  ],
+  "ai-trending": [
+    "MarkItDown gains 2,470 stars for doc conversion",
+    "anthropics/skills surges 454 stars for Claude Code",
+    "liteparse adds 925 stars for RAG parsing speed",
+    "ECC gains 908 stars for agent harness tooling",
+    "Agent harness emerges as distinct architecture layer",
+    "VoxCPM and MOSS-TTS drive open speech synthesis"
+  ],
+  "ai-hn": [
+    "Anthropic surpasses OpenAI in valuation debate rages",
+    "Mystery company burns $500M on Claude in one month",
+    "768GB Optane runs 1T-parameter LLM at 4 tps",
+    "DeepSWE crowns GPT-5.5, finds Claude Opus loophole",
+    "Starbucks AI inventory tool fails spectacularly",
+    "AWS Bedrock billing horror stories proliferate"
+  ],
+  "ai-ph": [
+    "Ava 2.0 leads with 369 votes for autonomous BDR sales",
+    "Hyper pitches Self-driving Company Brain positioning",
+    "Top 3 products hold 986 of 2,069 total votes",
+    "MCP Bridge builds agent-web connective tissue",
+    "Firecoach AI joins autonomous execution wave",
+    "Winner-take-most dynamics dominate AI discovery"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 4.6M weekly downloads",
+    "Qwen 3.6 family shows remarkable ecosystem breadth",
+    "Multimodal vision support now table stakes",
+    "Lance signals any-to-any unified architecture shift",
+    "Unsloth delivers GGUF variants within hours",
+    "Sulphur-2-base gains traction in video generation"
+  ],
+  "ai-community": [
+    "Hermes Agent Challenge dominates Dev.to discourse",
+    "Your AI Agent Should Text You First goes viral",
+    "Inference theft emerges as new security bug class",
+    "Pope Leo XIV encyclical sparks AI ethics debate",
+    "Multi-model debate achieves zero-cost reliability",
+    "Agent cost scaling creates urgent architecting problem"
+  ]
+}

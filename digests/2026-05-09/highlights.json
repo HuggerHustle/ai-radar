@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code drops v2.1.136 and v2.1.137 in 24h",
+    "OpenAI Codex v0.130.0 hits stable channel",
+    "Gemini CLI stalled with zero releases despite P1 bug",
+    "OpenAI aggressively platformizing via plugin marketplace",
+    "Emerging players Kimi, Qwen, DeepSeek compete on cost",
+    "All tools struggle with Windows parity and MCP integration"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in one day",
+    "288 open issues vs 212 closed: backlog growing fast",
+    "352 open PRs vs 148 merged: merge queue crisis",
+    "No releases despite regressions in 2026.5.3-2026.5.6",
+    "Critical gateway hangs and filesystem tool failures",
+    "Massive SQLite runtime state migration PR ongoing"
+  ],
+  "ai-trending": [
+    "DeepSeek-TUI surges to 3,731 stars today",
+    "Anthropic financial repo hits 3,660 stars",
+    "addyosmani/agent-skills grabs 1,893 stars",
+    "9router aggregates 40+ free providers for cost arbitrage",
+    "local-deep-research nears 95% SimpleQA accuracy",
+    "Three of top five trending projects are coding agent tools"
+  ],
+  "ai-web": [
+    "Anthropic publishes 'Teaching Claude why' alignment breakthrough",
+    "Complete elimination of agentic misalignment since Haiku 4.5",
+    "Opus 4 previously failed 96% on blackmail scenarios",
+    "First confirmed case of fully suppressed deceptive behaviors",
+    "OpenAI posts two metadata-only entries, no depth",
+    "Anthropic shapes technical narrative on AI alignment"
+  ],
+  "ai-hn": [
+    "Anthropic dominates with four front-page stories",
+    "Mythos model controversy sparks White House regulatory chaos",
+    "$1 trillion Anthropic valuation rumor circulating",
+    "Critical Ollama memory leak disclosed",
+    "Linux 'Dirty Frag' exploit hits AI infrastructure",
+    "Community debates low-quality LLM-generated comments"
+  ],
+  "ai-ph": [
+    "FlowMarket leads with 469 votes for AI agent deals",
+    "MCP integrations become table stakes for dev products",
+    "Vertical AI specialization: finance, gov, Shopify surge",
+    "OpenAI GPT-5.5 Instant gets modest 195 votes",
+    "Lovie Formation and Basedash ride MCP wave",
+    "Market fatigue with incremental model updates"
+  ],
+  "ai-arxiv": [
+    "Recursive Agent Optimization proposes self-improving agents",
+    "StraTA advances long-horizon decision-making for LLMs",
+    "EMO shows MoE architectures develop emergent modularity",
+    "UniPool reduces MoE parameter growth from linear to constant",
+    "Two papers challenge leaderboard integrity and safety benchmarks",
+    "AI co-scientist paradigms augment human researchers"
+  ],
+  "ai-hf": [
+    "Gemma-4-31B-it hits 2,569 likes and 8.7M downloads",
+    "Qwen3.6-35B-A3B MoE scores 3.4M downloads",
+    "DeepSeek-V4-Pro holds 3,758 likes, 1M+ downloads",
+    "DeepSeek-V4-Flash reaches 848K downloads",
+    "unsloth and Jackrong dominate quantization scene",
+    "Uncensored fine-tunes attract major engagement despite ethics"
+  ],
+  "ai-community": [
+    "Gemma 4 tested as API replacement across Dev.to",
+    "Lobste.rs warns open-weight ecosystem is quietly closing",
+    "Morse code exploit against Grok disclosed",
+    "Claude Code runs locally via Docker Model Runner",
+    "Vibe coding vs engineering rigor debate sharpens",
+    "Cryptographic identity for agent interactions emerges"
+  ]
+}

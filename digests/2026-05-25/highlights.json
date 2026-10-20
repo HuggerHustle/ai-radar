@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Agent orchestration is 2026's defining battleground",
+    "Claude Code faces billing crisis (#38335)",
+    "OpenAI Codex leads in PR activity at 37",
+    "Codex hit by Windows stability crisis",
+    "Gemini CLI shows balanced dev velocity",
+    "Ecosystem splits: proprietary vs open-core"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "OpenClaw ships three beta releases in two days",
+    "iMessage thumb-approval reactions added",
+    "Channel Broker architecture in progress",
+    "420:80 open-to-merged PR ratio signals backlog",
+    "Review bandwidth is primary maintainer bottleneck"
+  ],
+  "ai-trending": [
+    "Claude Code ecosystem surges 1000+ stars daily",
+    "Agent harness infrastructure emerges as new category",
+    "Local-first, token-optimized architectures trending",
+    "Pi toolkit gains 456 stars in one day",
+    "cmux terminal gets 696 stars for AI agents",
+    "Anthropic plugin ecosystem accelerating"
+  ],
+  "ai-hn": [
+    "Claude is not your architect tops HN",
+    "Constraint Decay paper validates agent fragility",
+    "168 comments on AI over-reliance debate",
+    "Local LLMs improve with clarifying questions",
+    "Anthropic dominates with Karpathy hiring news",
+    "Community mood: cautious, focused on AI failures"
+  ],
+  "ai-ph": [
+    "Memdex wins with local AI memory (257 votes)",
+    "Google Antigravity CLI tops launches",
+    "Local-first privacy tools gaining traction",
+    "MCP server ecosystem tools exploding (Vibedock)",
+    "Pure generative media tools absent today",
+    "Market shifts to production-grade infrastructure"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 4.7M downloads",
+    "Gemma-4-31B-it leads at 10.4M downloads",
+    "Qwen ecosystem shows explosive multi-variant growth",
+    "ByteDance Lance debuts any-to-any architecture",
+    "Sulphur-2-base breaks 1.3M video generation downloads",
+    "Unsloth quantizations ship weekly at scale"
+  ],
+  "ai-community": [
+    "Google I/O 2026 Skill Files underappreciated",
+    "Gemma 4 (4B) powers offline disaster companions",
+    "Local Hermes + Qwen 35B replaces cloud stacks",
+    "Lobste.rs maintains an AI Resist List",
+    "Products without LLMs get dedicated categorization",
+    "Cloud vs local AI tension defines both communities"
+  ],
+  "ai-weekly": [
+    "Karpathy joins Anthropic, sparks talent war debate",
+    "Anthropic launches Glasswing, finds 10K+ vulnerabilities",
+    "Anthropic acquires Stainless for SDK infrastructure",
+    "OpenAI IPO rumors face community fatigue",
+    "OpenAI model disproves geometry conjecture, contested",
+    "Claude Code Skills hit 3,500+ stars in 24 hours"
+  ]
+}

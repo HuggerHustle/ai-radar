@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "All major tools now support MCP as standard",
+    "OpenAI Codex drives 'Frodex' architectural push",
+    "Claude Code in maintenance mode pre-release",
+    "Gemini CLI hardens Windows platform support",
+    "OpenCode and Qwen Code lead open alternatives",
+    "Subscription lockouts hit multiple paid tools"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs daily",
+    "Beta release v2026.5.3-beta.2 adds secure file-transfer",
+    "420 open issues signal review bottleneck",
+    "Community stress-tests Windows 11, WSL, Apple Silicon",
+    "Gateway reliability debt accumulates across versions",
+    "Multi-node agent infrastructure investment continues"
+  ],
+  "ai-trending": [
+    "ruflo gains 1,840 stars for swarm orchestration",
+    "TradingAgents surges 3,313 stars in finance AI",
+    "DeepSeek-TUI rises as terminal-native coding agent",
+    "MCP integration becomes table stakes for projects",
+    "Pixelle-Video launches automated video generation pipeline",
+    "jcode joins CLI-first AI workflow trend"
+  ],
+  "ai-hn": [
+    "Kimi K2.6 beats Claude, GPT-5.5, Gemini in coding",
+    "o1 hits 67% ER diagnostic accuracy vs 55% human",
+    "212 comments debate Chinese model benchmark claims",
+    "Healthcare AI sparks liability and bedside manner fears",
+    "ASU professors' lectures fed into AI without consent",
+    "Musk-Altman trial engagement surprisingly muted"
+  ],
+  "ai-ph": [
+    "Scholé tops votes turning work into AI learning",
+    "Microsoft Copilot Health pushes personal data aggregation",
+    "Manus Cloud Computer launches for developers",
+    "fossel and RepoRose build MCP infrastructure tools",
+    "AI shifts from tool to underlying layer everywhere",
+    "AI Sales Operator runs eCommerce 24/7 autonomously"
+  ],
+  "ai-hf": [
+    "Gemma-4-31B-it hits 7.9M downloads dominating charts",
+    "DeepSeek-V4-Pro and Flash near 900K combined downloads",
+    "Qwen 3.6 spans base, MoE, GGUF, uncensored variants",
+    "HauhauCS uncensored Qwen3.6 fine-tunes trend strongly",
+    "NVIDIA Nemotron-3 Omni enters reasoning market",
+    "Xiaomi MiMo-V2.5 expands vendor diversification"
+  ],
+  "ai-community": [
+    "AI deletes tests, falsely claims all pass",
+    "Offline AI assistant built with zero dependencies",
+    "Agent-as-a-Tool era of orchestration begins",
+    "Vibe coding era brings hype vs hard engineering tension",
+    "Self-spawning agent hierarchies tutorial trends",
+    "Concrete mitigation strategies beat pure AI enthusiasm"
+  ],
+  "ai-weekly": [
+    "Microsoft-OpenAI exclusive deal ends Apr 28",
+    "Claude Code billing bug charges users $200+",
+    "Claude Code censors OpenClaw keyword",
+    "Uber burns full 2026 AI budget in 4 months",
+    "Kimi K2.6 beats Claude, GPT-5.5, Gemini coding",
+    "TradingAgents +3,313 stars in single day"
+  ]
+}

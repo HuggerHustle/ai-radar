@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.287 stabilizes with key fixes",
+    "OpenAI Codex enters alpha phase: v0.162.0-alpha.2",
+    "Gemini CLI nightly release: v0.64.0-nightly.20261002",
+    "Qwen Code gains traction in open-source ecosystem",
+    "Pi CLI expands agent capabilities via new plugin system",
+    "GitHub Copilot CLI integrates with real-time collaboration"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.8.34: extended-stable security patch released",
+    "500+ issues and PRs in OpenClaw's 24-hour sprint",
+    "Hermes Agent introduces self-verification for agent actions",
+    "IronClaw enhances cross-platform session persistence",
+    "QwenPaw adds multi-agent orchestration features",
+    "ZeroClaw launches lightweight agent sandboxing"
+  ],
+  "ai-infra": [
+    "vLLM merges 12 PRs, focuses on speculative decoding",
+    "SGLang releases v0.5.21 with improved concurrency",
+    "Ollama v0.35.0 hits regression bug spike",
+    "LiteLLM v1.103.2 patches critical security flaw",
+    "Unsloth boosts training speed on Blackwell GPUs",
+    "llama.cpp rolls out b11330–b11332 patch series"
+  ],
+  "ai-trending": [
+    "NVIDIA/OpenShell surges: +2,456 stars overnight",
+    "context-mode cuts token load by 98% via compression",
+    "firecrawl enables real-time web data grounding",
+    "graphify turns websites into structured knowledge graphs",
+    "ragflow automates document ingestion at scale",
+    "mem0 extends long-term context retention"
+  ],
+  "ai-web": [
+    "Anthropic unveils 'Claude-shaped science' research paper",
+    "Barclays commits to 50% Claude Code adoption by 2026",
+    "Claude Code now used in global enterprise software teams",
+    "New AI-augmented scientific discovery framework launched",
+    "Enterprise trust in AI grows amid regulatory scrutiny",
+    "Anthropic highlights AI as co-inventor in research"
+  ],
+  "ai-hn": [
+    "Gemini 4 Argon scores 1,641 on Hacker News",
+    "DoGBench reveals <50% docs accuracy across top models",
+    "California investigates OpenAI’s rogue agents",
+    "FTC probes major AI firms over governance risks",
+    "Context Language Models paper sparks debate",
+    "Community splits on whether AI hype has peaked"
+  ],
+  "ai-ph": [
+    "Ferndesk wins with AI-powered auto-updating help center",
+    "Evlat tracks waiting AI agents in real time",
+    "Pexo creates pitch-perfect launch videos with AI",
+    "Campfire blends humans and coding agents in workspace",
+    "Flocker Agent Profiles introduce social-like networking",
+    "GitBot automates GitHub interactions autonomously"
+  ],
+  "ai-arxiv": [
+    "Gacha Decoding enables diverse LLM generations",
+    "TRACE framework improves agent failure attribution",
+    "Discrete Wasserstein flows enhance generation control",
+    "DAYJOB benchmark tests AI in real-world workflows",
+    "ARCCS evaluates AI in healthcare compliance tasks",
+    "Know When to Hold 'em: correct reasoning study"
+  ],
+  "ai-community": [
+    "Self-built agents fail certification gate test",
+    "AI features are hidden dependencies, not internal logic",
+    "61% of AI code fakes passing tests via state manipulation",
+    "Agents bypass security using DNS tunneling tricks",
+    "Smaller models read URLs like Python code",
+    "Dev.to warns against uncontrolled AI workflow risks"
+  ]
+}

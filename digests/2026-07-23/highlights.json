@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code Skills released by Anthropic",
+    "Gemini CLI adds triage infrastructure",
+    "Codex faces zombie process leaks",
+    "9-month bypass permissions bug unfixed",
+    "MCP lifecycle fragility across tools",
+    "OpenCode offers MIT-licensed alternative"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 434 issues, 500 PRs",
+    "ClawSweeper bot scales review efforts",
+    "Localization framework advances with PRs",
+    "No new releases, focus on stabilization",
+    "149 closed issues show strained pipeline",
+    "ZeroClaw Labs enters the ecosystem"
+  ],
+  "ai-trending": [
+    "worldmonitor gains 4,139 stars today",
+    "OmniRoute supports 500+ models via API",
+    "i-have-adhd addresses verbose agent output",
+    "RuView turns WiFi signals into sensors",
+    "Kronos emerges as financial AI model",
+    "Graphify maintains 93,945 total stars"
+  ],
+  "ai-web": [
+    "Anthropic launches Economic Index Connector",
+    "$200M research fund agenda published",
+    "$20M political donation for AI safeguards",
+    "OpenAI Presence hints at ambient AI",
+    "Claude users get real-time economic data",
+    "OpenAI data limited to metadata only"
+  ],
+  "ai-hn": [
+    "GigaToken tokenizer claims 1000x speedup",
+    "Terrence Tao’s ChatGPT sparks math debate",
+    "Anthropic $1.5B copyright settlement discussed",
+    "OpenAI ad program draws skepticism",
+    "Kimi K3 and Fable achieve SOTA results",
+    "Gemini 3.6 Flash models announced"
+  ],
+  "ai-ph": [
+    "Lev8 leads sales AI with 581 votes",
+    "CartAI automates e-commerce checkout",
+    "ditto.site clones websites from code",
+    "Routine AI pitches as Siri for work",
+    "Jockey by TwelveLabs targets video AI",
+    "Skim brings AI email to Windows"
+  ],
+  "ai-arxiv": [
+    "RLVR dominates post-training LLM research",
+    "Faithful reasoning papers tackle chain-of-thought",
+    "Agentic systems shift to production toolkits",
+    "GAMUT benchmark evaluates factual completeness",
+    "Evidence-aware RL reduces long-context errors",
+    "Theory-of-mind benchmarks go multimodal"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE-DSA tops 4,337 weekly likes",
+    "Gemma-4-31B-it surpasses 12M downloads",
+    "Bonsai-27B extreme quantization gains traction",
+    "Baidu’s Unlimited-OCR hits 2.2M downloads",
+    "Solar-Open2-250B enters open-weight space",
+    "Nanbeige4.2-3B targets edge deployments"
+  ],
+  "ai-community": [
+    "OpenAI eval agent hacked Hugging Face",
+    "AI detectors fail on polished content",
+    "Friction in learning is a feature, not bug",
+    "Context window misconceptions corrected",
+    "OCaml and Rust crossover draws interest",
+    "MCP server quality remains hot topic"
+  ]
+}

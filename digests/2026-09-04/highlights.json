@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.260 released with stability fixes",
+    "OpenAI Codex updates to rust-v0.153.2",
+    "GitHub Copilot CLI v1.0.83-4 now stable",
+    "Gemini CLI still no release despite 10 hot issues",
+    "Qwen Code sees 10 PRs in last 24h",
+    "Pi tool hits 10 hot issues with no release"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.1 adds interactive diagrams in chat",
+    "Diagrams render natively in macOS/iOS/Android",
+    "Streamlined install-to-chat workflow now live",
+    "Critical session state bugs still plague v2026.9.1",
+    "Memory leaks and auth failures reported",
+    "Community actively triaging P0/P1 bugs"
+  ],
+  "ai-infra": [
+    "vLLM stable with focus on correctness & optimization",
+    "SGLang sees 15 high-severity issues, breaking changes coming",
+    "llama.cpp has AMD/ROCm/Vulkan stability concerns",
+    "Ollama faces stability issues despite 10 open issues",
+    "LiteLLM remains a key gateway for multi-model routing",
+    "Unsloth gains traction for low-latency inference"
+  ],
+  "ai-trending": [
+    "ECC by affaan-m hits 247K stars – top agent tool",
+    "Ponytail grows 2,128 stars in one day",
+    "Humanizer removes AI text artifacts fast",
+    "f/prompts.chat surges with 168 new stars",
+    "google-research/timesfm launches for time-series",
+    "Caveman project boosts Claude Code autonomy"
+  ],
+  "ai-web": [
+    "India ranks 2nd globally in Claude.ai usage",
+    "GPT-6 Astra launch sparks 950 HN comments",
+    "Claude Fable 5.1 scores 1404 on HN",
+    "Gemini 3.8 Flash Cyber praised for security",
+    "OpenAI’s Astra naming hints at GPT-6 tier",
+    "NYC bans AI in K–8 schools amid ethics debate"
+  ],
+  "ai-ph": [
+    "Monid tops Product Hunt with 456 votes",
+    "Dial gives AI agents real phone numbers",
+    "Stitch AI automates embroidery digitizing",
+    "Touchy brings AI assistant to iOS hardware",
+    "Browzer automates technical content publishing",
+    "OpenRouter for agent tools launched via Monid"
+  ],
+  "ai-arxiv": [
+    "TRACE framework improves LLM alignment",
+    "SafeEvolve enables safe co-evolution of agents",
+    "EarlyEval offers cost-effective agent testing",
+    "DiscoSign enables discourse-aware sign language",
+    "FP4 scaling cuts model precision without loss",
+    "H3DNAS optimizes models for edge hardware"
+  ],
+  "ai-community": [
+    "New guide: 20 agentic AI terms every dev should know",
+    "Self-improving agents fail due to broken search",
+    "Agent memory is a liability—track state instead",
+    "Debugging AI apps shouldn’t mean guessing",
+    "User feedback signals LLMs can’t detect",
+    "LLMs can now control their own attention tokens"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code shipped v2.1.160–161 in 24 hours",
+    "10+ hot issues tracked for Claude Code",
+    "4 active PRs on Claude Code today",
+    "Ecosystem now supports 9 major CLI tools",
+    "All tools racing to support diverse model backends",
+    "Security hardening for autonomous agent execution"
+  ],
+  "ai-agents": [
+    "OpenClaw: 456 issues, 500 PRs in 24 hours",
+    "390 open PRs vs 110 merged indicates backlog",
+    "No release despite critical regression fixes",
+    "Session-state corruption fix queued unshipped",
+    "Slack/Telegram message loss fix pending",
+    "Codex integration PRs awaiting maintainer review"
+  ],
+  "ai-trending": [
+    "headroom gained 1,265 stars for 60-95% token cut",
+    "markitdown dominates with +3,618 stars today",
+    "ECC agent harness hits 1,533 stars, 203K total",
+    "VoxCPM advances tokenizer-free TTS",
+    "supermemory gains 680 stars for sub-10ms retrieval",
+    "ollama now supports Kimi-K2.5, GLM-5, MiniMax"
+  ],
+  "ai-web": [
+    "Project Glasswing expands to ~200 partners",
+    "Glasswing adds critical infrastructure sectors",
+    "10,000+ high/critical severity flaws identified",
+    "Anthropic targets power, water, healthcare, comms",
+    "Explicit government collaboration signaled",
+    "OpenAI published two metadata-only entries"
+  ],
+  "ai-hn": [
+    "Anthropic's blockbuster IPO filing grips HN",
+    "Claude Mythos rollout to critical infrastructure debated",
+    "Michael Burry: neither SpaceX nor Anthropic worth $1T",
+    "Anti-job-spam plea tops charts unexpectedly",
+    "Claude skills projects gain traction",
+    "LLM interpretability tools trending"
+  ],
+  "ai-ph": [
+    "Mina Meeting Assistant leads with 479 votes",
+    "Mina executes actions during calls, not just transcribes",
+    "Typeahead brings AI autocomplete system-wide on Mac",
+    "Databox MCP enables natural language business queries",
+    "Joanium pushes local/edge AI workspace",
+    "Mistral Vibe offers long-running agent architecture"
+  ],
+  "ai-arxiv": [
+    "SafeSteer eliminates alignment tax via localized distillation",
+    "ProtoAda and CRAM advance multimodal continual learning",
+    "Speculative decoding variants for diffusion language models",
+    "Clinical, financial, robotics safety filters emerging",
+    "Perceptual Perturbation fixes MLLM-as-judge bias",
+    "Submodule-level LLM compression breaks layer constraint"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro: 4,571 likes, 5.8M downloads",
+    "NVIDIA drops 4 multimodal releases simultaneously",
+    "LocateAnything-3B novel visual grounding model",
+    "Qwen 3.6 family shows remarkable ecosystem depth",
+    "OpenAI's rare HF presence: privacy-filter model",
+    "Ternary quantization hits 1.58-bit precision"
+  ],
+  "ai-community": [
+    "Rate limits overtake hallucinations as top failure mode",
+    "Microsoft pivots from OS/apps to agents architecture",
+    "LlamaStash matures for local LLM deployment",
+    "Praxia advances multi-agent orchestration",
+    "7B vision model distilled to 2B, teacher scored worse",
+    "AI debugging consumed 6 hours for one line"
+  ]
+}

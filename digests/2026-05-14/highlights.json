@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.141 with maturing plugin ecosystem",
+    "OpenAI Codex enters POC phase for Code Mode files",
+    "All major tools racing to add MCP integration",
+    "Daemon/server modes become universal architectural target",
+    "Windows support is primary enterprise adoption gate",
+    "Gemini CLI shows 10 hot issues, 50 active in 24h"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "Only 23 of 500 PRs merged—critical review bottleneck",
+    "Three beta releases in 2026.5.12-beta.x series",
+    "iMessage media handling fixed in beta.6",
+    "Gateway runtime degradation spans multiple releases",
+    "Xiaomi MiMo and Gemini 3.1 Pro compatibility added"
+  ],
+  "ai-trending": [
+    "mattpocock/skills leads with +3,392 stars today",
+    "Skills replaces prompts as dominant abstraction layer",
+    "agentmemory gains +1,379 stars on memory persistence",
+    "CloakBrowser surges +1,835 for stealth agent infra",
+    "openhuman rises +1,696 as Rust on-device AI grows",
+    "Claude-mem hits 75,485 total stars for memory tooling"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude for Small Business targeting 44% GDP",
+    "Pre-built QuickBooks, PayPal, HubSpot integrations ship",
+    "Toggle install design reduces SMB deployment friction",
+    "OpenAI teases Codex Windows Sandbox technical article",
+    "Strategic pivot beyond enterprise to mainstream operations",
+    "44% of U.S. GDP now targeted by Claude SMB push"
+  ],
+  "ai-hn": [
+    "Four front-page posts on Claude subscription turbulence",
+    "Sam Altman courtroom testimony generates major engagement",
+    "Viral warning: losing project access after unsubscribing",
+    "Rars: Rust RAR implementation mostly written by LLMs",
+    "Torrix launches self-hosted LLM observability without Postgres",
+    "Community skepticism grows on AI vendor lock-in"
+  ],
+  "ai-ph": [
+    "Kelviq leads with 489 votes for AI billing/payments",
+    "Whirr reimagines agents in Mac notch with 88 votes",
+    "Vexilo ships 31 agents, 92 commands, 121 skills",
+    "Hopper modernizes COBOL with agentic AI",
+    "Three of top twelve launches are open-source",
+    "Hyperswitch Prism open-sources payment orchestration"
+  ],
+  "ai-arxiv": [
+    "AlphaGRPO extends to multimodal without cold-start",
+    "Learning, Fast and Slow proposes dual-system LLM architecture",
+    "Sparse-to-dense reward principle challenges standard GRPO",
+    "MEME benchmark pushes multi-session memory evaluation",
+    "KV-cache compression papers target production deployment",
+    "Geometric methods gain traction for transformer optimization"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro dominates with 3,925 likes, 2.4M downloads",
+    "Qwen 3.6 family appears across base, MoE, GGUF variants",
+    "Gemma 4 enters strongly with official and uncensored forks",
+    "Sulphur-2-base heats up video generation segment",
+    "OmniVoice hits 2.2M downloads for production TTS",
+    "1.25-bit quantization experiments proliferate"
+  ],
+  "ai-community": [
+    "Developer burned through $14,502 on Claude Code in one month",
+    "MCP security vulnerabilities spark community scanning",
+    "AWS Lambda ephemeral storage unlocks stateful agents",
+    "Cursor sent 8,400 tokens just to rename a function",
+    "Docker Model Runner simplifies local AI setups",
+    "Code mode patterns proposed to trim bloated MCP"
+  ]
+}

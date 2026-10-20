@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code leads enterprise but neglects Windows",
+    "OpenAI Codex fixes sandbox reliability issues",
+    "Gemini CLI shows strongest nightly velocity",
+    "Kimi, Qwen, DeepSeek compete on local-first",
+    "OpenCode and Pi lead extensibility layer",
+    "Milestone 2.2 approaching for Claude Code"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "481 open vs 19 closed issues backlog",
+    "v2026.5.16-beta.5 shipped Mac app redesign",
+    "P1 bugs in auth, message loss, cron reliability",
+    "Mature feature phase with technical debt",
+    "Skills renamed to autoreview in beta.5"
+  ],
+  "ai-trending": [
+    "openhuman gains 1,690 stars today",
+    "codegraph gets 857 stars for Claude optimization",
+    "Microsoft ai-agents-for-beginners up 485 stars",
+    "Shadowbroker expands AI into OSINT geospatial",
+    "shannon shows autonomous pentesting agents",
+    "Local-first infrastructure trend accelerating"
+  ],
+  "ai-hn": [
+    "Apple Silicon local inference costs more than cloud",
+    "Microsoft CEO claims human-level AI in 18 months",
+    "Semble cuts agent token use 98% vs grep",
+    "Claude Code enables Linux Lightroom ports",
+    "Anti-AI hate wave rising per Axios polling",
+    "Eric Schmidt booed for praising AI"
+  ],
+  "ai-ph": [
+    "Loova Agents leads with 367 votes for video",
+    "Agentmemory gets 275 votes for coding agents",
+    "Gemini 3.1 Flash-Lite targets high-volume pipelines",
+    "ChatGPT enters personal finance vertical",
+    "M5Stack PaperColor open-source hardware launches",
+    "ScholarXIV research platform debuts"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 4,010 likes, 3.1M downloads",
+    "Gemma-4-31B-it nears 10M enterprise downloads",
+    "Qwen 3.6 spans 27B dense to 35B MoE variants",
+    "Sulphur-2-base video model approaches 1M downloads",
+    "MiniCPM-V-4.6 gains edge inference traction",
+    "Unsloth actively quantizing Qwen ecosystem"
+  ],
+  "ai-community": [
+    "Developer cuts LangGraph costs by 93%",
+    "Claude Code + Cursor specialization emerging",
+    "CodeGraph stops agents re-grepping files",
+    "Supply chain risks from AI skill files flagged",
+    "PII leakage to OpenAI raises security alarms",
+    "Coding culture losses debated on Lobste.rs"
+  ],
+  "ai-weekly": [
+    "Anthropic frames US-China AI as democratic vs. authoritarian",
+    "Claude for Small Business launches with QuickBooks integration",
+    "OpenAI creates The Deployment Company for infrastructure",
+    "Anthropic reports 0% blackmail rate on Claude 4 misalignment evals",
+    "Agent Skills standardization accelerates across four major repos",
+    "Needle 26M-parameter model tops Hacker News with 252 points"
+  ]
+}

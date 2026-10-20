@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.109–110 adds TUI fullscreen mode",
+    "OpenAI Codex ships rust-v0.121.0 with plugin marketplace",
+    "10 hot issues tracked for Claude Code, #45596 at 739 👍",
+    "8-PR stack on Codex MCP remote executor architecture",
+    "Community backlash centers on silent feature removals",
+    "All major tools now have agentic execution environments"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24 hours",
+    "Critical onboarding regression blocking new installations",
+    "Beta release v2026.4.15-beta.1 focuses on gateway observability",
+    "138 PRs/issues closed, 362 still open",
+    "Windows support and provider bugs dominate complaints",
+    "13 projects covered in OpenClaw ecosystem"
+  ],
+  "ai-trending": [
+    "Claude Code ecosystem dominates top GitHub trending",
+    "andrej-karpathy-skills gains +9,646 stars for single CLAUDE.md",
+    "claude-mem gains +2,305 stars for agent memory",
+    "superpowers gains +2,055 stars for agentic methodology",
+    "Claude-Code-Game-Studios turns agent into 49-agent studio",
+    "76 AI/ML projects analyzed after filtering exclusions"
+  ],
+  "ai-web": [
+    "Anthropic positions Agent Skills as open standard",
+    "OpenAI publishes 'Next Evolution Of The Agents Sdk'",
+    "Both firms advancing agent infrastructure same day",
+    "Agent SDK/skill portability is Q2 2026 battleground",
+    "Anthropic article updated April 15, originally October 2025",
+    "OpenAI article text unavailable for deeper comparison"
+  ],
+  "ai-hn": [
+    "Gas Town accused of secretly using customer LLM credits",
+    "OpenAI $852B valuation faces investor skepticism",
+    "Claude users frustrated by removed fixed model versioning",
+    "Anthropic trust collapsing per verification failure article",
+    "MCP server budget tool for agents launches",
+    "Adaptive LLM routing Tier makes small models 10pt better"
+  ],
+  "ai-ph": [
+    "Figma for Agents wins Product Hunt with 523 votes",
+    "Vibe coding appears in two top-3 products",
+    "CatDoes v4: AI agent with its own computer builds apps",
+    "ElevenAgents Guardrails 2.0 targets enterprise agent safety",
+    "Ghost Pepper 🌶️ local AI finds privacy audience",
+    "Softr AI Co-Builder rides vibe coding wave"
+  ],
+  "ai-arxiv": [
+    "Lightning OPD eliminates live teacher inference for distillation",
+    "First systematic mechanistic study of OPD training dynamics",
+    "One banned token collapses instruction-tuned helpfulness",
+    "Autonomous AI research agent sustains multi-day ML workflows",
+    "Novel work exposes fundamental limits of AI auditing",
+    "Multimodal reasoning expands to medical imaging and video"
+  ],
+  "ai-hf": [
+    "Gemma 4 family dominates with millions of downloads",
+    "Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled leads weekly likes",
+    "Jackrong model hits 2,665 likes and 588,732 downloads",
+    "Surge in uncensored and abliterated fine-tunes",
+    "Netflix's void-model enters open video-to-video editing",
+    "MiniMax-M2.7 and GLM-5.1 show strong Chinese ecosystem"
+  ],
+  "ai-community": [
+    "Gemini 3.1 Flash TTS prompting guide published",
+    "You Vibe-Coded. Now What? sparks production discussion",
+    "Developers focus on RAG, gateways, token optimization",
+    "Social engineering attacks on LLMs gain attention",
+    "Lobste.rs questions AI productivity measurement methods",
+    "Healthcare audit layers and hallucination handling trend"
+  ]
+}

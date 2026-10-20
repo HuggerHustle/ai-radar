@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.98 ships with Vertex wizard",
+    "OpenAI Codex hits rate-limit crisis: 501 comments",
+    "Kimi Code CLI migrates to Bun/TypeScript",
+    "/buddy command removal sparks 253 👍 backlash",
+    "Codex releases 5 alpha builds in 24 hours",
+    "Memory management emerges as key battleground"
+  ],
+  "ai-agents": [
+    "OpenClaw releases v2026.4.9 with dreaming infrastructure",
+    "500 issues and 500 PRs in single day",
+    "Critical npm regression: missing @buape/carbon",
+    "Community debates ERC-8004 agent identity standards",
+    "Grounded REM backfill lane for memory replay",
+    "Gateway seam splitting architectural refactor"
+  ],
+  "ai-trending": [
+    "Hermes Agent gains 6,485 stars in one day",
+    "Claude Code ecosystem tools explode in popularity",
+    "obra/superpowers: 2,299 stars for agentic skills",
+    "Archon launches first open-source harness builder",
+    "Tokenizer-free TTS: OpenBMB/VoxCPM trending",
+    "Kronos financial foundation model emerges"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude for Healthcare HIPAA platform",
+    "Trustworthy Agents in Practice research published",
+    "OpenAI publishes zero articles today",
+    "Clinical trial management added to Life Sciences",
+    "Anthropic's dual-track vertical strategy executes",
+    "Governance credibility push ahead of regulation"
+  ],
+  "ai-hn": [
+    "Claude Code Vercel plugin telemetry risks exposed",
+    "Anthropic rumored at $30B ARR, IPO speculation",
+    "Mythos model: 244-page safety doc summarized",
+    "OpenAI withdraws from UK Stargate project",
+    "Autonomous agents hit production workflows",
+    "Community wary of vendor lock-in, surveillance"
+  ],
+  "ai-ph": [
+    "Velo leads with 630 votes for async video AI",
+    "MindsDB Anton: BI that acts, not just answers",
+    "Career-Ops builds on Claude directly",
+    "Browser Arena open-source cloud benchmarks",
+    "MindsDB open-sources autonomous BI agent",
+    "Practical productivity tools dominate launches"
+  ],
+  "ai-arxiv": [
+    "Personalized RewardBench for pluralistic alignment",
+    "TraceSafe assesses LLM guardrails on tool-calling",
+    "Energy-aware Gaussian splatting for edge devices",
+    "Elastic test-time training for 3D reconstruction",
+    "Teaching resistance to automation studied",
+    "Safe GenAI deployment in education explored"
+  ],
+  "ai-hf": [
+    "Gemma 4 family dominates: 31B, 26B-A4B, E4B variants",
+    "Qwen3.5-Claude distillate hits 2,542 likes",
+    "Jackrong's reasoning model tops community fine-tunes",
+    "Netflix enters Hub with video editing model",
+    "Baidu launches OCR on Hugging Face",
+    "Unsloth quantizes Gemma and GLM families"
+  ],
+  "ai-community": [
+    "Vibe coding emerges as cultural phenomenon",
+    "AI agent in incident workflow breaks unexpectedly",
+    "Code review becomes most critical skill",
+    "RAG failures are new debugging frontier",
+    "Cloud vs local AI workflows tension rises",
+    "Memory systems challenge operationalizes"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code dominates but faces safety classifier issues",
+    "Kimi Code CLI wrestles with encoding and rate-limit bugs",
+    "Gemini CLI invests in sandboxing and daemon support",
+    "OpenAI Codex churns through model compatibility issues",
+    "Cross-tool pain: multi-agent reliability and session persistence",
+    "Qwen Code adds evaluation infrastructure"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.1-beta.6 adds new model providers",
+    "Critical P0 memory leak: RSS grows to 15.5GB",
+    "Tool outputs render as unreadable placeholder text",
+    "Featherless and Claude Sonnet 5 now supported",
+    "GPT-5.6 is the new default model for setups",
+    "500 issues and 500 PRs updated in 24 hours"
+  ],
+  "ai-trending": [
+    "AI agent security tools surge on GitHub",
+    "Vibe-Trading hits 768 stars today",
+    "hallmark tool pushes back against AI slop",
+    "Claude ecosystem dominates trending list",
+    "AI financial trading is a breakout theme",
+    "RAG remains the largest category by volume"
+  ],
+  "ai-hn": [
+    "Claude Code wastes 33k tokens before prompt reads",
+    "George Hotz: I love LLMs, I hate hype",
+    "Apple-OpenAI legal war heats up",
+    "Mechanistic interpretability cracks LLM black box",
+    "Hidden space where Claude puzzles over concepts",
+    "OpenCode sends only 7k tokens overhead"
+  ],
+  "ai-ph": [
+    "Effects SDK leads with 484 votes",
+    "ChatGPT Work scores 247 votes",
+    "agentfdr debugs looping coding agents",
+    "MeMex offers private Mac memory search",
+    "Privacy-focused local AI tools gain traction",
+    "Debugging and observability for AI agents emerge"
+  ],
+  "ai-hf": [
+    "GLM-5.2 tops charts with 3,857 likes",
+    "Qwen3.6 uncensored variant hits 2.6M downloads",
+    "NVIDIA Nemotron 75B MoE model released",
+    "Unlimited-OCR from Baidu gets 1.43M downloads",
+    "Qwen3.5 family dominates trending models",
+    "GGUF quantized variants appear within hours"
+  ],
+  "ai-weekly": [
+    "GPT-5.6 launches with controversy",
+    "Apple sues OpenAI over trade secrets",
+    "Agent Skills surge on GitHub",
+    "Claude Sonnet 5 released",
+    "Anthropic's 'J-Space' research goes viral",
+    "OpenClaw beta faces memory leak issues"
+  ]
+}

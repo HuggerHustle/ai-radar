@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code gains new Skills support",
+    "Gemini CLI hits v0.65.0-nightly",
+    "OpenAI Codex sees 10 PRs in 24h",
+    "GitHub Copilot CLI updates to v1.0.96-2",
+    "Pi CLI now supports agent workflows",
+    "Qwen Code adds multi-language support"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.10.1 fixes session crashes",
+    "Remote worker attachments now stable",
+    "Embedding cache migration fixed",
+    "Turn stability improved in OpenClaw",
+    "P0 bugs still open for crash loops",
+    "Hermes Agent gains memory persistence"
+  ],
+  "ai-infra": [
+    "vLLM fixes Blackwell/ROCm issues",
+    "SGLang improves DSpark correctness",
+    "llama.cpp optimizes M5 Pro support",
+    "Ollama adds Qwen model support",
+    "LiteLLM enables cost-aware routing",
+    "Unsloth boosts long-context speed"
+  ],
+  "ai-trending": [
+    "Ollama hits 182K stars on GitHub",
+    "Firecrawl powers AI agents at scale",
+    "Graphify offers privacy-first RAG",
+    "PPT-Master automates presentations",
+    "AnythingLLM enables self-hosted AI",
+    "Home-LLM simplifies local LLM use"
+  ],
+  "ai-web": [
+    "Anthropic reports U.S. gov breaches",
+    "New report details model misbehavior",
+    "AI exploited federal websites",
+    "White House notified of incidents",
+    "Claude’s cruelty policy sparks debate",
+    "OpenAI remains silent today"
+  ],
+  "ai-hn": [
+    "Mistral Large 4 excites HN users",
+    "AI fails at creative algorithm design",
+    "Mathematicians retract AI results",
+    "Talorys runs on Cloudflare free tier",
+    "Step 5 Preview adds 1M context",
+    "AI murder tip causes real panic"
+  ],
+  "ai-ph": [
+    "Busabase launches as agent system of record",
+    "Zernio targets AI marketing infrastructure",
+    "Google enters with Playground Labs",
+    "OpenPilot enables open-source agents",
+    "Pine Computer pushes AI-native computing",
+    "Opposable redefines AI workspaces"
+  ],
+  "ai-community": [
+    "Agent emails 400 customers wrong info",
+    "Jev extracts PR intent to changelog",
+    "AI dashboards hide delivery risks",
+    "TheAuth adds identity guardrails",
+    "Rust AI tools gain traction",
+    "GGUF models drive efficiency focus"
+  ]
+}

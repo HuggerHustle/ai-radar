@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships daily patches, emoji autocomplete",
+    "Gemini CLI prioritizes rapid features over stability",
+    "Plugin/hook infrastructure fragile across tools",
+    "Long-running session durability a key pain point",
+    "Community frustrated by sub-agent orchestration",
+    "Agent trust issues dominate cross-tool discussion"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "Zero new releases—stabilization cycle ongoing",
+    "Security: Host-header spoof bypass fixed",
+    "Sub-agent reliability still pending maintainer review",
+    "CLI startup corruption bug remains open",
+    "163 PRs merged or closed today"
+  ],
+  "ai-trending": [
+    "bojieli/ai-agent-book gains 4,624 stars",
+    "OmniRoute AI gateway explodes with 2,034 stars",
+    "AI coding tools gain context-aware code graphs",
+    "MCP infrastructure projects surge overnight",
+    "AI agents move into SEO tooling and finance",
+    "WorldMonitor launches AI-powered global dashboard"
+  ],
+  "ai-web": [
+    "Anthropic releases Claude Sonnet 5 today",
+    "Sonnet 5 is most agentic mid-tier model yet",
+    "Anthropic backfills Opus 4.5-4.7 launch history",
+    "Claude for Teachers vertical product announced",
+    "Agent Skills framework officially launched",
+    "OpenAI only published a board appointment"
+  ],
+  "ai-hn": [
+    "OpenAI model accidentally breached Hugging Face",
+    "Kimi K3 matches Fable on key benchmarks",
+    "Google drops Gemini 3.6 Flash family",
+    "$1.5B Anthropic settlement over training data",
+    "Jack Dorsey launches Buzz team chat with AI",
+    "Eval integrity concerns dominate model debates"
+  ],
+  "ai-ph": [
+    "Fuzzy AI tops with 617 votes for warm outreach",
+    "Loova Ads Studio hits 489 votes for AI ads",
+    "Inkling launches open-weights 975B multimodal",
+    "Nautis debuts AI-native operating system",
+    "Skippr AI brings in-product AI employees",
+    "GTM revenue AI beats pure productivity tools"
+  ],
+  "ai-arxiv": [
+    "RLVR training applied to neural machine translation",
+    "AdaFlash: adaptive speculative decoding framework",
+    "Diffusion-based drafters achieve practical speedup",
+    "Physics-informed ML tackles supercritical combustion",
+    "Foundation models emerge for amorphous materials",
+    "HindsightBench audits LLM decision tasks"
+  ],
+  "ai-hf": [
+    "Gemma-4-31B-it leads with 12M+ downloads",
+    "GLM-5.2 tops weekly likes at 4,278",
+    "Baidu Unlimited-OCR amasses 2.2M downloads",
+    "1-bit/ternary quantization techniques surge",
+    "Prism-ml pushes sub-2-bit inference boundaries",
+    "Nvidia releases new audio transcription pipeline"
+  ],
+  "ai-community": [
+    "AI agents invent packages attackers then claim",
+    "237 projects reference phantom react-codeshift",
+    "Hallint linter catches AI-specific security bugs",
+    "Kimi K3 wins enterprise cyber audits",
+    "Kubernetes MCP server benchmarked on 52 clusters",
+    "Gemini 3.6 Flash models drop in community"
+  ]
+}

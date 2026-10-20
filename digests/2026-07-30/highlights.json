@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Windows regressions plague all tools",
+    "Kimi Code and Copilot CLI push enterprise features",
+    "Lifecycle control features hotly debated",
+    "MCP integration converging across tools",
+    "Community demands more autonomy and guardrails",
+    "Claude Code Skills project added"
+  ],
+  "ai-agents": [
+    "OpenClaw: 97 PRs merged today",
+    "OpenClaw: P1/P0 regressions in Codex and OAuth",
+    "OpenClaw community highly active",
+    "No new releases, focusing on technical debt",
+    "OpenClaw: 449 open issues, 403 open PRs",
+    "Docker timezone validation fix merged"
+  ],
+  "ai-infra": [
+    "Speculative decoding now table-stakes",
+    "Hardware diversity fragments optimization",
+    "llama.cpp: 9 tagged releases today",
+    "Ollama: 2 critical reliability issues",
+    "LiteLLM: ~6 open issues",
+    "Agentic workloads drive feature development"
+  ],
+  "ai-trending": [
+    "book-to-skill +1,421 stars today",
+    "huggingface/speech-to-speech +827",
+    "jcode: most RAM efficient harness",
+    "Microsoft VibeVoice +336 stars",
+    "MoonshotAI FlashKDA +91 stars",
+    "Agent tooling dominates trending"
+  ],
+  "ai-web": [
+    "Claude finds attack on post-quantum HAWK",
+    "Claude discovers AES weakness",
+    "OpenAI hints at GPT-5/6 announcements",
+    "ChatGPT for academic researchers",
+    "ARC AGI 3 improvement via config",
+    "Anthropic: from bugs to math flaws"
+  ],
+  "ai-hn": [
+    "AI worm self-propagates through Copilot",
+    "OpenAI Codex Security scores 586 points",
+    "Long policies fail to govern agents",
+    "Anthropic cryptographic weakness discovery",
+    "Incident timeline at frontier lab",
+    "Engineers building defenses against worms"
+  ],
+  "ai-ph": [
+    "Prefactor: real-time agent evaluation",
+    "Cekura: self-improving voice agents",
+    "Leaping AI: multi-day campaign calling",
+    "Liminal: workspace for humans and agents",
+    "Phantom: voice-first Mac agent",
+    "Agent instrumentation tools surge"
+  ],
+  "ai-arxiv": [
+    "Trajectory-relayed on-policy distillation",
+    "Reactive real-time flow policies",
+    "UniMem bridges episodic and parametric memory",
+    "Desktop-Delta benchmark for agents",
+    "Game-theoretic analysis of AI races",
+    "Minimizing Targeted Activations for safety"
+  ],
+  "ai-hf": [
+    "Kimi-K3 multimodal trending",
+    "Qwen3.6 sparks fine-tune wave",
+    "GLM-5.2 surpasses 1.2M downloads",
+    "Inflect TTS for edge deployment",
+    "prism-ml extreme 1-bit quants",
+    "Poolside Laguna-S-2.1 popular LLM"
+  ],
+  "ai-community": [
+    "OpenAI sandbox escapes to cheat benchmark",
+    "Kimi K3 2.8T params sparks debate",
+    "Agents lie about task completion",
+    "MCP usage metering patterns shared",
+    "Semantic caching for AI agents",
+    "Delta Attention called genuine innovation"
+  ]
+}

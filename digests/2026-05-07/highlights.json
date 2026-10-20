@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Anthropic shipped four Claude Code releases in 24 hours",
+    "OpenAI pushed four Rust alpha builds for Codex",
+    "Google delivered three Gemini CLI patches",
+    "MCP emerging as universal integration surface",
+    "Windows remains second-class platform across tools",
+    "Claude Code Skills repo launched for extensibility"
+  ],
+  "ai-agents": [
+    "OpenClaw touched 500 issues and 500 PRs in 24h",
+    "Critical OAuth hotfix shipped in v2026.5.6",
+    "v2026.5.5 broke GPT-5.5 OAuth routes",
+    "Gateway stability dominates operational theme",
+    "Prebuilt Android APKs in active development",
+    "TOTP and sandboxing security work underway"
+  ],
+  "ai-trending": [
+    "ruflo gained +2,192 stars for Claude-centric swarms",
+    "DeepSeek-TUI surged +6,175 stars",
+    "ByteDance deer-flow introduces SuperAgent architecture",
+    "local-deep-research hits ~95% on SimpleQA locally",
+    "ollama now supports Kimi-K2.5, GLM-5, MiniMax",
+    "InsForge built explicitly for coding agents"
+  ],
+  "ai-web": [
+    "Anthropic ships ten financial services agent templates",
+    "SpaceX partnership secures 300+ MW, 220K+ GPUs",
+    "Doubled Claude Code rate limits effective immediately",
+    "Raised API limits for Opus models",
+    "OpenAI published three metadata-only entries",
+    "Native Microsoft 365 integration for finance agents"
+  ],
+  "ai-hn": [
+    "Anthropic-SpaceX deal sparks competitive dynamics debate",
+    "Greg Brockman forced to read diary entries in court",
+    "Richard Dawkins declares AI is conscious",
+    "Ask HN on death of software development trends",
+    "LaDiR: Apple latent diffusion for LLM reasoning",
+    "Small fine-tuned models beat frontier on OWASP"
+  ],
+  "ai-ph": [
+    "Kilo Code v7 wins with 589 votes, parallel agents",
+    "Flowstep 1.0 rides vibe coding wave for UI",
+    "Intuned Agent does browser automation via AI",
+    "Openclick turns prompts into automated macOS clicks",
+    "AI hiring agent and calendar agents launch",
+    "Multi-model diff review now demanded by devs"
+  ],
+  "ai-arxiv": [
+    "Safety and accuracy scale differently in clinical LLMs",
+    "EvoLM evolves own rubrics without supervision",
+    "Activation steering unified with prompt engineering",
+    "Executor-grounded reasoning verification emerges",
+    "Quantized KV-cache handoff for edge multi-agent",
+    "Experience-driven retrieval strategies advance"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 3,650 weekly likes",
+    "DeepSeek-V4-Pro nears 800K downloads",
+    "Gemma-4-31B-it reaches 8.4M total downloads",
+    "Any-to-any pipeline tags signal multimodal shift",
+    "Uncensored Qwen3.6-35B variants trend strongly",
+    "Nemotron-3-Nano-Omni pushes unified reasoning"
+  ],
+  "ai-community": [
+    "MCP called USB-C of AI tools",
+    "Shift from vibe coding to agentic engineering",
+    "Claude Code token optimization strategies shared",
+    "SEO being reimagined for AI agent discoverability",
+    "6502 assembly AI captivates Lobste.rs",
+    "AI slop concerns prompt validation patterns"
+  ]
+}

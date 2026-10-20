@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "OpenAI Codex drops v0.131.0 and v0.132.0-alpha.1",
+    "Codex leads release velocity with TUI sync overhaul",
+    "Claude Code hits 50 issues in 24h on payment bugs",
+    "Field splits into thin-client vs multi-provider runtimes",
+    "Daemon/server modes emerge as next competitive frontier",
+    "MCP ecosystem enablement becomes universal maturity test"
+  ],
+  "ai-agents": [
+    "OpenClaw releases v2026.5.19-beta.1 today",
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "Only 54 of 446 OpenClaw PRs merged—reviewer bottleneck",
+    "OpenClaw stress-tests Feishu, Discord, Telegram, WhatsApp",
+    "Security and session-state issues dominate P1/P2",
+    "OpenClaw clarifies plugin SDK deprecation paths"
+  ],
+  "ai-trending": [
+    "Four agent skills registries launched simultaneously",
+    "openhuman gains 3,941 stars on first day",
+    "CloakBrowser hits 1,420 stars with 30/30 bot evasion",
+    "supertonic adds 715 stars for on-device multilingual TTS",
+    "12-factor-agents methodology signals production maturity",
+    "Rust and TypeScript dominate new AI infrastructure"
+  ],
+  "ai-web": [
+    "Anthropic acquires Stainless for agent infrastructure",
+    "Anthropic's first known developer tooling acquisition",
+    "Stainless powers every official Anthropic SDK since launch",
+    "Stainless generates SDKs in six languages plus MCP servers",
+    "OpenAI metadata hints at Dell Codex Enterprise partnership",
+    "Frontier shifts from models that answer to agents that act"
+  ],
+  "ai-hn": [
+    "Musk loses lawsuit against Altman and OpenAI decisively",
+    "Verdict validates OpenAI's for-profit pivot",
+    "Mexican government breach allegedly enabled by Claude",
+    "Alignment pretraining paper: research itself distorts models",
+    "Marlin-2B: 2B-parameter VLM for video extraction",
+    "Open-source coding agents gain Show HN traction"
+  ],
+  "ai-ph": [
+    "Fere AI leads with 495 votes for crypto trading agents",
+    "Vivago Video Agent hits 485 votes with zero-prompt workflow",
+    "Files SDK gains developer traction as infrastructure play",
+    "DashBuster retrofits AI into smallest workflow frictions",
+    "Ludr AI offers cross-application computer use layer",
+    "AI moves from experimentation to embedded execution"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 4,039 likes, 3.4M downloads",
+    "Qwen3.6-35B-A3B hits 5.6M downloads as MoE flagship",
+    "Gemma-4-31B-it nears 10M downloads as multimodal contender",
+    "Sulphur-2-base crosses 1M downloads in video generation",
+    "Unsloth and antirez drive GGUF quantization surge",
+    "DeepSeek-V4-Flash hits 1.9M downloads as fast variant"
+  ],
+  "ai-community": [
+    "AI gateway market compared to early API gateway era",
+    "MCP dominates from DDD to memory to IDE integration",
+    "Developers report 60-93% token cost reduction techniques",
+    "Claude autonomously blocked 7 of 10 red-team attacks",
+    "DeepSeek hidden integrations spark transparency concerns",
+    "Comprehension debt rises as AI assistants accelerate output"
+  ]
+}

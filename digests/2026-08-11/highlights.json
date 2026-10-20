@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.227 stable, transcript regression",
+    "OpenAI Codex ships 2 alphas, 10 PRs in 24h",
+    "8 releases across 6 CLI tools in 24 hours",
+    "Windows instability and MCP/OAuth fragility recur",
+    "OpenCode, Pi, Qwen Code match vendor pace",
+    "Enterprise governance becomes first-class CLI concern"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and PRs updated in 24h",
+    "151 PRs merged/closed in last 24 hours",
+    "Fix terminal garble after Gateway reconnect",
+    "Message-delivery reliability and duplicate sends top issues",
+    "No new OpenClaw releases in last 24 hours",
+    "Auth/OAuth and session-state regressions persist"
+  ],
+  "ai-infra": [
+    "vLLM v0.27.0: 561 commits, Kimi K3 support",
+    "DeepSeek-V4 variants dominate production workloads",
+    "Muse Glimmer and Kimi K3 spark support race",
+    "SGLang: 3 severe DSpark bugs, CI flaky",
+    "llama.cpp b10355 adds multi-output sampling",
+    "Ollama lists Kimi-K2.6, GLM-5.2, MiniMax"
+  ],
+  "ai-trending": [
+    "prime-agent +2,642 stars, top trending today",
+    "agency-agents +1,349 for autonomous agent frameworks",
+    "semantica +970 for context and retrieval",
+    "firecrawl +835 for agent data access",
+    "ComfyUI +922; diffusion AI remains massive",
+    "Ollama at 178K stars, default local runtime"
+  ],
+  "ai-web": [
+    "Claude Sonnet 5: most agentic, near Opus 4.8",
+    "Claude improves Riemann zeta bound to 67.2%",
+    "Anthropic pushes Claude Managed Agents in guide",
+    "OpenAI returned 4 pages but metadata-only",
+    "Sonnet 5 priced below Opus 4.8",
+    "Anthropic publishes formally verifiable Riemann proof"
+  ],
+  "ai-hn": [
+    "Meta Muse Glimmer tops HN with 1,022 points",
+    "Docker sandboxes for AI agents gain traction",
+    "Open vs closed agentic AI defines debate",
+    "Needle2: 14MB agentic LLM for edge devices",
+    "Claude Riemann research and GPT-5.6 Cyber discussed",
+    "Appetite for local, low-power inference is strong"
+  ],
+  "ai-ph": [
+    "Omniwork leads Product Hunt with 428 votes",
+    "ScrapeOps Proxy Tester and DocsAlot CLI strong",
+    "AgentConnect: open-source cross-tool agent linking",
+    "TAKT targets AI coding-agent governance",
+    "Grok Imagine 2.0 adds segmentation editing",
+    "Agentic workflows dominate today's Product Hunt"
+  ],
+  "ai-hf": [
+    "MiniMax-H3 dominates with 6M ComfyUI downloads",
+    "DeepSeek-V4-Flash-0731 hits 954K downloads",
+    "Kimi-K3: 1.51M downloads, 10,470 likes",
+    "Baidu Unlimited-OCR shows specialist vision demand",
+    "LiquidAI LFM2.5-2.6B compact with GGUF",
+    "Heretic Qwen3-VL merges signal uncensored demand"
+  ],
+  "ai-community": [
+    "Agents leave demo-land, hit production reality",
+    "MCP servers become a security surface",
+    "Signed permissions emerge as key control",
+    "Distillation transfers format, not reasoning",
+    "OpenAI accidental Hugging Face attack discussed",
+    "AI misreading intent sparks top Dev.to thread"
+  ]
+}

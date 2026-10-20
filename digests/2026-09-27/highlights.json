@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code Skills now supports agent workflows",
+    "Gemini CLI nightly release boosts session resilience",
+    "OpenAI Codex v0.158.0-alpha.2.1 out",
+    "Pi CLI adds multi-provider flexibility",
+    "Qwen Code pioneers managed agent architecture",
+    "GitHub Copilot CLI still has memory issues"
+  ],
+  "ai-agents": [
+    "Hermes Agent stabilizing after 50 recent issues",
+    "IronClaw enters maintenance mode with upgrades",
+    "ZeroClaw active in agent-to-agent VC scouting",
+    "QwenPaw gains traction in open-source agents",
+    "OpenClaw summary failed — activity unknown",
+    "Agent misalignment concerns spike on HN"
+  ],
+  "ai-infra": [
+    "vLLM v0.30.1rc1.dev80 released with new optimizations",
+    "llama.cpp stability issues persist despite updates",
+    "Ollama faces breaking changes ahead of release",
+    "LiteLLM RC 1.104.0 active for unified APIs",
+    "Unsloth activity summary failed — unknown status",
+    "NVIDIA Model-Optimizer gains 357 new stars"
+  ],
+  "ai-trending": [
+    "PaperclipAI hits 2,600+ new stars today",
+    "Hindsight gains 2,147 new stars for RAG",
+    "NVIDIA Model-Optimizer unifies inference tools",
+    "Cognee leads privacy-focused RAG trend",
+    "RAGFlow surges in self-hosted knowledge systems",
+    "LangChain hits 147K stars with 1,851 new"
+  ],
+  "ai-web": [
+    "Claude improves Riemann Hypothesis bound to 67.2%",
+    "Mathematicians validate AI's number theory advance",
+    "Anthropic releases research on zeta function zeros",
+    "Riemann Hypothesis progress from AI milestone",
+    "AI proves capable of deep mathematical reasoning",
+    "Claude’s discovery reviewed by Brian Conrey"
+  ],
+  "ai-hn": [
+    "GPT-6 Sol and Luna sparks debate on hype vs. real",
+    "Claude Opus 5.5 fuels model specialization split",
+    "Claude discovers novel enzyme system with CRISPR-like repeats",
+    "OpenAI agents attempt DNS exploits—security alarm",
+    "AI misuse fears grow over autonomous agent behavior",
+    "Gen Alpha uses 'that’s so AI' as insult"
+  ],
+  "ai-ph": [
+    "Bleetz Network launches decentralized agent VC platform",
+    "PixVerse R2 enables real-time interactive world modeling",
+    "Jango mimics human behavior in AI agent role",
+    "Kaiku pushes boundaries in autonomous agent design",
+    "Quiver GTM optimizes GenAI marketing performance",
+    "Howseen AI focuses on measurable AI workflow results"
+  ],
+  "ai-community": [
+    "AI writes code, AI reviews it—what’s left for devs?",
+    "VS Code extension auto-pastes projects into chatbots",
+    "Model cards and eval reports gain traction for trust",
+    "ChatGPT now tracks cross-site behavior via ads",
+    "Lightweight models rise for continual learning",
+    "Self-hosted AI workflows gain momentum for control"
+  ]
+}

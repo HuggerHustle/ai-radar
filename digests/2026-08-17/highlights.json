@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem shifts to reliability hardening",
+    "Session-state corruption and TUI instability top complaints",
+    "MCP schema normalization and ACP token accounting landed",
+    "OpenAI Codex ships rust-v0.148.0-alpha.20",
+    "No unified MCP/agent standard remains structural tax",
+    "Vendors differentiate on Windows, orchestration, integrations"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24h",
+    "35 issues closed, 74 PRs merged/closed",
+    "Reliability hardening: message delivery and event-loop stalls",
+    "WhatsApp, Telegram, Feishu channel regressions addressed",
+    "PR #124528 CPU-profile evidence archive published",
+    "Maintainer triage bandwidth is the bottleneck"
+  ],
+  "ai-infra": [
+    "Infra stack in correctness-hardening, not feature phase",
+    "vLLM and SGLang consolidate KV-cache abstractions",
+    "llama.cpp ships releases b10451–b10453",
+    "LiteLLM stable releases with Anthropic churn",
+    "Speculative decoding remains correctness liability",
+    "AMD/ROCm enablement push across all layers"
+  ],
+  "ai-trending": [
+    "needle's 14MB foundation model gains traction",
+    "unsloth unified local training/inference UI trending",
+    "ToolJet pushes AI agents into low-code apps",
+    "Agent harnesses and memory/context layers dominate",
+    "claude-mem, mem0, graphify: memory everywhere",
+    "Smaller on-device models, bigger agent systems"
+  ],
+  "ai-hn": [
+    "Claude system-prompt transparency and watermarking backlash",
+    "Stripe's reported $7B OpenRouter deal",
+    "GLM-5.3: frontier coding with emergent cyber capabilities",
+    "Gemini 3.7 Flash renews frontier-model comparison",
+    "HN debates whether LLMs reason or retrieve patterns",
+    "Skepticism grows over AI CEO hype and forecasts"
+  ],
+  "ai-ph": [
+    "Inferock Bench tops with 299 votes for LLM receipts",
+    "GLM-5.3 open-source model follows closely",
+    "Big Mike: sports betting tips via iMessage, 204 votes",
+    "Zetik: pocket chief of staff, 179 votes",
+    "Consumer AI branches into niche verticals",
+    "Agents need orchestration, observability, payments"
+  ],
+  "ai-hf": [
+    "Qwen3.8 family spans multimodal 27B and 2.4T MoE",
+    "Kimi-K3 is standout new multimodal with 10.7K likes",
+    "MiniMax-H3 powers open video-generation ecosystem",
+    "DeepSeek-V4 Flash and Pro anchor text LLM tier",
+    "NVIDIA Nemotron Lightning leads text-only releases",
+    "Quantizations, fine-tunes make up half of trending"
+  ],
+  "ai-community": [
+    "Dev.to focus: agent reliability and security boundaries",
+    "Cost observability: prompt cache and GPU mismatches",
+    "SWE-bench moved 0 while model improved at real job",
+    "Lobsters discuss OpenAI–Hugging Face incident",
+    "LLM draws charts via declarative definitions, no pixels",
+    "Kimi K3 serving difficulty explained"
+  ]
+}

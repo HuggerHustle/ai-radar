@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.196 released",
+    "Token burn rates are community focus",
+    "Context compaction failures under fire",
+    "Safety filters frustrate legitimate devs",
+    "Gemini CLI v0.51.0 nightly out",
+    "OpenAI Codex rust-v0.142.4 alpha"
+  ],
+  "ai-agents": [
+    "OpenClaw: 374 issues in 24 hours",
+    "SQLite storage refactor PR #96625",
+    "447 open PRs show intense activity",
+    "No new releases published today",
+    "Project in intensive stabilization",
+    "High-priority items need maintainer review"
+  ],
+  "ai-trending": [
+    "AutoGPT: 185k stars, still trending",
+    "Hermes-Agent hits 205,717 stars",
+    "council-of-high-intelligence deliberates",
+    "agency-agents +1,425 stars today",
+    "VulnClaw: AI agent penetration testing",
+    "Ollama leads infra with 175k stars"
+  ],
+  "ai-hn": [
+    "Micro-agent beats frontier models",
+    "South Korea $1T AI hardware spend",
+    "Push for offline, open-source tooling",
+    "Qwythos-9B fine-tune on Hugging Face",
+    "Efficiency pivot away from costly APIs",
+    "Closed-source AI seen as a liability"
+  ],
+  "ai-ph": [
+    "Lyto: one AI agent across everything",
+    "Persona.js: low-level dev framework",
+    "Wirable: can AI agents use your product?",
+    "Weavz.io enables agentic AI actions",
+    "discode.ai: consumer-friendly AI hub",
+    "Lyto: 178 votes, 28 comments"
+  ],
+  "ai-hf": [
+    "Qwen 3.5/3.6 ecosystem dominates",
+    "NVIDIA LocateAnything-3B: 728k downloads",
+    "DeepSeek-V4-Pro-DSpark trending",
+    "Gemma 4 coder fine-tunes gain traction",
+    "GLM-5.2 MoE-DSA: 133k downloads",
+    "Liquid LFM2.5-230M pushes new architecture"
+  ],
+  "ai-community": [
+    "AI Engineer World's Fair dominates",
+    "Cory Doctorow criticizes Big Tech AI",
+    "GPT-5.6 launched with restricted access",
+    "Debate on AI Winter echoes continues",
+    "What happens when calling an LLM API?",
+    "RAG and MCP patterns over model memory"
+  ]
+}

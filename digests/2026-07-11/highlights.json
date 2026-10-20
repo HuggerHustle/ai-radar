@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Agentic control dominates community focus",
+    "GPT-5.6 models cause integration friction",
+    "Security fixes for path traversal released",
+    "Claude Code releases two new versions",
+    "New Gemini CLI and Kimi CLI tracked",
+    "Token consumption concerns remain high"
+  ],
+  "ai-agents": [
+    "OpenClaw has 431 issues and 500 PRs",
+    "Memory leaks and session bugs addressed",
+    "Release handoff PR for 2026.7.1 opened",
+    "Portable table system in development",
+    "Gateway browser panel for Control UI",
+    "Telegram delivery correctness improved"
+  ],
+  "ai-trending": [
+    "Agent skill curation explodes on GitHub",
+    "addyosmani/agent-skills gains 1,116 stars",
+    "mattpocock/skills gains 1,712 stars",
+    "obra/superpowers gains 1,013 stars",
+    "OfficeCLI launches AI-native Office suite",
+    "Ollama now supports Kimi-K2.6 and GLM-5.1"
+  ],
+  "ai-hn": [
+    "Apple sues OpenAI over trade secrets",
+    "GPT-5.6 Sol Ultra proves major conjecture",
+    "GPT-5.6 blamed for catastrophic file deletion",
+    "User banned by OpenAI, appeal approved by AI",
+    "Claude, Grok 4.5 build same 4 apps compared",
+    "Cycle Double Cover proof sparks debate"
+  ],
+  "ai-ph": [
+    "Auriko tops with agentic infrastructure focus",
+    "Perfai Security gets 138 comments",
+    "Toyo integrates AI exec assistant in iMessage",
+    "Coasty computer-use-agent runs legacy software",
+    "GPT-Live offers full-duplex voice for ChatGPT",
+    "Vibe coding security emerges as niche"
+  ],
+  "ai-arxiv": [
+    "Super Weights in LLMs challenged by pruning",
+    "Quantized LLMs show hidden behavioral changes",
+    "Training-free speculative decoding advances",
+    "Tree-structured drafting for inference speed",
+    "Self-interested AI agent dynamics formalized",
+    "Benchmarks evolve for agentic memory tasks"
+  ],
+  "ai-hf": [
+    "Qwen 3.6 derivatives flood Hugging Face",
+    "nvidia/LocateAnything-3B tops votes",
+    "NVFP4 quantization becomes deployment standard",
+    "DeepSeek-V4-Pro-DSpark gains traction",
+    "MoE models like Leanstral-1.5 trending",
+    "Specialized video models for identity emerge"
+  ],
+  "ai-community": [
+    "Developers build error models for AI failures",
+    "Linter catches AI assistant security bugs",
+    "Coding agents compared to slot machines",
+    "Google AI energy consumption debated",
+    "Caching proxies for reliable AI deployments",
+    "Neural gates for agent self-verification"
+  ]
+}

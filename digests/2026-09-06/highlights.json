@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 new issues today",
+    "Gemini CLI releases v0.60.0-nightly.20260905",
+    "OpenAI Codex sees 10 PRs in 24h",
+    "GitHub Copilot CLI active with 10 issues",
+    "Qwen Code gains traction in CLI space",
+    "OpenCode leads with 10 PRs in 24h"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.2 boosts chat performance",
+    "500 issues and PRs in OpenClaw today",
+    "Fix for silent AI data corruption merged",
+    "Stable session handling under heavy I/O",
+    "New release improves durable history reads",
+    "Hermes Agent gaining momentum in community"
+  ],
+  "ai-infra": [
+    "SGLang leads with 18 PRs in 24h",
+    "vLLM reports 57 open issues",
+    "Ollama releases v0.34.0-rc1",
+    "Unsloth sees steady iterative updates",
+    "LiteLLM focuses on feature development",
+    "llama.cpp patches with b10819 release"
+  ],
+  "ai-trending": [
+    "Ponytail gains 2,845 stars in one day",
+    "ECC surges with 1,314 new stars",
+    "Hermes-Agent now top trending agent",
+    "RAGFlow redefines context management",
+    "HumanLayer drives privacy-focused agents",
+    "QwenPaw emerges as multi-model framework"
+  ],
+  "ai-hn": [
+    "GPT-6 Astra launches on OpenRouter",
+    "Clandestine OpenAI board sparks debate",
+    "Anthropic funds religious NGOs: leak",
+    "Formalizing Fermat’s Last Theorem in Lean 4",
+    "LLMs as 'cognitive viruses'—paper goes viral",
+    "Debate erupts over GPT-6's real-world use"
+  ],
+  "ai-ph": [
+    "GPT-6 Astra wins 421 votes on PH",
+    "Clockwork brings AI agents to calendars",
+    "Inline enables real-time human-AI work",
+    "Omarchy integrates AI into OS workflows",
+    "Chalked offers context-aware intelligence",
+    "myAIcademy enhances learning workflows"
+  ],
+  "ai-community": [
+    "AI agents fail due to broken APIs",
+    "Real reliability starts outside LLMs",
+    "RAG doesn’t fix hallucination risks",
+    "Optimizer not the bottleneck—gate is",
+    "Production AI needs safer failure modes",
+    "Guardrails critical for system trust"
+  ]
+}

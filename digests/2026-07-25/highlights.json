@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code adds Opus 5 support",
+    "Copilot CLI plan-mode feature ships",
+    "MCP plugin ecosystem expands",
+    "Kimi Code CLI alpha released",
+    "Grok Build new agent features",
+    "Cross-tool context compaction failures"
+  ],
+  "ai-agents": [
+    "OpenClaw high activity with 464 issues",
+    "Gateway crash-loop in stable build",
+    "Telegram DM regression in beta",
+    "296 pull requests merged in 24 hours",
+    "Session state and message delivery bugs",
+    "Community engagement remains high"
+  ],
+  "ai-trending": [
+    "mattpocock/skills +2,251 stars today",
+    "OmniRoute +1,841 stars adoption",
+    "worldmonitor geopolitical dashboard AI",
+    "ruvnet/RuView Wi-Fi spatial sensing",
+    "citrolabs/ego-lite fastest browser for agents",
+    "Ollama now supports latest local models"
+  ],
+  "ai-web": [
+    "Claude Opus 5 announced with SOTA benchmarks",
+    "$200M Economic Futures Research Fund unveiled",
+    "Project Pilot evaluation for drone AI risks",
+    "Opus 5 half cost of flagship Claude Fable 5",
+    "OpenAI had no new publications today",
+    "Anthropic dominates news with two announcements"
+  ],
+  "ai-hn": [
+    "Claude Opus 5 1295 points 702 comments",
+    "Flux 3 image generation model released",
+    "Open-weight AI regulation policy battle",
+    "OpenAI/Hugging Face hacking incident debated",
+    "Deep skepticism toward OpenAI narrative",
+    "Cautious optimism about cutting-edge models"
+  ],
+  "ai-ph": [
+    "PromptQL top product with 461 votes",
+    "Teable 3.0 AI spreadsheet launched",
+    "Megaphone on-device dictation open-source",
+    "AgentLoop open Codex worker cycles",
+    "HOL Guard agent security product",
+    "Blaxel Agent Drive filesystem for agents"
+  ],
+  "ai-arxiv": [
+    "Beyond Sycophancy paper on moral reasoning",
+    "MIRROR learn grounded spatial reasoning",
+    "OpenForgeRL proposes scalable RL agents",
+    "AREX autonomous research agent loops",
+    "Same Dangerous Objective paper on safety",
+    "Windowed-MTP million-token context efficiency"
+  ],
+  "ai-hf": [
+    "poolside Laguna-S-2.1 28,992 downloads",
+    "upstage Solar-Open2-250B large open model",
+    "Nanbeige4.2-3B compact LLM",
+    "GLM-5.2 with 4,415 likes",
+    "Baidu Unlimited-OCR trending",
+    "MiniCPM-RobotManip robotics models"
+  ],
+  "ai-community": [
+    "Sentry spans revealed 7x tool output",
+    "Agent observability cut latency by 21%",
+    "Dev.to piece on vanished bug-fixer",
+    "RAG evaluation beyond feels good",
+    "Notion's vector search scaling deep-dive",
+    "World models lab raises $1B seed"
+  ]
+}

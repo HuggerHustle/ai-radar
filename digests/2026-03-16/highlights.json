@@ -1,0 +1,22 @@
+{
+  "ai-cli": [
+    "Claude Code Skills launched for extensibility",
+    "OpenAI Codex migrates from TUI to app server",
+    "Windows compatibility remains universal blind spot"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues/PRs in 24 hours",
+    "Critical regressions block CLI, users roll back to v2026.3.8",
+    "No hotfix issued for 2026.3.12/2026.3.13 bugs"
+  ],
+  "ai-trending": [
+    "MiroFish gains 2,782 stars for swarm intelligence",
+    "Lightpanda browser +1,335 stars for AI automation",
+    "Claude ecosystem tools gain 2,300+ stars combined"
+  ],
+  "ai-hn": [
+    "60-year-old dev mourns lost coding passion, 153 comments",
+    "Malicious Claude Code search results reported",
+    "2015 visual ML guide tops leaderboard"
+  ]
+}

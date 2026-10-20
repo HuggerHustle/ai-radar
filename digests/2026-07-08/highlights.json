@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.203–204 patch releases",
+    "OpenAI Codex 251-reaction reasoning token bug",
+    "Gemini CLI, Copilot CLI closing feature gaps",
+    "Pi and OpenCode focus on architecture modernization",
+    "Cost transparency crisis across established tools",
+    "Agent autonomy vs user control tension dominates"
+  ],
+  "ai-agents": [
+    "OpenClaw 500 issues, 500 PRs in 24 hours",
+    "Maintainer bandwidth strained by open tickets",
+    "Core agent runtime and sandbox fixes active",
+    "Channel-specific improvements for Discord, Slack, Telegram",
+    "Diamond Lobster rating on high-value bug reports",
+    "No new releases; latest stable is 2026.5.20"
+  ],
+  "ai-trending": [
+    "MadsLorentzen/ai-job-search +2,514 stars today",
+    "Zackriya-Solutions/meetily +1,777 stars for local AI",
+    "asgeirtj/system_prompts_leaks +1,691 stars",
+    "Ollama now supports Kimi-K2.6, GLM-5.1, MiniMax",
+    "vllm-project/vllm at 85,638 stars",
+    "Agent-native tooling surges on GitHub trending"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude Sonnet 5 agentic model",
+    "Sonnet 5 near Opus-level performance at lower price",
+    "Research paper on Claude's 'global workspace' findings",
+    "OpenAI published no new content this cycle",
+    "Sonnet 5 shows improvements in reasoning, tool use",
+    "Anthropic deepens investment in model internals"
+  ],
+  "ai-hn": [
+    "Claude Fable 5 extended access through July 12",
+    "Rowboat open-source local-first Claude Desktop alt",
+    "Behind-the-scenes post on Claude Code development",
+    "Claude Cowork launches on mobile and web",
+    "Concern about AI energy costs and power concentration",
+    "HN split on Fable 5 extension as marketing tactic"
+  ],
+  "ai-ph": [
+    "AnySearch leads with 560+ votes for agent data",
+    "AirKaren AI fights customer service on your behalf",
+    "HirePilot 103 comments on 94 votes for job tool",
+    "Shift from chatbots to specialized AI components",
+    "Agent trend expands from developers to consumers",
+    "Developer infrastructure dominates today's launches"
+  ],
+  "ai-arxiv": [
+    "PluraMath benchmark exposes English/Chinese bias",
+    "Pluralis v0.1 multicultural safety benchmark",
+    "Nemotron tri-mode unifying autoregressive and diffusion",
+    "Multi-agent orchestration and culturally-aware eval",
+    "Graph-based episodic memory to overcome statelessness",
+    "Practical long-horizon coding and math reasoning"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE model hits 281,584 downloads",
+    "DeepSeek-V4-Pro-DSpark flagship reasoning model",
+    "Tencent Hy3 early-stage corporate architecture",
+    "Qwen 3.6 uncensored vision models trending",
+    "Nvidia LocateAnything-3B multimodal localization",
+    "Mistral Leanstral-1.5-119B-A6B sparse MoE"
+  ],
+  "ai-community": [
+    "Shift from AI capabilities to reliability concerns",
+    "RAG systems hallucinate on structured table data",
+    "Embedding vectors can leak original text",
+    "Claude Sonnet 5 stabilizes agent frameworks",
+    "gemma-trainer for local fine-tuning gains traction",
+    "Google AI energy footprint sparks serious debate"
+  ]
+}

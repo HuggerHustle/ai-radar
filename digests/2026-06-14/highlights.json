@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Persistent memory is the top demand",
+    "MCP stability remains a battleground",
+    "Windows reliability is a pain point",
+    "Claude Code, Codex, OpenCode have Windows bugs",
+    "Gemini CLI lacks Windows attention",
+    "Ecosystem shifting to production-ready"
+  ],
+  "ai-agents": [
+    "OpenClaw has 500 issues and 500 PRs",
+    "Two new beta releases shipped",
+    "Critical P0 memory leak from 350MB to 15.5GB",
+    "P1 session-state and message-loss bugs",
+    "Telegram now supports structured rich text",
+    "WhatsApp delivery is richer and less brittle"
+  ],
+  "ai-trending": [
+    "Agent skill frameworks are trending",
+    "Agent session analytics projects emerge",
+    "NVIDIA's SkillSpector scans agent skills",
+    "NousResearch/hermes-agent hits 100K+ stars",
+    "Shift from 'use an AI' to 'build with AI agents'",
+    "addyosmani/agent-skills leads today's list"
+  ],
+  "ai-web": [
+    "Claude Fable 5 and Mythos 5 suspended",
+    "US export controls cite national security",
+    "Models disabled just days after launch",
+    "Anthropic challenges severity of vulnerability",
+    "OpenAI showed no new content today",
+    "Anthropic launch post touted state-of-the-art"
+  ],
+  "ai-hn": [
+    "Amazon reportedly triggered Fable 5 crackdown",
+    "UK police officer used AI to fabricate evidence",
+    "GLM 5.2 release overshadowed by Anthropic news",
+    "User built 80 mini-games with Fable before shutdown",
+    "Community alarmed by national security overreach",
+    "Frustration that benchmark data is now moot"
+  ],
+  "ai-ph": [
+    "Firma.dev leads with 351 votes",
+    "Qursor points at UI to send context to AI",
+    "Pond is a fundraising platform for AI startups",
+    "Bob's CLI offers local-first AI coding",
+    "Firma.dev offers e-signatures at ~3¢ per envelope",
+    "Trend toward cost-efficient developer AI tools"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 4,813 weekly likes",
+    "MoE architectures dominate trending models",
+    "Gemma 4 family expands rapidly",
+    "nvidia/LocateAnything-3B gains traction",
+    "Streaming ASR and audio models emerge",
+    "Qwen3.6-35B-A3B sees breakout community traction"
+  ],
+  "ai-community": [
+    "Government recall of Fable 5 sparks debate",
+    "Dev.to posts focus on fallback pipelines",
+    "Developer woke up to 404 on the model",
+    "Vendor lock-in risks highlighted",
+    "Lobste.rs discusses LLM mechanics and satire",
+    "Cautionary tale about multi-agent refactor"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code hits v2.1.90 with rapid crisis-driven patches",
+    "OpenAI Codex releases rust-v0.119.0-alpha.2, modularization focus",
+    "Gemini CLI ships 3 releases including v0.37.0-preview.0",
+    "Kimi Code CLI proposes complete Bun/TS architecture rewrite",
+    "Community frustration drives open-source Claude Code extraction efforts",
+    "Effect-TS and Rust rewrites signal architectural divergence"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.4.1 adds /tasks chat-native background task board",
+    "SearXNG bundled as self-hosted unlimited search provider",
+    "500 issues and 500 PRs in 24h show extreme dev velocity",
+    "Critical exec approval bugs surface in v2026.3.31 cycle",
+    "63-comment discussion on platform expansion ongoing",
+    "Regression pressure mounts against feature advancement"
+  ],
+  "ai-trending": [
+    "Claude Code explodes with +10,749 stars in single day",
+    "claude-howto companion surges +3,301 stars",
+    "everything-claude-code hits 130K+ total stars",
+    "OpenAI codex adds +2,390 stars confirming category validation",
+    "VibeVoice gains +1,685 stars for voice AI frontier",
+    "ollama expands to Kimi-K2.5, GLM-5, MiniMax, DeepSeek"
+  ],
+  "ai-hn": [
+    "Claude Code's 500K+ lines accidentally open-sourced in security crisis",
+    "Developers reverse-engineering leaked agent architectures",
+    "OpenAI secondary market demand sinks per reports",
+    "Forbes catalogs OpenAI's string of failed deals",
+    "Mercury 2 diffusion LLM outperforms StepFun 3.5 Flash",
+    "Leak treated as accidental research windfall for community"
+  ],
+  "ai-ph": [
+    "Computer Use in Claude Code launches with 408 votes",
+    "Pixero AI markets itself as OpenClaw for AI Ads",
+    "Perplexity API Platform targets infrastructure developers",
+    "Google Ads MCP Server enables plug-and-play AI capabilities",
+    "Unify and Solvea push AI colleague metaphor forward",
+    "Viktor for Media Buyers attacks ad management workflows"
+  ]
+}

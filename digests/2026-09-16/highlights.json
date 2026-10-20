@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.273 released with session fixes",
+    "Gemini CLI v0.60.0 + nightly builds now live",
+    "OpenAI Codex still alpha, no stable release",
+    "GitHub Copilot CLI v1.0.84-9 out today",
+    "Pi tool gains traction for secure AI workflows",
+    "Qwen Code sees rising community activity"
+  ],
+  "ai-agents": [
+    "OpenClaw: 467 issues in last 24h, P0 bugs urgent",
+    "No new OpenClaw release—stability concerns grow",
+    "Critical memory leaks reported in v2026.9.4",
+    "UI/UX refinements in latest merged PRs",
+    "SQLite handling fix in #149516",
+    "Session cleanup & heartbeat logic improved"
+  ],
+  "ai-infra": [
+    "vLLM: 98 open issues, no new release",
+    "SGLang: 127 issues, +5 in 24h",
+    "Ollama releases v0.34.2-rc0 patch",
+    "LiteLLM v1.101.0: security fix live",
+    "llama.cpp: 156 issues, +8 growth",
+    "Unsloth: 142 issues, stability focus"
+  ],
+  "ai-trending": [
+    "VoiceStudio and colibri go viral",
+    "colibri runs MoE models on consumer hardware",
+    "mem0, Cognee advance RAG memory layers",
+    "alibaba/open-code-review: +2756 stars",
+    "JustVugg/colibri: +2026 stars",
+    "MCP-ready agents gain momentum"
+  ],
+  "ai-web": [
+    "OpenAI named Gartner 2026 Enterprise Leader",
+    "First official enterprise recognition for OpenAI",
+    "Gartner endorsement highlights API strength",
+    "OpenAI’s B2B strategy gaining traction",
+    "No new content from Anthropic today",
+    "Quiet period suggests beta testing phase"
+  ],
+  "ai-hn": [
+    "System One Models: self-correcting AI unveiled",
+    "Google Gemini 3.8 Live Extended Thinking out",
+    "Baseten breach: admin access in 25 mins",
+    "HN debate: LLMs can’t solve Navier-Stokes",
+    "Community skeptical of extended reasoning",
+    "Typesafe.ai's Jev model sparks optimism"
+  ],
+  "ai-ph": [
+    "Nimble: self-learning web search agents launch",
+    "Elva redefines API consumption with AI",
+    "Slashy Assistant boosts email productivity",
+    "Oats: open-source AI workflow tool goes viral",
+    "Juggler gains traction as lightweight agent",
+    "AI co-pilots dominate today’s product launches"
+  ],
+  "ai-arxiv": [
+    "Corrupt Plans, Clean Traces: CoT evasion exposed",
+    "Inoculation midtraining with neologisms",
+    "Mind2Dialogue: simulating user mental states",
+    "HypoEvolve: genetic algorithms for science",
+    "EvoOntology: self-updating knowledge layers",
+    "CiteGuard-RAG: evidence grounding breakthrough"
+  ],
+  "ai-community": [
+    "AI era brings quiet anxiety to developers",
+    "Over-reliance risks hidden technical debt",
+    "Engineering skill erosion feared by devs",
+    "Dario Amodei calls for slower AI progress",
+    "MCP systems gaining practical adoption",
+    "Guides on agent workflows go viral"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code hits token limit crisis unresolved",
+    "OpenAI Codex invests heavily in Vim TUI stack",
+    "Gemini CLI plagued by agent reliability P1 bugs",
+    "Python CLIs face Bun/TypeScript rewrite pressure",
+    "All major tools now support MCP protocol",
+    "Windows parity degrading for OpenAI Codex"
+  ],
+  "ai-agents": [
+    "OpenClaw: 977 items updated in 24 hours",
+    "XL PR #85341 internalizes Pi-shaped runtime",
+    "No new releases, fixes accumulating",
+    "Platinum hermit issues signal production concerns",
+    "500 PRs merged in single day",
+    "Session state reliability fixes dominate"
+  ],
+  "ai-trending": [
+    "Understand-Anything gains 5,604 stars in one day",
+    "Agent harness patterns consolidate around CLI tools",
+    "Skill files emerge as distinct artifact category",
+    "Anthropic open-sources knowledge-work-plugins",
+    "ECC and codegraph hit 2,000+ daily stars",
+    "Ollama now supports Kimi-K2.5, GLM-5, MiniMax"
+  ],
+  "ai-web": [
+    "Anthropic engages Vatican on AI ethics",
+    "Chris Olah speaks on Pope Leo XIV encyclical",
+    "OpenAI publishes zero new articles today",
+    "Anthropic acknowledges incentive misalignment risks",
+    "Strategic shift to theological governance frameworks",
+    "Olah admits labs may conflict with doing right"
+  ],
+  "ai-hn": [
+    "Pope Leo XIV encyclical dominates AI discourse",
+    "Claude discovers kernel CVE-2026-28952",
+    "Norway deploys 2PB Huawei storage for LLMs",
+    "Anthropic to release Mythos-class models",
+    "Vibecoded code dumps draw skepticism",
+    "Software factories deemed premature"
+  ],
+  "ai-ph": [
+    "Google Stitch 3.0 leads with 474 votes",
+    "Freu AI offers zero-cost Mac automation",
+    "ModelHub launches local LLM menu bar app",
+    "JellyNet creates idle API quota marketplace",
+    "Edgee adds Claude Code fallback models",
+    "Top three products capture 87% of votes"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 4.8M downloads",
+    "Qwen 3.6 variants dominate trending models",
+    "Sulphur-2-base text-to-video breaks 1.35M downloads",
+    "Uncensored Qwen3.6-35B gains strong traction",
+    "Hy-MT2 translation family shows enterprise interest",
+    "HRM-Text-1B demonstrates domain-specific demand"
+  ],
+  "ai-community": [
+    "Microsoft reportedly cancels Claude Code licenses",
+    "MCP protocol becomes most contested acronym",
+    "AI coding cost anxiety grips developers",
+    "Cognitive debt from AI-generated systems debated",
+    "Uber struggles with AI coding economics",
+    "Collective thinking at risk from AI workflows"
+  ]
+}

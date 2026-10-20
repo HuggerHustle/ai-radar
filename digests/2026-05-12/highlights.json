@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.139 with Agent View, /goal",
+    "OpenAI Codex rust-v0 release with 10+ PRs merged",
+    "Gemini CLI adds scheduled agent delegation feature",
+    "Copilot CLI launches /autopilot autonomy mode",
+    "9 tools tracked but trust crisis hits sector-wide",
+    "Windows remains second-class across all 9 tools"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "Beta.3-.5 rapid-fire releases for CI hardening",
+    "81% open issue rate strains review capacity",
+    "434 open PRs vs 66 merged indicates backlog",
+    "13 projects covered in active ecosystem",
+    "Pre-stable stabilization phase with QA focus"
+  ],
+  "ai-trending": [
+    "Hermes Agent surges +2,065 stars today",
+    "UI-TARS-desktop gains +956 stars (ByteDance)",
+    "9router hits +941 stars for free AI coding",
+    "AgentMemory claims #1 benchmark status (+430)",
+    "Datawhale's easy-vibe adds +812 stars",
+    "China increasingly shapes global AI tooling"
+  ],
+  "ai-web": [
+    "OpenAI launches 'The Deployment Company' entity",
+    "OpenAI publishes 4 new pages, Anthropic zero",
+    "Enterprise scaling guidance released simultaneously",
+    "Student campus network initiative announced",
+    "OpenAI sitemap now 813 pages vs Anthropic 354",
+    "Coordinated commercial deployment messaging"
+  ],
+  "ai-hn": [
+    "Claude Code cost optimization dominates discussion",
+    "Anthropic Mythos narrative draws cURL creator criticism",
+    "OpenAI 'Deployment Company' sparks legal attention",
+    "Interaction Models leads with 68 points",
+    "GenZ LLM tuning costs 'less than coffee'",
+    "Semantic layers maintained by agents trend"
+  ],
+  "ai-ph": [
+    "Keel: user-owned AI memory launches (125 votes)",
+    "AgentPeek puts Claude Code in Mac notch",
+    "LumiChats pushes privacy-first offline AI",
+    "Notion 3.4 doubles down on embedded agents",
+    "6 of 13 launches are open source",
+    "Portable memory across models emerges"
+  ],
+  "ai-hf": [
+    "Qwen 3.6 dominates with 4M+ downloads",
+    "Gemma-4 31B-it hits 9.1M downloads",
+    "DeepSeek-V4-Pro reaches 2M downloads",
+    "DeepSeek-V4-Flash at 1.16M downloads",
+    "Sulphur-2-base heats up video generation",
+    "Unsloth GGUF quantization thrives around Qwen"
+  ],
+  "ai-community": [
+    "Gemma 4 on-device reshapes MCP priorities",
+    "MCP security gaps exposed in production",
+    "Prompt engineering missing 'thinking quality' layer",
+    "PaioClaw boundary testing reveals attack surfaces",
+    "Vibe coding backlash gains developer traction",
+    "Open weights availability sparks Lobste.rs debate"
+  ]
+}

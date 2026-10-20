@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code faces billing and rate-limit crises",
+    "OpenAI Codex releases rust-v0.126",
+    "MCP becomes de facto integration standard",
+    "OpenCode and Pi lead open extensibility wave",
+    "9 active PRs on Claude Code mostly bounty",
+    "10 hot issues on OpenAI Codex streamlining"
+  ],
+  "ai-agents": [
+    "OpenClaw released 4 beta versions in one day",
+    "Major TTS infrastructure overhaul with 7 providers",
+    "500 issues and 500 PRs in 24 hours",
+    "423 open issues shows review backlog pressure",
+    "Voice customization with persona support added",
+    "Chat-scoped auto-TTS controls introduced"
+  ],
+  "ai-trending": [
+    "mattpocock/skills surges +2,519 stars today",
+    "free-claude-code trends with +1,701 stars",
+    "beads memory upgrade for coding agents gains traction",
+    "trycua/cua brings Computer-Use Agents practical",
+    "Codex skills ecosystem catalyzes standardization wave",
+    "ollama adds Kimi-K2.5, GLM-5, MiniMax support"
+  ],
+  "ai-web": [
+    "OpenAI publishes sole entry Our Principles",
+    "Anthropic publishes zero new articles today",
+    "OpenAI's high-velocity release cadence pauses",
+    "Single principles URL suggests repositioning",
+    "Strategic pause ahead of major announcements suspected",
+    "No substantive technical advancement from either lab"
+  ],
+  "ai-hn": [
+    "OpenAI declares SWE-bench Verified obsolete",
+    "DeepSeek drops 10x input cache price cut",
+    "Anthropic's SWE-bench claims face fatal error critique",
+    "Benchmark saturation debate intensifies community-wide",
+    "Developer tools fragmented across many small projects",
+    "AI memory and agent orchestration projects multiply"
+  ],
+  "ai-ph": [
+    "ZeroHuman tops votes as AI Co-Founder at 375",
+    "Google launches Gemini Personal Intelligence",
+    "Vibe coding appears in two product taglines",
+    "DeployStack offers open-source Vercel alternative",
+    "Regent monitors AI behavior for enterprises",
+    "Agentic AI systems replace single-purpose tools"
+  ],
+  "ai-hf": [
+    "Qwen 3.6 35B-A3B MoE hits 1.18M downloads",
+    "Gemma 4 series surpasses 10M combined downloads",
+    "DeepSeek-V4-Pro leads weekly likes at 2,843",
+    "GLM-5.1 gains traction as Chinese alternative",
+    "Uncensored and reasoning-distilled derivatives multiply",
+    "LLaDA 2.0 pushes any-to-any architecture boundaries"
+  ],
+  "ai-community": [
+    "OpenClaw challenge dominates Dev.to coverage",
+    "Gabriel Anhaia publishes 6 RAG failure articles",
+    "Lobste.rs debates AI doomsday zero day scenarios",
+    "Reverse-engineering OpenClaw reveals hidden architecture",
+    "Enterprise access control patterns for self-hosted agents",
+    "Claude Code MCP server ecosystems maturing"
+  ],
+  "ai-weekly": [
+    "Anthropic-Amazon sign $100B+ infrastructure deal",
+    "OpenAI releases GPT-5.5 with 1M context window",
+    "Anthropic admits Claude Code quality regressions",
+    "Mythos model leak triggers security alarm",
+    "Google plans $40B Anthropic investment",
+    "OpenAI abandons SWE-bench Verified benchmark"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.234 and Codex rust-v0.148 highlighted",
+    "Community demands non-interrupting interaction models",
+    "Cost observability top concern across CLI tools",
+    "MCP/OAuth integration hardening underway",
+    "Windows/macOS regressions erode trust",
+    "Nine tools covered in cross-tool comparison"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs in 24h",
+    "96 PRs merged, 404 still open",
+    "Maintainer bandwidth is primary bottleneck",
+    "Codex integration reliability dominates issues",
+    "WhatsApp message-loss and session corruption reported",
+    "Security hardening PRs landed, no new releases"
+  ],
+  "ai-infra": [
+    "Inference ecosystem hardens after DeepSeek-V4, Kimi-K3",
+    "llama.cpp ships 4 releases, up to b10472",
+    "No other project tagged a release in 24h",
+    "Hardware fragmentation: ROCm, XPU, Blackwell, MLX",
+    "Top issues: silent corruption, nondeterminism, memory creep",
+    "DSPARK/MTP/EAGLE drive performance and failures"
+  ],
+  "ai-trending": [
+    "MoneyPrinterTurbo tops AI gainers with +1,275 stars",
+    "strix +656, cybersecurity skills +156 on trending",
+    "ai-memory +207, llmfit +239, omlx +96",
+    "Agent harnesses ECC at 240,694 stars",
+    "hermes-agent reaches 232,003 stars",
+    "Local, hardware-aware agent infrastructure demand grows"
+  ],
+  "ai-hn": [
+    "HN attacks Claude watermarking and system prompts",
+    "Stripe's $7B+ OpenRouter acquisition sparks debate",
+    "GPT 5.6 Sol wows on vision, HN wants benchmarks",
+    "Qwen3.8 27B scores 52 on Artificial Analysis",
+    "AI credit resale economy signals commoditization",
+    "Wiz Copilot Autofix attack raises CI/CD doubts"
+  ],
+  "ai-ph": [
+    "HarnessRouter leads as open-source agent interface",
+    "Blume launches AI-ready documentation framework",
+    "Chert brings AI video agents to FaceTime",
+    "Vaaya turns GitHub profile into agent payment card",
+    "Matimo Workbench adds studio and governance",
+    "Launches shift from single tools to platform infra"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B and Kimi-K3 cross 10k weekly likes",
+    "DeepSeek-V4-Flash hits 1.98M downloads",
+    "MiniMax-H3 Comfy-Org package reaches 14M downloads",
+    "Qwen3.8 official FP8, GGUF, uncensored variants dominate",
+    "NVIDIA Nemotron 3.5 Lightning pushes low-precision serving",
+    "Local inference grows via quantized GGUF releases"
+  ],
+  "ai-community": [
+    "Dev.to zeroes in on agent reliability gaps",
+    "MCP evals: passing tests can still fail real tasks",
+    "CI gate catches agents ignoring failed tool calls",
+    "Lobste.rs debates AI limits and training-data provenance",
+    "Guardrails: CI gates, permissions, realistic evals",
+    "Unexpected code in repos raises production trust doubts"
+  ]
+}

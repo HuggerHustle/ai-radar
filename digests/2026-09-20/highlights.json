@@ -1,0 +1,50 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.278 released with stable classifier",
+    "Gemini CLI nightly update fixes AST-aware tools",
+    "OpenAI Codex now in alpha-only mode",
+    "GitHub Copilot CLI sees no new updates",
+    "Pi tool gains traction in terminal AI workflows",
+    "Qwen Code emerges as top open-source alternative"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.5 fixes memory leaks and session corruption",
+    "Critical stability patch for Codex plugin lifecycle",
+    "OpenClaw update reliability issues spike",
+    "Hermes Agent gains community momentum",
+    "IronClaw enhances agent security protocols",
+    "QwenPaw integrates with multimodal reasoning"
+  ],
+  "ai-infra": [
+    "vLLM: 4 high-severity issues reported in latest build",
+    "llama.cpp releases v.b11057 with critical fix",
+    "Ollama shows regression in recent activity",
+    "Unsloth addresses 4 🔴 issues in performance",
+    "LiteLLM evolves with new tool call parsing",
+    "SGLang adds speculative decoding support"
+  ],
+  "ai-trending": [
+    "Claude Code surges with +483 stars today",
+    "Security-audit-skill hits +3155 stars",
+    "Cua project scales AI training fleets",
+    "Terminal-native agents like Needle gain traction",
+    "RAG moves toward self-hosted privacy models",
+    "Agent frameworks like Hermes-Agent grow fast"
+  ],
+  "ai-ph": [
+    "Ami AI wins with 525 votes for emotional sales AI",
+    "AINA launches for personalized job search help",
+    "Sider Omni Sidebar brings ambient AI to Mac",
+    "Pushary enables real-time voice transcription",
+    "OpenAI Day fuels 11 of 12 product launches",
+    "AI agents dominate Product Hunt’s top 5"
+  ],
+  "ai-community": [
+    "AI agents can be hijacked by malicious repos",
+    "Only 15% of AI-written tests survive production",
+    "Self-argumentation catches AI logic flaws",
+    "AI crash at 3 AM due to forced continuity defect",
+    "TLA+ specs used to guard AI decision-making",
+    "TypeSafe AI’s Jev introduces verifiable models"
+  ]
+}

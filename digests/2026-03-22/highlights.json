@@ -1,0 +1,34 @@
+{
+  "ai-cli": [
+    "Claude Code leads with 10 hot issues including scrolling bugs",
+    "OpenAI Codex released 2 alphas: 0.117.0-a7/a8",
+    "180-comment thread on Codex token burn problems",
+    "Gemini CLI shipped nightly v0.36.0 with SDD focus",
+    "Qwen Code iterating on context compression innovations",
+    "Kimi CLI targets 'black box' transparency concerns"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24 hours",
+    "OpenClaw merged multi-session Web UI deletion feature",
+    "OpenClaw at 82% open issue rate shows backlog pressure",
+    "No new release since 2026.3.13, continuous dev model",
+    "13 projects covered in OpenClaw ecosystem digest",
+    "Community interest strong in MiniMax, Gemini integrations"
+  ],
+  "ai-trending": [
+    "claude-hud plugin surged to 970 stars today",
+    "claude-mem plugin hit nearly 1,000 stars",
+    "project-nomad gained 2,032 stars for offline AI hardware",
+    "vllm-omni extends inference to omni-modality models",
+    "opendataloader-pdf hit 950 stars for AI-ready PDF parsing",
+    "ollama added Kimi-K2.5, GLM-5, MiniMax support"
+  ],
+  "ai-hn": [
+    "Tinybox offline device runs 120B parameters locally",
+    "Tinybox topped HN with 250 points, 136 comments",
+    "Claude Code dominates multiple job anxiety threads",
+    "Bloomberg's 'Great Productivity Panic' resonated strongly",
+    "OpenAI pivoting to fully automated researcher agents",
+    "AI Team OS projects aim for self-managing agent teams"
+  ]
+}

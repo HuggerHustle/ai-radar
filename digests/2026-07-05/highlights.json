@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code hot with 10+ issues",
+    "Gemini CLI racing to close gaps",
+    "Session reliability frustrates users",
+    "Cost transparency concerns mounting",
+    "Agent behavior predictability issues",
+    "DeepSeek TUI focuses on niche UX"
+  ],
+  "ai-agents": [
+    "OpenClaw at 500 issues, 500 PRs",
+    "47 closed issues in 24 hours",
+    "152 PRs merged or closed today",
+    "Live Docs ahead of current release",
+    "IsolatedSessions heartbeat missing",
+    "P1/P0 bugs clog the backlog"
+  ],
+  "ai-trending": [
+    "Agent skill ecosystems explode",
+    "Caveman cuts token usage 65%",
+    "Strix hits 1,904 stars in one day",
+    "Microsoft launches .NET skills repo",
+    "Chrome DevTools MCP server launched",
+    "MCP dominates agent integration"
+  ],
+  "ai-hn": [
+    "Claude Code session leak alleged",
+    "Anthropic prompt injection claims",
+    "Alibaba bans Claude Code internally",
+    "GPT-5.5 Codex performance degrading",
+    "Reasoning-token clustering blamed",
+    "Community skeptical of AI vendors"
+  ],
+  "ai-ph": [
+    "Glaze by Raycast creates Mac apps",
+    "Tamamon gamifies Claude Code usage",
+    "nxt lets you talk to to-do list",
+    "Developer Experience dominates launches",
+    "OS-level AI integration emerging",
+    "575 votes for top product Glaze"
+  ],
+  "ai-hf": [
+    "Qwen 3.5/3.6 ecosystem surges",
+    "NVIDIA releases Qwen3.6-27B-NVFP4",
+    "GLM-5.2 gets 3,399 likes",
+    "DeepSeek-V4-Pro-DSpark launched",
+    "Multi-modal MoE architectures rising",
+    "High-download GGUF variants popular"
+  ],
+  "ai-community": [
+    "AI agent loops silently fail weeks",
+    "LLM fabricated outage attack narrative",
+    "Vector database comparisons published",
+    "LangChain prompt caching optimized",
+    "GPU simulation gamifies inference",
+    "Safety and alignment discussions persist"
+  ]
+}

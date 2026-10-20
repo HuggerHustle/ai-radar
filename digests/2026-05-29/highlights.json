@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Stability crisis hits major CLI tools",
+    "Claude Code thinking blocks error",
+    "Copilot CLI websocket failures",
+    "Gemini CLI subagent reliability",
+    "Platformization with plugin systems",
+    "Kimi and Qwen adopt ACP protocol"
+  ],
+  "ai-agents": [
+    "OpenClaw update v2026.5.27 released",
+    "Security hardening blocks unsafe overrides",
+    "No-auth Tailscale exposure fixed",
+    "Group prompt leakage prevented",
+    "Native hook relay regression reported",
+    "Policy conformance framework evolving"
+  ],
+  "ai-trending": [
+    "affaan-m/ECC gains +1,385 stars",
+    "anthropics/skills hits +718 stars",
+    "MoneyPrinterTurbo soars +4,698 stars",
+    "Understand-Anything climbs +3,776 stars",
+    "taste-skill rises +2,234 stars",
+    "ollama now supports Kimi-K2.5 and GLM-5"
+  ],
+  "ai-web": [
+    "Anthropic raises $65B at $965B valuation",
+    "Claude Opus 4.8 launched today",
+    "Claude Design for visual content",
+    "Massive enterprise scaling push",
+    "Run-rate revenue hits $47B",
+    "OpenAI only published metadata update"
+  ],
+  "ai-hn": [
+    "Claude Opus 4.8 debuts with 1176 points",
+    "$65B funding round sparks debate",
+    "LLM smells debugging guide scores 198",
+    "Tesla self-driving safety investigated",
+    "LFM2.5-8B-A1B on-device MoE",
+    "Startup robot trashes Airbnbs"
+  ],
+  "ai-ph": [
+    "Powabase tops with 441 votes",
+    "zero.xyz gives agents 8k tools",
+    "Coworker AI routes models smartly",
+    "Cotypist enables local AI autocomplete",
+    "Pawse.ai monitors pet acoustics",
+    "Infrastructure shift beyond chatbots"
+  ],
+  "ai-arxiv": [
+    "Calibrating conservatism for oversight",
+    "CORE improves reasoning with reflection",
+    "Reverse probing quantifies token uncertainty",
+    "Llama 4 Maverick prompts judged fair",
+    "Asymmetric self-play boosts alignment",
+    "Decentralized swarm agents self-organize"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro leads with 4.4K likes",
+    "Qwen3.6 ecosystem dominates trends",
+    "Lance achieves any-to-any generation",
+    "stable-audio-3 for multimodal audio",
+    "pyannote hits near 10M downloads",
+    "LiquidAI LFM2.5-8B-A1B debuts"
+  ],
+  "ai-community": [
+    "Debugging AI code takes 10x longer",
+    "80% code done, 20% needs seniors",
+    "Vibe coding backlash grows",
+    "Vatican encyclical on AI debated",
+    "Reducing LLM token waste discussed",
+    "34x pricing gap in AI models"
+  ]
+}

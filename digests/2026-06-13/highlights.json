@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code shipped 3 patches in 24h",
+    "Tools shift from features to production trust",
+    "User push for provider-agnostic tooling",
+    "Qwen Code and Kimi Code iterate fast",
+    "Safety false positives top cross-cutting concern",
+    "Billing transparency emerges as key issue"
+  ],
+  "ai-agents": [
+    "OpenClaw activity at extremely high levels",
+    "500 issues and 489 PRs in 24 hours",
+    "Security hardening dominates latest releases",
+    "v2026.6.6 patch addresses privilege escalation",
+    "Session state bugs plague maintainers",
+    "Tighter sandbox binds and transcript controls"
+  ],
+  "ai-trending": [
+    "Agent skill frameworks explode on GitHub",
+    "LMCache pushes KV cache optimization",
+    "hermes-agent, CowAgent cross 40K stars",
+    "vllm reaches 82,722 stars for inference",
+    "Ollama now supports Kimi-K2.6 and GLM-5.1",
+    "Agent plus RAG plus memory stack converges"
+  ],
+  "ai-web": [
+    "Anthropic partners with TCS for enterprise push",
+    "Claude deployed to 50,000 employees across 56 countries",
+    "64% of Americans fear AI-induced job loss",
+    "Only 15% trust AI companies in new survey",
+    "Anthropic builds Claude for NMR spectrum analysis",
+    "Bipartisan support for government regulation of AI"
+  ],
+  "ai-hn": [
+    "Community reacts to Claude Fable-5 jailbreak",
+    "Trump blocks foreign access to top Anthropic models",
+    "Viral video accuses Anthropic of lying",
+    "Debate rages over end of physical books",
+    "Vibe coding trend generates playful Show HNs",
+    "Anthropic studies LLM impact on N-day exploits"
+  ],
+  "ai-ph": [
+    "Asmi AI leads with 461 votes for real-world chores",
+    "Respan Gateway hits 441 votes for agent tooling",
+    "Terminal Mode puts coding agents in smart glasses",
+    "Market shifts to agentic infrastructure",
+    "CrustRecruiter turns Claude into a recruiter",
+    "Developers hungry for observability and safety"
+  ],
+  "ai-arxiv": [
+    "Operad theory detects LLM composition failures",
+    "Recursive agent orchestration emerges as trend",
+    "Domain-specific agent benchmarks on the rise",
+    "Any-length discrete diffusion pushes boundaries",
+    "Adaptive compression for time-series LLMs",
+    "Memory evolution for robust dynamic environments"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro leads with 3.38M downloads",
+    "NVIDIA's LocateAnything-3B surges to 1,925 likes",
+    "Gemma-4-12B sees massive community fine-tuning",
+    "Ideogram-4 spawns FP8 and NF4 ecosystem variants",
+    "GGUF quantizations dominate deployment formats",
+    "Real-time audio and video models gain traction"
+  ],
+  "ai-community": [
+    "Agents shift from should we to how to build",
+    "Claude Fable 5 sparks VS Code trust concerns",
+    "Devs tackle failing quietly in agent systems",
+    "Test agents with probabilistic not equality checks",
+    "LLM human-like attributes spark rigorous debate",
+    "Multi-agent safety research gets $10M funding"
+  ]
+}

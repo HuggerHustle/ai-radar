@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code shipped v2.1.166–168 in 24 hours.",
+    "OpenAI Codex logged 10+ active issues today.",
+    "Agentic reliability is now baseline, not differentiator.",
+    "Field splits between orchestration platforms and editor companions.",
+    "Windows parity remains unresolved across all tools.",
+    "Claude Code has 9+ hot issues and 5+ reopenings."
+  ],
+  "ai-agents": [
+    "OpenClaw hit 296 issues and 500 PRs in 24h.",
+    "OpenClaw shipped v2026.6.5-beta.1 and beta.2.",
+    "QQBot reasoning leak fixed in OpenClaw beta.",
+    "408:92 open-to-merged PR ratio signals review backlog.",
+    "Session state integrity is a top community concern.",
+    "MCP tool result coercion polished in latest beta."
+  ],
+  "ai-trending": [
+    "Agent-Reach gained +683 stars today.",
+    "open-notebook gained +794 stars today.",
+    "superpowers gained +700 stars as agent skills framework.",
+    "MemPalace emerges as open memory system alternative.",
+    "CopilotKit defines AG-UI protocol with 33,202 stars.",
+    "Microsoft VibeVoice enters open-source voice AI frontier."
+  ],
+  "ai-web": [
+    "Anthropic published containment engineering deep-dive.",
+    "Claude Mythos Preview was withheld in April 2026.",
+    "Anthropic grants AI access to take down internal services.",
+    "Containment engineering enables more capable agent deployment.",
+    "Risk-reward calculus tipping toward AI adoption.",
+    "OpenAI published zero new articles today."
+  ],
+  "ai-hn": [
+    "S&P 500 excludes SpaceX, OpenAI, Anthropic over profits.",
+    "Meta AI chatbot exploited to hack Instagram accounts.",
+    "OpenAI launches Lockdown Mode for prompt injection.",
+    "Ask HN debates HN's own anti-AI sentiment.",
+    "AI-designed universal coronavirus vaccine passes human trial.",
+    "Making Claude a Chemist posted by Anthropic."
+  ],
+  "ai-ph": [
+    "Minimi tops with 484 votes for Claude ambient memory.",
+    "Leni and Veltrix AI target financial verticals.",
+    "Arena launches Agent Mode for real-world tasks.",
+    "NVIDIA Nemotron 3 Ultra debuts for developers.",
+    "Ideogram 4.0 ships with open weights.",
+    "LocalClicky offers on-device voice control."
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro leads with 5.5M downloads.",
+    "DeepSeek-V4-Flash hits 3.4M downloads under MIT license.",
+    "NVIDIA places 9 models across vision, speech, video, LLM.",
+    "Nemotron 3 Ultra is a 550B-parameter model.",
+    "Google Gemma 4 pushes any-to-any multimodal native.",
+    "Sulphur-2-base video model passes 1.7M downloads."
+  ],
+  "ai-community": [
+    "$1.4M AI blocked fix that later cost $4.2M.",
+    "aislop and AgentSync version-control AI configs.",
+    "Memory-first harness beats frontier models with open ones.",
+    "Papers on AI worms and behavioral transmission emerge.",
+    "Carbon-aware training gains community attention.",
+    "KV-cache quantization pushed for efficiency at scale."
+  ]
+}

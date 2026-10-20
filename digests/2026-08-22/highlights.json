@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "OpenAI Codex shipped 6 alpha releases in 24h",
+    "Claude Code posted zero PRs this cycle",
+    "Safety and reversibility of agent actions are hot topics",
+    "MCP reliability and subagent orchestration top concerns",
+    "Windows platform stability is a cross-tool issue",
+    "Open-source challengers compete on extensibility"
+  ],
+  "ai-agents": [
+    "OpenClaw merged/closed 114 PRs in 24h",
+    "P0 SQLite corruption regression hits OpenClaw beta",
+    "OpenClaw has 491 open issues, maintainers bottlenecked",
+    "RFC 0029 Control Model series CM1–CM5 advances",
+    "No OpenClaw release in the last 24 hours",
+    "P1 regressions: auth, OAuth refresh, resource leaks"
+  ],
+  "ai-infra": [
+    "llama.cpp cut v0.2.0 and nightly b10566",
+    "Ollama v0.33.0-rc0 adds MLX fixes, Claude Desktop support",
+    "LiteLLM v1.99.0-dev.2 ships cosign-signed images",
+    "Unsloth Desktop 0.1.801-beta tied to regressions",
+    "DeepSeek-V4-family support tests serving maturity",
+    "Agent workloads dominate inference bug trackers"
+  ],
+  "ai-trending": [
+    "mattpocock/skills tops trending with +3,368 stars",
+    "Agent skills and harnesses dominate today's trending",
+    "MoneyPrinterTurbo adds +1,187 stars",
+    "career-ops applies agentic workflows to job search",
+    "PostHog and cursor/plugins trended",
+    "RAG pivots to vectorless, reasoning-based retrieval"
+  ],
+  "ai-hn": [
+    "OpenRouter joining Stripe tops HN at 953 points",
+    "Anna's Archive accuses AI companies of destroying books",
+    "Stealth model Ox Alpha sparks speculation",
+    "OpenAI defends pacing model development over cyber risks",
+    "AGENTS.md support request for Claude Code",
+    "HN thread: 'I'm becoming AI-blind'"
+  ],
+  "ai-ph": [
+    "Grok 4.6 leads Product Hunt with 298 votes",
+    "Aloud turns spoken feedback into agent tasks",
+    "Berd is a playful open-source agent desktop app",
+    "Agentic observability and testing tools dominate",
+    "Vertical AI expands into health and no-code",
+    "Shift from model demos to agentic reliability"
+  ],
+  "ai-arxiv": [
+    "ConceptGuard benchmarks context-sensitive unlearning",
+    "Phantom Gains: self-improvement gains may be artifacts",
+    "Staged post-training internalizes knowledge without RAG",
+    "New benchmarks target evidence arbitration",
+    "Agentic systems learn when to reason longer",
+    "Semantic caching and model routing are efficiency themes"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B multimodal leads with 11,952 likes",
+    "Moonshot Kimi-K3 trends with 10,913 likes",
+    "MiniMax-H3 hits 3.6M downloads",
+    "DeepSeek-V4-Flash reaches 2.8M downloads",
+    "Dozens of Qwen3.8 abliterated variants in top 30",
+    "MiniMax-Music3 and LTX-2.5 surge"
+  ],
+  "ai-community": [
+    "157-plan test: planning, not execution, breaks agents",
+    "Adversarial LLM critic can become overly strict",
+    "'Felony Bench' tops Lobste.rs AI discussion",
+    "Developers question trusting agent self-reports",
+    "Hand-rolled RAG and context-window testing posts",
+    "1985 AI limits video draws Lobste.rs debate"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Silent data loss plagues CLI tools",
+    "Agent autonomy safety is top concern",
+    "Claude Code has 2 critical issues",
+    "Copilot CLI prioritizes enterprise reliability",
+    "Codex focuses on enterprise stability",
+    "Ecosystem splits on agentic autonomy"
+  ],
+  "ai-agents": [
+    "OpenClaw in reactive maintenance phase",
+    "1,000 issues and PRs in 24 hours",
+    "Message delivery failures across platforms",
+    "Critical regressions in last two updates",
+    "No new releases published today",
+    "36 PRs merged or closed today"
+  ],
+  "ai-trending": [
+    "codebase-memory-mcp gains +2,322 stars",
+    "kilocode surges with +1,345 stars",
+    "GLM-5 introduces Agentic Engineering",
+    "LTX-2 extends into audio-video",
+    "alibaba/zvec debuts as vector DB",
+    "Google TimesFM gets +844 stars"
+  ],
+  "ai-web": [
+    "Project Fetch 20x faster than humans",
+    "Claude Opus 4.7 achieves robotics milestone",
+    "BioMysteryBench evaluates bioinformatics",
+    "Anthropic opens Seoul office",
+    "OpenAI adds health intelligence theme",
+    "Enterprise spend controls on OpenAI"
+  ],
+  "ai-hn": [
+    "Anthropic Mythos saga triggers controversy",
+    "Trump blocks Fable 5 rerelease",
+    "Weibo's VibeThinker-3B sparks debate",
+    "Are You in the Weights tool goes viral",
+    "Geopolitical weaponization of AI access",
+    "Community cynical about model benchmarks"
+  ],
+  "ai-ph": [
+    "Framer 3.0 leads with agent-native design",
+    "Swytchcode CLI gets 414 votes",
+    "Daemons by Charlie Labs solves stal",
+    "Locus Founder runs business via text",
+    "ClawEase automates SMB appointment",
+    "2026 is year AI agents start doing"
+  ],
+  "ai-arxiv": [
+    "Focus on scaling reasoning beyond autoregressive",
+    "Preference-based RL tackles entropy collapse",
+    "Specialized benchmarks for high-stakes domains",
+    "Safety alignment pushed into pretraining",
+    "Rubric-conditioned self-distillation proposed",
+    "MAST selectively unlearns reasoning patterns"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 2.9M downloads",
+    "DiffusionGemma-26B leads MoE trend",
+    "Gemma 4 ecosystem expands rapidly",
+    "Audio generation models gain traction",
+    "GGUF quantized models dominate local inference",
+    "GLM-5.2 draws rapid community interest"
+  ],
+  "ai-community": [
+    "AI agents dominate developer conversations",
+    "Satirical AI economics post goes viral",
+    "CI/CD worm prevention discussion trends",
+    "Agent management emerges as new discipline",
+    "Skepticism about private inference claims",
+    "Open-source agent tooling wave arrives"
+  ]
+}

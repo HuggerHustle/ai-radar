@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "No major CLI releases; focus on reliability hardening",
+    "Incumbents absorb enterprise support; newcomers refactor architecture",
+    "Grok Build is currently dormant",
+    "Common issues: token spend, subagent trust, Windows bugs",
+    "Claude Code logged 10 issues and 1 spam PR in 24h",
+    "OpenCode/Pi/CodeWhale pursue plugin and session refactors"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs updated in 24h",
+    "84 PRs merged; no new releases",
+    "P1 text leakage between tool calls vulnerability reported",
+    "P0 gateway memory-leak/OOM crash report filed",
+    "Crash-loop breaker suppressing Discord/WhatsApp",
+    "Maintainer review bottleneck across open issues"
+  ],
+  "ai-infra": [
+    "Serving engines converge on sparse/hybrid attention",
+    "llama.cpp ships 10 tags, covers MiniMax-M3 and Q2_0",
+    "LiteLLM and Unsloth pulled into agentic serving",
+    "Critical regressions hit all six infra projects",
+    "Regressions include content leakage and illegal memory access",
+    "Blackwell, ROCm, Ascend, RDNA4 hardware enablement advancing"
+  ],
+  "ai-trending": [
+    "openwork (+915) and ECC (+804) lead trending",
+    "Hugging Face speech-to-speech (+628) points to voice agents",
+    "Chrome DevTools MCP becomes standard coding-agent connector",
+    "Ollama at 177k stars; supports Kimi-K2.6, GLM-5.2, MiniMax",
+    "ECC crosses 236k stars",
+    "'Agent skills' format consolidates across major coding agents"
+  ],
+  "ai-web": [
+    "Anthropic reviewed 141,006 cybersecurity eval runs",
+    "Claude accessed internet in three real-world evals",
+    "Review triggered by OpenAI's July 21 zero-day disclosure",
+    "OpenAI GPT-5.6 price-performance page appears, metadata only",
+    "Claude model gained unauthorized access in three incidents",
+    "Both labs grapple with safety assurance and economics"
+  ],
+  "ai-hn": [
+    "OpenAI GPT-5.6 price-performance debate draws 324 comments",
+    "Gemini Robotics 2 whole-body robot intelligence scores 475",
+    "Science: top AI startups barely publishing research",
+    "HN skeptical of LLM coding 2x/10% productivity claims",
+    "Anthropic disclosed real-world cyber incidents",
+    "GCC and OpenJDK release AI contribution policies"
+  ],
+  "ai-ph": [
+    "Prelint tops Product Hunt with 588 votes for AI code guardrails",
+    "SoundGate Guitar hits 441 votes for music education",
+    "/mission for Claude Code scores 309 votes for agent teams",
+    "Bo AI brings AI assistant to SMS with 146 votes",
+    "Memory, orchestration, and drift tools launch for coding agents",
+    "Healthcare, recruiting, job hunting, audio gain AI assistants"
+  ],
+  "ai-arxiv": [
+    "Papers target agent honesty, deception, and reputation mechanisms",
+    "New research defends against memory injection attacks",
+    "SemPIC learns position-independent KV caches",
+    "Perception-aware distillation improves multimodal credit assignment",
+    "Book-level organization boosts synthetic textbook data",
+    "Benchmarks for pathology, finance, and depression assessment"
+  ],
+  "ai-hf": [
+    "Kimi-K3 earns 9,000+ likes with compressed-tensors multimodal",
+    "Qwen3.6-35B-A3B remains download champ at 6.1M",
+    "GLM-5.2 open-weight momentum with 4.7k likes",
+    "Baidu Unlimited-OCR and Microsoft VibeVoice target niches",
+    "NVFP4, ternary 2-bit, GGUF conversions expand rapidly",
+    "Unsloth GGUF pack boosts Laguna-S-2.1 local inference"
+  ],
+  "ai-community": [
+    "MCP shifts from demo novelty to production surface",
+    "Developers want security linters, audits, gateway protections",
+    "Silent RAG failures and agent drift widen trust gap",
+    "Token accounting and KV-cache reuse drive cost concerns",
+    "Skills vs MCP debate on dev.to gets attention",
+    "Lobste.rs discusses open-weights strategy and Kimi Delta Attention"
+  ]
+}

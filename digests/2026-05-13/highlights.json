@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.140 with doc focus",
+    "OpenAI Codex releases 3 alphas in 24h",
+    "Gemini CLI joins the agent-orchestration race",
+    "Kimi Code CLI mounts enterprise pressure",
+    "Qwen Code and DeepSeek TUI emerge",
+    "MCP ecosystems unify tools, maturity varies"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "Three beta releases ship today alone",
+    "Codex migration sprint dominates work",
+    "86% issue open rate strains maintainers",
+    "Messaging reliability is community hotspot",
+    "Runtime parity PRs flood queue"
+  ],
+  "ai-trending": [
+    "agentmemory gains 1,048 stars in one day",
+    "openhuman surges 1,014 stars",
+    "mattpocock/skills hits 3,867 stars",
+    "CloakBrowser stealth tool: 1,606 stars",
+    "Ollama adds Kimi-K2.5, GLM-5, MiniMax",
+    "vLLM spawns educational tiny forks"
+  ],
+  "ai-web": [
+    "Anthropic publishes zero new articles",
+    "OpenAI drops one metadata-only entry",
+    "What Parameter Golf Taught Us teases content",
+    "Dual silence hints at coordinated strategy",
+    "Both labs unusually quiet same day",
+    "Non-blog channel shift suspected"
+  ],
+  "ai-hn": [
+    "Needle distills Gemini tool-calling to 26M",
+    "252 points, 92 comments on Needle",
+    "OpenAI faces fatal medical advice lawsuits",
+    "Musk-Altman trial exposes internal distrust",
+    "FairyFuse ternary quantization for CPUs",
+    "Sweden-hosted inference rises in Europe"
+  ],
+  "ai-ph": [
+    "Graphbit PRFlow leads with 369 votes",
+    "ClawSecure: antivirus for AI agents",
+    "Weavable solves agent goldfish memory",
+    "Warp open-sources agentic dev environment",
+    "Singapore scene appears twice today",
+    "Context persistence is standout trend"
+  ],
+  "ai-arxiv": [
+    "Shepherd formalizes meta-agents in Lean",
+    "DECO deploys sparse MoE on edge",
+    "Generalized Turing Test for capability compare",
+    "Compute Where it Counts: dynamic per-token",
+    "ELF adapts flow diffusion to language",
+    "DGPO goes beyond pairwise preferences"
+  ],
+  "ai-hf": [
+    "Qwen3.6-35B-A3B passes 3.8M downloads",
+    "DeepSeek-V4 combines 3.1M+ downloads",
+    "Gemma 4 pushes any-to-any multimodal",
+    "MiMo-V2 enters from Xiaomi",
+    "Sulphur-2-base leads text-to-video likes",
+    "Unsloth GGUF ecosystem stays hyperactive"
+  ],
+  "ai-community": [
+    "Open Vibe ships SaaS vibecoding framework",
+    "Codex Chrome extension hits availability snags",
+    "Docker Model Runner hosts Claude Code free",
+    "Micro code reviews proposed for AI era",
+    "80% AI cost cuts shared by developers",
+    "Agent-to-agent protocols become engineering concern"
+  ]
+}

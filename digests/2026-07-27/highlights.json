@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Security hardening: Electron IPC bypasses, sandbox escapes",
+    "Subagent reliability: false success reporting, indefinite hangs",
+    "Platform portability: Windows CLI hangs, WSL path corruption",
+    "Pi and DeepSeek TUI ship faster per-issue resolution cycles",
+    "Claude Code and OpenAI Codex generate highest raw engagement",
+    "Trust and control gap remains defining challenge"
+  ],
+  "ai-agents": [
+    "OpenClaw: 344 issues, 500 PRs in 24 hours",
+    "330 PRs merged or closed, strong forward momentum",
+    "Fix: Reduce reply delay by snapshotting metadata",
+    "Fix: Complete OAuth profile migration for gateway startup",
+    "Many high-severity open issues (platinum/diamond lobster)",
+    "No new releases published today"
+  ],
+  "ai-trending": [
+    "ego-lite: zero-config browser for AI agents (900+ stars)",
+    "Alibaba/open-code-review: LLM-powered code review (832 stars)",
+    "Kronos: foundation model for market language (321 stars)",
+    "aisuite: lightweight unified API across AI providers (187 stars)",
+    "Claude cookbooks: practical notebooks from Anthropic (379 stars)",
+    "Agent frameworks (hermes-agent 220k stars) and RAG pipelines trending"
+  ],
+  "ai-hn": [
+    "Claude Opus 5 dominates HN with 1764 points, 1315 comments",
+    "Security incident involving OpenAI and Hugging Face draws massive thread",
+    "Debate over Chinese open-weight AI exports (1065 points, 886 comments)",
+    "Flux 3 release: image generation competition heats up (569 points)",
+    "Claude Opus 5 is #1 on Artificial Analysis Intelligence Leaderboard",
+    "Cautious excitement: capabilities celebrated, but security concerns"
+  ],
+  "ai-ph": [
+    "Heard: give Claude Code and Codex a voice (342 votes)",
+    "FluentDB: AI-powered database client (327 votes)",
+    "Second Brain: AI memory across devices (281 votes)",
+    "OpenComputer: agent deployment platform (226 votes)",
+    "Velane: managed agent orchestration (100 votes)",
+    "Health in ChatGPT: consumer AI health coaching (148 votes)"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE model tops trending with 4,477 likes",
+    "Qwen3.6-based vision-language fine-tunes dominate uncensored space",
+    "MiniCPM-RobotManip: vision-language-action model for robotics",
+    "Baidu Unlimited-OCR leads downloads at 2.6M",
+    "Microsoft Mage-Flow for instruction-based image editing",
+    "1-bit/2-bit GGUF quantization (Bonsai, Ternary-Bonsai) breaks new ground"
+  ],
+  "ai-community": [
+    "War stories: tracing multi-agent systems, containing failures",
+    "Claude Code production costs discussed",
+    "Observability no longer optional: only traces reveal issues",
+    "Local-first AI buzz (Ollama, Kokoro, Hermes Agent)",
+    "Article: 'Don't Wait. Fork It.' – forking as ownership",
+    "DeepSeek pauses fundraise over Huawei deficit"
+  ],
+  "ai-weekly": [
+    "Claude Opus 5: half cost, near-frontier performance",
+    "Nvidia, MS, Meta warn on open-weight regulation",
+    "Kimi K3 matches Fable benchmarks",
+    "OpenAI, Hugging Face address eval security",
+    "mattpocock/skills hits +1,740 stars in day",
+    "Terence Tao uses ChatGPT for math breakthrough"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.302 stable release",
+    "OpenAI Codex alpha with 10 PRs merged",
+    "Gemini CLI nightly build v0.66.0",
+    "GitHub Copilot CLI v1.0.100-1 stable",
+    "OpenCode v2.0.31 fixes released",
+    "Qwen Code gains traction in China"
+  ],
+  "ai-agents": [
+    "OpenClaw no new releases, beta regressions",
+    "Startup delays up to 1030 seconds reported",
+    "High-severity SQLite WAL growth bugs",
+    "Infinite hangs during update steps",
+    "Incognito child history restored via PR",
+    "Database consistency refactoring ongoing"
+  ],
+  "ai-infra": [
+    "vLLM: 53 PRs merged, ROCm focus",
+    "SGLang: SM120 critical regressions",
+    "llama.cpp b11701 release, Vulkan issues",
+    "Ollama v0.40.6-rc1 cloud instability",
+    "LiteLLM consolidates multi-provider access",
+    "Unsloth unifies local/cloud model access"
+  ],
+  "ai-trending": [
+    "xerj-org/xerj: +1,648 stars today",
+    "debpalash/VoiceStudio: local voice cloning",
+    "affaan-m/ECC: agent harness trend",
+    "ruvnet/ruflo: composable AI systems",
+    "K-Dense-AI/scientific-agent-skills: skills modules",
+    "mksglu/context-mode: 98% output reduction"
+  ],
+  "ai-web": [
+    "Anthropic resolves ECDSA curve mystery",
+    "AI agent hours exceed employee hours",
+    "METR, SecureBio, Accenture oversight added",
+    "NIST curve seeds confirmed from timestamps",
+    "AI productivity gains across coding, sales",
+    "Anthropic sets transparency benchmark"
+  ],
+  "ai-hn": [
+    "Claude ECDSA origins spark debate",
+    "Transformers as associative memory theory",
+    "Apple MLX on Mac Studio: open-source",
+    "Muse Spark Open enables on-device AI",
+    "MLX distributed inference demo released",
+    "On-device AI democratization underway"
+  ],
+  "ai-ph": [
+    "Navige: real-time AI cost control",
+    "withHuman: open-source human-in-loop",
+    "OpenMuse: self-hosted AI assistant",
+    "SuperLocalMemory: privacy-first AI",
+    "AI Sandboxes by Buddy: isolated agents",
+    "Kerno 1.0: AI-powered QA engineer"
+  ],
+  "ai-arxiv": [
+    "KnowGPO: knowledge-grouped policy opt",
+    "CAT-alyzing Honesty: adversarial training",
+    "LEASH: efficient agent execution framework",
+    "Disagreement-Guided Routing: cost-saving",
+    "T2-Z: personalized world modeling",
+    "3DCodeVerse: multimodal code agents"
+  ],
+  "ai-community": [
+    "Best tools for parallel AI agents in 2026",
+    "Auditability over surface-level output",
+    "Bug lives at data serialization seam",
+    "Hacktoberfest AI challenge underway",
+    "Plugin4Shell vulnerability exposed",
+    "Gemma 2 fuels local resale tools"
+  ]
+}

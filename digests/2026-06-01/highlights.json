@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.159 released with infra fixes",
+    "OpenAI Codex rust-v0.136.0-alpha.2 ships enterprise security stack",
+    "593-comment thread on Codex token costs dominates GitHub",
+    "Gemini CLI sees intense PTY/shell stability work, 19 PRs",
+    "Kimi Code CLI joins the 9-tool cross-comparison",
+    "Rust and Go rewrites signal performance race across tools"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "Four beta releases in two days ahead of June stable launch",
+    "v2026.5.31-beta.3 adds agent/CLI runtime recovery",
+    "210 open PRs signal reviewer bandwidth constraints",
+    "Session context confusion remains top P1 issue",
+    "Codex runtime hardening is dominant development theme"
+  ],
+  "ai-trending": [
+    "MoneyPrinterTurbo surges +1,937 stars for AI video creation",
+    "Microsoft markitdown gains +2,798 stars for file conversion",
+    "Compound Engineering builds cross-IDE plugins for Claude/Codex/Cursor",
+    "VoxCPM advances tokenizer-free multilingual TTS with voice cloning",
+    "train-llm-from-scratch democratizes LLM training in Jupyter",
+    "ollama now supports Kimi-K2.5, GLM-5, MiniMax, gpt-oss"
+  ],
+  "ai-hn": [
+    "AI solves Erdős math problem, math world reacts",
+    "UChicago scientists release AI-generated song detection tool",
+    "TCNs explored as alternative to Transformer architectures",
+    "Developers purge AI commits from rsync project",
+    "'Less coding, more testing' Claude workflow gains traction",
+    "AI makes building trivial but distribution remains hard"
+  ],
+  "ai-ph": [
+    "Wandesk leads with 432 votes for customizable AI desktop",
+    "Wingbits AI monitors real-time aircraft with agents",
+    "4 of top 5 products are open-source",
+    "72x vote gap between #1 and #12 products",
+    "MCP tooling emerges as key category",
+    "Real-time AI agents dominate top launches"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 5.9M downloads as top open model",
+    "DeepSeek-V4-Flash gets 3.5M downloads, MIT-licensed",
+    "Qwen 3.6 uncensored community quants drive huge volume",
+    "Vision-language models now majority of trending releases",
+    "Sulphur-2-base advances video generation capabilities",
+    "GGUF variants consistently outpace base model downloads"
+  ],
+  "ai-community": [
+    "63% of AI-generated code skips security hardening",
+    "71-line black box pattern debugs $200 agent crash",
+    "Claude vs Gemini dead heat across 4 security domains",
+    "Markdown becomes de facto AI-developer interface layer",
+    "Vatican encyclical on AI ethics hits 133 Lobste.rs points",
+    "AI Won't Save You From Forgetting How to Think tops comments"
+  ],
+  "ai-weekly": [
+    "Anthropic raises $65B at $965B valuation",
+    "Claude Opus 4.8 cuts prices by 66%",
+    "Claude Design targets Figma/Canva market",
+    "rsync hit by LLM-generated commits crisis",
+    "AI finds first macOS kernel CVE",
+    "Anti-Slop developer movement emerges"
+  ],
+  "ai-monthly": [
+    "Microsoft ends OpenAI exclusive cloud deal",
+    "Claude Code censorship sparks OpenClaw fork",
+    "Anthropic lands SpaceX 300MW GPU deal",
+    "OpenAI becomes 'Deployment Company'",
+    "Anthropic backs China chip export controls",
+    "Andrej Karpathy joins Anthropic"
+  ]
+}

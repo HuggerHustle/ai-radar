@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.88 ships daily patches",
+    "OpenAI Codex stalled on auth infrastructure",
+    "Gemini CLI paused for stable migration",
+    "GitHub Copilot CLI v1.0.13 released",
+    "Kimi Code CLI enters competitive landscape",
+    "MCP ecosystem adoption drives convergence"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24h",
+    "Zero releases despite high velocity",
+    "Critical regressions in Kimi k2p5 provider",
+    "WhatsApp/Telegram channel stability issues",
+    "429 open issues vs 314 open PRs",
+    "Stabilization phase post-2026.3.13"
+  ],
+  "ai-trending": [
+    "Microsoft VibeVoice: 2,492 stars debut",
+    "Three Claude Code repos in top 10",
+    "NousResearch/hermes-agent: 1,851 stars",
+    "Deep-Live-Cam persists at 1,136 stars",
+    "OpenBB positions for AI agents",
+    "Ollama adds Kimi-K2.5, GLM-5, MiniMax"
+  ],
+  "ai-hn": [
+    "Claude Code dominates HN discussions",
+    "Sora commercial struggles surface",
+    "Codex command injection vulnerability found",
+    "Claude executed commands on IoT device",
+    "ClamBot sandboxing solution emerges",
+    "Memv memory system for agents builds"
+  ],
+  "ai-ph": [
+    "Clico: 430 votes for universal textbox AI",
+    "Pensieve: 144 votes for company context layer",
+    "Parallel Code: multi-model vibe coding",
+    "Cline Kanban: agent workflow management",
+    "SUN: personalized on-demand audio learning",
+    "VibecodedHub: AI-native product discovery"
+  ]
+}

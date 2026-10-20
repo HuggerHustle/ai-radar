@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.116 ships with Bedrock regression",
+    "OpenAI Codex rust-v0.122.0 released",
+    "Gemini CLI leads enterprise mindshare",
+    "All major tools face reliability regressions",
+    "Community pressures Claude Code to open source",
+    "ACP protocol standardization gaining traction"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24h",
+    "Project in stabilization phase, no new releases",
+    "SIGKILL stale process fix merged (#43961)",
+    "314 open issues signal backlog accumulation",
+    "Heavy focus on gateway reliability and security",
+    "Transcript persistence is top work stream"
+  ],
+  "ai-trending": [
+    "openai-agents-python gains 905 stars today",
+    "Thunderbird's thunderbolt adds 675 stars",
+    "DeepGEMM brings FP8 inference optimization",
+    "cognee vector DB gains agent memory traction",
+    "LEANN promises 97% storage savings for edge RAG",
+    "RuView uses WiFi signals for pose estimation"
+  ],
+  "ai-web": [
+    "Anthropic commits $100B to Amazon over 10 years",
+    "Deal secures up to 5 gigawatts of compute capacity",
+    "Over one million Trainium2 chips already deployed",
+    "Claude Opus 4.7 reaches general availability",
+    "Opus 4.7 positioned as cyber-safer Mythos alternative",
+    "Expansion into Asia/Europe inference regions planned"
+  ],
+  "ai-hn": [
+    "Anti-AI sentiment thread hits 296 points, 292 comments",
+    "Anthropic spyware allegations dominate front page",
+    "OpenAI advertising monetization draws criticism",
+    "GPT-6 Symphony release gets surprisingly muted engagement",
+    "OpenAI service outages spark reliability concerns",
+    "NSA contract controversies fuel privacy skepticism"
+  ],
+  "ai-ph": [
+    "Gemini Mac app launches with Option+Space hotkey",
+    "Verdent 2.0 positions AI as technical cofounder",
+    "Perplexity launches Personal Computer product",
+    "Fixa.dev targets non-technical founders",
+    "Google Vantage offers AI skills assessment",
+    "Avina automates enterprise GTM workflows"
+  ],
+  "ai-hf": [
+    "Jackrong's Qwen3.5-27B-Claude-4.6-Opus leads with 2,741 likes",
+    "Gemma 4 family dominates trending models",
+    "Qwen 3.6 series captures major attention",
+    "Uncensored fine-tune movement stays highly active",
+    "Tencent's HY-Embodied-0.5 pushes physical AI",
+    "OmniVoice surpasses 1 million downloads"
+  ],
+  "ai-community": [
+    "MCP production gaps exposed in real builds",
+    "Stop giving AI agents AWS credentials",
+    "Vercel security incident prompts trust boundary talks",
+    "RAG vs Lucene: classical search sometimes wins",
+    "Earth Day AI sustainability projects flood Dev.to",
+    "Querying neural network weights as graph data"
+  ]
+}

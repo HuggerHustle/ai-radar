@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code skills plugin ecosystem expanding",
+    "Cross-platform stability remains fragile",
+    "7 major tools actively shipping releases",
+    "MCP and A2A protocol alignment growing",
+    "Enterprise vs. dev-experience market segmenting",
+    "Security concerns gaining maintainer attention"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs",
+    "P0 critical memory leak in issue #91588",
+    "No new releases today despite high activity",
+    "Growing backlog may strain maintainer bandwidth",
+    "Security bugs and session state issues mounting",
+    "Community-driven enhancements show strong engagement"
+  ],
+  "ai-trending": [
+    "NVIDIA's SkillSpector star surging 1,079 today",
+    "Financial AI agents gaining institutional interest",
+    "Computer-Use Agents infrastructure gaining traction",
+    "Agent-Reach hits 30,125 total stars",
+    "Ollama remains top local LLM runtime",
+    "Agent security and safety tooling is booming"
+  ],
+  "ai-web": [
+    "Anthropic publishes emotion concepts research",
+    "Making Claude a chemist signals vertical push",
+    "OpenAI published no new content today",
+    "Interpretability research on Claude Sonnet 4.5",
+    "Anthropic betting on trust and deep utility",
+    "Fundamental AI behavior research published"
+  ],
+  "ai-hn": [
+    "Anthropic dominates amid export control crisis",
+    "Fable 5 model shutdown sparks controversy",
+    "Agent SDK pricing backlash and lawsuit news",
+    "Community debates switch to local LLMs",
+    "Safety narrative seen as double-edged sword",
+    "Government intervention concerns dividing opinions"
+  ],
+  "ai-ph": [
+    "Slashy leads with 462 votes for email AI",
+    "Conan launches as native Mac cockpit for Claude",
+    "Taste Lab offers vibe coding for design",
+    "Companion layers for AI tools gaining traction",
+    "Focus on specialized doer assistants",
+    "Rise of deeper customization for AI ecosystems"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 4,862 likes",
+    "Uncensored vision-language models surging",
+    "MoE architectures dominate language and multimodal",
+    "Google DiffusionGemma driving quantization activity",
+    "Kimi-K2.7 and Cohere North-Mini-Code trending",
+    "Nvidia Nemotron-3.5 advancing real-time ASR"
+  ],
+  "ai-community": [
+    "Fable 5 shutdown disrupts developer workflows",
+    "Retrieval quality matters more than model quality",
+    "MCP server deployment tutorials gaining traction",
+    "Gemma 4 fine-tuned for Old Korean translation",
+    "Satirical AI Economics for Dummies goes viral",
+    "Agent architecture hallucinations debate intensifying"
+  ]
+}

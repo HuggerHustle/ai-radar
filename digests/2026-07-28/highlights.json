@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "OpenAI Codex ships 2 CLI alphas",
+    "Gemini CLI focuses on multi-agent workflow",
+    "Claude Code in triage with regression fixes",
+    "No stable production releases today",
+    "Billing correctness is cross-cutting theme",
+    "Windows platform stability urgent for Codex"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs",
+    "Closure rate over 50% for issues and PRs",
+    "Plugin loopback host classification fix",
+    "Fixes duplicate survived processes after replacement",
+    "Gateway call migration stops local state migrations",
+    "Telegram reply flashing prevention merged"
+  ],
+  "ai-trending": [
+    "Alibaba open-code-review gains +979 stars",
+    "moeru-ai/airi: self-hosted multi-modal companion",
+    "Claude Video enables LLM video reasoning",
+    "Hermes-agent framework reaches 221k stars",
+    "Ollama now supports Kimi-K2.6 and GLM-5.2",
+    "Financial AI verticals like Kronos emerge"
+  ],
+  "ai-web": [
+    "Anthropic CEO clarifies non-ban open-weights stance",
+    "Anthropic-Cognizant partnership with 30k trained",
+    "OpenAI publishes metadata-only AI work article",
+    "Dario Amodei distinguishes safe vs dangerous models",
+    "Anthropic opposes protectionist measures",
+    "Cognizant becomes Global Premier Partner for Claude"
+  ],
+  "ai-hn": [
+    "Anthropic open-weights stance sparks 579 comments",
+    "Claude chats may have been Google-indexed",
+    "AI companies shredding rare books for training",
+    "Professor catches 35 students with prompt trap",
+    "Startups urge US not to block Chinese AI models",
+    "Opus 5 struggles with slop code benchmark"
+  ],
+  "ai-ph": [
+    "Athena leads with 408 votes as commerce orchestrator",
+    "Openbase voice-controlled agent team management",
+    "BrainFeed turns scrolling into learning feed",
+    "Aymo AI all-in-one team AI platform",
+    "Forgeon and AlsonAI push interactive storytelling",
+    "Trend favors practical integration-focused tools"
+  ],
+  "ai-arxiv": [
+    "Iterative reprompting closes LLM code security gap",
+    "CALMRec separates preferences from transient intent",
+    "MS-GPT revolutionizes molecular structure elucidation",
+    "PINNs discover periodic orbits in three-body problem",
+    "Variational-Ising-Attention for scientific tasks",
+    "Private transformer inference under 1 hour"
+  ],
+  "ai-hf": [
+    "Kimi-K3 tops Hugging Face with 6,212 likes",
+    "Qwen3.6-35B-A3B reaches 6M+ downloads",
+    "Extreme 1-bit quantization gains massive traction",
+    "Chinese AI labs dominate open-weight landscape",
+    "poolside Laguna-S-2.1 popular quantization base",
+    "Baidu Unlimited-OCR for document processing"
+  ],
+  "ai-community": [
+    "Junior developer pipeline debate has 84 reactions",
+    "MCPRadar scans MCP servers for misconfigurations",
+    "AI agents introduce credential leak risks",
+    "Microsoft's open weights piece sparks geopolitics debate",
+    "Vibecoding polarizes developer community",
+    "Developers worry about AI stealing secrets"
+  ]
+}

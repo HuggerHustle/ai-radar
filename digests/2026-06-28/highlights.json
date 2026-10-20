@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code has critical auth issues",
+    "9 safety filter issues for Claude Code",
+    "Windows support remains a universal pain",
+    "Authentication reliability plagues tools",
+    "Agentic behavior problems emerging",
+    "Community demands cost transparency"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues updated",
+    "Only 14 issues closed in 24 hours",
+    "500 PRs versus 53 merged yesterday",
+    "No new releases published today",
+    "Review capacity bottleneck flagged",
+    "Gateway stability improving via PRs"
+  ],
+  "ai-trending": [
+    "Hermes Agent hits 204K total stars",
+    "Simplex-chat gains 1,469 stars today",
+    "design.md surges with 1,541 stars",
+    "OpenCode coding agent gains 392 stars",
+    "Agent memory projects rising fast",
+    "Vibe-Trading attracts strong interest"
+  ],
+  "ai-hn": [
+    "Asian startups launch Mythos-like models",
+    "Alibaba used 25k accounts to mine Claude",
+    "Farmer arrested for 5-second OT meeting",
+    "Export ban sparks heated community debate",
+    "Corporate espionage allegations divide readers",
+    "Infrastructure tensions draw scrutiny"
+  ],
+  "ai-ph": [
+    "Agent Arena tops Product Hunt today",
+    "Gemini Spark offers 24/7 personal AI",
+    "note.md bridges local LLMs with PKM",
+    "SquidHub enables multiplayer AI collaboration",
+    "DMV adds governance layers for agents",
+    "Shift from toys to core infrastructure"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE leads Hugging Face trends",
+    "NVFP4-quantized MoE variants spreading",
+    "Gemma 4 coding fine-tunes exploding",
+    "DeepSeek V4 debuts Pro DSpark",
+    "Unlimited-OCR model surging in vision",
+    "Qwen AgentWorld offers 3B active params"
+  ],
+  "ai-community": [
+    "LLM bills spike from $620 to $2,480",
+    "AI gateway built to replace API wrappers",
+    "Trading bot feedback loops destroy value",
+    "OpenAI's Jalapeño ASIC analyzed deeply",
+    "Prompt injection as role confusion",
+    "Adaptive AI worms getting traction"
+  ]
+}

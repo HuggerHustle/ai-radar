@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code reaches v2.1.206 stable",
+    "OpenCode gains traction with daily patches",
+    "Token cost anomalies affect all major tools",
+    "Windows regression clusters plague users",
+    "Commercial tools face pricing transparency issues",
+    "Open-source tools focus on extensibility and diversity"
+  ],
+  "ai-agents": [
+    "OpenClaw shows 500 issues and 500 PRs in 24h",
+    "Message-loss bugs flagged as high severity P1",
+    "Session-state corruption problems persist",
+    "Dashboard modularization advances with 15+ PRs",
+    "Prompt injection security issue in Issue #45740",
+    "Tool simulation security concern in Issue #45049"
+  ],
+  "ai-trending": [
+    "ai-job-search repo gains +3,716 stars in one day",
+    "OfficeCLI signals AI-native office tooling shift",
+    "system_prompts_leaks grows to +1,125 stars",
+    "Ollama now supports Kimi-K2.6 and GLM-5.1",
+    "vllm hits 85,844 total stars as inference standard",
+    "Pocket-TTS democratizes voice on consumer hardware"
+  ],
+  "ai-web": [
+    "Anthropic partners with UST for physical AI push",
+    "Ben Bernanke joins Long-Term Benefit Trust",
+    "Claude deployed in semiconductor and automotive",
+    "UST trains 20,000 engineers on Claude",
+    "OpenAI publishes only metadata, no article text",
+    "Anthropic builds institutional infrastructure focus"
+  ],
+  "ai-hn": [
+    "GPT-5.6 launch scores over 1000 on HN",
+    "NYT alleges evidence tampering by OpenAI",
+    "GLM 5.2 matches human bookkeeper accuracy",
+    "54% token efficiency gain for coding tasks",
+    "Community debates GPT-5.6 performance vs marketing",
+    "Tooling for Claude Code and Cursor gains interest"
+  ],
+  "ai-ph": [
+    "ExploreYC leads with 729 votes as data API",
+    "Willow Frontier Pro and AssemblyAI compete on speech",
+    "agents-cli ships agent development from terminal",
+    "NanoKVM-Go gives AI physical screen control",
+    "Speech and transcription dominate today's launches",
+    "Productivity AI targets team transparency and automation"
+  ],
+  "ai-arxiv": [
+    "Papers shift toward agentic system evaluation",
+    "UniClawBench benchmarks proactive real-world agents",
+    "DominoTree improves speculative decoding methods",
+    "BiSCo-LLM explores extreme model quantization",
+    "OpenCoF brings process reasoning to video generation",
+    "Super Weights paper warns on pruning limitations"
+  ],
+  "ai-hf": [
+    "NVIDIA releases vision feature extraction models",
+    "Qwen 3.6 ecosystem spawns uncensored variants",
+    "DeepSeek-V4-Pro-DSpark attracts significant attention",
+    "Fable series fine-tunes emerge from Gemma 4",
+    "GLM-5.2 gets 362,300 downloads as open-weight hit",
+    "Chinese tech giants push new open-weight models"
+  ],
+  "ai-community": [
+    "Senior devs refusing AI risk becoming juniors",
+    "AI agents need receipts, not more tools",
+    "AI code reviews burn out developer teams",
+    "Deterministic routing beats LLM quality gates",
+    "Google AI bloat drives exponential climate costs",
+    "Developers build log-based agents for debuggability"
+  ]
+}

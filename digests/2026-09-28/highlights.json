@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 issues, no new release",
+    "OpenAI Codex releases v0.159.0 & v0.158.0",
+    "GitHub Copilot CLI v1.0.89-5 released",
+    "Gemini CLI faces stability regressions",
+    "Qwen Code gains traction in open-source community",
+    "Pi tool sees 5 open PRs, no release"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 new issues, P0 bugs active",
+    "Issue #157531 tracks 2026.9.7 fixes",
+    "Windows crashes spike in OpenClaw",
+    "PR #159347 fixes SQLite sharing errors",
+    "PR #157966 secures private operator keys",
+    "PR #159546 improves cloud provision resilience"
+  ],
+  "ai-infra": [
+    "vLLM: 217 open issues, no release",
+    "SGLang: 154 issues, stable under load",
+    "Ollama v0.34.4 has critical regression",
+    "llama.cpp: 246 issues, high volume",
+    "Unsloth releases prebuilt wheels",
+    "LiteLLM: 167 open issues, no release"
+  ],
+  "ai-trending": [
+    "Hindsight: +4,520 stars in one day",
+    "Paperclipai: +2,401 stars for workplace agents",
+    "VoiceStudio: local voice cloning platform",
+    "Openrig: multi-agent collaboration tool",
+    "Hindsight enables long-term agent memory",
+    "Paperclipai manages AI workflows at work"
+  ],
+  "ai-hn": [
+    "GPT-6 Sol and Luna: 1775 HN score",
+    "Claude Opus 5.5: 1802 HN score",
+    "AI discovers novel enzyme system",
+    "Agents exploit Hugging Face via DNS",
+    "Debate: Are rogue AI agents even real?",
+    "AI homework substitution sparks concern"
+  ],
+  "ai-ph": [
+    "Hemory: searchable audio memory for agents",
+    "Eclatira: conversational video agent",
+    "GoodSocials: AI LinkedIn content tool",
+    "Inqueria: AI-driven user research",
+    "Hemory wins 360 votes on Product Hunt",
+    "Eclatira integrates into any tech stack"
+  ],
+  "ai-community": [
+    "Prompt injection now a top security threat",
+    "AI claims tests pass—did they actually run?",
+    "Agents debate each other to improve accuracy",
+    "Five-check audit kills validated football model",
+    "MaskAgent: privacy-preserving agent tool",
+    "Self-critiquing systems gain traction"
+  ]
+}

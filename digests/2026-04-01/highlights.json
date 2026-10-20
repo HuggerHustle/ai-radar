@@ -1,0 +1,62 @@
+{
+  "ai-cli": [
+    "OpenAI Codex releases rust-v0.118.0 with daily patches",
+    "GitHub Copilot CLI ships v1.0.14 and v1.0.15-0 same-day",
+    "Claude Code stagnant at 2.1.1 with regression cluster",
+    "Gemini CLI releases v0.36.0-preview.7",
+    "Eight CLI tools compete on token economics transparency",
+    "Windows platform parity remains unsolved challenge"
+  ],
+  "ai-agents": [
+    "OpenClaw releases v2026.3.31 with breaking node execution changes",
+    "500 issues and 500 PRs updated in 24 hours",
+    "Plugin SDK deprecated in latest stable release",
+    "Issue #57898 highlights user frustration with breaking changes",
+    "335 open PRs indicate substantial review backlog",
+    "ACP protocol hardening is core focus area"
+  ],
+  "ai-trending": [
+    "Microsoft VibeVoice gains 3,863 stars on launch day",
+    "Claude Code ecosystem: four projects, 8,000+ stars combined",
+    "claude-howto guide hits 2,390 stars with copy-paste templates",
+    "superpowers framework defines agentic skills primitives",
+    "hermes-agent signals agent infrastructure maturation",
+    "Shift from LLM frameworks to specialized coding companions"
+  ],
+  "ai-web": [
+    "Anthropic signs MOU with Australian government",
+    "Sydney office becomes fourth major government safety partnership",
+    "AUD$3 million in healthcare and education research partnerships",
+    "Economic Index data shared with national government unprecedentedly",
+    "CEO Dario Amodei meets Prime Minister Anthony Albanese",
+    "OpenAI metadata hints at acceleration messaging"
+  ],
+  "ai-hn": [
+    "Claude Code source code leak hits front page",
+    "OpenAI $852B valuation sparks bubble debate",
+    "1-Bit Bonsai claims first commercially viable 1-bit LLM",
+    "CAPTCHA systems now target LLM reasoning specifically",
+    "DNS vulnerabilities discovered in ChatGPT infrastructure",
+    "Community builds open alternatives to proprietary systems"
+  ],
+  "ai-ph": [
+    "Notion MCP leads with 477 votes for workspace AI integration",
+    "MCP infrastructure becomes foundational market category",
+    "Goals app gets 282 votes for AI daily action planning",
+    "Ambient AI replaces standalone dashboards in productivity",
+    "Vibe coding shapes new developer tool launches",
+    "Enterprise infrastructure gains alongside consumer apps"
+  ],
+  "ai-monthly": [
+    "OpenAI Codex Sub-Agent System hits general availability",
+    "GitHub Copilot CLI 1.0 officially launches",
+    "Kimi Code debuts Plan Mode with visualization",
+    "Claude Code MCP Elicitation strengthens enterprise security",
+    "Kimi CLI introduces async background bash execution",
+    "OpenAI shuts down Sora video platform, Disney deal off",
+    "Anthropic leaks Mythos/Capybara next-gen models",
+    "Claude Code Auto Mode redefines autonomous execution",
+    "Claude Code critical bug sparks safety crisis",
+    "OpenClaw v"
+  ]
+}

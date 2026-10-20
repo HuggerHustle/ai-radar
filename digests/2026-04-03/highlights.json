@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.91 hit by rate limit crisis",
+    "OpenAI Codex rust-v0.119.0-alpha.3/4/5 ships",
+    "Gemini CLI v0.37.0-preview.1 fixes CMD+V paste",
+    "GitHub Copilot CLI v1.0.16 has HTTP/2 race condition",
+    "Kimi Code CLI joins 10+ issue/PR daily club",
+    "MCP emerges as de facto extensibility standard"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.4.2 breaks xAI plugin configs",
+    "500 issues/PRs in 24h signals release strain",
+    "169 merged PRs show maintainer responsiveness",
+    "Exec tool regressions plague latest release",
+    "Dashboard crashes reported across community",
+    "Automatic config migration via openc CLI"
+  ],
+  "ai-web": [
+    "Anthropic publishes Claude Sonnet 4.5 emotion research",
+    "Neural activation patterns mirror human psychology",
+    "First detailed LLM internal state investigation",
+    "OpenAI Codex pricing announcement teased",
+    "TBPN acquisition metadata surfaces",
+    "Mechanistic interpretability advances AI safety"
+  ],
+  "ai-trending": [
+    "oh-my-codex gains 2,867 stars in 24h",
+    "system_prompts_leaks surges 306 stars",
+    "Ollama adds Kimi-K2.5 and GLM-5 support",
+    "RAGFlow pushes RAG to production agents",
+    "Shift from chat to autonomous AI workers",
+    "Local-first infrastructure maturing rapidly"
+  ],
+  "ai-hn": [
+    "OpenAI acquires TBPN",
+    "OpenAI loses $45/month per Pro subscriber",
+    "Sora called a money furnace",
+    "Anthropic rate limits spark workaround threads",
+    "Claude Code pricing beats Cursor",
+    "Local/self-hosted solutions gain interest"
+  ],
+  "ai-ph": [
+    "OpenBox leads with 152 votes, 36 comments",
+    "Slackbot AI teammate launches",
+    "traceAI targets agent observability",
+    "ClawMetry governs autonomous systems",
+    "Ollama Apple Silicon optimization ships",
+    "Open-source dominates leaderboard"
+  ],
+  "ai-arxiv": [
+    "Therefore I am. I Think challenges CoT assumptions",
+    "S0 Tuning beats LoRA with zero overhead",
+    "OrgAgent builds company-style multi-agent hierarchies",
+    "Encoding attacks threaten deployed systems",
+    "YC-Bench personalizes AI evaluation",
+    "Reasoning models decide before thinking"
+  ],
+  "ai-hf": [
+    "Jackrong's Qwen3.5-Claude-4.6-Opus tops charts",
+    "Qwen3.5-9B hits 4.7M downloads",
+    "Gemma-4 pushes 26B MoE to any-to-any",
+    "LTX-2.3 video generation surges",
+    "Bonsai 1-bit quantization for edge",
+    "Uncensored fine-tunes drive engagement"
+  ],
+  "ai-community": [
+    "512K lines of Claude Code leaked",
+    "Dictionary-based tool dispatch analyzed",
+    "Path sandboxing architecture revealed",
+    "MCP integration tutorials proliferate",
+    "Agent security citadel patterns emerge",
+    "Build-and-secure phase replaces hype"
+  ]
+}

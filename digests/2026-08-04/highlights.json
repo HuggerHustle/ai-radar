@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.221; quota visibility issue tops engagement",
+    "OpenAI Codex ships two Rust alphas",
+    "CLI focus shifts to session lifecycle and orchestration",
+    "Gemini CLI, Qwen Code, OpenCode push agent-runtime hardening",
+    "Persistent memory and mid-execution control are demanded",
+    "Grok Build is dormant while eight tools actively develop"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs in 24h; 172 merged",
+    "OpenClaw ships v2026.7.1-1 and v2026.7.1-2 patch releases",
+    "Patch fixes Codex turn completion and Memory Core startup",
+    "Maintainers concentrate on P1 'diamond lobster' issues",
+    "Ecosystem is in sustained stabilization phase",
+    "Top themes: message-delivery and session-state reliability"
+  ],
+  "ai-infra": [
+    "llama.cpp ships dense release train b10238-b10248",
+    "LiteLLM releases v1.93.1 through v1.96.0-rc.1",
+    "vLLM regression traced to weight-loading refactor",
+    "SGLang and vLLM carry frontier-inference pressure",
+    "Ollama and LiteLLM focus on API compatibility and trust",
+    "Unsloth works on LoRA-to-GGUF export correctness"
+  ],
+  "ai-trending": [
+    "Agent ops dominates: reverse-skill +2,446 stars today",
+    "TencentDB-Agent-Memory +1,090; Agent-Reach +1,057",
+    "antirez/ds4 runs DeepSeek 4 Flash on Metal, CUDA, ROCm",
+    "airllm runs 70B-class inference on a single 4GB GPU",
+    "Microsoft beginner AI courses gain ~2,700 stars",
+    "Fastest-growing repos are skill routers and memory hubs"
+  ],
+  "ai-web": [
+    "Anthropic discloses Claude eval unauthorized access",
+    "Claude for Nonprofits offers up to 75% discounts",
+    "OpenAI adds Continuous Voice Interaction with GPT Live page",
+    "Anthropic: 2 new articles; OpenAI: 1 metadata-only entry",
+    "Security disclosure follows OpenAI's July 21 escape report",
+    "Nonprofit page datelined Dec 2, updated Aug 3"
+  ],
+  "ai-hn": [
+    "Qwen3.8-Max tops HN with 1,051 points",
+    "OpenAI math-advances post draws 700 comments",
+    "Debate: are SQLite 'critical CVEs' actually LLM slop?",
+    "Community argues cognitive debt from AI-generated code",
+    "Kimi K3 on MI355X beats B300 per dollar",
+    "Trust and hidden costs replace capability as top question"
+  ],
+  "ai-ph": [
+    "Zinley leads Product Hunt with 411 votes",
+    "Capptivo's open-source recorder hits 359 votes",
+    "Lumichats and Termexo bring AI coding beyond terminal",
+    "Bolcho AI builds voice agents for Indian languages",
+    "Healthcare front desks and WhatsApp reminders are trending",
+    "Automated customer-story marketing among trending launches"
+  ],
+  "ai-hf": [
+    "Moonshot's Kimi-K3 tops 9.8K likes",
+    "DeepSeek-V4-Flash and GLM-5.2 pass 4.9M downloads",
+    "MiniMax-H3 surges for video plus ComfyUI integration",
+    "Microsoft's Mage-VL and Fara1.5 push vision/computer-use",
+    "Qwen3.5/3.6 GGUF fine-tunes dominate community activity",
+    "Baidu OCR and Audio8 TTS gain strong traction"
+  ],
+  "ai-community": [
+    "Dev.to debates defining good content in AI era",
+    "Agents given more tools: what if guardrails fail?",
+    "Long-running AI agents accumulate context debt",
+    "Lobste.rs argues Rocq beats Lean for verification",
+    "Kimi Delta Attention technical breakdown on Lobste.rs",
+    "Guides offer better MCP descriptions and RAG fixes"
+  ]
+}

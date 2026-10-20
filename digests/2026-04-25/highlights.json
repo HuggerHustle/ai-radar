@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.120 with resume regression",
+    "OpenAI Codex releases rust-v0.125.0 plus two alphas daily",
+    "Gemini CLI emphasizes local-first offline capabilities",
+    "GitHub Copilot CLI leverages IDE ecosystem integration",
+    "Kimi Code CLI and Qwen Code chase feature parity aggressively",
+    "Four tools shipped same-day patches amid competitive pressure"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "v2026.4.23 stable adds Codex OAuth image generation",
+    "OpenRouter Provider gains image_generate support",
+    "478:22 closed-to-open issue ratio shows strong triage",
+    "336:164 merged-to-open PR ratio demonstrates throughput",
+    "Stabilization phase follows turbulent 2026.3.12 release"
+  ],
+  "ai-trending": [
+    "free-claude-code gains +2,638 stars today",
+    "HuggingFace ml-intern launches with +2,985 stars",
+    "everything-claude-code hits 166K topic search stars",
+    "zilliztech/claude-context adds +706 stars for MCP search",
+    "Open-Generative-AI surges +842 stars for 200+ models",
+    "ollama now supports Kimi-K2.5, GLM-5, MiniMax, DeepSeek"
+  ],
+  "ai-web": [
+    "Anthropic commits $100B over 10 years to Amazon AWS",
+    "Deal secures up to 5 gigawatts of Trainium2-Trainium4 capacity",
+    "Rare postmortem published on Claude Code quality degradation",
+    "NEC partnership marks first Japan-based global partner",
+    "Anthropic publishes 6 articles vs OpenAI's zero",
+    "One million Trainium chips already in use"
+  ],
+  "ai-hn": [
+    "Google invests up to $40B in Anthropic dominates headlines",
+    "Top-voted post is scathing Claude cancellation over token issues",
+    "OpenAI's quiet GPT-5.5 API release draws muted interest",
+    "Tell HN posts about Claude bugs signal growing friction",
+    "Community mood is skeptical with quality concerns outpacing hype",
+    "GPT-5.5 Pro release gets 201 points, 111 comments"
+  ],
+  "ai-ph": [
+    "Kollab leads with 394 votes for human-agent workspace",
+    "Claude Code /ultrareview deploys parallel review agents",
+    "Monid launches wallet for AI tool subscription payments",
+    "Google debuts Gemini Enterprise Agent Platform",
+    "IFTTT MCP bridges Claude to 1000+ apps",
+    "Multi-agent orchestration dominates launch category"
+  ],
+  "ai-arxiv": [
+    "Prompt-induced hallucinations found in vision-language models",
+    "LLMs show unexpected obsession with Japanese culture",
+    "Entity phrasing dramatically alters LLM memorization",
+    "MCP Tax quantified in agent workflow overhead",
+    "Token bloat measured in reasoning LLMs",
+    "Gradient-informed adaptation advances PEFT theory"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro surges to 2,418 likes pre-deployment",
+    "Qwen3.6 and DeepSeek-V4 intensify open-weight competition",
+    "gemma-4-31B-it hits 5.4M downloads proving production staying power",
+    "Unsloth GGUF variants exceed 1.7M weekly downloads",
+    "Uncensored fine-tunes command significant community engagement",
+    "Tencent HY-World-2.0 and NVIDIA Lyra-2.0 advance image-to-3D"
+  ],
+  "ai-community": [
+    "Viral lament: 'I Used to Love Coding. Now I Just Prompt'",
+    "Google Cloud Next A2A and MCP protocols dissected",
+    "OpenClaw spawns WhatsApp AI assistant challenges",
+    "Bitwarden CLI backdoor raises supply chain alarm",
+    "PII leakage in LLM apps intensifies security concerns",
+    "Google launches official Agent Skills Repository"
+  ]
+}

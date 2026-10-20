@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.266 released with critical fix",
+    "OpenAI Codex rolls out alpha builds",
+    "Gemini CLI v0.61.0-nightly released",
+    "GitHub Copilot CLI adds Vim mode live",
+    "OpenCode gains traction in open-source",
+    "Pi tool now supports advanced workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.9.3 boosts update safety",
+    "Safer migrations in OpenClaw v2026.9.3",
+    "OpenClaw fixes orphaned update states",
+    "Hermes Agent gains agent orchestration",
+    "IronClaw enhances secure agent execution",
+    "QwenPaw expands multi-agent support"
+  ],
+  "ai-infra": [
+    "llama.cpp releases b10868, b10867, b10865",
+    "vLLM sees 7 new issues, 5 PRs merged",
+    "SGLang updates with 5 new issues",
+    "Ollama remains active with 5 issues",
+    "LiteLLM integrates multi-provider routing",
+    "Unsloth advances distributed training"
+  ],
+  "ai-trending": [
+    "ECC gains 1,427 stars today",
+    "context-mode cuts tokens by 98%",
+    "headroom compresses RAG chunks by 95%",
+    "hyperframes enables AI video rendering",
+    "camofox-browser bypasses anti-bot systems",
+    "RAG frameworks dominate search trends"
+  ],
+  "ai-web": [
+    "Anthropic exposes 24K distillation attacks",
+    "DeepSeek, Moonshot targeted Claude extraction",
+    "MITRE ATT&CK mapped to AI cyber ops",
+    "OpenAI launches ChatGPT Images 2.5",
+    "OpenAI funds youth research grants",
+    "OpenAI expands journalism support"
+  ],
+  "ai-hn": [
+    "Meta's Muse sparks autonomy debate",
+    "OpenAI claims Navier–Stokes breakthrough",
+    "Anthropic sees 2 high-profile resignations",
+    "LLMs invent new social biases, study shows",
+    "AlphaGenome Atlas maps human DNA at scale",
+    "Tao: AI mining open math problems"
+  ],
+  "ai-ph": [
+    "Nina by Antalpha offers non-custodial trading",
+    "Ollie: local AI teammate under your control",
+    "PR Lens redefines code analysis",
+    "Tucky: screen-edge note app with AI",
+    "Routines automates AI analytics for biz",
+    "New agents focus on user-controlled autonomy"
+  ],
+  "ai-community": [
+    "AI makes developers lazier—be honest?",
+    "Most AI agents are just if-statements",
+    "Bad system design ships faster with AI",
+    "Attack your AI agent in under 10 mins",
+    "Overreliance risks eroding problem-solving",
+    "Legal debates heat up over model transparency"
+  ]
+}

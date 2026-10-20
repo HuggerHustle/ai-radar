@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.169 shipped, low PR velocity",
+    "OpenAI Codex rust-v0.138 released",
+    "9 major CLI tools now competing in multi-polar arena",
+    "MCP servers becoming shared primitive across tools",
+    "Open-source alternatives compete on local-first deployment",
+    "Agent reliability dominates engineering priorities"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 494 PRs in 24 hours",
+    "v2026.6.5-beta.5 fixes QQBot thinking leak",
+    "89% issues open, 67% PRs unmerged — backlog risk",
+    "13 projects covered in OpenClaw ecosystem",
+    "MCP tooling robustness focus in beta releases",
+    "Session state reliability top community concern"
+  ],
+  "ai-trending": [
+    "last30days-skill gained +3,558 stars today",
+    "Agent harness emerges as distinct architectural pattern",
+    "Google skills and OpenAI plugins both trended",
+    "turbovec: +1,729 stars for Rust vector index",
+    "Memory systems converge with agent frameworks",
+    "Rust gains traction for AI infrastructure"
+  ],
+  "ai-web": [
+    "Anthropic publishes agent reliability in biology research",
+    "Deterministic retrieval essential for scientific agents",
+    "gget virus tool achieves near-perfect accuracy",
+    "OpenAI S-1 filing submission detected in metadata",
+    "OpenAI public-benefit framing document surfaced",
+    "Anthropic vs OpenAI: technical depth vs latent signals"
+  ],
+  "ai-hn": [
+    "OpenAI confidential S-1 filing dominates discourse",
+    "Anthropic Project Glasswing covered by Bruce Schneier",
+    "Claude Fable 5 release teased",
+    "Anthropic measures LLM impact on N-day exploits",
+    "HN debates platform vitality amid AI saturation",
+    "Cost reduction tools target AI-assisted coding"
+  ],
+  "ai-ph": [
+    "Google Labs launches Dreambeans AI storytelling",
+    "Dreambeans: 361 votes, leverages cross-app data",
+    "Privacy-first Daisy offers on-device transcription",
+    "NAADI brings AI to accounting vertical",
+    "FactGuard targets AI fact-checking niche",
+    "Job Postings API enters recruitment intelligence"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro: 4,720 likes, 5.4M downloads",
+    "Gemma-4 series generates strong ecosystem activity",
+    "NVIDIA Nemotron-3-Ultra: 550B parameters trending",
+    "Sulphur-2-base heats up video generation",
+    "HauhauCS Qwen3.6-35B uncensored fine-tune popular",
+    "ByteDance Bernini-R enters video generation race"
+  ],
+  "ai-community": [
+    "Company packaged 12 years experience into AI skill, failed",
+    "CTO begged laid-off engineer back at 5× salary",
+    "9 serverless GPU providers benchmarked for inference",
+    "MCP vs simple CLI debate intensifies",
+    "RTT manipulation emerges as novel AI agent exploit",
+    "Vibecoding production lessons shared widely"
+  ]
+}

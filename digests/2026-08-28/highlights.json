@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.250 stabilizes security",
+    "OpenAI Codex fixes critical Rust bug",
+    "Qwen Code gains local inference support",
+    "Pi CLI now supports MCP sandboxing",
+    "Gemini CLI adds permission enforcement",
+    "GitHub Copilot CLI improves session persistence"
+  ],
+  "ai-agents": [
+    "OpenClaw fixes session state leaks",
+    "PR #131294 refreshes AI model catalog",
+    "Agent thinking state now preserved",
+    "Session refresh storms fixed in OpenClaw",
+    "Hermes Agent gains memory resilience",
+    "IronClaw updates provider integration"
+  ],
+  "ai-infra": [
+    "vLLM v0.27.1 stable release out",
+    "SGLang dev image with Qwen38Flash",
+    "Ollama v0.33.2-rc1 adds dark mode",
+    "LiteLLM migrates to Rust",
+    "Unsloth v1.2 released with optimizations",
+    "llama.cpp sees 114 new PRs today"
+  ],
+  "ai-trending": [
+    "K-Dense-AI/scientific-agent-skills surges",
+    "freestylefly/awesome-gpt-image-2: +2k stars",
+    "Anthropic launches official plugin directory",
+    "tt-a1i/archify: +4,239 stars today",
+    "ComposioHQ/awesome-claude-skills grows fast",
+    "OpenMontage enables full-stack agent pipelines"
+  ],
+  "ai-web": [
+    "Anthropic previews Model Hardware Standard",
+    "Claude for Scientists expands globally",
+    "Claude Corps: $150M fellowship launched",
+    "OpenAI focuses on student critical thinking",
+    "Brazilian market expansion hinted at",
+    "MHS enables AI control of physical labs"
+  ],
+  "ai-hn": [
+    "GLM-5.3-Flash scores 1105 on HN",
+    "Gemini Omni 1.1 Flash hits speed benchmarks",
+    "Terminal-Bench-Science evaluates agents",
+    "MIT AI Use Committee report sparks debate",
+    "AI consciousness debate heats up",
+    "CEO fired devs for AI overreach story"
+  ],
+  "ai-ph": [
+    "Expertise AI: monetize GTM expertise",
+    "OpenComputer: Firebase for agents",
+    "Warren: production-grade agent infra",
+    "MCP-Builder.ai: connect data fast",
+    "Arena Agent Mode launches today",
+    "Tellie Prompter 1.5 boosts sales teams"
+  ],
+  "ai-arxiv": [
+    "PACE accelerates VLM inference",
+    "DPO disentanglement improves alignment",
+    "TraceBench evaluates agent reasoning",
+    "Contract-Centered Architecture launched",
+    "LAAF ensures agent accountability",
+    "FoldPipe optimizes molecular ML models"
+  ],
+  "ai-community": [
+    "AI code maintenance costs remain high",
+    "NexPath catches vague prompts early",
+    "Dev teams revert features post-AI",
+    "Adversarial testing pipelines grow",
+    "AI agents don’t flinch at human delays",
+    "Strategic workflows needed for agents"
+  ]
+}

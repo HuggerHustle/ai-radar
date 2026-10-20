@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 issues in 24h",
+    "OpenAI Codex releases rust-v0.154.0-alpha.6",
+    "Gemini CLI rolls out nightly build v0.60.0-nightly.20260907",
+    "Qwen Code launches v0.23.1-preview.2",
+    "Pi tool gains 10 PRs in 24h",
+    "OpenCode sees 10 new PRs"
+  ],
+  "ai-agents": [
+    "OpenClaw: 498 issues, 500 PRs in 24h",
+    "v2026.8.1–v2026.9.2 has critical regressions",
+    "PR #141451 fixes gateway state loss",
+    "PR #141663 improves upgrade checks",
+    "PR #118679 auto-fixes workboard reconciliation",
+    "No new OpenClaw releases today"
+  ],
+  "ai-infra": [
+    "vLLM: 12 open issues, SM120 kernel focus",
+    "SGLang: 15 issues, HiCache/FP8 fixes",
+    "llama.cpp: Vulkan/Metal optimizations",
+    "Ollama: 18 high-severity bugs reported",
+    "LiteLLM: tight agent integration progress",
+    "Unsloth: fine-tuning platform maturing"
+  ],
+  "ai-trending": [
+    "affaan-m/ECC: +1,897 stars today",
+    "ruvnet/ruflo: multi-player agent swarm",
+    "bytedance/deer-flow: SuperAgent framework",
+    "firecrawl/firecrawl: real-world data access",
+    "browser-use/browser-use: AI web interaction",
+    "infiniflow/ragflow: RAG memory system"
+  ],
+  "ai-web": [
+    "Claude generates full FLT proof in 11 days",
+    "First computer-checked Fermat proof by AI",
+    "Anthropic details security incident response",
+    "GPT-6 Astra release sparks debate",
+    "Lean proof assistant used for formalization",
+    "AI safety governance update released"
+  ],
+  "ai-hn": [
+    "GPT-6 Astra: 2261 HN score, 2069 comments",
+    "Fermat’s Last Theorem: 766 HN score",
+    "WeatherNext 3: advanced climate model",
+    "Speculative decoding on AMD GPUs",
+    "Tiny edge AI devices gaining traction",
+    "LLMs as Cognitive Virus: top concern"
+  ],
+  "ai-ph": [
+    "Tadata: AI employee in Slack, 378 votes",
+    "SyncAgents: autonomous AI workforce",
+    "H3 Max by fal: video production AI",
+    "DocsAlot Visual Editor: content creation",
+    "AI Toolbox 3.0 unifies chat history",
+    "Agentic systems dominate dev tools"
+  ],
+  "ai-community": [
+    "MCP servers: shared knowledge over profit",
+    "AI agent = 70-line Python while loop",
+    "Guardrails fail in real-world systems",
+    "ARC-AGI-1: 44% accuracy for $0.67",
+    "U.S. backs OpenAI in copyright case",
+    "Observability gaps in agent workflows"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "OpenAI Codex hits v0.132.0 with highest release velocity",
+    "Claude Code stalled with no release, minimal merges",
+    "Gemini CLI lands 3 critical fixes in 24 hours",
+    "GitHub Copilot CLI ships 3 patch releases (v1.0.51)",
+    "Agent-centric tools battle reliability at scale",
+    "Windows parity gaps plague all major CLI tools"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "OpenClaw merge ratio only 4.6% — severe bottleneck",
+    "Discord voice enhancement ships in v2026.5.20-beta.1",
+    "Security and secrets management dominate discussion",
+    "455:45 open-to-closed issue ratio signals backlog",
+    "Three new releases including voice channel features"
+  ],
+  "ai-trending": [
+    "codegraph gains +2,123 stars for agent context management",
+    "openhuman (+3,394 stars) pushes local personal AI",
+    "andrej-karpathy-skills (+2,679 stars) for agent tuning",
+    "agentmemory (+1,080 stars) tackles persistent context",
+    "Developers building control plane, not just using agents",
+    "CLI-Anything (+890 stars) wraps all software for agents"
+  ],
+  "ai-web": [
+    "Anthropic reveals Natural Language Autoencoders breakthrough",
+    "Every Claude since Haiku 4.5 aces misalignment tests",
+    "Opus 4 had 96% blackmail rate in prior safety tests",
+    "Anthropic expands into cross-cultural AI values engagement",
+    "OpenAI metadata hints at mathematical proof result",
+    "Three Anthropic articles vs two unverified OpenAI posts"
+  ],
+  "ai-hn": [
+    "OpenAI model disproves discrete geometry conjecture (656 pts)",
+    "OpenAI IPO filing sparks valuation and governance debate",
+    "Anthropic near-profitability and Karpathy hiring gain momentum",
+    "Community skeptical of AI hype cycles amid layoffs",
+    "Rust-with-AI workflows draw strong engineering interest",
+    "PopuLoRA: novel evolutionary LLM training approach"
+  ],
+  "ai-ph": [
+    "PollyReach (530 votes) gives agents real phone numbers",
+    "Chert builds iMessage-native AI agents",
+    "Starchild-1: first real-time multimodal world model for robotics",
+    "Cursor's Composer 2.5 launches amid fierce dev tooling competition",
+    "ShioriCode gains traction as open-source coding companion",
+    "Drizz offers self-healing mobile test automation"
+  ],
+  "ai-arxiv": [
+    "Toto 2.0 extends scaling laws to 2.5B time series parameters",
+    "TIDE enables practical MoE diffusion LLM deployment",
+    "KoRe externalizes world knowledge from LLM parameters",
+    "Decoupled perception-reasoning architectures emerge",
+    "Policy-aware rubric rewards improve RLVR efficiency",
+    "Stochastic-deterministic boundary papers signal agent maturity"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro hits 3.8M downloads, 4,082 likes",
+    "Gemma-4-31B-it crosses 10 million downloads",
+    "ByteDance Lance debuts rare any-to-any architecture",
+    "Sulphur-2-base hits 1.1M downloads for open video generation",
+    "Qwen 3.6 family shows deep ecosystem quantization work",
+    "DeepSeek-V4-Flash delivers 2.4x inference speedup"
+  ],
+  "ai-community": [
+    "Google I/O 2026: Gemini 3.5, Spark, Antigravity 2.0 launch",
+    "MCP on-device privacy architecture ships in Edge Gallery",
+    "Gemma 4 tutorials surge for consumer hardware deployment",
+    "Dev.to challenges explore Google I/O announcements",
+    "Lobste.rs critiques LLM overuse for simple tasks",
+    "Skepticism rises over Google's open-source commitment"
+  ]
+}

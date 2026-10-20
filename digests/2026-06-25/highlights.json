@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code hits v2.1.191 release",
+    "Token cost unpredictability dominates",
+    "5 tools implement MCP standard",
+    "Multi-agent architectures converge",
+    "OpenCode and Pi lead open source",
+    "7 major tools serve segments"
+  ],
+  "ai-agents": [
+    "OpenClaw: 346 issues, 500 PRs",
+    "v2026.6.10 adds automatic fast mode",
+    "v2026.6.11-beta.1 improves channel control",
+    "281 open issues signal tech debt",
+    "Feishu and Telegram parity gaps",
+    "High-velocity dev with mounting debt"
+  ],
+  "ai-trending": [
+    "OpenMontage +3,719 stars today",
+    "Hermes-Agent hits 202K total stars",
+    "Google Labs launches design.md spec",
+    "Agentic video production goes open source",
+    "Revfactory harness designs agent teams",
+    "Structured composable ecosystems emerge"
+  ],
+  "ai-web": [
+    "Anthropic partners with NNSA on safeguards",
+    "96% accurate nuclear classifier deployed",
+    "81K Claude user labor survey published",
+    "OpenAI hints at Jalapeno custom chip",
+    "Applied AI governance push intensifies",
+    "Broadcom co-develops OpenAI inference chip"
+  ],
+  "ai-hn": [
+    "NSA lost access to Anthropic Mythos",
+    "Mythos found classified system vulnerabilities",
+    "OpenAI Jalapeno chip debate heats up",
+    "White House accuses Anthropic of violations",
+    "Anthropic alleges Alibaba model theft",
+    "Geopolitical AI tensions dominate"
+  ],
+  "ai-ph": [
+    "OpenArt Director turns chat to video",
+    "NeuralAgent 3.0 executes UI in 285ms",
+    "Developer tools dominate today's launches",
+    "Context management fixes for agents",
+    "Industry shifts to production infrastructure",
+    "Creative AI tools see strong traction"
+  ],
+  "ai-arxiv": [
+    "Plasticity loss challenged in scaling study",
+    "Task-specific distillation scaling laws",
+    "Non-autoregressive generation framework",
+    "Agentic skill acquisition papers dominate",
+    "Hallucination detection via gradient analysis",
+    "Warrant analysis for fact-checking"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 5K likes",
+    "GLM-5.2 MoE model gains 2,351 likes",
+    "MiniMax-M3 multimodal MoE trending",
+    "Qwen-AgentWorld-35B-A3B for agents",
+    "GGUF quantized models lower barriers",
+    "Vision-language MoE architectures surge"
+  ],
+  "ai-community": [
+    "Claude Tag trust layer missing",
+    "Red teaming cuts agent breaches to zero",
+    "AI agents need project memory",
+    "GitHub Copilot pivots to token billing",
+    "OCaml release sparks Lobste.rs debate",
+    "Security guardrails lag behind tooling"
+  ]
+}

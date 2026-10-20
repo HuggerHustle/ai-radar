@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "OpenAI Codex ships 3 releases including rust-v0.115.0",
+    "Gemini CLI drops v0.33.2 stable and v0.34.0-preview.4",
+    "GitHub Copilot CLI rapid-patches 4 versions in 24h",
+    "OpenCode v1.2.27 migrates to Effect architecture",
+    "Claude Code focuses on 1M context rollout support",
+    "Windows parity and billing opacity frustrate users universally"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "89% open issue rate signals growing backlog pressure",
+    "Heartbeat timeout fix lands for production reliability",
+    "Feishu/Lark integration and local RAG in active development",
+    "Regression pressure from gateway and CLI connectivity bugs",
+    "No new releases despite extreme community activity"
+  ],
+  "ai-trending": [
+    "MiroFish gains 3,260 stars for swarm intelligence engine",
+    "claude-mem and learn-claude-code explode in Claude ecosystem",
+    "OpenViking brings ByteDance into agent infrastructure race",
+    "obra/superpowers claims production-ready agentic skills",
+    "lightpanda-io browser hits +2,086 stars for AI automation",
+    "LangChain deepagents adds subagent spawning capability"
+  ],
+  "ai-web": [
+    "Anthropic debuts dynamic tool discovery beta feature",
+    "Code-based tool orchestration cuts 50K token overhead",
+    "Few-shot tool learning targets tool proliferation problem",
+    "OpenAI Codex security article metadata surfaces only",
+    "Anthropic outpaces OpenAI in public technical communication",
+    "Claude Developer Platform pushes code-native agent execution"
+  ],
+  "ai-hn": [
+    "Claude Code Godot game skills top HN with 133 upvotes",
+    "FSF threatens Anthropic over copyright concerns",
+    "Encyclopedia Britannica sues OpenAI for training data",
+    "YC W26 startups Voygr and Chamber debut agent infra",
+    "MCP security concerns emerge in community discussions",
+    "Shannon's 1948 communication theory resurfaces on front page"
+  ]
+}

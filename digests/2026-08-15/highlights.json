@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.232 and v2.1.233 released",
+    "OpenAI Codex shipped 5 alphas in one day",
+    "GitHub Copilot CLI v1.0.80/80-1 released",
+    "Cost and quota transparency is a trust issue",
+    "Subagent orchestration dominates CLI ecosystem",
+    "Gemini CLI received a nightly update"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues/500 PRs updated in 24h",
+    "OpenClaw: 96 PRs merged/closed, no release",
+    "P0/P1 message loss and memory leak bugs",
+    "Maintainer bandwidth is the key bottleneck",
+    "PR #116489 adds install policy warnings ack",
+    "External contributors provide linked fixes"
+  ],
+  "ai-infra": [
+    "Local tier shipped 14 releases in 24 hours",
+    "Speculative decoding default; bug cluster remains",
+    "AMD/ROCm is both fastest-growing and buggiest",
+    "LiteLLM becomes critical-path control plane",
+    "Engines race to support Kimi-K3 and DeepSeek-V4",
+    "llama.cpp releases b10425 to b10435"
+  ],
+  "ai-trending": [
+    "diagram-design +3,651 stars, Claude Code pack",
+    "semantica +1,183: graph-native RAG evolution",
+    "holaOS +769: all-in-one AI agent workspace",
+    "needle: 14MB edge foundation model, +661",
+    "unsloth +502 for local Qwen3.8-class training",
+    "Trend shifts from weights to memory/tooling"
+  ],
+  "ai-web": [
+    "Anthropic details Claude text watermarking",
+    "Watermark claims zero quality/cost impact",
+    "Retraining meta-analysis: +2-3 pp employment",
+    "Retraining costs $13k; earnings +$1k/year",
+    "OpenAI published zero new content in window",
+    "Watermark has no identifying info or tokens"
+  ],
+  "ai-hn": [
+    "DeepSeek V4 Pro tops HN with 1,027 points",
+    "GLM-5.3 at 1,016; safety framing debated",
+    "Gemini 3.7 Flash launch scores 946 points",
+    "Open-weight vs closed frontier debate rages",
+    "Google homomorphic encryption explainer draws",
+    "Conversation shifts to trust/verify/self-host"
+  ],
+  "ai-ph": [
+    "Kane CLI and Ito lead automated testing",
+    "Nuphos: AI-native DevOps workspace",
+    "Oasis: no-code human-AI coordination",
+    "Mem Agent tracks commitments and follow-through",
+    "AI tools move from suggesting to running code",
+    "WebBrain launches as AI assistant"
+  ],
+  "ai-arxiv": [
+    "LITTLECURRICULUM: 88B-token controlled corpus",
+    "SAEVerbalizer generates SAE feature explanations",
+    "Research shifts to long-horizon agentic systems",
+    "VC classes robustly learnable with linear samples",
+    "Alignment during pretraining gains new curricula",
+    "Verification, robotics, clinical applications rise"
+  ],
+  "ai-hf": [
+    "Kimi-K3 leads weekly likes on Hugging Face",
+    "Qwen3.8-27B draws 8,908 likes",
+    "DeepSeek-V4-Flash hits 1.6M downloads",
+    "Open-weight local-first distribution dominates",
+    "Qwen3.8-2.4T-A95B: 2.4T MoE, 95B active",
+    "GGUF, FP8, NVFP4, LoRA variants everywhere"
+  ],
+  "ai-community": [
+    "Vector DBs alone aren't durable memory",
+    "Eval passes can be an illusion",
+    "'Nobody audits their OpenAI invoice' resonates",
+    "OpenAI–Hugging Face incident sparks security talk",
+    "Gemma 4 on EC2 G5g blocked by 64KiB shmem",
+    "Agents reliability and accountability in focus"
+  ]
+}

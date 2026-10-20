@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code hits v2.1.142 with agent flags expansion",
+    "OpenAI Codex lands daily Rust alpha builds",
+    "Codex plugin hooks graduate to stable",
+    "Gemini CLI pushes v0.44.0 nightly with security focus",
+    "Open-source multi-provider tools challenge closed models",
+    "Windows ARM64 stability remains unsolved industry-wide"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "OpenClaw beta streamlines dependencies via proxyline",
+    "475 open issues signal rapid growth or backlog culture",
+    "Enterprise governance push targets XL-sized PRs",
+    "Cross-platform Linux/Windows expansion underway",
+    "Community prioritizes security hardening, reliability"
+  ],
+  "ai-trending": [
+    "mattpocock/skills gains +2,987 stars in one day",
+    "openhuman surges +3,329 stars for personal AI superintelligence",
+    "RuView breaks through with WiFi spatial intelligence",
+    "agentmemory climbs +1,879 stars for persistent AI memory",
+    "Ollama adds Kimi-K2.5, GLM-5, MiniMax support",
+    "2026 marks shift to stateful, personalized, aware agents"
+  ],
+  "ai-web": [
+    "Anthropic frames AI race as explicit US-China competition",
+    "$200M Gates Foundation deal deepens public benefit track",
+    "Small business push targets 44% of US GDP",
+    "OpenAI releases metadata-only developer tooling updates",
+    "2028 set as horizon for transformative AI systems",
+    "Compute export controls advocated in policy paper"
+  ],
+  "ai-hn": [
+    "Claude for Small Business sparks 502-point, 448-comment thread",
+    "Claude recovers $400K Bitcoin wallet after 11 years",
+    "OpenAI-Apple partnership shows fracture signs",
+    "Codex arrives in ChatGPT mobile app",
+    "Anthropic strips Agent SDK from subscriptions",
+    "Sam Altman faces growing GOP scrutiny pre-IPO"
+  ],
+  "ai-ph": [
+    "Memoket Gem leads with 459 votes for wearable AI memory",
+    "Two Claude Code wrappers crack top 10 simultaneously",
+    "MCP infrastructure appears twice signaling standardization",
+    "Google's Gemini-optimized laptop makes rare hardware debut",
+    "CraftBot pushes Living UI vibe coding concept",
+    "Ambient AI memory converges with developer tooling demand"
+  ],
+  "ai-arxiv": [
+    "WARDEN transcribes endangered language with 6 hours of data",
+    "Negation Neglect exposes critical training failure mode",
+    "Recursive self-improvement claims new coding SOTA",
+    "Step-level hallucination detection advances safety",
+    "Quantum-inspired attention targets long sequences",
+    "any-to-any architectures unify multimodal reasoning"
+  ],
+  "ai-hf": [
+    "Qwen 3.6 family captures massive download volumes",
+    "DeepSeek-V4 Pro hits 2.5M downloads, Flash adds 1.5M",
+    "Gemma 4 31B nears 10M downloads as multimodal contender",
+    "Unsloth dominates with four trending GGUF variants",
+    "SenseNova-U1-8B-MoT signals any-to-any architecture rise",
+    "Mixture-of-Experts variants drive efficiency focus"
+  ],
+  "ai-community": [
+    "2015 desktop runs Gemma 4 in local AI democratization push",
+    "Tokensparsamkeit emerges as critical cost discipline",
+    "MCP integration spreads across analytics to SEO workflows",
+    "AI agent reliability gap confronts production engineers",
+    "Context window management battles agent drift",
+    "Observability joins LLMs, vectors, tools as core stack layer"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code multi-account feature gets 601👍",
+    "OpenAI Codex drops 3 Rust CLI alphas",
+    "Rate-limit crisis for OpenAI Codex",
+    "DeepSeek rebrands to CodeWhale",
+    "Cross-tool focus on agent reliability",
+    "Platform parity push for Windows ARM64"
+  ],
+  "ai-agents": [
+    "OpenClaw releases two new betas",
+    "500 issues and 500 PRs in 24h",
+    "Session write-lock timeouts reported",
+    "Compaction timeout fragility issues",
+    "Silent data-loss bugs from relocations",
+    "Community active but under strain"
+  ],
+  "ai-trending": [
+    "headroom compresses tokens 60-95%",
+    "+2,624 stars for headroom today",
+    "codebase-memory-mcp hits +1,032 stars",
+    "OpenMontage: first open-source agentic video",
+    "palmier-pro: macOS AI video editor",
+    "bytedance/deer-flow SuperAgent harness"
+  ],
+  "ai-web": [
+    "OpenAI announces Samsung Codex deal",
+    "Anthropic publishes no new content",
+    "Enterprise push for ChatGPT Codex",
+    "Stark contrast between AI lab output",
+    "B2B platform dominance signaled",
+    "Samsung integration moves beyond consumer"
+  ],
+  "ai-hn": [
+    "Claude identity verification debate (500+ pts)",
+    "Chinese model Mythos breached US systems",
+    "Apertus: sovereign open foundation model",
+    "Recall: fully-local memory for Claude Code",
+    "Deskilling effects of AI debated",
+    "8066 segmented memory vs modern AI"
+  ],
+  "ai-ph": [
+    "WorkClaw leads with 349 votes",
+    "JetBrains Mellum hits 187 votes",
+    "pumaDB memory layer at 160 votes",
+    "Pixlie for AI video generation",
+    "Cutio for YouTube sponsor skipping",
+    "Slackbot MCP Client with multiplayer"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops 4,999 likes",
+    "GLM-5.2 MoE model gains traction",
+    "DiffusionGemma-26B-A4B-it trending",
+    "NVIDIA LocateAnything-3B for grounding",
+    "MiniMax-M3 multimodal flagship",
+    "FastContext-1.0-4B-SFT from Microsoft"
+  ],
+  "ai-community": [
+    "MCP observability with Bifrost Edge",
+    "Turing's Mirror game sparks debate",
+    "Judgment bottleneck in AI workflows",
+    "Kitana replaces token prediction",
+    "Skepticism on LLM intelligence",
+    "Productionizing AI agents is messy"
+  ],
+  "ai-weekly": [
+    "OpenAI leak shows $34B spent, $21B losses",
+    "Anthropic opens Seoul office with NAVER, Nexon",
+    "White House escalates against Anthropic over export",
+    "Gemini CLI suffers silent success bugs crisis",
+    "Claude Code study: debugging time halved",
+    "AlphaFold co-creator Jumper leaves DeepMind for Anthropic"
+  ]
+}

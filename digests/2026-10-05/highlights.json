@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code hits 10 hot issues, no new release",
+    "OpenAI Codex: 2 alpha releases in 24h",
+    "GitHub Copilot CLI v1.0.92-4 released",
+    "Pi gains traction with community-driven updates",
+    "Qwen Code shows strong open-source momentum",
+    "Gemini CLI activity at peak levels"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues & PRs in 24h",
+    "Critical bugs in OpenClaw v2026.9.8",
+    "Fix for stuck UI publication merged",
+    "Memory management issues dominate",
+    "Session stability under heavy scrutiny",
+    "No new releases despite high activity"
+  ],
+  "ai-infra": [
+    "vLLM: 89 open issues, batch-invariant fixes",
+    "SGLang: CUDA coredumps trigger 124 issues",
+    "llama.cpp: 76 open issues, performance focus",
+    "Ollama: Strong local inference adoption",
+    "LiteLLM: Agent workflow integration grows",
+    "Unsloth: Optimized training for LLMs"
+  ],
+  "ai-trending": [
+    "Panniantong/Agent-Reach: 980 stars today",
+    "DietrichGebert/ponytail: AI memory breakthrough",
+    "antirez/ds4: Flash inference engine now 211 stars",
+    "calesthio/OpenMontage: First agentic video system",
+    "garrytan/gstack: CEO-agent setup tool",
+    "thedotmack/claude-mem: RAG tool surges"
+  ],
+  "ai-hn": [
+    "Gemini 4 Argon: multimodal leap or hype?",
+    "FLUX 3 Image: photorealism frontier",
+    "AI beats top Stratego player—finally",
+    "Homa rethinks TCP for AI clusters",
+    "Pi Pod: decentralized local AI gains ground",
+    "Graphene: privacy-focused agent platform"
+  ],
+  "ai-ph": [
+    "ZooWork leads PH with 313 votes",
+    "Cubicle: live office for AI agents",
+    "Notchware: macOS AI alerts go ambient",
+    "Crowny!: system-level AI notifications",
+    "Muse Gadgets: Meta’s open AI hardware kit",
+    "ZooWork: domain expert agent deployment"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B: 16.9K likes, 6.8M downloads",
+    "Prism-ml/Ternary-Bonsai: 2-bit quantization",
+    "Infatoshi/GLM-5.3-UNCENSORED: Apple Silicon ready",
+    "Qwen-Image-2.1: multimodal model surge",
+    "GGUF models hit 1.6M+ downloads",
+    "Qwen3.8-Flash-Next-GSQ: turbo-optimized"
+  ],
+  "ai-community": [
+    "TabPFN predicts hypoglycemia offline",
+    "Bengali scam detector on Gemma",
+    "Local LLM fails moral test in game",
+    "Self-hosted agents gain trust",
+    "Offline models for high-stakes use",
+    "Hallucinations and green tests exposed"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Six of ten AI CLI tools shipped releases in 24h",
+    "Gemini CLI hit by shell-substitution bypass",
+    "Qwen Code sanitizer leaked credentials",
+    "Claude Code hardened trust boundaries",
+    "Windows stability dominates AI CLI issue trackers",
+    "Desktop apps, MCP and ACP are top demands"
+  ],
+  "ai-agents": [
+    "OpenClaw: 42 issues closed, 109 PRs merged",
+    "OpenClaw sees 500 issues and 500 PRs updated",
+    "Realtime voice/Talk lifecycle bugs dominate",
+    "Silent subagent completion loss is a key concern",
+    "macOS Talk realtime relay added in PR #119321",
+    "OpenClaw P1 migration/startup blockers still pending"
+  ],
+  "ai-infra": [
+    "llama.cpp fast train: 10 builds, 2 breaking changes",
+    "Ollama makes MTP auto-speculation default",
+    "vLLM v0.26.0 in field with FlashMLA regression",
+    "SGLang closes DeepSeek-V4 bug cluster",
+    "SGLang opens two new high-severity issues",
+    "LiteLLM hits streaming-translation and DB bugs"
+  ],
+  "ai-trending": [
+    "Firecrawl pdf-inspector up 2,540 stars",
+    "reverse-skill security router up 2,297 stars",
+    "TencentDB Agent Memory up 1,111 stars",
+    "AirLLM up 1,711 stars for low-cost inference",
+    "DeepSeek-Reasonix terminal agent up 922 stars",
+    "Uber open-sources ADR agent observability"
+  ],
+  "ai-web": [
+    "Anthropic names Tino Cuéllar Chief Global Affairs Officer",
+    "Anthropic puts AI policy at C-suite level",
+    "OpenAI published three URLs on Aug 4",
+    "No model releases from OpenAI or Anthropic",
+    "OpenAI crawl is metadata-only; no text captured",
+    "OpenAI URLs hint at Apple commentary and econ research"
+  ],
+  "ai-hn": [
+    "Qwen3.8-Max tops HN with 1,098 points",
+    "Mistral launches Shieldstral 3B moderation model",
+    "OpenAI math post draws 909 comments on HN",
+    "Apple/OpenAI confidential-data story trends",
+    "OpenAI U.S. hiring settlement in HN feed",
+    "HN debates 'LLMs reward expertise' and benchmarks"
+  ],
+  "ai-ph": [
+    "AgentSky tops Product Hunt at 470 votes",
+    "Qwen3.8-Max appears as PH product",
+    "mpai enables multiplayer coding sessions",
+    "Hand Wave does sign-language translation",
+    "CoachAI analyzes fitness form with AI",
+    "claudemon scores 154 votes on PH"
+  ],
+  "ai-arxiv": [
+    "AURORA-LM: continuous-latent diffusion language model",
+    "Edge memory paper collapses RAG prefill cost",
+    "Coding agents tested in shared workspaces",
+    "Cheap telemetry catches real-time agent failures",
+    "Papers expose medical sycophancy and shortcut hacking",
+    "Datacenter policy generation gets automated"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Flash-0731: 2,302 likes, 433k downloads",
+    "DeepSeek-V4-Flash passes 2.7M downloads",
+    "Kimi-K3 is HF's most-liked at 10,012 likes",
+    "Unsloth is already quantizing Kimi-K3",
+    "MiniMax-H3 sparks image-to-video buzz",
+    "Baidu Unlimited-OCR hits 2.7M downloads"
+  ],
+  "ai-community": [
+    "Dev.to argues models should parse logs, not pass bars",
+    "Qwen3.8-Max debate: harness matters more than size",
+    "Anthropic sandbox-breach report stirs agent security",
+    "MITRE ATLAS adds agentic attack techniques",
+    "MCP threads tackle context-window and 7B limits",
+    "Lobste.rs highlights custom C/C++ inference engines"
+  ]
+}

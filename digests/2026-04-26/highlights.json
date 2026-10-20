@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code in crisis mode over billing bugs",
+    "OpenAI Codex ships rust-v0.126.0-alpha.2",
+    "Gemini CLI adds local Ollama routing",
+    "Cross-tool session portability emerges",
+    "MCP ecosystem security under strain",
+    "All tools face streaming stability crises"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues, 500 PRs in 24h",
+    "v2026.4.24 adds Google Meet plugin",
+    "86% issue closure rate despite regressions",
+    "DeepSeek V4 Flash and V4 Pro added",
+    "Windows runtime patches rushed post-release",
+    "Message routing layer shows architectural strain"
+  ],
+  "ai-trending": [
+    "free-claude-code surges +4,007 stars",
+    "mattpocock/skills hits +1,139 stars",
+    "Hugging Face ml-intern gains +1,240 stars",
+    "DeepEP MoE library keeps climbing",
+    "build-your-own-x resurgence +1,432 stars",
+    "Skills-as-code pattern emerges"
+  ],
+  "ai-hn": [
+    "Karpathy-style agent wiki tops charts",
+    "New Republic AI backlash gets 263 comments",
+    "GPT-5.5 Bio Bug Bounty launches",
+    "Civic-SLM fine-tunes Qwen for government",
+    "Black-hat LLM research gains traction",
+    "LLM cost optimization guides trend"
+  ],
+  "ai-ph": [
+    "Product Hunt launches its own AI discovery tool",
+    "BAND coordinates multi-agent workflows",
+    "DeepSeek-V4 offers 1M context window",
+    "Google Workspace Intelligence debuts",
+    "OpenAI Codex 3.0 hits Product Hunt",
+    "Invisible AI embeds into existing tools"
+  ],
+  "ai-hf": [
+    "Gemma-4-31B-it hits 5.77M downloads",
+    "DeepSeek-V4-Pro trends with 78K downloads",
+    "Qwen 3.6 most forked and quantized",
+    "Tencent Hy3-preview 3D world model drops",
+    "GLM-5.1 gains as Qwen alternative",
+    "Uncensoring and merging activity surges"
+  ],
+  "ai-community": [
+    "GPT-5.5 drops just 7 weeks after 5.4",
+    "$47K runaway AI agent bill surfaces",
+    "AI Generate button cut from $0.08 to $0.029",
+    "Open-source Claude Code alternative cuts spend",
+    "MCP/skill chaos taming tutorials trend",
+    "AI protocol wars debated on Lobste.rs"
+  ]
+}

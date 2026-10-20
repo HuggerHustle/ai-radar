@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Gemini CLI adds HarmonyOS support",
+    "Claude Code v2.1.214 fixes permission bypass",
+    "OpenAI Codex sees 48 PRs in 24h",
+    "Qwen Code adopts daemon-based architecture",
+    "Pi tool offers lightweight single-binary design",
+    "Windows stability is a systemic pain point"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.7.2-beta.2 released",
+    "500 PRs updated in last 24 hours",
+    "Remote coding sessions introduced",
+    "Critical migration bug reported",
+    "P0 and P1 regressions pile up",
+    "Codex integration causes provider issues"
+  ],
+  "ai-trending": [
+    "hallmark gains 1,485 stars today",
+    "OpenInterpreter rewritten in Rust",
+    "DeepTutor hits 531 stars today",
+    "turbovec vector index gains 280 stars",
+    "copilot-sdk launches on GitHub",
+    "Anti-AI-slop design tools surge"
+  ],
+  "ai-web": [
+    "OpenAI publishes 'A Scorecard For The AI Age'",
+    "Anthropic publishes zero new articles",
+    "OpenAI shifts to accountability narrative",
+    "Claude ecosystem has a quiet day",
+    "No new releases from Anthropic",
+    "Strategic pause in outward communication"
+  ],
+  "ai-hn": [
+    "Apple sued over OpenAI employee campaign",
+    "Inkling open-weights model hits 1206 points",
+    "Government open-source AI investment debated",
+    "LM Studio Bionic agent gains 319 points",
+    "Kaiser nurses strike over AI surveillance",
+    "Hyundai workers strike over humanoid robots"
+  ],
+  "ai-ph": [
+    "Zro gains 488 votes for inference privacy",
+    "Albato AI tops no-code AI workflow tools",
+    "Codex Micro adds tactile controls for agents",
+    "River automates B2B sales as AI agent",
+    "Vercel Day dominates today's launches",
+    "Verse builds AI employees from one prompt"
+  ],
+  "ai-arxiv": [
+    "Test-time adaptation and context scaling dominate",
+    "Safety-evaluation gap for LLM agents addressed",
+    "AutoSynthesis automates meta-analysis of research",
+    "Grokipedia raises scientific integrity questions",
+    "Policy distillation circumvents reward model limits",
+    "In-Place Tokenizer Expansion cuts training costs"
+  ],
+  "ai-hf": [
+    "GLM-5.2 MoE model leads with 4,071 likes",
+    "Bonsai-27B-gguf exceeds 1 million downloads",
+    "Ternary quantization gains real traction",
+    "HauhauCS/Qwen3.6-35B uncensored model surges",
+    "Baidu Unlimited-OCR drives enterprise demand",
+    "Cactus needle model focuses on function-calling"
+  ],
+  "ai-community": [
+    "Kimi K3 rivals GPT-5.6 at half price",
+    "Gemini Nano now ships inside Chrome",
+    "AI agents delete files and pass blank canvases",
+    "Bruce Schneier critiques AI data center wealth",
+    "On-device AI gains traction with developers",
+    "Skill-based guidance locks taste before coding"
+  ]
+}

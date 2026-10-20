@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code adds recursive sub-agents",
+    "OpenAI Codex expands context window tools",
+    "Gemini CLI struggles with agent reliability",
+    "GitHub Copilot CLI sees zero releases",
+    "Qwen Code iterates on Windows parity",
+    "Common pain: terminal rendering quality"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.6.6-beta.1 tightens security",
+    "401 open PRs signal review bottleneck",
+    "Hermes Agent framework surges in popularity",
+    "NanoBot iterates on lightweight agents",
+    "PicoClaw targets edge device deployment",
+    "ZeroClaw launches as experimental project"
+  ],
+  "ai-trending": [
+    "Agent skills paradigm shift dominates trending",
+    "graphify hits 64K stars for KG RAG",
+    "deer-flow reaches 70K enterprise grade",
+    "hermes-agent tops at 189K stars",
+    "apple/container skyrockets 1,611 stars",
+    "vllm remains de facto LLM serving engine"
+  ],
+  "ai-web": [
+    "Anthropic: agents need deterministic data plumbing",
+    "OpenAI signals move to Oracle Cloud",
+    "Bio agent accuracy jumps to near 100%",
+    "Frontier models fail at 65% retrieval",
+    "New paradigm: agent-native databases",
+    "Research essay paves way for biology"
+  ],
+  "ai-hn": [
+    "Anthropic data-sharing on Bedrock sparks fury",
+    "Claude Desktop virtualization overhead criticized",
+    "Fable 5 launches with immediate backlash",
+    "Guardrails prevent legitimate red-teaming",
+    "Model naming scheme satirized by community",
+    "Distrust shifts sentiment from excitement"
+  ],
+  "ai-ph": [
+    "VC Boom launches AI venture matching",
+    "ZeroGPU tackles compute efficiency",
+    "agmsg enables agent-to-agent messaging",
+    "Krisp unveils real-time voice translation",
+    "Kimi Work redefines knowledge work desktop",
+    "AgentOS emerges for multi-agent systems"
+  ],
+  "ai-arxiv": [
+    "Test-time steering surpasses static fine-tuning",
+    "Phase diagram optimizes multimodal learning",
+    "CoT improvements hide alignment degradation",
+    "KV-cache innovations boost inference efficiency",
+    "Shibboleth effect reveals cross-lingual bias",
+    "Agent evaluation targets biosecurity risks"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops 4,758 likes",
+    "Gemma-4 any-to-any models go trending",
+    "NVIDIA Nemotron Ultra 550B released",
+    "LiquidAI LFM2.5 8B excels for size",
+    "GGUF quantized variants see explosive downloads",
+    "Cohere North-Mini-Code specializes in coding"
+  ],
+  "ai-community": [
+    "Fable 5 and Mythos 5 share identical weights",
+    "Devs inspect Claude Code data sent home",
+    "AI agents strain secret managers crisis",
+    "Context engineering beats prompt engineering",
+    "Sycophancy bias reinforces bad decisions",
+    "RAG testing series offers practical guidance"
+  ]
+}

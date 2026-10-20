@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.150 fixes 200K context regression",
+    "OpenAI Codex rust-v0.134.0-alpha.3 overhauls TUI state sync",
+    "Gemini CLI focuses on agent reliability and PTY fixes",
+    "Nine AI CLI tools now compete in mature multi-polar market",
+    "Infrastructure consolidation replaces feature growth sector-wide",
+    "Cross-tool orchestration experiments signal multi-agent future"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 500 issues and 500 PRs in 24 hours",
+    "OpenClaw v2026.5.22-beta.1 focuses on documentation",
+    "Only 3.2% issue closure rate reveals triage bottleneck",
+    "62% PR merge rate shows healthier code review flow",
+    "13 active projects in OpenClaw ecosystem tracked",
+    "Platform expansion and security hardening top priorities"
+  ],
+  "ai-trending": [
+    "andrej-karpathy-skills gains 3,507 stars with single CLAUDE.md",
+    "Understand-Anything adds 2,299 stars for code knowledge graphs",
+    "codegraph gains 2,456 stars for pre-indexed agent context",
+    "anthropics/claude-plugins-official hits 2,193 stars",
+    "NVIDIA LongLive 2.0 advances long video generation",
+    "Three coding agent tools each gain 2,000+ stars today"
+  ],
+  "ai-hn": [
+    "Anthropic blames dystopian sci-fi for AI 'evil' behavior",
+    "Claude Code ecosystem dominates HN discussion today",
+    "OpenAI Codex rate limits and macOS malware flags emerge",
+    "Loneliness research threads through AI community discourse",
+    "Immigration policy impacts on AI talent debated",
+    "Pragmatic critical sentiment replaces pure hype"
+  ],
+  "ai-ph": [
+    "TestSprite 3.0 leads with 427 votes for parallel AI testing",
+    "Cleo AI PM gets 354 votes targeting management automation",
+    "Seven of 14 launches carry Alpha early-stage tag",
+    "JAMtime.ai brings natural language to guitar pedals",
+    "Nugget AI joins Cleo in product management automation",
+    "Our Stories applies AI to bilingual parenting workflows"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro dominates with 4.5M downloads and 4,190 likes",
+    "Gemma-4-31B-it passes 10M downloads for multimodal enterprise use",
+    "Sulphur-2-base text-to-video crosses 1.2M production downloads",
+    "ByteDance Lance enters any-to-any multimodal race",
+    "Tencent Hy-MT2 series expands translation model offerings",
+    "Qwen 3.5/3.6 ecosystem grows with Unsloth GGUF variants"
+  ],
+  "ai-community": [
+    "Gemma 4 dominates Dev.to through Google-sponsored challenges",
+    "MCP security surface emerges as critical infrastructure concern",
+    "Claude Code and Zed actively displace VS Code workflows",
+    "Lobste.rs maintains explicit 'AI Resist List'",
+    "Serverless LLM cost optimization guides trend on Dev.to",
+    "Vibe coding enthusiasm meets sober community pushback"
+  ]
+}

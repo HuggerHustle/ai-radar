@@ -1,0 +1,82 @@
+{
+  "ai-cli": [
+    "Windows stability plagues Claude Code, Codex, and Copilot CLI",
+    "MCP is now the universal integration standard",
+    "Agent trust issues: false success signals and hangs",
+    "Context durability: auto-compaction and session-resume bugs",
+    "Billing, compliance, and model entitlement top enterprise concerns",
+    "Pi, OpenCode, CodeWhale focus on TUI polish and local models"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+    "No new OpenClaw release; all activity on current codebase",
+    "Subagent orchestration reliability is the dominant theme",
+    "Users report silent message and completion loss",
+    "Session-lane and auth timeout regressions appear after fixes",
+    "CI PR #122852 protects pnpm dependency snapshots"
+  ],
+  "ai-infra": [
+    "llama.cpp ships three releases: b10369/b10373/b10375",
+    "vLLM and SGLang absorb DeepSeek-V4/Kimi-K3 support first",
+    "NVFP4/MXFP8 quantization and speculative decoding lead roadmap",
+    "Blackwell NaNs and multi-node hangs require pinning versions",
+    "LiteLLM focuses on spend durability and cost-routing accuracy",
+    "Local runtimes ship more stable fixes than serving engines"
+  ],
+  "ai-trending": [
+    "diagram-design tops trending with +2,855 stars",
+    "agency-agents ships a ready-made AI team (+1,873)",
+    "orca runs fleets of parallel agents (+1,235)",
+    "semantica builds graph-native context infrastructure (+845)",
+    "needle shrinks a foundation model to 14MB",
+    "ollama tops 178k stars as default local LLM runtime"
+  ],
+  "ai-web": [
+    "Anthropic and OpenAI both published on AI and work",
+    "Anthropic coauthors retraining meta-analysis with David Roodman",
+    "Retraining adds 2-3 percentage points to employment",
+    "Trainees gain ~$1,000/year vs $13,000 program cost",
+    "Government recovers over half of retraining program spending",
+    "OpenAI posts 'How Enterprises Put AI To Work' index entry"
+  ],
+  "ai-hn": [
+    "DeepSeek V4 Pro 0813 appears on OpenRouter",
+    "Meta's Muse Glimmer targets local agent workflows",
+    "Muse Glimmer thread hits 1,198 points and 637 comments",
+    "Research shows stolen reasoning traces from proprietary APIs",
+    "Grok 4.6 release stirs rapid-model-release debate",
+    "Discussions question AI's effect on software jobs"
+  ],
+  "ai-ph": [
+    "Tines 3B leads Product Hunt with 412 votes",
+    "BetterClaw draws 83 comments for 60-second agent deployment",
+    "Spotify's Xirp launches as agentic development environment",
+    "Bullet claims 30-60% speed gains over Claude Code and Codex",
+    "Gotcha is an AI copilot for Android that acts on talk",
+    "VoiceGecko and agent-manager offer open-source/local AI options"
+  ],
+  "ai-arxiv": [
+    "Study exposes cross-lingual safety gaps in low-resource languages",
+    "Emergent misalignment traced to persona features in pretraining",
+    "Attention-path fragility signals uncertainty in LLMs",
+    "Skill compression emerges as core agent capability",
+    "Sparse autoencoder set-level instability highlighted",
+    "Surgical robotics benchmarks gain verifiability and data efficiency"
+  ],
+  "ai-hf": [
+    "MiniMax-H3 dominates with video model, LoRAs, and quantizations",
+    "DeepSeek-V4-Flash-0731 tops 1.04M downloads",
+    "Kimi-K3 has highest likes at 10,583",
+    "Qwen3.8-2.4T-A95B is a 2.4T-parameter MoE with 95B active",
+    "NVIDIA's 30B-A3B Nemotron lineup targets sparse inference",
+    "Meta's Muse-Glimmer-30B debuts as official multimodal backbone"
+  ],
+  "ai-community": [
+    "Summer Bug Smash highlights agent-caused damage stories",
+    "Devin's $40B valuation questioned against real agent budgets",
+    "Practitioner plans to test OpenAI verified defenders access",
+    "Dev.to shares local RAG and DeepSeek deployment guides",
+    "Lobste.rs warns AI data hunger destroys physical books",
+    "Network science explores social media rabbit holes"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "OpenAI Codex shipped 3 alpha releases today",
+    "Claude Code activity stagnant, zero releases",
+    "Gemini CLI pushed 2 emergency regression patches",
+    "OpenCode matches Codex with 50 PRs, 3 patches",
+    "Universal stress on billing transparency across tools",
+    "Windows platform parity becoming key differentiator"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "OpenClaw shipped 3 releases focused on Google Meet voice",
+    "326:174 open-to-closed issue ratio signals strain",
+    "Twilio dial-in now speaks through Gemini voice bridge",
+    "Quality control challenges at peak development pace",
+    "13 projects tracked in broader OpenClaw ecosystem"
+  ],
+  "ai-trending": [
+    "andrej-karpathy-skills gained +2,409 stars today",
+    "context-mode achieves 98% context window reduction",
+    "DeepSeek-TUI hit +2,434 stars, local-first demand",
+    "Multi-agent orchestration captures mainstream imagination",
+    "cocoindex addresses persistent agent state management",
+    "browserbase bridges web-agent interoperability gap"
+  ],
+  "ai-web": [
+    "Anthropic launched 10 financial services agent templates",
+    "Microsoft 365 deep integration: Excel, PPT, Word, Outlook",
+    "MCP apps embed third-party tools directly inside Claude",
+    "OpenAI metadata references GPT-5.5 Instant model",
+    "OpenAI adds advertising purchase mechanisms for ChatGPT",
+    "Anthropic's most aggressive vertical industry play yet"
+  ],
+  "ai-hn": [
+    "SubQ claims 12M-token context with sub-quadratic architecture",
+    "Anthropic financial agents dominate HN discussion",
+    "Richard Dawkins sparks Claude consciousness debates",
+    "GLM-5V-Turbo pushes native multimodal agent design",
+    "Meta copyright lawsuit draws community attention",
+    "Practical implementation favored over model hype"
+  ],
+  "ai-ph": [
+    "Mindra leads with 343 votes for delegatable agent teams",
+    "Flowly pushes desktop-native AI assistant trend",
+    "OpenAI's Codex Pets humanizes developer workflows",
+    "Regulus shows geographically specialized regulatory AI",
+    "Two pet/entertainment AI products in top 11",
+    "AI-powered delight becoming mainstream differentiator"
+  ],
+  "ai-arxiv": [
+    "SpecKV upgrades speculative decoding with adaptive gamma",
+    "Peeling analysis for low-bit transformer training visibility",
+    "Misalignment contagion identified in multi-agent systems",
+    "Edge-to-core frameworks for sensor-driven AI deployment",
+    "ORPilot bridges research prototypes to production optimization",
+    "Proactive collaborative tutoring via multi-agent RL"
+  ],
+  "ai-hf": [
+    "DeepSeek-V4-Pro tops with 631K downloads, 3,576 likes",
+    "Gemma-4-31B-it hits 8.2M mainstream downloads",
+    "Qwen 35B MoE nears 2.9M downloads",
+    "Unsloth GGUF releases capture edge deployment demand",
+    "DeepSeek-V4-Flash balances speed at 560K downloads",
+    "IBM Granite and NVIDIA Nemotron maintain enterprise presence"
+  ],
+  "ai-community": [
+    "Am I a Developer or Just a Prompt Engineer? goes viral",
+    "Monetize AI Agents with LangChain and Kong guide",
+    "Browser agents and MCP infrastructure emerging frontiers",
+    "Vibecoding movement splits productivity vs quality debate",
+    "AWS warns on GenAI revolution casualties",
+    "Identity crisis reflects widespread coding skill anxiety"
+  ]
+}

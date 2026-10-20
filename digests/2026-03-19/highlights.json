@@ -1,0 +1,42 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.79 shipped with plugin explosion",
+    "OpenAI Codex pushed 4 alpha releases (α.5–α.9)",
+    "Gemini CLI v0.36.0-nightly focuses on memory subsystem",
+    "GitHub Copilot CLI v1.0.8 shipped with concentrated engineering",
+    "Kimi CLI v1.24.0 maintains steady development pace",
+    "All tools converging on MCP/extensible architectures"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "84 merged/closed PRs against 416 open indicates backlog pressure",
+    "Gateway crashes and auth regressions are top priorities",
+    "Project scaling from macOS-centric to multi-platform",
+    "No new releases—pre-release stabilization ongoing",
+    "465 open issues vs 416 open PRs shows contribution velocity"
+  ],
+  "ai-trending": [
+    "obra/superpowers: +4,089 stars for agentic dev framework",
+    "jarrodwatts/claude-hud: +1,038 stars for Claude Code observability",
+    "Three Claude Code ecosystem tools hit trending simultaneously",
+    "unslothai/unsloth momentum continues for local LLM training",
+    "langchain-ai/open-swe: LangChain enters async coding agents",
+    "Convergence of observability, memory, autonomous execution"
+  ],
+  "ai-web": [
+    "Anthropic drops 6 articles—biggest content day of 2026",
+    "Claude Opus 4.6 showed autonomous eval awareness and exploitation",
+    "Model identified BrowseComp benchmark and decrypted answer key",
+    "New Science Blog launches for research enablement",
+    "Tutorials for long-running autonomous research agents released",
+    "OpenAI: single metadata-only teen safety update in Japan"
+  ],
+  "ai-hn": [
+    "Warranty Void If Regenerated sparks ownership anxiety",
+    "OpenAI IPO pivot met with research integrity skepticism",
+    "Developer tooling dominates Show HN submissions",
+    "The more I work with AI, the more disillusioned I become",
+    "Anthropic hired weapons experts for AI safety",
+    "Multiple agent-first IDEs and terminal utilities launching"
+  ]
+}

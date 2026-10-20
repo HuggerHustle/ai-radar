@@ -1,0 +1,315 @@
+/**
+ * Report saver functions — LLM call + file save + optional GitHub issue.
+ * Extracted from index.ts for separation of concerns.
+ */
+
+import {
+  WEB_REPORT,
+  TRENDING_REPORT,
+  HN_REPORT,
+  PH_REPORT,
+  ARXIV_REPORT,
+  HF_REPORT,
+  COMMUNITY_REPORT,
+  ISSUE_LABELS,
+} from "./i18n.ts";
+import {
+  buildWebReportPrompt,
+  buildHnPrompt,
+  buildPhPrompt,
+  buildArxivPrompt,
+  buildHfPrompt,
+  buildCommunityPrompt,
+} from "./prompts-data.ts";
+import { callLlm, saveFile, autoGenFooter, LLM_TOKENS_WEB, LLM_TOKENS_LISTING } from "./report.ts";
+import { createGitHubIssue } from "./github.ts";
+import { saveWebState, type WebFetchResult, type WebState } from "./web.ts";
+import type { HnData } from "./hn.ts";
+import type { PhData } from "./ph.ts";
+import type { TrendingData } from "./trending.ts";
+import type { ArxivData } from "./arxiv.ts";
+import type { HfData } from "./hf.ts";
+import type { DevtoData } from "./devto.ts";
+import type { LobstersData } from "./lobsters.ts";
+
+// ---------------------------------------------------------------------------
+// Web report
+// ---------------------------------------------------------------------------
+
+export async function saveWebReport(
+  webResults: WebFetchResult[],
+  webState: WebState,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  const hasNewContent = webResults.some((r) => r.newItems.length > 0);
+
+  if (hasNewContent) {
+    console.log("  [web] Calling LLM for web content report...");
+    try {
+      const summary = await callLlm(buildWebReportPrompt(webResults, dateStr), LLM_TOKENS_WEB);
+      const isFirstRun = webResults.some((r) => r.isFirstRun);
+      const totalNew = webResults.reduce((sum, r) => sum + r.newItems.length, 0);
+
+      const anthropicNew = webResults.find((r) => r.site === "anthropic")?.newItems.length ?? 0;
+      const anthropicTotal = webResults.find((r) => r.site === "anthropic")?.totalDiscovered ?? 0;
+      const openaiNew = webResults.find((r) => r.site === "openai")?.newItems.length ?? 0;
+      const openaiTotal = webResults.find((r) => r.site === "openai")?.totalDiscovered ?? 0;
+
+      const mode = isFirstRun ? WEB_REPORT.firstCrawl : WEB_REPORT.todayUpdate;
+      const webTitle = `# ${WEB_REPORT.title} ${dateStr}\n\n`;
+      const webMeta = `> ${mode} | ${WEB_REPORT.newContent(totalNew)} | ${WEB_REPORT.generated(utcStr)}\n\n`;
+      const webSources =
+        `${WEB_REPORT.sourcesHeader}\n` +
+        `- Anthropic: [anthropic.com](https://www.anthropic.com) — ${anthropicNew} new articles (sitemap total: ${anthropicTotal})\n` +
+        `- OpenAI: [openai.com](https://openai.com) — ${openaiNew} new articles (sitemap total: ${openaiTotal})\n\n`;
+
+      const webContent = webTitle + webMeta + webSources + `---\n\n` + summary + autoGenFooter();
+
+      console.log(`  Saved ${saveFile(webContent, dateStr, "ai-web.md")}`);
+
+      if (digestRepo) {
+        const issueTitle = WEB_REPORT.issueTitle(dateStr, isFirstRun);
+        const webUrl = await createGitHubIssue(issueTitle, webContent, ISSUE_LABELS.web);
+        console.log(`  Created web issue: ${webUrl}`);
+      }
+    } catch (err) {
+      console.error(`  [web] Report generation failed: ${err}`);
+    }
+  } else {
+    console.log("  [web] No new content detected, skipping report.");
+  }
+
+  saveWebState(webState);
+  console.log("  [web] State saved.");
+}
+
+// ---------------------------------------------------------------------------
+// Trending report
+// ---------------------------------------------------------------------------
+
+export async function saveTrendingReport(
+  trendingData: TrendingData,
+  trendingSummary: string,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  const hasData = trendingData.trendingRepos.length > 0 || trendingData.searchRepos.length > 0;
+  if (!hasData) {
+    console.log("  [trending] No data available, skipping report.");
+    return;
+  }
+
+  const header =
+    `# ${TRENDING_REPORT.title} ${dateStr}\n\n` +
+    `> ${TRENDING_REPORT.sources} | Generated: ${utcStr} UTC\n\n---\n\n`;
+
+  const trendingContent = header + trendingSummary + autoGenFooter();
+
+  console.log(`  Saved ${saveFile(trendingContent, dateStr, "ai-trending.md")}`);
+
+  if (digestRepo) {
+    const trendingTitle = TRENDING_REPORT.issueTitle(dateStr);
+    const trendingUrl = await createGitHubIssue(trendingTitle, trendingContent, ISSUE_LABELS.trending);
+    console.log(`  Created trending issue: ${trendingUrl}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Hacker News report
+// ---------------------------------------------------------------------------
+
+export async function saveHnReport(
+  hnData: HnData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  if (!hnData.fetchSuccess) {
+    console.log("  [hn] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [hn] Calling LLM for HN report...");
+  try {
+    const summary = await callLlm(buildHnPrompt(hnData, dateStr), LLM_TOKENS_LISTING);
+
+    const header =
+      `# ${HN_REPORT.title} ${dateStr}\n\n` +
+      `> Source: [Hacker News](https://news.ycombinator.com/) | ` +
+      `${hnData.stories.length} stories | Generated: ${utcStr} UTC\n\n` +
+      `---\n\n`;
+
+    const hnContent = header + summary + autoGenFooter();
+
+    console.log(`  Saved ${saveFile(hnContent, dateStr, "ai-hn.md")}`);
+
+    if (digestRepo) {
+      const hnUrl = await createGitHubIssue(HN_REPORT.issueTitle(dateStr), hnContent, ISSUE_LABELS.hn);
+      console.log(`  Created HN issue: ${hnUrl}`);
+    }
+  } catch (err) {
+    console.error(`  [hn] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Product Hunt
+// ---------------------------------------------------------------------------
+
+export async function savePhReport(
+  phData: PhData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  if (!phData.fetchSuccess) {
+    console.log("  [ph] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [ph] Calling LLM for Product Hunt report...");
+  try {
+    const summary = await callLlm(buildPhPrompt(phData, dateStr), LLM_TOKENS_LISTING);
+
+    const header =
+      `# ${PH_REPORT.title} ${dateStr}\n\n` +
+      `> Source: [Product Hunt](https://www.producthunt.com/) | ` +
+      `${phData.products.length} products | Generated: ${utcStr} UTC\n\n` +
+      `---\n\n`;
+
+    const phContent = header + summary + autoGenFooter();
+
+    console.log(`  Saved ${saveFile(phContent, dateStr, "ai-ph.md")}`);
+
+    if (digestRepo) {
+      const phUrl = await createGitHubIssue(PH_REPORT.issueTitle(dateStr), phContent, ISSUE_LABELS.ph);
+      console.log(`  Created PH issue: ${phUrl}`);
+    }
+  } catch (err) {
+    console.error(`  [ph] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// ArXiv report
+// ---------------------------------------------------------------------------
+
+export async function saveArxivReport(
+  arxivData: ArxivData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  if (!arxivData.fetchSuccess) {
+    console.log("  [arxiv] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [arxiv] Calling LLM for ArXiv report...");
+  try {
+    const summary = await callLlm(buildArxivPrompt(arxivData, dateStr), LLM_TOKENS_LISTING);
+
+    const header =
+      `# ${ARXIV_REPORT.title} ${dateStr}\n\n` +
+      `> Source: [ArXiv](https://arxiv.org/) (cs.AI, cs.CL, cs.LG) | ` +
+      `${arxivData.papers.length} papers | Generated: ${utcStr} UTC\n\n` +
+      `---\n\n`;
+
+    const content = header + summary + autoGenFooter();
+
+    console.log(`  Saved ${saveFile(content, dateStr, "ai-arxiv.md")}`);
+
+    if (digestRepo) {
+      const url = await createGitHubIssue(ARXIV_REPORT.issueTitle(dateStr), content, ISSUE_LABELS.arxiv);
+      console.log(`  Created ArXiv issue: ${url}`);
+    }
+  } catch (err) {
+    console.error(`  [arxiv] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Hugging Face report — weekly, see HF_REPORT_WEEKDAY in index.ts
+// ---------------------------------------------------------------------------
+
+export async function saveHfReport(
+  hfData: HfData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  if (!hfData.fetchSuccess) {
+    console.log("  [hf] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [hf] Calling LLM for Hugging Face report...");
+  try {
+    const summary = await callLlm(buildHfPrompt(hfData, dateStr), LLM_TOKENS_LISTING);
+
+    const header =
+      `# ${HF_REPORT.title} ${dateStr}\n\n` +
+      `> Source: [Hugging Face Hub](https://huggingface.co/) | ` +
+      `${hfData.models.length} models | Generated: ${utcStr} UTC\n\n` +
+      `---\n\n`;
+
+    const content = header + summary + autoGenFooter();
+
+    console.log(`  Saved ${saveFile(content, dateStr, "ai-hf.md")}`);
+
+    if (digestRepo) {
+      const url = await createGitHubIssue(HF_REPORT.issueTitle(dateStr), content, ISSUE_LABELS.hf);
+      console.log(`  Created HF issue: ${url}`);
+    }
+  } catch (err) {
+    console.error(`  [hf] Report generation failed: ${err}`);
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Community report (Dev.to + Lobste.rs)
+// ---------------------------------------------------------------------------
+
+export async function saveCommunityReport(
+  devtoData: DevtoData,
+  lobstersData: LobstersData,
+  utcStr: string,
+  dateStr: string,
+  digestRepo: string,
+): Promise<void> {
+  const hasData = devtoData.fetchSuccess || lobstersData.fetchSuccess;
+  if (!hasData) {
+    console.log("  [community] No data available, skipping report.");
+    return;
+  }
+
+  console.log("  [community] Calling LLM for community report...");
+  try {
+    const summary = await callLlm(buildCommunityPrompt(devtoData, lobstersData, dateStr), LLM_TOKENS_LISTING);
+    const devtoCount = devtoData.articles.length;
+    const lobstersCount = lobstersData.stories.length;
+
+    const header =
+      `# ${COMMUNITY_REPORT.title} ${dateStr}\n\n` +
+      `> Sources: [Dev.to](https://dev.to/) (${devtoCount} articles) + [Lobste.rs](https://lobste.rs/) (${lobstersCount} stories) | Generated: ${utcStr} UTC\n\n` +
+      `---\n\n`;
+
+    const content = header + summary + autoGenFooter();
+
+    console.log(`  Saved ${saveFile(content, dateStr, "ai-community.md")}`);
+
+    if (digestRepo) {
+      const url = await createGitHubIssue(
+        COMMUNITY_REPORT.issueTitle(dateStr),
+        content,
+        ISSUE_LABELS.community,
+      );
+      console.log(`  Created community issue: ${url}`);
+    }
+  } catch (err) {
+    console.error(`  [community] Report generation failed: ${err}`);
+  }
+}
