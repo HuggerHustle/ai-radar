@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Extensibility race: plugins and hooks across all 7 tools",
+    "Subagent false-success bugs hit nearly every CLI tracker",
+    "MCP OAuth credential lifecycle a top enterprise friction",
+    "Release-cadence fatigue drives demand for stable channels",
+    "Claude Code Mods, Gemini skills, OpenCode plugin API land",
+    "Community pushes back on regressions from rapid shipping"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in one day",
+    "P0 crash loops: memory leaks and SQLite WAL deadlocks",
+    "Windows restart and systemd reliability remain broken",
+    "Maintainer test-cleanup campaign batches d336–d346 merge",
+    "Session-state wedging bug open since June (#91588)",
+    "Anthropic/Claude permission handling fixes in flight"
+  ],
+  "ai-infra": [
+    "vLLM: SM8x DeepSeek-V4-Flash support request tops 112 comments",
+    "GLM-5.3-Flash illegal memory access on 4x B200 still open",
+    "HF3FS metadata server page-pool leak hits weight saving",
+    "Rust frontend parity roadmap accumulates work in vLLM",
+    "vLLM sees 107 issues and 500 PRs updated in 24h",
+    "No new releases across infra projects today"
+  ],
+  "ai-trending": [
+    "opencode surges +1,256 stars as Claude Code alternative",
+    "headroom hits 76,740 stars on 20-95% token compression",
+    "Agent 'skills' wave: ai-job-search, orca, ponytail trend",
+    "Anthropic's knowledge-work-plugins lands on trending board",
+    "graphify pushes vectorless knowledge graphs",
+    "Kronos financial foundation model signals domain models"
+  ],
+  "ai-web": [
+    "Anthropic drops 476 articles in single crawl update",
+    "Claude used to shrink code attack surfaces",
+    "Protein binders designed against scorpion neurotoxins",
+    "Public Benefit Fund ties share allocation to growth",
+    "METR independent evaluator access expanded",
+    "OpenAI metadata hints at Orchestra Bio acquisition"
+  ],
+  "ai-hn": [
+    "Anthropic's $80B H1 net loss sparks capex debate",
+    "DeepSeek DeepInfer tops feed: 2094 score, 815 comments",
+    "DHS bans DeepSeek across U.S. federal agencies",
+    "Ask HN on shipping AI code you don't understand: 689 comments",
+    "Publishing fake stats to get cited by LLMs hits 313 points",
+    "Mistral ships Voxtral 3 and Timestral time-series models"
+  ],
+  "ai-ph": [
+    "Beam.win tops Product Hunt: control Mac agent windows remotely",
+    "walkai-talkai turns coding agents into walkie-talkie chat",
+    "buddylist revives retro buddy-list UI for agent devs",
+    "Ambient support wave: Kai Resolve, Tori, Lookout for Slack",
+    "Open source strong: Beam, Framefields, Lazy AWS ship",
+    "Agent orchestration and human-agent interfaces dominate"
+  ],
+  "ai-arxiv": [
+    "OpenVLHarness brings multimodal memory to agents",
+    "SOMA adds metacognitive monitoring of reasoning chains",
+    "TokenGate and LatComm target long-context cost blowup",
+    "Halcyon questions whether text pretraining is even needed",
+    "Safety Mid-Training makes safety a foundational capability",
+    "KEEP-Bench and ProteinGeoBench expose hidden eval gaps"
+  ],
+  "ai-community": [
+    "Copilot retires six models including GPT-5.5 and Grok 4.5",
+    "Codex CLI silently flips default to GPT-6.1 Sol",
+    "Dev.to: 'Coding Stopped Being Allowed to Be Fun' hits 33 comments",
+    "Qwen3.8-Flash-Next benchmarked against Claude Opus 5.5",
+    "Backdoors found hiding inside abliterated models",
+    "Agent observability matures via error-taxonomy postmortems"
+  ]
+}
