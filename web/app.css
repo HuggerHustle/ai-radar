@@ -1,0 +1,40 @@
+/* Source for /app.css. Rebuild with `pnpm web:css`; commit both files. */
+@import "tailwindcss" source(none);
+@plugin "@tailwindcss/typography";
+@import "./theme.css";
+
+@source "../index.html";
+
+@custom-variant dark (&:is(.dark *));
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50 motion-reduce:animate-none! motion-reduce:transition-none!;
+  }
+  :focus-visible {
+    @apply outline-3 outline-offset-2 outline-ring;
+  }
+  ::selection {
+    @apply bg-brand text-brand-foreground;
+  }
+}
+
+/* Point the typography plugin at the design tokens so reports follow light/dark. */
+@utility prose-tokens {
+  --tw-prose-body: var(--foreground);
+  --tw-prose-headings: var(--foreground);
+  --tw-prose-lead: var(--muted-foreground);
+  --tw-prose-links: var(--foreground);
+  --tw-prose-bold: var(--foreground);
+  --tw-prose-counters: var(--muted-foreground);
+  --tw-prose-bullets: var(--muted-foreground);
+  --tw-prose-hr: var(--border);
+  --tw-prose-quotes: var(--muted-foreground);
+  --tw-prose-quote-borders: var(--border);
+  --tw-prose-captions: var(--muted-foreground);
+  --tw-prose-code: var(--foreground);
+  --tw-prose-pre-code: var(--foreground);
+  --tw-prose-pre-bg: var(--muted);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+}
