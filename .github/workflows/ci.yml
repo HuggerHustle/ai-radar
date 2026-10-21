@@ -25,6 +25,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Web CSS is up to date
+        run: pnpm web:css && git diff --exit-code app.css
+
       - name: Lint
         run: pnpm lint
 

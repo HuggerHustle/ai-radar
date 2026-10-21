@@ -21,7 +21,7 @@ A GitHub Actions workflow that runs every day at 21:03 UTC (06:03 KST). It aggre
 
 **[https://huggerhustle.github.io/ai-radar](https://huggerhustle.github.io/ai-radar)**
 
-Browse all historical digests in a clean, dark-themed interface — no login required. Reports are rendered from the Markdown files in this repo via GitHub Pages.
+Browse all historical digests in a clean interface that follows your system light/dark setting — no login required. Reports are rendered from the Markdown files in this repo via GitHub Pages.
 
 ![Web UI](assets/web.png)
 
