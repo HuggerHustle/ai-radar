@@ -7,7 +7,7 @@
   <!-- Set the theme before first paint so dark-mode users don't see a light flash. -->
   <script>
     document.documentElement.classList.toggle('dark',
-      (localStorage.getItem('ar-theme') ?? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark');
+      (localStorage.getItem('ar-color-mode') ?? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')) === 'dark');
   </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500&family=Instrument+Sans:wght@400;500&display=swap" rel="stylesheet">
@@ -115,7 +115,7 @@ const THEMES = {
   light:  { icon: '○', label: 'Light',  next: 'dark' },
   dark:   { icon: '●', label: 'Dark',   next: 'system' },
 };
-let theme = THEMES[localStorage.getItem('ar-theme')] ? localStorage.getItem('ar-theme') : 'system';
+let theme = THEMES[localStorage.getItem('ar-color-mode')] ? localStorage.getItem('ar-color-mode') : 'system';
 
 const themeIcon = themeBtn.querySelector('.hdr-icon');
 const themeLabel = themeBtn.querySelector('.hdr-label');
@@ -126,8 +126,9 @@ function applyTheme(t) {
   themeIcon.textContent = THEMES[t].icon;
   themeLabel.textContent = THEMES[t].label;
   // No stored value means "follow the OS" — the head script reads it the same way.
-  if (t === 'system') localStorage.removeItem('ar-theme');
-  else localStorage.setItem('ar-theme', t);
+  // New key on purpose: the old page auto-saved 'dark' under 'ar-theme' for every visitor.
+  if (t === 'system') localStorage.removeItem('ar-color-mode');
+  else localStorage.setItem('ar-color-mode', t);
 }
 applyTheme(theme);
 themeBtn.onclick = () => applyTheme(THEMES[theme].next);
