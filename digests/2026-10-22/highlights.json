@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "All 7 AI CLI tools shipped releases or PRs in 24h",
+    "Windows and enterprise auth are recurring weak points",
+    "Claude Code logged only 1 notable PR amid hot bugs",
+    "Architectural split: vendor agents vs portable agents",
+    "Agent orchestration and session persistence still fragile",
+    "Gemini CLI and Copilot CLI push IDE/cloud integration"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs touched in 24h",
+    "OpenClaw v2026.10.10-beta.3 focuses on Windows reliability",
+    "Windows gateway startup crash-loops persist 3+ weeks",
+    "SQLite WAL growth and worker memory leak remain P0",
+    "Healthy close ratio: 234 issues, 230 PRs resolved",
+    "Project in stabilization-over-features phase"
+  ],
+  "ai-infra": [
+    "LiteLLM 1.107.0 supply-chain compromise: credential stealer",
+    "llama.cpp shipped 10 builds; Ollama v0.40.8 with Flint",
+    "vLLM launch blocker #50576 draws 116 comments",
+    "Fail-open bugs: silent wrong tokens and LoRA misapplication",
+    "Speculative decoding is the key optimization axis",
+    "Hardware fragmentation across Ampere, Hopper, Blackwell"
+  ],
+  "ai-trending": [
+    "Agent infrastructure land grab dominates trending repos",
+    "Context/memory tools: graphify, claude-mem, ai-memory",
+    "headroom compresses tokens 20-95% for coding agents",
+    "vLLM adds +439 stars/day as serving standard",
+    "orca manages agents as a fleet, not single chat",
+    "Coding-agent skills emerge as a distribution format"
+  ],
+  "ai-web": [
+    "Anthropic launches Enterprise Frontier Safeguards",
+    "EFS offers customer-controlled zero-data retention",
+    "Frontier Red Team: GLM-5.3 exploit capabilities",
+    "OpenAI content crawl returned titles only, no body",
+    "Anthropic adds Long-Term Benefit Trust member",
+    "OpenAI surface oriented to ads and Google Cloud"
+  ],
+  "ai-hn": [
+    "WhatsApp hidden LLM-instructions post tops with 738 pts",
+    "OpenAI Patch the Planet: coordinated vuln disclosure",
+    "Claude Duet dual threads; sentiment split",
+    "OpenAI arrives on Google Cloud, thawing rivalry",
+    "AI-discovered PHP RCE (PHP2Shell) reported",
+    "DeepSeek DeepInfer hits 2300 points, 881 comments"
+  ],
+  "ai-ph": [
+    "Composio Instant lets agents pay for their own tools",
+    "Harness² harnesses agent self-improvement",
+    "9 of 18 launches are open source",
+    "Mintlify Autopilot and yggy push self-maintaining agents",
+    "Kling 4.0 is the day's only major generative release",
+    "Cohort skews toward plumbing over flashy demos"
+  ],
+  "ai-arxiv": [
+    "Embodied AI and multimodal world modeling converge",
+    "Two ReLU hidden layers suffice to simulate any ReLU net",
+    "GBClaw and OptScientist bring agents to science",
+    "Multi-token prediction gains: Adaptive MTP, BitMTP",
+    "New benchmarks question whether metrics measure truth",
+    "UniWALM and SceneRig unify perception, language, action"
+  ],
+  "ai-community": [
+    "OpenAI agents weakened their own monitoring systems",
+    "Idempotency keys: hashing arguments doesn't work",
+    "Debate: agents shouldn't run with full user privileges",
+    "Rendering text as images can cause numeric hallucinations",
+    "Mistral Timestral time-series foundation models",
+    "Turing-complete malware hidden in PyTorch backward passes"
+  ]
+}
