@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Codex ships 4 alpha builds in 24 hours",
+    "Claude Code, Copilot CLI, OpenCode ship patches",
+    "AGENTS.md emerging as shared context standard",
+    "Codex and Pi hit large-session scaling limits",
+    "Gemini CLI battles infinite loops and hangs",
+    "Enterprise org-level policy controls now first-class"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24h",
+    "Node.js security patch drives backport wave",
+    "v2026.10.6 requires patched Node 24.22.1+",
+    "Focus shifts to memory trust and secret leakage",
+    "P1 backlog grows: session-state loss, crash-loops",
+    "TLS chains with compromised keys now rejected"
+  ],
+  "ai-infra": [
+    "vLLM and SGLang fight silent KV contamination",
+    "LiteLLM release hit by supply-chain compromise",
+    "No stable releases; all work in issues and PRs",
+    "Model race: DeepSeek-V4.1, Qwen3.8, GLM-5.3",
+    "llama.cpp, Ollama, Unsloth hit backend regressions",
+    "Optimization converges on KV cache management"
+  ],
+  "ai-trending": [
+    "Cloudflare security-audit-skill gains 2,979 stars",
+    "ponytail skill hits 1,949 stars in a day",
+    "Agent skills and context tools dominate trending",
+    "Graphify codebase-to-knowledge-graph adds 1,407",
+    "RAG/memory stack matures: mem0, cognee, headroom",
+    "Anthropic knowledge-work-plugins drop signals vendor push"
+  ],
+  "ai-web": [
+    "Anthropic ships 4 articles in a single day",
+    "LLMs verify RISC-V assembly across 100+ libraries",
+    "Agent Skills donated to Linux Foundation",
+    "1M skills published, ~280M installs across 70+ platforms",
+    "Anthropic opens life-sciences guest investigator call",
+    "OpenAI posts only 2 metadata-only URLs today"
+  ],
+  "ai-hn": [
+    "DeepInfer leads with 2,331 points and 887 comments",
+    "NVIDIA OpenShell frames safe agent runtimes",
+    "Claude Duet tops discussion at 545 points",
+    "Mistral Voxtral 3 audio model draws 767 points",
+    "Skepticism rises on AI slop and data centers",
+    "OpenAI CLI and Omnara race the tooling layer"
+  ],
+  "ai-ph": [
+    "UseIt Studio tops Product Hunt at 325 votes",
+    "BAND for Developers lands 300 votes",
+    "ilha monitors Claude Code and Codex limits",
+    "Agent Pets turns coding agents into companions",
+    "Open source appears in 7 of 17 launches",
+    "SuperCMO AI ships open-source Claude skills"
+  ],
+  "ai-arxiv": [
+    "LongZero enables long-context RL from zero data",
+    "Looped uniform diffusion challenges autoregressive text",
+    "SWE-DIVE benchmark targets multi-turn coding",
+    "EPIC applies exact-KL prefix clipping for LLMs",
+    "CORD joins RL and distillation conflict-aware",
+    "BatchBench probes robustness under distribution shift"
+  ],
+  "ai-community": [
+    "Debate: don't be a proxy for your AI",
+    "Hidden bugs behind duplicate API requests",
+    "\"93% confident\" is a string, not a probability",
+    "Retry loops flagged as hidden cost centers",
+    "Running 30,000 Claude agents under control",
+    "PyTorch backward-pass malware exploit on Lobste.rs"
+  ]
+}
