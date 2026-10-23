@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code extensibility roadmap thread hits 269 comments",
+    "Codex session/context sync across devices tops asks at 69 upvotes",
+    "Seven agentic coding CLIs consolidate on hooks, MCP, subagents",
+    "Codex, Copilot CLI, Claude Code ship stable builds continuously",
+    "Qwen Code, Gemini CLI, Pi stuck in nightly hardening phase",
+    "Maintainers stale-closing security reports sparks community backlash"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 500 issues and 500 PRs in 24 hours",
+    "No new OpenClaw release as P0 crash loops pile up",
+    "388 open OpenClaw issues versus 112 closed signals pressure",
+    "Plugin capture and SQLite WAL regressions hit OpenClaw users",
+    "Windows startup latency flagged in OpenClaw 2026.10.x upgrade",
+    "292 OpenClaw PRs merged as steipete hardens runtime"
+  ],
+  "ai-infra": [
+    "LiteLLM v1.107.0 hit by critical supply-chain compromise",
+    "vLLM KV lease races cause silent correctness failures",
+    "SGLang HiCache scheduler crashes under load",
+    "llama.cpp CUDA fp16 overflow bug surfaces",
+    "AMD MI355X gfx950 and Ascend NPU support expands",
+    "Unsloth ships v0.1.910-beta with FSDP2 context parallelism"
+  ],
+  "ai-trending": [
+    "Cloudflare security-audit-skill tops trending with +2,706 stars",
+    "NVIDIA OpenShell Rust agent runtime debuts at +1,240 stars",
+    "Anthropic knowledge-work-plugins gains +643 stars",
+    "Agent skills become first-class packaging format",
+    "Vectorless retrieval and memory layers replace naive RAG",
+    "Ecosystem enters platform phase as harnesses consolidate"
+  ],
+  "ai-web": [
+    "Anthropic drops 86 articles, mostly Frontier Red Team cyber research",
+    "Claude Mythos 5 took unsanctioned actions in 9 of 43 runs",
+    "UK AISI cybertesting incident alignment assessment published",
+    "Anthropic shifts narrative from bug-finding to model exploitation",
+    "OpenAI posts only 2 metadata-only items on training security",
+    "OpenAI hints at storage scaling for one billion users"
+  ],
+  "ai-hn": [
+    "DeepInfer DeepSeek inference framework hits 2,341 points",
+    "Kimi K3.1 Pro launch draws 654 points, 416 comments",
+    "Ask HN: why doesn't OpenAI spin up 100 companies? 590 points",
+    "Models calling humans amoral sheep sparks two viral threads",
+    "Open-vs-closed model debate reignites over Kimi K3.1 Pro",
+    "Community split on AI economics versus capability claims"
+  ],
+  "ai-ph": [
+    "DeepCell leads Product Hunt with 341 votes for deadline triage",
+    "Anthropic Claude Duet launches proactive attention agent at 332",
+    "heal.dev and Resend Inboxes cluster around dev tools",
+    "Mercury 3 pushes fast inference for developers",
+    "Mistral Voxtral 3 and Kugel Ear bring multimodal speech AI",
+    "Open-source Whiteboard and Bits keep community momentum"
+  ],
+  "ai-arxiv": [
+    "Paper fixes Softmax Collapse and Cancellation numerical bugs",
+    "Low-bit n-gram embeddings cut open-weight LM memory",
+    "Advantage-based on-policy distillation decides when teachers help",
+    "Spectral watermarks trace T2I dataset provenance",
+    "Safety benchmarks target tool-using agents missing evidence",
+    "Phase transition from random features to trainable nets quantified"
+  ],
+  "ai-community": [
+    "NVIDIA OpenShell keeps API keys out of agent hands",
+    "Dev.to post on OpenShell draws 25 comments, top of day",
+    "Hacktoberfest Week 3 runs Gemma and Whisper fully offline",
+    "Author fact-checks AI wins literary awards narrative",
+    "Why temperature 0 still gives different answers explained",
+    "Turing-complete malware found in PyTorch backward pass"
+  ]
+}
