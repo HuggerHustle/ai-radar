@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Every major AI CLI tool shipped fixes this window",
+    "Reliability debt dominates all seven issue trackers",
+    "Silent agent failures and session data loss recurring",
+    "Windows and headless execution are underserved surfaces",
+    "Community tooling converges on cross-session persistence",
+    "Claude Code v2.1.310 adds Monitor tool plus gateway fix"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24 hours",
+    "openclaw 2026.10.7 ships replay-safe session recovery",
+    "413 open issues signal heavy maintenance churn",
+    "Regression debt tied to plugin-capture changes",
+    "LTS-style 2026.9.34 gateway-only refresh released",
+    "P0 crash-loop and message-loss regressions persist"
+  ],
+  "ai-infra": [
+    "KV cache is now the primary infrastructure battleground",
+    "Correctness regressions concentrate in hybrid architectures",
+    "LiteLLM v1.107.0 supply-chain compromise forces key rotation",
+    "vLLM hits 262k-token prefill crash",
+    "Ollama prefix-cache bug defeats Anthropic caching",
+    "llama.cpp adds TTS on macOS and Hexagon NPU attention"
+  ],
+  "ai-trending": [
+    "Agent harnesses and skills dominate over base models",
+    "Cloudflare security-audit-skill surges +2,271 stars",
+    "NVIDIA OpenShell gains 893 stars in one day",
+    "Memory and context infrastructure see huge long-tail momentum",
+    "AWS ships official agent-toolkit for AWS",
+    "Token-compression utilities target agent context cost"
+  ],
+  "ai-hn": [
+    "Apollo note on AI payoff hits 411 points",
+    "Ask HN: why doesn't OpenAI start 100 companies? 643 points",
+    "Kimi K3.1 Pro tops HN at 1057 points",
+    "Mistral Voxtral 3 lands at 769 points",
+    "Anthropic: LLMs make formal verification feasible",
+    "Sentiment: excited on capability, skeptical on economics"
+  ],
+  "ai-ph": [
+    "MOVO AI tops Product Hunt with 295 votes",
+    "9 of 15 launches target AI agent developers",
+    "Agent oversight cluster: Peras, Inyon, Monish",
+    "ElevenLabs Realtime hits 570ms to first audio",
+    "FLUX 3 Max makes 10-second video in ~12 seconds",
+    "Cloudflare launches Clairic data-extraction model"
+  ],
+  "ai-community": [
+    "AI-driven security pace dominates Dev.to discussion",
+    "What does 'done' mean when an agent claims success?",
+    "Local LLM tool-calling benchmarks draw engagement",
+    "Fine-tuning 32B model on 6 GB VRAM, honestly told",
+    "Lobste.rs: PyTorch malware hidden in backward pass",
+    "Mistral time-series foundation model debated on Lobste.rs"
+  ]
+}
