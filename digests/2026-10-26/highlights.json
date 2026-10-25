@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Zero releases across all 7 AI CLI tools",
+    "Windows is the ecosystem's weakest platform",
+    "Codex: ~50 issues, 9 discussions, no releases",
+    "Claude Code ships only one docs PR in 24h",
+    "Agentic orchestration failures top complaint list",
+    "Gemini CLI lands ~10 PRs on nightly only"
+  ],
+  "ai-agents": [
+    "OpenClaw: 356 issues, 500 PRs in 24 hours",
+    "OpenClaw P0 bugs: SQLite WAL, memory pressure",
+    "266 OpenClaw PRs merged but no new release",
+    "OpenClaw maintainer floods perf micro-optimizations",
+    "Five agent projects covered: OpenClaw to ZeroClaw",
+    "OpenClaw Windows startup regressions stay open"
+  ],
+  "ai-infra": [
+    "No releases across all 6 infra projects",
+    "vLLM brings up DeepSeek V4.1 decode-path fusion",
+    "SGLang: ~413 active PRs, Rust api.v1 migration",
+    "Next-gen bring-up: Kimi-K3, GLM-5.3, Gemma 4",
+    "Silent correctness bugs hit quantized/cached paths",
+    "AI-generated kernel PRs appear in vLLM"
+  ],
+  "ai-trending": [
+    "cloudflare/security-audit-skill gains +2,874 stars",
+    "Nutlope/hallmark +1,359 stars to de-slop AI output",
+    "VoiceStudio: local ElevenLabs alternative, +1,588",
+    "RAG layer consolidates around memory compression",
+    "Vector DBs pivot to vectorless reasoning retrieval",
+    "Agent frameworks expand into finance and job search"
+  ],
+  "ai-hn": [
+    "Kimi K3.1 Pro tops feed at 1079 points",
+    "Apollo: AI shows zero financial payoff outside tech",
+    "200k jobs lost in media, film, and arts",
+    "OpenAI and Anthropic slash API prices",
+    "Cerebras deploys trillion-parameter model",
+    "Paper: why AI-generated language is hard to grasp"
+  ],
+  "ai-ph": [
+    "1Password for Agents leads with 252 votes",
+    "Agent security becomes its own product category",
+    "Top 3 launches all orbit agent infrastructure",
+    "Mac-native AI utilities cluster: sideOS, Prompt Deck",
+    "AgentValley tops agent tooling launches",
+    "Half of today's launches sit under 90 votes"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B leads reach: 18,391 likes",
+    "Lightricks/LTX-2.5 tops engagement: 9,331 likes",
+    "DeepSeek V4.1-Flash spawns quantized variants",
+    "ComfyUI packaging now as key as base model",
+    "Uncensored 'heretic' fine-tunes pull millions",
+    "Timestamped versioning signals rapid iterations"
+  ],
+  "ai-community": [
+    "Hacktoberfest Week 3 theme: Slow and Steady",
+    "Postmortem: AI bill with no owner spirals",
+    "Most-discussed post: LLM right when test failed",
+    "KV cache, not weights, caps LLM server users",
+    "Lobste.rs: PyTorch security exploits, EU AI rules",
+    "Gap between demos and AI operational reality"
+  ]
+}
