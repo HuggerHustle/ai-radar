@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "AI CLI tools enter stabilization, not feature race",
+    "Plugin/MCP isolation and multi-agent bets converge",
+    "Reliability debt now tops community priorities",
+    "Session lifecycle and permission bugs dominate",
+    "BYOK and multi-provider flexibility go mainstream",
+    "Billing anomalies stress user trust"
+  ],
+  "ai-agents": [
+    "OpenClaw in stability-critical phase: 500 issues",
+    "320 OpenClaw PRs merged or closed in 24h",
+    "SQLite WAL bloat and memory leaks reported",
+    "Windows update failures flagged as P0/P1",
+    "steipete leads test and perf campaigns",
+    "No new OpenClaw release amid bug cluster"
+  ],
+  "ai-infra": [
+    "DeepSeek-V4.1 optimization drives vLLM and SGLang",
+    "Blackwell SM120 consumer-GPU growing pains hit serving",
+    "Silent corruption outranks crashes as top risk",
+    "LiteLLM pivots to credential scoping and revocation",
+    "Unsloth pushes diffusion plus FSDP2 training numerics",
+    "Speculative decoding and KV caching are battlegrounds"
+  ],
+  "ai-trending": [
+    "Agent skills and harness tooling dominate trending",
+    "Nutlope/hallmark anti-AI-slop skill gains +2,244",
+    "NVIDIA SkillSpector debuts agent skill security scan",
+    "VoiceStudio local voice stack surges +2,297",
+    "Vectorless RAG chips away at vector DB assumption",
+    "affaan-m/ECC hits 289,832 stars, +896 today"
+  ],
+  "ai-web": [
+    "Anthropic files S-1 for Nasdaq IPO as ticker ANT",
+    "OpenAI signals GPT-6.1 Terra model announcement",
+    "Goldman Sachs and Morgan Stanley to underwrite Anthropic",
+    "OpenAI adds workplace and academic community pages",
+    "Anthropic IPO marks first frontier lab to go public",
+    "OpenAI entries are metadata-only, titles unverified"
+  ],
+  "ai-hn": [
+    "Anthropic S-1 tops HN at 1444 points, 1411 comments",
+    "OpenAI claims math, CS, and physics breakthroughs",
+    "Preprint asserts Exponential Time Hypothesis is false",
+    "Cloudflare KV-cache leak in GLM-5.3 sparks concern",
+    "10-year-old CNN beats LLMs on skin cancer",
+    "OpenAI and Anthropic cut prices up to 80%"
+  ],
+  "ai-ph": [
+    "Moli by Lexmount tops PH at 292 votes",
+    "Headless browser built specifically for AI agents",
+    "AgentGrid.io offers shared human-agent workspace",
+    "Llama Windows brings local AI serving to Windows",
+    "5 of 10 launches are open source",
+    "AI layers atop classic Git and DB dev tools"
+  ],
+  "ai-community": [
+    "MCP token cost cut from 15 tools to 4",
+    "Secrets leak into AI tools without git commits",
+    "Flaky MCP tool retry settings scrutinized",
+    "Malware exploits PyTorch itself",
+    "Pass rates questioned as self-correction metric",
+    "Lobste.rs: OCaml unikernels and EU digital policy"
+  ]
+}
