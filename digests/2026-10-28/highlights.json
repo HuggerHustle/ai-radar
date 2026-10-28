@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI tools enter hardening phase after feature rush",
+    "Release/CI fragility hits Qwen, Copilot CLI, OpenCode",
+    "Cost and context economics dominate every tracker",
+    "Claude Code Cowork git-proxy outage raises cloud bugs",
+    "Codex sandbox and extension distribution lead concerns",
+    "Gemini CLI subagent correctness flagged as top issue"
+  ],
+  "ai-agents": [
+    "OpenClaw handles 500 issues and 500 PRs in 24h",
+    "Three OpenClaw releases ship in a single day",
+    "Multiple P0 OpenClaw bugs remain unfixed",
+    "Gateway event-loop blocking tops OpenClaw complaints",
+    "SQLite contention and Windows restart failures persist",
+    "OpenClaw beta.4 preserves scheduled follow-up authority"
+  ],
+  "ai-infra": [
+    "Frontier-model enablement race drives all engine backlogs",
+    "AMD/ROCm convergence spans vLLM, SGLang, llama.cpp",
+    "Agent tool-call parsing emerges as distinct failure class",
+    "vLLM Q4 roadmap becomes canonical artifact, no release",
+    "SGLang AMD gfx950 five-PR series lands today",
+    "LiteLLM ships MCP hidden-tool bypass security fix"
+  ],
+  "ai-trending": [
+    "Agent harness and skills tooling surge on GitHub",
+    "affaan-m/ECC gains 1,165 stars in a day",
+    "obra/superpowers adds 617 stars for skill frameworks",
+    "headroom compresses tool outputs by 20-95% tokens",
+    "JetBrains thinkrail enters vibe-coding editor race",
+    "Agentic memory emerges as new competitive layer"
+  ],
+  "ai-web": [
+    "Anthropic files S-1 for Nasdaq IPO under ticker ANT",
+    "Anthropic lands GSA deal with 40% government discount",
+    "Internal model found five real-world exploit chains",
+    "OpenAI lists Oracle Apps in ChatGPT integration",
+    "Anthropic publishes AI agents and expert judgment study",
+    "Anthropic shares life-sciences drug-development progress"
+  ],
+  "ai-hn": [
+    "Anthropic S-1 filing draws 1,688 points, 1,646 comments",
+    "Pirated Stanford books training claim hits 437 points",
+    "OpenAI disproof of Exponential Time Hypothesis hits 775",
+    "OpenAI claims three math, CS, physics discoveries",
+    "Amazon gutting AI division sparks sharp criticism",
+    "Price wars see LLM cuts of up to 80%"
+  ],
+  "ai-ph": [
+    "Strawberry 1.0 AI browser tops Product Hunt at 342 votes",
+    "MiniMax M3.1 Flash promises 3x speed, 70% cost cut",
+    "Kiwi proactive AI assistant texts before you ask",
+    "Agent ops tooling dominates today's launches",
+    "ManyAgents and AI Bridge target Mac agent orchestration",
+    "tabsh, omerta, desigma ship as open source"
+  ],
+  "ai-arxiv": [
+    "RAG systems push away from hand-crafted pipelines",
+    "New benchmarks harden evaluation for autonomous agents",
+    "Patient-specific rubric evaluation spans cancer care",
+    "Selective Tie Learning targets spurious correlations",
+    "I-HITL argues for inalienable human-in-the-loop",
+    "Robotics absorbs pretrained VLMs with simulation"
+  ],
+  "ai-community": [
+    "Plugin gates AI 'done' claims on passing tests",
+    "Agents forget their own tools mid-workflow",
+    "ChatGPT fabricates accounting entries in production",
+    "MCP framed as 'the WSDL moment' for agents",
+    "Fuzzing vs AI debate on JavaScript engines",
+    "EU 'digital expropriation' approval draws scrutiny"
+  ]
+}
