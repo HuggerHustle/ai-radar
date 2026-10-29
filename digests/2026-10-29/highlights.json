@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI race shifts to trust, not coding ability",
+    "Claude Code top issue hits 193 upvotes",
+    "Codex ships 3 alpha releases in 24 hours",
+    "Users demand cross-tool hooks and /goal parity",
+    "Provider quota inflation now a first-class topic",
+    "Silent failures top every tool's issue tracker"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "No tagged OpenClaw release despite merged fixes",
+    "400 OpenClaw issues still open vs 100 closed",
+    "P0 crash loops hit OpenClaw Gateway and Windows",
+    "Users frustrated fixes stuck on main, unreleased",
+    "OpenClaw shutdown redesign follow-ups land"
+  ],
+  "ai-infra": [
+    "LiteLLM v1.107.0 supply-chain compromise still unfixed",
+    "LiquidAI LFM3 lands in llama.cpp and Ollama",
+    "llama.cpp ships experimental realtime audio endpoints",
+    "vLLM CUDA-graph split PR #63406 lands",
+    "Unsloth faces VRAM savings vs OOM credibility gap",
+    "Quantization defaults now first-order production risk"
+  ],
+  "ai-trending": [
+    "Agentic coding harnesses dominate GitHub trending",
+    "obra/superpowers leads design-skill layer wave",
+    "Agent memory infra surges: mem0, claude-mem, OpenViking",
+    "headroom compresses tool outputs to cut tokens 60-95%",
+    "firecrawl hits 196K stars as agent data layer",
+    "Community races to build agent methodology tooling"
+  ],
+  "ai-web": [
+    "Anthropic model finds Chrome and Safari zero-days",
+    "Claude discovers novel CRISPR-like enzyme system ART",
+    "Anthropic opens dedicated wet lab and research group",
+    "Drug development case studies published with 6 partners",
+    "OpenAI expands ServiceNow partnership",
+    "Anthropic backfills May/Sept posts into today's feed"
+  ],
+  "ai-hn": [
+    "OpenAI math discovery tops HN at 1,146 points",
+    "Exponential Time Hypothesis Is False hits 795 points",
+    "Gemini 4 Carbon and GPT-6.1 Terra spark debate",
+    "Amazon AI division gutting read as model-race loss",
+    "AI-assisted epilepsy death draws ethical scrutiny",
+    "Police AI traffic stops criticized on HN"
+  ],
+  "ai-ph": [
+    "TheySaid 4.0 leads Product Hunt with 366 votes",
+    "Overmind launches continuous-learning agents at 297",
+    "Paddock offers sandboxed agent compute at 107 votes",
+    "Privacy-first on-device AI gains: Off Grid AI, NINX",
+    "GPT-6.1 Terra marks rare first-party model launch",
+    "Half of launches use open source distribution"
+  ],
+  "ai-arxiv": [
+    "Honeycomb-Surfels makes compact 3D representations cheaper",
+    "GTFormer and Multi-State Linear Attention cut sequence cost",
+    "EnvSched targets rollout-efficient agent RL",
+    "Tool-use scaling laws mapped in new paper",
+    "Learned attention gates defend against prompt injection",
+    "LLMs now experiment their way to hidden physical laws"
+  ],
+  "ai-community": [
+    "Devs: gen AI is 20% prompting, 80% everything else",
+    "Token accounting field reports dominate Dev.to",
+    "KV-cache optimization drives infra economics talk",
+    "PyTorch emerging as universal AI hardware backend",
+    "Lobste.rs compares fuzzers to AI, questions benchmarks",
+    "European regulatory backlash against AI data policies"
+  ]
+}
