@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Codex Desktop session dirs balloon to 165 GiB",
+    "Copilot CLI processes balloon to 37 GiB, OpenCode DB 13 GB",
+    "OpenCode ships /goal loop and default image generation",
+    "Qwen Code v0.26.4 released despite stability debt",
+    "Codex adds transcript selection and search",
+    "Agent observability emerges as top cross-tool demand"
+  ],
+  "ai-agents": [
+    "OpenClaw ships v2026.10.9 security patch (fast-uri, Zod)",
+    "OpenClaw LTS v2026.9.36 gateway-only release",
+    "OpenClaw: 500 issues and 500 PRs touched in 24h",
+    "OpenClaw P0/P1: SQLite/WAL contention and restart loops",
+    "Memory-promotion failures plague OpenClaw sessions",
+    "Maintainer bandwidth is the visible bottleneck"
+  ],
+  "ai-infra": [
+    "No stable releases from vLLM, SGLang, llama.cpp, Ollama",
+    "LiteLLM cuts release candidate as others hold",
+    "Metal MXFP4 and SYCL DPAS kernels land in llama.cpp",
+    "Structured-output and tool-calling bugs span every layer",
+    "SM120 Blackwell still second-class in vLLM and SGLang",
+    "DeepSeek-V4.x carries highest operational blast radius"
+  ],
+  "ai-trending": [
+    "pbakaus/impeccable tops star gains at +2,870",
+    "obra/superpowers agentic skills framework gains +1,034",
+    "JetBrains/thinkrail gains +1,117 stars in a day",
+    "HKUDS/DeepTutor gains +1,930 stars",
+    "togg53192-cmd/jailbreaks gains +1,594 stars",
+    "claude-mem appears on both trending and topic lists"
+  ],
+  "ai-web": [
+    "Anthropic: Scaling Managed Agents with stable interfaces",
+    "Anthropic updates Claude Code Best Practices",
+    "Anthropic GSA deal offers 40% government-wide discount",
+    "OpenAI posts Updated Model Spec and misalignment detection",
+    "Anthropic expands AI for Science to 20 institutions",
+    "Both labs converge on safety methodology and specs"
+  ],
+  "ai-hn": [
+    "Mistral Large 4 surprises with open-weight drop (1166 pts)",
+    "Gemini 4 Carbon tops Artificial Analysis Index v5",
+    "Claude Code transmits background-agent transcripts (558 pts)",
+    "Martin Fowler's LLM Voice essay draws reflection (333 pts)",
+    "Google value plunges $500B as AI fears rattle Wall Street",
+    "Gemini 4 Carbon launch draws 795 comments"
+  ],
+  "ai-ph": [
+    "Dedica leads Product Hunt with 307 votes",
+    "BotGauge positions as trust layer for agents (254 votes)",
+    "Nearly a third of today's launches are open source",
+    "Trigger.dev, WebAI, Hob push AI toward local execution",
+    "Agent reliability dubbed the new frontier",
+    "AI products becoming infrastructure, winners stress trust"
+  ],
+  "ai-community": [
+    "Log files as prompt injection vectors (43 reactions)",
+    "AI agents can get approval and still do wrong thing",
+    "Qwenputer: deterministic RISC-V CPU inside Qwen3.5",
+    "EU privacy decision raises AI data expropriation alarms",
+    "Post: most agent rework traces to poor work orders",
+    "Debate: are smarter LLMs worth their price premiums"
+  ]
+}
