@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.314 ships permission hardening + IdP routing",
+    "Windows/WSL2 a systemic weak point across nearly every AI CLI",
+    "Configuration fidelity bugs: settings ignored at runtime",
+    "Copilot CLI, Qwen Code, OpenCode still stabilizing core loop",
+    "Codex leads activity: 50 issues, 50 PRs, 16 discussions",
+    "Trust, safety, and control surfaces now the competitive battleground"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 490 issues and 500 PRs in 24 hours",
+    "OpenClaw beta.5 fixes Node >=24.16.0 install/update",
+    "Four other agent projects covered: Hermes, IronClaw, QwenPaw, ZeroClaw",
+    "P0/P1 stability debt: Windows restart, lease contention, doctor hangs",
+    "OpenClaw issue ratio healthy: 337 open vs 153 closed",
+    "Team in stabilization window, not shipping new features"
+  ],
+  "ai-infra": [
+    "vLLM RFC proposes CUDA Checkpoint/Restore for cold starts",
+    "SGLang scores 3-5x DeepSeek-V4.1 warmup speedup",
+    "LiteLLM gets Rust routing core with Python fallback",
+    "LiteLLM cost-accounting inconsistencies hit billing accuracy",
+    "llama.cpp and Ollama add OpenCL, MLX, RDNA3/4 support",
+    "Unsloth ships kernel-level precision fix, install regression"
+  ],
+  "ai-trending": [
+    "Anthropic Skills sparks an \"Agent Skills\" gold rush",
+    "claude-mem gains +1,140 stars for agent memory",
+    "HKUDS/DeepTutor tops day with +2,282 stars",
+    "lightpanda-io browser and OpenBot push computer-use agents",
+    "pbakaus/impeccable tops star gain at +2,300",
+    "mem0 and volcengine/OpenViking ride memory wave"
+  ],
+  "ai-web": [
+    "Anthropic unveils Managed Agents for long-horizon agents",
+    "Internal Anthropic model autonomously weaponizes zero-day exploits",
+    "Zero-click bugs found in Chrome, Safari, Android, Windows, Linux",
+    "OpenAI posts 3 policy items on fair use and teen safety",
+    "Contrast: Anthropic capability-forward, OpenAI governance-forward",
+    "Anthropic sitemap now 492 articles; OpenAI 1097"
+  ],
+  "ai-hn": [
+    "Mistral open-weights flagship Mistral Large 4, 1676 points",
+    "Gemini 4 Carbon launches to 801 comments of debate",
+    "Anthropic may get \"junk\" credit rating post-IPO",
+    "AI cash burn fears spark tech stock selloff",
+    "Trojanized Claude Code VS Code extension plants SSH backdoor",
+    "AI \"deskilling\" SREs rather than replacing them"
+  ],
+  "ai-ph": [
+    "Empacer leads Product Hunt at 437 votes for SMB voice assistant",
+    "Gologin Cloud Browser targets browser automation",
+    "Three products build inside ChatGPT rather than standalone",
+    "Agentic infrastructure dominates today's Product Hunt lineup",
+    "Gemini 4 Carbon is day's only frontier-model launch",
+    "Radar brings open source to the developer layer"
+  ],
+  "ai-arxiv": [
+    "Trend: unifying fragmented pipelines into single frameworks",
+    "Shallow safety alignment probed via multi-turn defender work",
+    "Benchmark gains often stem from artifacts, not method",
+    "Data attribution design space systematically mapped",
+    "Agents expand into agriculture, quantum labs, genomics",
+    "Mechanistic interpretability goes mainstream in 50 papers"
+  ],
+  "ai-community": [
+    "Trojanized Claude Code extension plants SSH backdoor",
+    "Devs warn vector DBs and LLMs make poor long-term memory",
+    "KV cache economics and model routing drive cost lessons",
+    "Project Zero compares fuzzing vs AI on Lobste.rs",
+    "RISC-V CPU running inside Qwen3.5 tops Lobste.rs",
+    "MoE offloading isn't always faster on a 16GB GPU"
+  ]
+}
