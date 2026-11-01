@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "78 个工具进入维护期，聚焦可靠性",
+    "Claude Code 试点团队共享预算",
+    "Codex 社区推出 recall 与 toli",
+    "Windows 终端兼容性问题困扰全生态",
+    "Agent 子进程隔离语义成竞争焦点",
+    "无重磅发布，积压清理与 CI 排查为主"
+  ],
+  "ai-agents": [
+    "OpenClaw 24小时 496 issue、500 PR",
+    "OpenClaw 396 个 issue 仍开放",
+    "248 个 PR 已合并或关闭",
+    "Unicode 处理修复集中落地",
+    "网关事件循环阻塞等 P0 待修",
+    "暂无新版本，处于发版间稳定期"
+  ],
+  "ai-infra": [
+    "vLLM、SGLang、LiteLLM 活跃度爆棚",
+    "重点转向负载下的正确性与成本",
+    "推测解码偏差与缓存命中率崩溃",
+    "LiteLLM 启动 Python 到 Rust 迁移",
+    "llama.cpp 后端碎片化持续扩张",
+    "工具调用解析成最常见回归点"
+  ],
+  "ai-trending": [
+    "claude-mem 单日新增 1723 星登顶",
+    "agent 技能与记忆层成社区新焦点",
+    "Orkas 单日涨 1044 星",
+    "impeccable 主打拦截 AI 劣质代码",
+    "本地优先 agent 运行时热度攀升",
+    "hermes-agent 星数疑似异常需核实"
+  ],
+  "ai-web": [
+    "Anthropic 开放 Claude 使用数据给外部研究",
+    "Anthropic Insights 隐私保护分析工具",
+    "三家独立研究组公布初步发现",
+    "开放研究者合作意向登记表",
+    "OpenAI 本期零更新",
+    "Anthropic 主打透明与信任叙事"
+  ],
+  "ai-hn": [
+    "Claude Code VS Code 扩展遭后门植入",
+    "ChatGPT 账号接管事件引热议",
+    "Mistral Large 4 开放权重获 1706 分",
+    "Gemini 4 Carbon 拿到 1013 分",
+    "Anthropic 收紧护栏引开发者不满",
+    "Cisco 无限 AI token 与 SRE 去技能化"
+  ],
+  "ai-ph": [
+    "语音与智能体界面主导今日榜单",
+    "Vaani 开发者平台 370 票领先",
+    "SpeakON Agent 语音转任务获 317 票",
+    "fastbrowse 开源浏览器 agent 138 票",
+    "XWiki MCP Server 连接私有知识库",
+    "开源与自托管定位反复出现"
+  ],
+  "ai-community": [
+    "ChatGPT 账号接管链源于 MathLive",
+    "AGENTS.md 投毒攻击引关注",
+    "Agent 循环需要预算与取消机制",
+    "两行函数比 AI 更早发现合谋行为",
+    "Qwenputer 在 Qwen3.5 内模拟 RISC-V CPU",
+    "Project Zero 对比传统模糊测试与 AI"
+  ]
+}
