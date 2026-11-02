@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Multi-agent orchestration is top new capability and top failure",
+    "Four of seven CLI tools shipped no release in 24h",
+    "Quota and rate-limit interruptions dominate all trackers",
+    "Destructive-mode bugs and silent config drift plague tools",
+    "Cost and context compaction become first-class concerns",
+    "Data-loss papercuts recur across nearly every project"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs updated in 24h",
+    "No new releases; backlog of stale P0 diamond lobster bugs",
+    "Multiline Slack, Feishu, Zalo command args now preserved",
+    "High-severity gateway event-loop blocking still unresolved",
+    "Latest shipping point referenced is 2026.10.8",
+    "Strong contributor throughput but weak high-severity closure rate"
+  ],
+  "ai-infra": [
+    "No releases; every tracker focused on correctness and memory",
+    "DeepSeek-V4/V4.1 quality gap hits vLLM, SGLang, llama.cpp",
+    "Rust-ification of control planes across vLLM and LiteLLM",
+    "SM120 emerges as production risk in vLLM and SGLang",
+    "Hardware coverage broadens: SM100, ROCm gfx950, NPU, Hexagon",
+    "Unsloth extends FP8 LoRA and unified DP/TP/PP/CP mesh"
+  ],
+  "ai-trending": [
+    "claude-mem gains 1,526 stars for agent memory compression",
+    "Agent harness economy wraps Claude Code and Codex",
+    "pingdotgg/t3code tops daily chart at +3,094 stars",
+    "Kronos (+630) marks push into finance foundation models",
+    "RAG shifts to graph, vectorless, and token-compression",
+    "Local-first AI becomes a coherent category"
+  ],
+  "ai-hn": [
+    "Mistral open-sources Mistral Large 4 weights (1,716 pts)",
+    "Google's Gemini 4 Carbon draws 1,016 pts, 802 comments",
+    "Backdoor found in Claude Code VS Code extension (991 pts)",
+    "ChatGPT account-takeover writeup sparks security alarm",
+    "Threads debate AI's zero financial payoff and SRE deskilling",
+    "Cisco's unlimited-token experiment under scrutiny"
+  ],
+  "ai-ph": [
+    "Specsight (314 votes) leads AI agent observability push",
+    "telemetry.dev (242 votes) monitors AI-driven products",
+    "SKI (298 votes) launches voice-first coding harness",
+    "GitHub Copilot Fusion routes and fuses multiple models",
+    "Backenly offers autonomous backend for coding agents",
+    "Vibe-coding companions: Coding Wrapped, AC Bridge, Pluto Door"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B tops likes (18,926) and downloads (7.89M)",
+    "Lightricks/LTX-2.5 viral with 2.43M downloads",
+    "DeepSeek V4.1-Flash spawns quantization cottage industry",
+    "LiquidAI floods chart with seven LFM3 variants",
+    "Mistral-Large-4-1T-A52B hits 1,451 likes",
+    "Uncensored Qwen-Image derivatives rack up millions"
+  ],
+  "ai-community": [
+    "Field guide to hijacking Claude, GPT, Gemini, Copilot",
+    "Human approval pattern for destructive MCP tools",
+    "Hacktoberfest Week 4 theme: Ghost in the Machine",
+    "Local LLMs without GPUs gains traction on Dev.to",
+    "Deterministic RISC-V CPU emulated inside Qwen3.5",
+    "Project Zero compares classic fuzzing vs AI vuln discovery"
+  ]
+}
