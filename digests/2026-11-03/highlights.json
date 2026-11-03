@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Seven AI CLI tools now competing head-to-head",
+    "Subagents, MCP, and skills become table stakes",
+    "Safety-filter false positives top today's issues",
+    "Run-away costs and session durability under fire",
+    "Agent-client protocol layer emerging via Pi ACP",
+    "Codex community UIs signal front-end commoditization"
+  ],
+  "ai-agents": [
+    "OpenClaw: 424 issues and 500 PRs in 24 hours",
+    "No new OpenClaw release; stability pressure mounts",
+    "P0 crashes: session state, data loss, security flaws",
+    "173 PRs merged today despite missing release",
+    "Users stranded across 2026.7.1 to 2026.10.8 versions",
+    "Extended-stable 2026.9.34 still receiving backports"
+  ],
+  "ai-infra": [
+    "Determinism breaks at temperature=0 across five projects",
+    "vLLM ships v0.33.0 with 927 commits, 389 contributors",
+    "MoE onboarding dominates vLLM and SGLang releases",
+    "SGLang CI flakiness issue hits 165 comments",
+    "Rust rewrites underway at vLLM, SGLang, and LiteLLM",
+    "Optimization shifts to MoE caching and FP8/FP4"
+  ],
+  "ai-trending": [
+    "claude-mem gains 1,803 stars on agent memory wave",
+    "t3code surges with 3,229 stars in a single day",
+    "Vercel's agent-desktop tops trending with 2,275 stars",
+    "FreeToken and colibri push local MoE inference",
+    "Agent harnesses fragment into game dev and git verticals",
+    "Context infrastructure becomes the new battleground"
+  ],
+  "ai-web": [
+    "Anthropic posts three science research articles today",
+    "Vibe physics: Claude Opus 4.5 co-writes a paper in 2 weeks",
+    "New BootLoops toolkit extends Claude to ecology and genetics",
+    "Protein binder design hits 14 of 15 targets with Claude",
+    "OpenAI publishes six URLs but no readable text",
+    "Anthropic ships full narratives while OpenAI shows slugs"
+  ],
+  "ai-hn": [
+    "Claude Code VS Code extension backdoor scores 1007 points",
+    "Anthropic token spend reportedly exceeds employee payroll",
+    "Amended S-1 shows slowing Q3 growth ahead of IPO",
+    "Anthropic spending commitments reportedly near $900B",
+    "LongCat-2.5 launches for native multimodal agent tasks",
+    "Oracle raises $20B amid AI capex financing wave"
+  ],
+  "ai-ph": [
+    "ClawsGO Science tops PH with 279 votes for cloud-lab agent",
+    "Riverside Agents launches AI video production crew",
+    "agentmash and Click push vendor-neutral agent tooling",
+    "Fluent 2 runs AI teammates locally on Mac",
+    "Usage tracks Claude and ChatGPT limits across Apple devices",
+    "Developer infrastructure is today's most crowded PH lane"
+  ],
+  "ai-community": [
+    "AI code review called an echo chamber, not a check",
+    "Deterministic safety gates proposed for agentic workflows",
+    "Deterministic RISC-V CPU emulated inside Qwen3.5",
+    "Google Project Zero compares fuzzing versus AI findings",
+    "Cache expiry on long Claude sessions flagged as cost trap",
+    "Tool-call retry semantics emerge as production concern"
+  ]
+}
