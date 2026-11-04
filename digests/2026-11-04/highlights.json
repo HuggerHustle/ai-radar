@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Codex incident destroys systemd, $10k+ damage",
+    "Cost/quota transparency now top-3 pain point",
+    "Agent sub-systems drive both velocity and regressions",
+    "No headline feature shipped; several tools silent",
+    "Claude Code, Copilot, Gemini push enterprise controls",
+    "Seven major AI CLI tools now a contested platform"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.10.10 ships amid 402 issues",
+    "402 issues and 500 PRs touched in 24 hours",
+    "P0/P1 crash-loop and message-loss bugs linger",
+    "Android realtime Talk session bug #175027 closed",
+    "454 contributors behind 4,825 commits",
+    "Stable but strained: high throughput, visible backlog"
+  ],
+  "ai-infra": [
+    "vLLM open KV cross-request contamination bug",
+    "SGLang closed cluster-killing bugs today",
+    "llama.cpp pushes NCCL multi-node tensor parallelism",
+    "LiteLLM breaking OpenAI SDK 3 migration",
+    "Unsloth advances FP8 LoRA and CPU training",
+    "Every layer now optimizing for agentic workloads"
+  ],
+  "ai-trending": [
+    "vercel-labs/agent-desktop explodes +3,791 stars",
+    "claude-mem gains +1,139 for persistent context",
+    "colibri brings hierarchical MoE to consumer GPUs",
+    "RAG rebrands toward AI memory and context DBs",
+    "heretic enables training-free model behavior edits",
+    "Skills packaging surges with mattpocock/skills +1,164"
+  ],
+  "ai-web": [
+    "Anthropic FlashProve enables provable LLM inference",
+    "Anthropic frames cryptographic proofs as compliance",
+    "OpenAI appoints Jill Hazelbaker to corporate affairs",
+    "OpenAI lists physical-world engineering item twice",
+    "Verifiable AI emerges as distinct Anthropic pillar",
+    "OpenAI entries are metadata-only, no article text"
+  ],
+  "ai-hn": [
+    "Postman silently installs AI plugins, shares API data",
+    "Google threatens to cut Search to AI-banning schools",
+    "Hidden AI debt hits $3.2T as funds dump AI stocks",
+    "Revolut cuts AI coding bills 90% with GLM",
+    "Book of Generative AI Foundations tops feed",
+    "LLMs not superhuman at reading neural weights"
+  ],
+  "ai-ph": [
+    "beacon.sh tops Product Hunt with 435 votes",
+    "Self-improving memory layer for coding agents",
+    "Agent plumbing dominates: Inbox, Hyperresearch",
+    "Cedric AI attends meetings and presents slides",
+    "Roughly half of launches are open source",
+    "13 launches span memory layers and dev tools"
+  ],
+  "ai-arxiv": [
+    "Muon-AdamW advantage reverses after fine-tuning",
+    "Multi-epoch pretraining scaling predicts overfitting",
+    "New benchmarks target GUI and MCP tool poisoning",
+    "Papers tackle harmful coding agent side effects",
+    "Efficient adaptation surge: BISECT, RASP, Sonar-MoE",
+    "LLM agents deployed to power grids and demography"
+  ],
+  "ai-community": [
+    "Agent logged wrong answer despite returning correct one",
+    "Supervising AI all day is exhausting, unscheduled work",
+    "RAG is not a safety boundary, authors warn",
+    "Non-determinism traced to one unchecked temperature",
+    "Lobste.rs dives into weight-space programming",
+    "Practical focus shifts to cost-per-task and versioning"
+  ]
+}
