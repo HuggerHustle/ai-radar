@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Codex reportedly destroyed a $10K production server",
+    "Agent blast radius and permissions now top concern",
+    "Subagent hangs and false success bugs hit 3 tools",
+    "Windows and macOS sandbox regressions cut across tools",
+    "Enterprise management emerges as a battleground",
+    "Reliability failures now outweigh feature gaps"
+  ],
+  "ai-agents": [
+    "OpenClaw ships v2026.11.5-beta.1 with Knowledge Scribes",
+    "PostgreSQL-backed state plane lands in OpenClaw beta",
+    "400 issues and 500 PRs updated in 24 hours",
+    "P0 crash-loop and release blockers dominate",
+    "Maintainer triage is now the bottleneck",
+    "Windows and macOS reliability problems pile up"
+  ],
+  "ai-infra": [
+    "vLLM, SGLang, llama.cpp report KV cache contamination",
+    "Correctness regressions now outweigh throughput gains",
+    "Blackwell-era models stress every layer of the stack",
+    "llama.cpp ships the only stable release, v0.9.0",
+    "LiteLLM upgrades gateway control plane with audit sinks",
+    "Unsloth lands CUDA-graphs decode speedup"
+  ],
+  "ai-trending": [
+    "claude-mem gains 1,172 stars in a single day",
+    "NVIDIA auto-ontology adds 2,050 stars today",
+    "Vercel agent-desktop is top gainer with 2,470 stars",
+    "kimi-k3-in-c runs 2.78T model in 8.24 GB RAM",
+    "Vectorless retrieval challenges embedding orthodoxy",
+    "Agent memory becomes first-class infrastructure"
+  ],
+  "ai-web": [
+    "Anthropic reveals first 3D vault particle structure",
+    "Claude helped solve a 1986 biology mystery",
+    "OpenAI posts five items in one day",
+    "OpenAI appears to launch Images 2.6",
+    "OpenAI to acquire Pierre, per URL slug",
+    "OpenAI eyes AWS GovCloud with Daybreak Red"
+  ],
+  "ai-hn": [
+    "AI technical debt piece hits 1,054 points",
+    "Postman silent AI plugin install tops 1,485 points",
+    "Gemini chat-history training sparks 628-point thread",
+    "Codex training re-enable draws 518 points",
+    "Anthropic provable inference earns 174 points",
+    "DoorDash has only hundreds of AI-agent orders"
+  ],
+  "ai-ph": [
+    "AgentKit by Scalekit leads with 419 votes",
+    "Teamily AI hits 362 votes and 200 comments",
+    "Agent gateways, inboxes, terminals dominate launch day",
+    "Hookdeck Inspect joins agent-plumbing cluster",
+    "kwant peer-checking bots target agent trust gaps",
+    "Nearly all launches are B2D, not consumer"
+  ],
+  "ai-arxiv": [
+    "Paper argues you don't need long context at all",
+    "Compaction matches long-context performance cheaply",
+    "DeepMem brings byte-level multiscale memory",
+    "ARLoop and LoopVQ push looped transformers",
+    "Papers probe suppressing and reviving misalignment",
+    "Adversarial speculative reasoning for long-horizon tasks"
+  ],
+  "ai-community": [
+    "Dev.to asks: what's the plan for replacing ourselves?",
+    "Randomized trial: devs 19% slower with AI",
+    "AI cost attribution: your bill grew 4x",
+    "Agent observability and prompt injection fallbacks",
+    "LLM natively reads and writes neural network weights",
+    "Deterministic RISC-V CPU runs inside a model"
+  ]
+}
