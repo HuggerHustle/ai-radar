@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Codex agent destroyed systemd, causing $10k damage",
+    "Claude Code headless mode costs 1.8× more, users say",
+    "Session-state fragility plagues every AI CLI tool",
+    "No stable releases shipped; all tools in alpha/beta",
+    "OpenCode free tier never resets, users complain",
+    "Ecosystem converging on session detach/rewind primitives"
+  ],
+  "ai-agents": [
+    "OpenClaw ships v2026.11.1 with safer Mac config saves",
+    "OpenClaw backlog heavy: 241 issues, 321 PRs open",
+    "Gateway event-loop blocking remains a P0 crash-loop bug",
+    "Windows restart unreliability persists across releases",
+    "Plugin state deadlocks still unaddressed by maintainers",
+    "Historical-state recovery fix only in v2026.11.5-beta"
+  ],
+  "ai-infra": [
+    "SGLang tracker dense: 64 issues, 500 PRs updated",
+    "Blackwell/SM120 correctness regressions under triage",
+    "Silent KV-scale and MoE corruption bugs top priority",
+    "Expansion to Intel XPU, AMD gfx950, Cambricon MLU",
+    "vLLM v0.32.0 has known IMA and block-size regressions",
+    "No major releases shipped across all six projects"
+  ],
+  "ai-trending": [
+    "Vercel Labs agent-desktop pulls 2,173 stars day one",
+    "agent-browser gives AI agents browser automation CLI",
+    "worktrunk targets parallel agent git workflows",
+    "Five new repos today package reusable agent Skills",
+    "NVIDIA auto-ontology leads trending, +2,679 stars",
+    "Scrapling web scraping framework gains 1,655 stars"
+  ],
+  "ai-web": [
+    "Anthropic reveals first 3D structure of prokaryotic vault",
+    "Claude study analyzes 207,000 real scientist sessions",
+    "Anthropic opens guest investigator program for AI research",
+    "Anthropic publishes UK AISI cybertesting incident post-mortem",
+    "OpenAI slug hints at new cyber-focused model gpt-6-cyber",
+    "OpenAI item on Australian universities and AI-native grads"
+  ],
+  "ai-hn": [
+    "AI stocks sell off after midterm 'blue tsunami' sweep",
+    "Anthropic rumored $1.5T IPO valuation sparks skepticism",
+    "Claude Code allegedly leaks user emails to visited sites",
+    "Gemini trains on chat history even for paid subscribers",
+    "Tencent launches Hy4 open-source model, 79 points",
+    "Thinking Machines releases Inkling 2 Small model"
+  ],
+  "ai-ph": [
+    "Wanaka Studio tops Product Hunt with 453 votes",
+    "OpenMail gives AI agents their own email identity",
+    "Floot Payments lets builders monetize vibe-coded apps",
+    "Render Sandboxes gives agents a place to run",
+    "Orphex MCP targets agentic marketing workflows",
+    "Security cluster forms around verifying agent actions"
+  ],
+  "ai-arxiv": [
+    "CompressionBench tasks coding agents to compress LLMs",
+    "ServerBench has agents design their own serving infra",
+    "LooM decouples memory, compute, and loops in Transformers",
+    "Persona adoption reorganizes LLM internal representations",
+    "Metamodels forecast activations before the first token",
+    "New benchmarks for self-driving chem labs and humanoid motion"
+  ],
+  "ai-community": [
+    "WebMCP attack lab shows e-shops hijacking AI agents",
+    "One AGENTS.md file can steal your OAuth tokens",
+    "LLMs can natively read and write neural network weights",
+    "GPT Image 2.5 quality knob costs more than 4K",
+    "Screenshots triple token bills for AI coding agents",
+    "Agents confidently report 'Done' on unfinished work"
+  ]
+}
