@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Seven-way AI CLI race shifts to agent runtime reliability",
+    "Three of seven CLI tools shipped stable builds today",
+    "Subagent lifecycle and compaction bugs dominate hot issues",
+    "Communities propose shared Agent Plugins interoperability standard",
+    "Claude Code, Codex, Gemini CLI lead aggressive release cadence",
+    "Portability, not lock-in, seen as next competitive axis"
+  ],
+  "ai-agents": [
+    "OpenClaw: 367 issues and 500 PRs updated in 24 hours",
+    "No new OpenClaw releases; team stabilizing 2026.10-11 line",
+    "133 OpenClaw PRs merged/closed vs 367 still open",
+    "P0/P1 crash-loops and memory regressions top backlog",
+    "Fixes stuck at needs-maintainer-review stage",
+    "SQLite worker OOM and MCP lifecycle leaks flagged"
+  ],
+  "ai-infra": [
+    "No major releases; correctness regressions dominate trackers",
+    "vLLM, SGLang, llama.cpp report silent KV/quant corruption",
+    "P/D disaggregation bugs hit vLLM NixlConnector, SGLang PP",
+    "SGLang ships sub-second Weight Cache Daemon for load latency",
+    "Ollama runner leaks and llama.cpp MoE cache under scrutiny",
+    "LiteLLM, Unsloth absorb upstream regressions via backports"
+  ],
+  "ai-trending": [
+    "Agent skills repos explode: 2,070 and 2,548 new stars",
+    "NVIDIA auto-ontology gains 2,015 stars, challenges vector stores",
+    "NousResearch hermes-agent hits 261k stars",
+    "RAG pivots from vector search to knowledge graphs",
+    "ollama/ollama remains top self-hosted inference front door",
+    "Picovoice picollm pushes on-device X-bit quantized inference"
+  ],
+  "ai-web": [
+    "Anthropic drops 7 research articles; OpenAI just 1",
+    "Anthropic formalizes two-tier agent memory with 'dreaming'",
+    "Sleep-time compute borrowed from Letta and UC Berkeley",
+    "Data from 207,000 Claude research sessions released",
+    "OpenAI posts metadata-only wet-lab agent measurement item",
+    "Anthropic sets agenda in scientific AI with dense cluster"
+  ],
+  "ai-hn": [
+    "Claude Code email-leak thread tops feed at 1,547 points",
+    "Anthropic IPO chatter at $1.1T draws 469 comments",
+    "Gemini Omni 1.2 Flash launches to 292 points",
+    "IEEE piece on AI repaying 40 years of tech debt hits 1,292",
+    "LLM-judge routing claims 4x cheaper accuracy",
+    "Zero-trust runtimes and OAuth delegation brokers trending"
+  ],
+  "ai-ph": [
+    "Agent infrastructure dominates Product Hunt AI launches",
+    "Glasshand gives agents a real iPhone and Mac, 377 votes",
+    "Rerun and Living Brain tackle agent memory and surfaces",
+    "Clocknext, Pushary, FounderMail target agent-native business",
+    "Tencent Hy4 and NVIDIA Nemotron 3.5 Transcribe drop models",
+    "Several top launches are open source or self-hostable"
+  ],
+  "ai-arxiv": [
+    "Scientist World offers runnable research worlds for AI-Scientists",
+    "XStack benchmark targets ML repository migration",
+    "Muir brings linear attention with constant-memory long context",
+    "StrataFlux introduces memory-hierarchy-native quantization",
+    "OPD vs GRPO compares distillation and RL compute costs",
+    "Failure prediction for VLAs advances embodied robustness"
+  ],
+  "ai-community": [
+    "Devs converge on agent reliability as engineering problem",
+    "Claude Code User-Agent email leak sparks security unease",
+    "Prompt-injection scanning across hundreds of skills urged",
+    "LLMs natively reading/writing neural weights trends on Lobste.rs",
+    "Cost realism: $150k self-hosting bills and $12,000 runs",
+    "Multi-agent testing post tops Dev.to with 114 reactions"
+  ]
+}
