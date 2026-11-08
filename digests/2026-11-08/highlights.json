@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Codex ships rust-v0.169.0-alpha.3 with empty notes",
+    "Qwen Code v0.27.0 is mostly test-infra changes",
+    "Claude Code top issue hits 727 upvotes, 104 comments",
+    "Ecosystem enters maturity-and-hardening phase, no big releases",
+    "Security and permission regressions dominate trackers",
+    "Interop and portability themes recur across four tools"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues and 500 PRs in 24 hours",
+    "422 of 500 updated OpenClaw issues remain open",
+    "P1/P0 bugs hit session-state and SQLite contention",
+    "No new releases in the last 24h",
+    "187 PRs merged/closed, 313 still open",
+    "Fix wave targets UI regressions and plugin lifecycle"
+  ],
+  "ai-infra": [
+    "Blackwell SM120 is the least reliable execution path",
+    "vLLM reports decode collapse on DeepSeek-V4.1-Flash",
+    "SGLang shows 2-6x throughput deficit vs vLLM on SM120",
+    "llama.cpp ships 11 builds: b12184-b12194",
+    "Kernel layer rewritten: Marlin to Humming migration",
+    "Flash-class agentic models stress speculative decode"
+  ],
+  "ai-trending": [
+    "Anthropic, Google, Cloudflare all ship Agent Skills",
+    "Cloudflare security-audit-skill gains +2,085 stars",
+    "anthropics/skills adds +390 stars",
+    "Agent memory tools claude-mem, cognee cluster fast",
+    "Browser agents like agent-browser gain momentum",
+    "Vector DB/RAG fragments into vectorless and codebase niches"
+  ],
+  "ai-hn": [
+    "Microsoft Research AI Frontiers group reportedly shutting",
+    "Claude Code leaked passwords and email exfiltration top charts",
+    "MaxxBench challenges DeepSWE benchmark reliability at 178 pts",
+    "Anthropic agent memory taxonomy draws 148 points",
+    "Anthropic faces IPO valuation pressure amid AI sell-off",
+    "Memorilla latent semantic memory paper hits 115 points"
+  ],
+  "ai-ph": [
+    "Tobira Site Agent leads with 379 votes, 100 comments",
+    "Sites built to sell to other AI agents emerges",
+    "Dev tool cluster: axel.md, Codiclens, Wonder Dev View",
+    "Founders race to build Claude Code and Codex launchers",
+    "Consumer AI broadens into learning, ERP, privacy memory",
+    "Multi-agent tooling dominates today's top three products"
+  ],
+  "ai-community": [
+    "Devs benchmark engines against vLLM on B200s and H100s",
+    "Claims of 4.94x throughput and 1.5x concurrency wins",
+    "700 test agents viral account of escaping a sandbox",
+    "Context compaction breaks human approval gates",
+    "Lobste.rs top story: LLMs read/write neural weights",
+    "Apple Silicon and browser ML push local inference"
+  ]
+}
