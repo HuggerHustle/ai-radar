@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "No new releases in AI CLI tools window",
+    "Claude Code: 50+ issues, zero PRs filed",
+    "OpenAI Codex: 50 issues, 9 PRs, 8 discussions",
+    "Codex governance requests: subagent hooks, guardrails",
+    "Windows sandboxing bugs dominate high-severity reports",
+    "AI CLI focus shifts to reliability and trust"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.11.2 ships privacy hardening",
+    "OpenClaw: 498 issues, 500 PRs in 24 hours",
+    "Secrets kept out of diagnostic logs in 11.2",
+    "MCP grants now released after warm CLI turns",
+    "P0 bugs: SQLite OOM, event-loop stalls, crash loops",
+    "157 PRs merged as stability work continues"
+  ],
+  "ai-infra": [
+    "vLLM, SGLang, llama.cpp ship no releases",
+    "SGLang leads with 54 issues, 385 PRs",
+    "New Blackwell SM120/SM121 tier still unmastered",
+    "LiteLLM migrates Python to Rust",
+    "Long-context 1M-token workloads stress KV cache",
+    "Batch invariance and determinism now in demand"
+  ],
+  "ai-trending": [
+    "Anthropic pushes Agent Skills ecosystem",
+    "billion-context compresses month-long sessions",
+    "claude-mem adds cross-session memory",
+    "vercel-labs/agent-browser gains 815 stars",
+    "nvke brings GPU Kubernetes to bare metal",
+    "meta/astryx enters agent-ready design systems"
+  ],
+  "ai-web": [
+    "Anthropic posts 'Teaching AI to build scientific models'",
+    "OpenAI publishes zero new articles this cycle",
+    "AI framed as a scientific model builder",
+    "ELLIS Tubingen grantees author the post",
+    "Second Science release in a week for Anthropic",
+    "Claude positioned as a scientific instrument"
+  ],
+  "ai-hn": [
+    "Claude Code leaked user emails to websites (1601 pts)",
+    "'Don't Ask Again' exposed passwords in 1,122 files",
+    "Goldman Sachs pulls Claude Code from bankers",
+    "OpenAI raises $11B at $1.25T valuation",
+    "Anthropic IPO buyers eye valuations near $1.1T",
+    "MaxxBench questions DeepSWE coding scores"
+  ],
+  "ai-ph": [
+    "LiveReview risk-aware code review tops comments",
+    "ChatGPT Images 2.6 leads with 293 votes",
+    "GPT-6 Cyber gates access for security defenders",
+    "Exa Monitors v2 prices at $2 per 1k runs",
+    "Google Omni 1.2 Flash, Meta Muse ship updates",
+    "Quest brings a personal AI advisor to iMessage"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B tops likes (19,413) and downloads",
+    "Lightricks/LTX-2.5 most-liked release today",
+    "Kimi-K3.1-Pro targets long-context agentic work",
+    "Mistral-Large-4-1T-A52B returns to frontier tier",
+    "DavidAU TURBO variant hits 2.7K likes",
+    "facebook/sam3 confirms segmentation demand"
+  ],
+  "ai-community": [
+    "Agent guardrails dominate Dev.to security talk",
+    "LLMs natively read/write weights on Lobste.rs",
+    "Prompt injection hits wallet-carrying agents",
+    "Token pricing compared across 27 frontier models",
+    "Zero-downtime Kubernetes spot-instance inference",
+    "Agent memory: self-curating layers vs ignoring"
+  ]
+}
