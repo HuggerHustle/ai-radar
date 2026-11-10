@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "7-player AI CLI field consolidates into clear tiers",
+    "Reliability, not capability, is the day's story",
+    "Claude Code, Codex, Copilot CLI all shipped within 24h",
+    "Permissions that don't apply plague 3 tools",
+    "Agents stopping early or misreporting hit 5 tools",
+    "MCP and subagents now shared infrastructure"
+  ],
+  "ai-agents": [
+    "OpenClaw: 500 issues, 500 PRs in 24 hours",
+    "OpenClaw backlog-heavy: 352 open vs 148 merged PRs",
+    "OpenClaw P0 crash-loops on Windows, RHEL 8, K8s",
+    "No new OpenClaw release cut in last 24h",
+    "OpenClaw stale bugs linger on memory and sessions",
+    "OpenClaw fixes parameterized data URL rejection"
+  ],
+  "ai-infra": [
+    "AI infra in hardening phase, no major releases",
+    "Blackwell SM120 and ROCm gfx95x lead hardware race",
+    "Speculative decoding flagged as systemic risk area",
+    "SM120 not yet production-safe for DeepSeek-V4.1",
+    "LiteLLM, Ollama absorb agentic-workload demands",
+    "Multi-tenant isolation now gates production deploy"
+  ],
+  "ai-trending": [
+    "Anthropic skills repo gains 1,038 stars today",
+    "Vercel agent-browser hits +916 stars",
+    "OpenMausBot surges +1,587 stars in a day",
+    "Meta astryx tops momentum at +3,278 stars",
+    "Persistent agent memory cluster goes commodity",
+    "Rust agent tooling signals production readiness"
+  ],
+  "ai-web": [
+    "Claude Fable 5.2 designs electronic prototypes end-to-end",
+    "Anthropic FlashProve enables provable inference verification",
+    "Anthropic pushes beyond language into embodied tasks",
+    "OpenAI posts two metadata-only entries today",
+    "Anthropic's 'capability plus trust' week stands out",
+    "OpenAI signals lean toward enterprise distribution"
+  ],
+  "ai-hn": [
+    "Claude Fable 5.2 tops HN with 621 comments",
+    "Goldman Sachs pulling Claude Code sparks 884-point thread",
+    "'Goodbye Claude, hello Pi' post hits 805 points",
+    "Meta Muse Ember small model draws 259 points",
+    "Gemini allegedly routes Drive files to human annotators",
+    "AI bubble debate essay hits 941 comments"
+  ],
+  "ai-ph": [
+    "AXL tops Product Hunt with MCP GTM copilot",
+    "AXL exposes 1,200+ actions via MCP",
+    "NoMac and Agent Clan target agent compute layer",
+    "Mac-native cluster: Zigzag, NotchIsland, NoMac",
+    "Developer infra crowded: Sage2, outages.live, mamitsu",
+    "World Labs Frameboy pushes generative world pipelines"
+  ],
+  "ai-community": [
+    "Prompt injection reframed as authorization problem",
+    "AI coding productivity claims challenged on Dev.to",
+    "Agents show context drift after ~20 minutes",
+    "Secrets leaking from coding agents raises alarms",
+    "Rust in the LLM era debated on Lobste.rs",
+    "PDF-hidden prompt injections surface on Lobste.rs"
+  ]
+}
