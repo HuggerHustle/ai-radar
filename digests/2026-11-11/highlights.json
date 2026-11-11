@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Windows and MCP regressions dominate CLI issue trackers",
+    "Claude Code v2.1.322 adds Vertex fast-mode support",
+    "Codex ships rust-v0.167.1 patch and v0.169.0-alpha.9",
+    "Subagent execution and session durability get hardened",
+    "Windows and Wayland users still report second-class UX",
+    "Agent-permission and trust failures are top complaint"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 281 issues and 500 PRs in one day",
+    "OpenClaw ships v2026.11.3 plus backported v2026.9.37",
+    "Private subagent results no longer leak into chat replies",
+    "Upgrades from 2026.10.10 refused over retired age field",
+    "Session-state and memory/dreaming bugs top concerns",
+    "Maintainer triage backlog now the main bottleneck"
+  ],
+  "ai-infra": [
+    "vLLM, llama.cpp, SGLang all report spec-decode divergences",
+    "LiteLLM v1.107.0 flagged for supply-chain compromise",
+    "MoE support on AMD gfx950 and Blackwell SM120 tracked",
+    "KV-cache offload integrity and tiered caching in focus",
+    "No major releases, but heavy correctness regression load",
+    "Unsloth patches sandbox and admin-password bypasses"
+  ],
+  "ai-trending": [
+    "anthropics/skills gains 1,679 stars as agent skills trend",
+    "Meta astryx tops trending with 3,108 stars, 'agent ready'",
+    "Context compression wave cuts token costs 60-97%",
+    "Vercel agent-browser adds 780 stars for agent automation",
+    "Home Assistant MCP pushes agents into home automation",
+    "Vectorless context challengers: PageIndex, OpenViking, cognee"
+  ],
+  "ai-web": [
+    "Anthropic launches IPO roadshow at $70-78 per share",
+    "Anthropic to list on Nasdaq under ticker 'ANT'",
+    "OpenAI publishes eight items in a single 24-hour window",
+    "OpenAI pushes enterprise, workforce, and education content",
+    "Anthropic offers 825M Class A shares in landmark IPO",
+    "Sharp contrast: capital markets vs commercial penetration"
+  ],
+  "ai-hn": [
+    "Claude Fable 5.2 and Mythos 5.2 top HN with 875 points",
+    "Fable 5.2 scores 65 on Artificial Analysis, highest yet",
+    "'AI usage generates a fragile codebase' hits 365 points",
+    "Amazon claims millions saved replacing Sonnet 4.6",
+    "Gemini allegedly routes Drive files to human annotators",
+    "Anthropic IPO valued at $1.3-1.4T in reports"
+  ],
+  "ai-ph": [
+    "MCP dominates Product Hunt as the day's defining theme",
+    "Product Hunt MCP launches with 437 votes",
+    "Voyager helps agents navigate large codebase context",
+    "Higgsfield Miracle, Cardboard AI lead AI video editing",
+    "ProtoMap targets coding agent token efficiency",
+    "Arcjet AI brings security to coding agents"
+  ],
+  "ai-arxiv": [
+    "FP4 pretraining slows rare-fact learning despite loss",
+    "Agentic RL checkpoints silently discard learned skills",
+    "New work probes alignment emergence and its boundaries",
+    "HiVe-Mem, MaxIM drive long-horizon agent memory research",
+    "Papers question when models quietly stop working",
+    "AI reaches clinical auditing and stellarator coil design"
+  ],
+  "ai-community": [
+    "Dev.to: build agent runtime layers, not frameworks",
+    "Agent config treated as an unverified dependency",
+    "Review gates risk rubber-stamping human failure modes",
+    "Firecracker VM escapes and PDF prompt injection on Lobste.rs",
+    "LiteLLM Rust 7x benchmark claims scrutinized",
+    "Cost-per-task beats raw spend for LLM accountability"
+  ]
+}
