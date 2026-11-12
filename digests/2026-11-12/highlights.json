@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI tools enter hardening-and-parity phase",
+    "Trust-eroding bugs dominate all seven trackers",
+    "Windows and ARM64/6.12 pain cluster hits four tools",
+    "Cross-harness ecosystem layer emerges: MCP, hooks, Concord",
+    "Qwen Code 1.0 Preview signals OSS consolidation",
+    "OpenCode v2 rollout targets production-grade agents"
+  ],
+  "ai-agents": [
+    "OpenClaw: 476 issues, 500 PRs in 24 hours",
+    "OpenClaw ships v2026.11.5-beta.2 with paged history",
+    "Maintainer push removes sync FS/DB from Gateway loop",
+    "OpenClaw P0 crash-loops linger 60-150+ days",
+    "Bounded archive reads prevent long-session memory bloat",
+    "macOS app now preserves saved secrets across restarts"
+  ],
+  "ai-infra": [
+    "AI infra enters hardening and consolidation phase",
+    "Only Unsloth shipped a release: v0.1.917-beta",
+    "Hardware diversification erodes CUDA-only assumption",
+    "Silent correctness bugs now top production risks",
+    "Speculative decoding is the main optimization battleground",
+    "Multi-tenant security emerges as first-class concern"
+  ],
+  "ai-trending": [
+    "Agent harness layer dominates today's AI momentum",
+    "affaan-m/ECC tops LLM topic at 301k stars",
+    "NousResearch/hermes-agent leads agents at 262k stars",
+    "caveman cuts coding-agent tokens by ~65%",
+    "PageIndex and graphify challenge vector-store default",
+    "ollama hits 186,709 stars for local multi-model runs"
+  ],
+  "ai-web": [
+    "OpenAI publishes one new page: chatgpt-plus-for-veterans",
+    "Anthropic posts zero new articles today",
+    "OpenAI entry is metadata-only with no body retrieved",
+    "New OpenAI item looks like access/benefits program",
+    "Low-signal cycle dominated by one non-technical page",
+    "Anthropic's single-day silence isn't a strategic shift"
+  ],
+  "ai-hn": [
+    "United Airlines bans AI booking agents (387 pts)",
+    "Claude Fable 5.2 / Mythos 5.2 hits 909 pts, 1039 comments",
+    "Gemini Decisions API reframes LLMs as decision engines",
+    "'AI usage generates a fragile codebase' scores 631 pts",
+    "Amazon claims millions saved replacing Sonnet with Strands",
+    "HN mood: enthusiastic about tooling, wary on economics"
+  ],
+  "ai-ph": [
+    "Alsona tops Product Hunt at 486 votes for sales agents",
+    "Agentic verticals dominate: accounting, QA, sales",
+    "Maxma leads AI ad teammates with 325 votes",
+    "ForAgent gives AI agents private phone numbers",
+    "Co-Review and Inspo target coding agents directly",
+    "MuJoCo 4 and Co-Review anchor dev-tool launches"
+  ],
+  "ai-arxiv": [
+    "Push to make foundation models practical and trustworthy",
+    "Papers question if FMs beat specialized baselines",
+    "Agent research matures: memory, evaluation, distillation",
+    "New theory on policy optimization and coverage collapse",
+    "REAL Loss optimizes speculative decoding acceptance",
+    "Efficiency focus: quantized inference and diffusion sampling"
+  ],
+  "ai-community": [
+    "Dev.to QA group chat disputes AI productivity gains",
+    "Most agent 'hallucinations' are spec gaps, not models",
+    "Anthropic Glasswing bug-discovery machine audited",
+    "Prompt injections hidden in PDFs overwhelm maintainers",
+    "Lobste.rs weighs Rust in the LLM age",
+    "Firecracker VM escapes and ML on the dataplane debated"
+  ]
+}
