@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.323 ships Code Mode and plugin engines",
+    "Seven AI CLI tools now compete on agent runtime robustness",
+    "Platform friction on Windows, WSL, Wayland drives user pain",
+    "Context budgets and MCP auth remain unsolved physics",
+    "Codex adds agent-tree suspension for resumable sessions",
+    "OpenCode's Advisor dual-model tool targets multi-agent work"
+  ],
+  "ai-agents": [
+    "OpenClaw: 432 issues, 500 PRs in 24 hours",
+    "No new OpenClaw stable release despite staged fixes",
+    "SQLite/WAL persistence layer is top instability source",
+    "Historical-state fix only in v2026.11.5-beta.1/.2",
+    "Maintainer review bottleneck flagged as key risk",
+    "216 PRs merged or closed in a single day"
+  ],
+  "ai-infra": [
+    "No new releases; hardening phase across all engines",
+    "SGLang lands 12 Rust PRs for server rewrite",
+    "llama.cpp ships 5 builds b12321–b12340",
+    "SSRF fix lands in llama.cpp",
+    "Speculative decoding causes silent data corruption",
+    "Multi-tenant isolation issues hit SGLang and Ollama"
+  ],
+  "ai-trending": [
+    "meta/astryx gains +1,830 stars as agent-ready design system",
+    "openai/codex-security launches with +643 stars in a day",
+    "addyosmani/agent-skills climbs +816 stars",
+    "Token-efficiency wave: headroom and caveman trending",
+    "TensorFold brings Zig inference to Metal, CUDA, Vulkan",
+    "RAG shifts to vectorless and context-database approaches"
+  ],
+  "ai-web": [
+    "Anthropic files S-1 for Nasdaq IPO under ticker ANT",
+    "Claude 4 page resurfaces ahead of public-market pitch",
+    "OpenAI publishes zero new articles this cycle",
+    "Anthropic consolidates frontier lab plus platform narrative",
+    "IPO filing dated Oct 26, 2026, first seen Nov 12",
+    "Claude Code GA and parallel tool use date to May 2025"
+  ],
+  "ai-hn": [
+    "Anthropic IPO thread hits 819 points, 805 comments",
+    "Gemini 4 Hydrogen launch dominates with three submissions",
+    "Claude Fable 5.2 and Mythos 5.2 top engagement at 918 points",
+    "Gemini Decisions API post pulls 553 points",
+    "United Airlines bans AI booking agents, sparks debate",
+    "Apple Foundation Models and local-AI projects cluster"
+  ],
+  "ai-ph": [
+    "Nod by n8n tops agent launches at 296 votes",
+    "CALL-E brings voice telephony to autonomous agents",
+    "ElevenLabs Scribe v3 pushes speech latency boundaries",
+    "ByteDance Seedream 5.5 and MiniMax H3-Image ship",
+    "ScroogeFrog AI wins day with ad fraud detection",
+    "Open source appears in nearly a third of launches"
+  ],
+  "ai-community": [
+    "MCP simplicity debate pulls 52 comments on Dev.to",
+    "Tool-heavy MCP setups silently drain context windows",
+    "Developers measure Claude Code cost per request",
+    "Lobste.rs flags prompt injections hidden in PDFs",
+    "Firecracker VM escapes raise agent sandbox concerns",
+    "Long Live Rails tops Dev.to with 83 reactions"
+  ]
+}
