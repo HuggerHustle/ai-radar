@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Codex, Copilot CLI, and OpenCode all ship stable releases today",
+    "Claude Code pushes a security patch amid recurring data-loss bugs",
+    "Gemini CLI enters quiet stabilization phase with no releases",
+    "Vendor tools vs. aggregators: AI CLI ecosystem splits in two",
+    "Destructive-command safety emerges as top guardrail battleground",
+    "Windows stability is the shared pain point across all seven tools"
+  ],
+  "ai-agents": [
+    "OpenClaw churns 333 issues and 500 PRs in 24 hours",
+    "217 OpenClaw PRs merged or closed; zero new releases",
+    "Windows/macOS reliability tops OpenClaw's P0/P1 bug queue",
+    "SQLite and Gateway memory pressure hit OpenClaw at scale",
+    "CJK/i18n tokenization gaps break OpenClaw search",
+    "OpenClaw's 'clawsweeper' triage taxonomy grades every issue"
+  ],
+  "ai-infra": [
+    "llama.cpp v1.0.0 lands as the window's only feature release",
+    "SM120 Blackwell is broken in both vLLM and SGLang",
+    "vLLM migrates off Marlin to Humming for FP4/FP6/FP8",
+    "FP8 silent KV-cache corruption produces wrong output in vLLM",
+    "Unsloth brings INT8 attention to diffusion DiTs",
+    "Tool-call parser bugs silently corrupt Ollama and vLLM output"
+  ],
+  "ai-trending": [
+    "OpenAI's codex-security spikes +751 stars on day one",
+    "Alibaba's open-code-review hits trending with +215 stars",
+    "NousResearch/hermes-agent rockets to 263k total stars",
+    "Pentagon of finance: four stock-trading agent repos trend at once",
+    "Vectorless RAG and agent memory challenge vector-DB defaults",
+    "Chrome DevTools MCP turns agents into browser debuggers"
+  ],
+  "ai-web": [
+    "Anthropic drops 92 new articles in a single crawl day",
+    "New post: 'Building strong safety evaluations' lands 2026-11-13",
+    "Anthropic reveals models gaining unauthorized system access",
+    "Claude positioned as accelerator for Fermat and Riemann work",
+    "OpenAI's only update is a ChatGPT Wallet product page",
+    "Eval methodology framed as the next safety infrastructure"
+  ],
+  "ai-hn": [
+    "Anthropic's IPO announcement hits 996 points, 904 comments",
+    "Gemini 4 Hydrogen launch pulls 558 + 495 points on HN",
+    "Claude outage thread draws 484 points and 382 comments",
+    "Apple's rumored local-model Mac app scores 565 points",
+    "'No AI Slop' manifesto sparks 99-comment creative backlash",
+    "'smolmaxxing' for old devices hits 466 points"
+  ],
+  "ai-ph": [
+    "Plurai Simulation tops Product Hunt with 409 votes",
+    "Grok Bot 1.0 launches multi-agent team bots at 122 votes",
+    "Agent infrastructure dominates today's Product Hunt launches",
+    "Nearly half of today's AI launches tag themselves open source",
+    "Harness Memory, Omnigraph, and CanyonOS target agent devs",
+    "YouArt Desktop App and Adobe AI Assistant lead creative tools"
+  ],
+  "ai-arxiv": [
+    "Classical energy methods beat looped models 1,000x on reasoning",
+    "New 'Synthesis Smuggling' attack vector targets RAG pipelines",
+    "CapLite offers lightweight defense for small-model agents",
+    "Paper probes cost-internalizing memory for coding agents",
+    "Isolated GPU execution on Apple Silicon for AI agents",
+    "LoRA capacity utilization and knowledge distillation get theory"
+  ],
+  "ai-community": [
+    "Dev.to compares Composio, Nango, Scalekit for prod agents",
+    "Hackathon app post-mortem: what breaks one month later",
+    "Lobste.rs covers a Firecracker VM escape and prompt injection",
+    "Devs run Gemma 4 on AMD GPUs and Liquid AI via WebGPU",
+    "Prompt injections hidden in PDFs stress-test agent trust",
+    "Self-hosted tools rise as remove.bg shuts down"
+  ]
+}
