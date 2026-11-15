@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem enters consolidation-and-hardening phase",
+    "No major releases across 7 tools in past 24h",
+    "Context/resource bloat now top complaint: image, MCP, tokens",
+    "Subagent reliability issues: hangs, silent mis-termination",
+    "MCP lifecycle correctness becomes critical infrastructure",
+    "Trust gaps grow: instruction erosion, silent permission drops"
+  ],
+  "ai-agents": [
+    "OpenClaw: 395 issues, 500 PRs updated in 24h",
+    "OpenClaw ships v2026.11.5-beta.3 for large-session reliability",
+    "Only 65 of 395 OpenClaw issues closed today",
+    "OpenClaw backlog: 330 active issues, 340 open PRs",
+    "Beta.3 performance failures deliberately waived for release",
+    "High-severity session-state and memory bugs dominate"
+  ],
+  "ai-infra": [
+    "AI infra in hardening mode; no headline releases today",
+    "Blackwell/SM120 CUDA-graph and FlashInfer regressions hit",
+    "LiteLLM /v1/responses budget overrun and stream-cancel hole",
+    "vLLM migrates Marlin to Humming kernels, TP-agnostic KV",
+    "SGLang consumer Blackwell sm_120 still unsupported",
+    "Unsloth races to land native DeepSeek-V4.1 and FSDP2/TP/PP"
+  ],
+  "ai-trending": [
+    "Context engineering dominates: caveman cuts tokens 65%",
+    "headroom trims JSON tokens 60–95% for agents",
+    "claude-mem adds persistent cross-session memory",
+    "Chrome DevTools MCP gains 664 stars in a day",
+    "affaan-m/ECC hits 303k stars as agent harness optimizer",
+    "Agent infrastructure category crystallizing: AG-UI, LoopForge"
+  ],
+  "ai-hn": [
+    "Nvidia 'engineered scarcity' story hits 1032 points",
+    "Report: ~1.5GW banned GPUs smuggled to China",
+    "Gemini 4 Hydrogen launch draws 568 points",
+    "Claude outage thread hits 493 points",
+    "Blow's 'AI solved coding?' most-commented at 668",
+    "Mood: bullish on capability, bearish on trust"
+  ],
+  "ai-ph": [
+    "Filament by Galaxy tops PH with 306 votes",
+    "Claude Meetings adds AI to live calls, 293 votes",
+    "Launches skew to agentic infra and dev tooling",
+    "Meta-layer dev tools cluster: Burnstate, Expo Simulators",
+    "Gemini 4 Hydrogen and Trainn MCP compete for agents",
+    "Open source strong at top, absent mid-tier"
+  ],
+  "ai-community": [
+    "Dev.to: 10 lines to constrain coding agents in repos",
+    "Authors flag 'success that isn't success' in LLM gateways",
+    "Jane Street datacenter false smoke alarm tops Lobste.rs",
+    "Posts revisit ML fundamentals: transformers from memory",
+    "4GB-GPU inference and KV-cache fixes trending",
+    "temperature=0 non-determinism surprises developers"
+  ]
+}
