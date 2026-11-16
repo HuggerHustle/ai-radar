@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "Zero stable releases across all seven AI CLI tools today",
+    "Codex ships two alphas; Qwen Code releases v0.27.4 plus nightlies",
+    "Reliability debt dominates: Windows regressions and auth fragility",
+    "Sandbox escape vectors and silent failures top issue trackers",
+    "Enterprise push toward remote/headless JSO-RPC agent protocols",
+    "PR throughput near-zero for Claude Code, Copilot CLI, and Pi"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 499 issues and 500 PRs updated in 24h",
+    "OpenClaw ships zero releases despite 170 merged PRs",
+    "P0/P1 crash-loop and session-state regressions dominate tracker",
+    "Plugin capture stalls and gateway lifecycle failures reported",
+    "Team in hardening sprint via ClawSweeper triage and bot PRs",
+    "Fixes accumulate on main, unreachable via openclaw update"
+  ],
+  "ai-infra": [
+    "Serving engines pivot from features to compatibility guarantees",
+    "llama.cpp lands TTS, STT, and vision in a single day",
+    "vLLM advances Rust frontend roadmap amid streaming fixes",
+    "SGLang's 1.0 pledges no silent config changes",
+    "LiteLLM rewrites budgets and Bedrock path in Rust",
+    "Unsloth fixes silent MoE router aux-loss gradient drop"
+  ],
+  "ai-trending": [
+    "Agent tooling dominates trending over model training",
+    "plannotator gains +866 stars in a single day",
+    "chrome-devtools-mcp climbs +717 stars",
+    "open-code-review adds +691; LoopForge gains +423",
+    "Agent Skills standardization wave from Google and NVIDIA",
+    "Google's stitch-skills hits +247 with portable skills"
+  ],
+  "ai-hn": [
+    "Nvidia market-practices debate tops 1,098 points",
+    "'All AI code should be open source' draws 1,071 points",
+    "Jonathan Blow questions why software quality hasn't improved",
+    "Google launches Gemini 4 Hydrogen amid AI race",
+    "Anthropic reportedly files for IPO",
+    "Chinese models carry export-controlled GPU fingerprints"
+  ],
+  "ai-ph": [
+    "HiringNow leads Product Hunt with 302 votes",
+    "OpenAI's Businesses in ChatGPT lands 219 votes",
+    "Google debuts Gemini Robotics 2.5 and Tabletop",
+    "Open-source current runs through CaptureFlow and Kokonut UI",
+    "Antelog targets prevention of agent data leaks",
+    "CodeMesh slashes inference costs for AI agents"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B tops list with 20,123 likes",
+    "Qwen3.8 family spawns GGUF, abliterated, heretic variants",
+    "MiniMax breaks out with three trending entries",
+    "Uncensored 'heretic' fine-tunes remain a persistent subculture",
+    "Meta's SAM3 and DINOv3 hold strong engagement",
+    "DeepSeek-V4.1-Flash-1017 draws 5,735 likes"
+  ],
+  "ai-community": [
+    "Developers pivot from AI hype to operational guardrails",
+    "Agents misbehaving in production drive deterministic fixes",
+    "Dev.to spotlights agents misattributing 'we talked' context",
+    "Practitioners wrestle with KV cache limits and gateway security",
+    "Lobste.rs leans theoretical: transformer explainers and ML design",
+    "Growing interest in local OS models for privacy"
+  ]
+}
