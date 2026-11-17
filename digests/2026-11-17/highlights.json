@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "All 7 AI CLI tools mid-flight on major refactors",
+    "Convergence on TUI/desktop/web/mobile parity",
+    "Claude Code v2.1.326 patch ships; 310-comment issue",
+    "Extension ecosystems surge: MCP, plugins, skills",
+    "Codex, Qwen Code, OpenCode in high-velocity churn",
+    "Ecosystem shifts from 'can it work' to 'trust it'"
+  ],
+  "ai-agents": [
+    "OpenClaw: 322 issues, 500 PRs in 24 hours",
+    "OpenClaw v2026.11.4: 220 commits, 90 contributors",
+    "P0/P1 Gateway event-loop and WAL bugs open",
+    "Upgrade-path issues plague 11.1 to 11.3 migrations",
+    "Beta line 2026.11.5-beta.3 active in parallel",
+    "Stability strained under production-scale load"
+  ],
+  "ai-infra": [
+    "vLLM v0.34.0: 1,061 commits, 412 contributors",
+    "SGLang pre-1.0 stabilization; 10 CI jobs broken",
+    "LiteLLM mid-flight Python-to-Rust migration",
+    "Unsloth v0.1.918-beta adds computer use, MCP",
+    "ROCm RDNA bug closed; AMD coverage race heats",
+    "Local runtimes expand into audio/multimodal"
+  ],
+  "ai-trending": [
+    "Agent Skills ecosystem dominates: evaluators, bundles",
+    "ChromeDevTools MCP spikes +841 stars in a day",
+    "AG-UI protocol surges +791 for agent frontends",
+    "NVIDIA SkillEvaluator climbs +873 with quality gates",
+    "Context/memory compression emerges as discipline",
+    "Alibaba open-code-review hits +951 stars"
+  ],
+  "ai-web": [
+    "Anthropic commits $100M to engineering talent academy",
+    "Anthropic cuts vuln disclosure window 90 to 30 days",
+    "Barclays to put Claude Code on 50% of developers",
+    "Anthropic pledges 5% share to Public Benefit Fund",
+    "OpenAI pushes healthcare computer-use agents",
+    "OpenAI, LVMH enterprise partnership rounds crawl"
+  ],
+  "ai-hn": [
+    "'All AI-generated code should be Open Source': 1,267 pts",
+    "Qwen4-Max tops feed at 854 pts, 471 comments",
+    "Claude Mythos onboards AMD GPUs in three days",
+    "Windows 11 telemetry on coding agents: 321 pts",
+    "Forensic GPU fingerprinting story hits 448 pts",
+    "Credential-free agent runner gains traction"
+  ],
+  "ai-ph": [
+    "Rakazo leads at 401 votes: self-hosted Grok Bot",
+    "Frevana Multiplayer: AI as collaborative teammate",
+    "Talyn offers parallel cloud sandboxes for coding",
+    "Five of twelve launches are open source or GitHub",
+    "Polylane for Security scans pre-ship vulnerabilities",
+    "Pixel Office runs agent teams in pixel-art UI"
+  ],
+  "ai-community": [
+    "Agent retries duplicate successful tool calls",
+    "MCP tool calls can resolve and still fail",
+    "Prompt injection hidden in agent instruction files",
+    "Slopsquatting: attackers register hallucinated npm packages",
+    "'Secret broker' pattern gains traction for agents",
+    "Orchestration frameworks falsely report 100% success"
+  ]
+}
