@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.327 security patch",
+    "Codex, Qwen Code, OpenCode ship daily releases",
+    "Agent subagent reliability dominates all trackers",
+    "Windows platform friction spikes across CLI tools",
+    "Enterprise governance: sandbox policies, multi-account",
+    "Gemini CLI and Pi pause releases for refactors"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 472 issues and 500 PRs in 24h",
+    "OpenClaw v2026.11.5 adds restart-safe conversations",
+    "Failed updates now roll back instead of half-applying",
+    "SQLite/WAL contention bugs still open since September",
+    "Five-project claw ecosystem: OpenClaw, Hermes, IronClaw",
+    "Top issues draw 10-42 comments from deep users"
+  ],
+  "ai-infra": [
+    "vLLM discloses SwiGLU clamp bug causing log-prob errors",
+    "SGLang reports fp16 MHA NaN degrading output silently",
+    "LiteLLM rewrites proxy data plane in native Rust",
+    "Blackwell SM120, MI355X, Ascend NPU support race",
+    "Unsloth silently dropped MoE router aux loss",
+    "llama.cpp and Ollama absorb multimodal and TTS work"
+  ],
+  "ai-trending": [
+    "obra/superpowers gains +1,917 stars in one day",
+    "ag-ui standardizes Agent-User Interaction Protocol",
+    "Tencent LoopForge ships self-hosted agent orchestration",
+    "headroom and PageIndex push context compression, RAG",
+    "alibaba/open-code-review enters enterprise code review",
+    "Agent skills and harnesses dominate GitHub trending"
+  ],
+  "ai-web": [
+    "Anthropic launches Claude for Financial Services + Excel",
+    "Sonnet 4.5 tops Vals AI Finance Agent at 55.3%",
+    "Anthropic verifies RISC-V assembly across 100+ libraries",
+    "OpenAI metadata hints at ChatGPT for Sales vertical",
+    "OpenAI slugs reveal GPT-6.2 Astra Sol and Astra Law",
+    "Both labs push verticalized enterprise offerings"
+  ],
+  "ai-hn": [
+    "GPT-6.2 Astra and Sol tops HN at 1,112 points",
+    "Microsoft counters with MAI Code 2 and Code 2 Flash",
+    "Verification, not generation, is the new bottleneck",
+    "Report: Google AI answers cut search traffic 40%",
+    "IMF warns on circular AI financing risks",
+    "Anthropic lobbying news fuels institutional anxiety"
+  ],
+  "ai-ph": [
+    "Zoom Slides turns meeting recordings into decks, 300 votes",
+    "Boost.space AgentOS unifies agent orchestration at 284",
+    "ChatGPT Wallet makes agentic commerce a product",
+    "readywhen and Cal.com v7 push AI email and calendar",
+    "Agent identity, testing, payment rails dominate PH",
+    "Shift from build-an-agent to operate-agents-safely"
+  ],
+  "ai-arxiv": [
+    "Evidence governance and reversibility classes go first-class",
+    "MoE work: activation compression, routing interventions",
+    "Quantization reframed as safety-relevant perturbation",
+    "Minimal-baseline studies challenge RAG and Transformer defaults",
+    "Autoregressive token regression amortizes optimal transport",
+    "Personalized alignment via multidimensional preference data"
+  ],
+  "ai-community": [
+    "Devs build prompt contracts and deterministic gates",
+    "Agents force-push main to scrub leaked key, making it worse",
+    "OpenTelemetry span nesting doubles agent token counts",
+    "Hidden-text prompt injection fools every model tested",
+    "AWS tutorial: build an MCP server with Strands Agents",
+    "Jane Street datacenter near-disaster discussed on Lobste.rs"
+  ]
+}
