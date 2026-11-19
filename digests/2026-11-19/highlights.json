@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem shifts to reliability over features",
+    "Cross-platform regressions hit Windows, WSL2, Wayland",
+    "MCP flagged as most fragile critical surface",
+    "Silent-failure semantics plague agent workflows",
+    "Claude Code prompt-leakage and rm -rf reports",
+    "Enterprise-readiness becomes first-class competitive axis"
+  ],
+  "ai-agents": [
+    "OpenClaw v2026.10.33 ships critical security fixes",
+    "OpenClaw sees 486 issues, 500 PRs in 24h",
+    "P1 crashes hit macOS, Windows, Linux/K8s",
+    "SQLite WAL and persistence blocking event loop",
+    "Managed-update and Doctor failures on nearby versions",
+    "Heavy maintenance load across 5 claw projects"
+  ],
+  "ai-infra": [
+    "AI infra enters consolidation-and-hardening phase",
+    "AMD MI355X and RDNA4 now first-class targets",
+    "SGLang formalizes 1.0 breaking-change policy",
+    "vLLM locks KV-cache and prefix-cache correctness",
+    "LiteLLM and Unsloth converge on agentic workloads",
+    "Prompt-cache stability is top failure mode"
+  ],
+  "ai-trending": [
+    "Agent skills and harness ecosystem dominates GitHub",
+    "Google paper-orchestra spikes +1,524 stars today",
+    "NVIDIA SkillEvaluator brings quality gates to skills",
+    "Context engineering backlash hits naive vector RAG",
+    "claude-mem, mem0, headroom ride memory wave",
+    "Four of top five trending repos are skills frameworks"
+  ],
+  "ai-web": [
+    "Anthropic prices IPO at $83 on Nasdaq as ANT",
+    "Claude Fable 5.2 solves two black hole problems",
+    "Anthropic expands Cyber Verification to three tiers",
+    "OpenAI crawl yields metadata-only, no article text",
+    "Anthropic ships 12 new articles on IPO day",
+    "OpenAI slugs hint frontier risk and Codex sandboxing"
+  ],
+  "ai-hn": [
+    "Google drops Gemini 4 Neon and Genie 4",
+    "Gemini 4 Neon framed as Opus 5.5 competitor",
+    "Google AI answers reportedly cut search traffic 40%",
+    "AI is killing All About Berlin tops 760 points",
+    "Microsoft Ignite 2026 ships seven new models",
+    "AI Doritos-bag gun lawsuit stirs civil-liberties worry"
+  ],
+  "ai-ph": [
+    "Appxiom tops Product Hunt with 289 votes",
+    "EkLine hits 270 votes for API-first AI SEO",
+    "superlog, seshka target agent lifecycle cleanup",
+    "Pinecall launches open-source voice AI agents",
+    "Glass Page lets humans review agent output",
+    "Developer tooling dominates over consumer AI"
+  ],
+  "ai-arxiv": [
+    "Agents shift to closed-loop self-correcting designs",
+    "Cost-aware System-1/System-2 offloading gains steam",
+    "Levenshtein editing boosts diffusion LMs",
+    "LLM reliability reframed as user-specific property",
+    "New benchmarks probe governed ML experimentation",
+    "Interpretability pushes on sink tokens, attribution"
+  ],
+  "ai-community": [
+    "Is AI coding faster and cheaper? 83 comments",
+    "Devs report agents editing files unasked",
+    "Orchestration token leaks and autoscaler failures",
+    "Guardrails blinded by token-saving modes",
+    "Lobste.rs digs into transformer and EBMs theory",
+    "Authors feel productive yet fragmented by AI"
+  ]
+}
