@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code ships v2.1.329 amid bug-fix push",
+    "Codex, Gemini CLI, Copilot CLI all released in 24h",
+    "Agent orchestration and MCP now top competitive focus",
+    "Subagent lifecycle and prompt-cache bugs dominate",
+    "Desktop, TUI, IDE, web converging on shared runtime",
+    "Claude Code hardens fork-PR safety workflows"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 466 issues and 500 PRs in 24h",
+    "Two OpenClaw releases: v2026.11.6 and v2026.11.10-beta.1",
+    "ClawHub agent templates via single CLAW.md manifest",
+    "OpenClaw upgrade-path failures are top user pain",
+    "State-DB corruption and cache bugs tagged P0/P1",
+    "OpenClaw ID node connectivity work begins"
+  ],
+  "ai-infra": [
+    "SGLang frames 1.0 as explicit stability release",
+    "vLLM retires native model implementations",
+    "llama.cpp, Ollama race on OpenCL and ROCm backends",
+    "Speculative decoding bugs hit every runtime",
+    "LiteLLM adds read-replica HA and budget guardrails",
+    "KV and prompt cache reuse remain fragile surfaces"
+  ],
+  "ai-trending": [
+    "Agent skill bundles dominate GitHub AI trending",
+    "caveman, headroom, claude-mem target token economy",
+    "firecrawl hits 204,302 stars, up 825 today",
+    "New skill packs outpace incumbents in daily stars",
+    "CLI-Anything and graphify make software agent-native",
+    "ollama at 187,675 stars with local Kimi, GLM support"
+  ],
+  "ai-web": [
+    "Anthropic: LLMs now verify 100+ open-source libraries",
+    "Claude writes RISC-V assembly-level security proofs",
+    "Formal verification framed as defense vs AI exploits",
+    "OpenAI posts on Daybreak Red deployment and perf",
+    "OpenAI entries metadata-only; no body text available",
+    "Anthropic warns standard defenses no longer suffice"
+  ],
+  "ai-hn": [
+    "Anthropic Nasdaq debut draws 923 points, 1,824 comments",
+    "Gemini 4 Neon tops Models Engineering Index, 1,017 pts",
+    "HN mood shifts toward governance and labor anxiety",
+    "FBI/Claude chats story fuels surveillance debate",
+    "\"Fuck Your AI Safeguards\" thread questions safety rhetoric",
+    "Frontier release cadence accelerates: Opus 5.5 chatter"
+  ],
+  "ai-ph": [
+    "S.Space leads Product Hunt with 379 votes",
+    "Toone and dusk bot push Grok-style automation bots",
+    "QA cluster: UI Verify, Replay QA, KaDeep AI, Polylane",
+    "Market shifts from building agents to verifying them",
+    "GPT-6.2 Astra and Sol launch on Product Hunt",
+    "Tencent Hy4 flash highlights low-cost efficiency push"
+  ],
+  "ai-arxiv": [
+    "50 papers push auditable, controllable AI systems",
+    "Contrastive prototype structures detect jailbreaks",
+    "Study questions whether human oversight adds value",
+    "Monoculture-robust PAC learning offers new theory",
+    "Papers tackle security-aware multi-agent replanning",
+    "Agentic engineering matures toward verifiable systems"
+  ],
+  "ai-community": [
+    "Dev.to: agents that lie, misremember, and break",
+    "Author finds 25 ways to make n8n agent lie",
+    "Markdown tables can hijack AI agents, demo shows",
+    "RAG that refuses to answer sparks evaluation debate",
+    "Lobste.rs weighs ML modules for non-experts",
+    "Developers increasingly skeptical of self-grading benchmarks"
+  ]
+}
