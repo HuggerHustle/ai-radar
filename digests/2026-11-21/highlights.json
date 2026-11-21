@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Vendors converge on shared agentic features.",
+    "Qwen Code focuses on CI gate stability.",
+    "Copilot and OpenCode report safety incidents.",
+    "7 AI CLI tools covered in digest.",
+    "Release cadence remains very high across tools.",
+    "Trust issues persist: continuity and cost."
+  ],
+  "ai-agents": [
+    "OpenClaw shows high maintenance but unstable.",
+    "No new releases in 24 hours for agents.",
+    "OpenClaw activity is dominated by bug triage.",
+    "Stability issues plague recent OpenClaw updates.",
+    "Hermes Agent and QwenPaw are top projects.",
+    "Stability phase noted over shipping phase."
+  ],
+  "ai-infra": [
+    "Ecosystem enters consolidation and hardening.",
+    "Model releases propagate across all stack layers.",
+    "Shared failure classes plague engine projects.",
+    "Agent/MCP workloads drive current optimizations.",
+    "vLLM deprecating TorchAO module.",
+    "LLaMA.cpp and Ollama are key local tools."
+  ],
+  "ai-trending": [
+    "'Agent Skills' meta-layer dominates trends.",
+    "Claude-BugHunter exploded with +1,622 stars.",
+    "RAG moves toward agent memory infrastructure.",
+    "Firecrawl leads infrastructure trending.",
+    "OpenCV and Cursor plugins are key trends.",
+    "Shift away from pure vector similarity."
+  ],
+  "ai-web": [
+    "Anthropic IPO closes raising $93.5B.",
+    "Anthropic releases scale-proof software verification.",
+    "OpenAI updates are currently opaque to analysis.",
+    "Anthropic dominates today's content cycle.",
+    "Technical milestones from Anthropic reported.",
+    "OpenAI output flagged as duplicate metadata."
+  ],
+  "ai-hn": [
+    "Anthropic IPO linked to $4T AI wipeout rumor.",
+    "Gemini 4 Neon dominates model discussion.",
+    "Papers suggest models can rewrite own weights.",
+    "Claude solves open problems in black hole physics.",
+    "AI performance claims meet skeptical scrutiny.",
+    "Privacy and governance top community threads."
+  ],
+  "ai-ph": [
+    "Dev tools dominate today's Product Hunt cohort.",
+    "TestSprite 4.0 leads with 365 votes.",
+    "MCP ecosystem matures via manufactured testing.",
+    "Adside uses specialized agents for ads.",
+    "Tabstack brings privacy to web access.",
+    "Focus is on builder segment, not consumers."
+  ],
+  "ai-arxiv": [
+    "Agentic systems target security and efficiency.",
+    "AutoMaster allows self-improvement via Skill-FT.",
+    "Robotics shows scaling in humanoid intelligence.",
+    "TideCache and AURA target inference efficiency.",
+    "New research focuses on principled post-training.",
+    "Interpretability and deception detection grow."
+  ],
+  "ai-community": [
+    "Hype challenged by 'While Loops in a Trench Coat'.",
+    "Agent instruction conflicts cause real friction.",
+    "Strong interest in agent testing frameworks.",
+    "Dev.to articles warn about agent failure.",
+    "AGENTS.md configuration wars emerge.",
+    "Lobste.rs discusses theoretical energy models."
+  ]
+}
