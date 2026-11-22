@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "Cross-device session sync is top unmet feature demand",
+    "Codex: 50 issues, 27 PRs updated; no release",
+    "Gemini CLI ships v0.71.0-nightly amid 10 hot issues",
+    "Windows and Wayland cross-platform friction dominates",
+    "Safety incidents: destructive commands, secret leakage",
+    "Differentiation shifts to session durability and safety"
+  ],
+  "ai-agents": [
+    "OpenClaw: 415 issues, 500 PRs in 24 hours",
+    "Gateway event-loop block issue draws 85 comments",
+    "OpenClaw P0/P1 regressions: memory, rollback, plugins",
+    "2026.11.5 in beta validation; no stable release",
+    "206 PRs merged; UI archive animation fix landed",
+    "High engagement but elevated stability debt persists"
+  ],
+  "ai-infra": [
+    "Inkling 2 support raced across entire serving stack",
+    "vLLM, llama.cpp, Ollama, Unsloth all adding Inkling 2",
+    "llama.cpp ships builds b12611–b12622, no stable release",
+    "Correctness under load: silent corruption, NaN issues",
+    "vLLM Marlin→Humming quantization migration underway",
+    "Ollama blocked on LLAMA_CPP_VERSION bump for Inkling 2"
+  ],
+  "ai-trending": [
+    "Agent Skills ecosystem explosion dominates trending",
+    "firecrawl hits 206K stars, +1,006 today",
+    "headroom compresses tool outputs for 20% token savings",
+    "Token efficiency becomes first-class infra concern",
+    "RAG bifurcates: vectorless reasoning vs vector DBs",
+    "Local-first LLMs trend: minimind, home-llm, LEANN"
+  ],
+  "ai-hn": [
+    "Anthropic IPO debut draws 2,300+ comments on HN",
+    "Nasdaq erases all 2026 gains in $4T AI wipeout",
+    "Inkling 2 Mini tops feed with 1,383 points",
+    "Paper: language models can rewrite their own weights",
+    "Governance worries: UN weapons talks, Signal vs agents",
+    "EU law for AI agents (Pandex) sparks debate"
+  ],
+  "ai-ph": [
+    "Tripmojo agentic travel planner takes #1 by votes",
+    "Docker relaunches for the agentic era on PH",
+    "Kong Volcano: self-healing agent cloud debuts",
+    "Memanto Cloud launches agent memory layer",
+    "Currents adds test visibility for Claude & Codex",
+    "Purpose-driven AI: weather alerts, fact-checking, recycling"
+  ],
+  "ai-community": [
+    "Three orchestrators share text but not context",
+    "Nested failure reported as 100% success; costs up 192.8%",
+    "220K MCP tool descriptions scanned for prompt injection",
+    "1 in 4 MCP servers touch your credentials",
+    "Anthropic mathematician's Claude-assisted Riemann proof",
+    "MCP prompt-injection risk called overblown by scan"
+  ]
+}
