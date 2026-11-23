@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "No releases; all 7 CLI tools in regression-hardening mode",
+    "Claude Code logs ~50 issue updates, just 1 open PR",
+    "Windows parity and silent-failure bugs top trust concerns",
+    "MCP emerging as universal tool-integration layer",
+    "Cross-tool convergence on agents-invoking-agents frontier",
+    "Subagent orchestration reliability is the dominant theme"
+  ],
+  "ai-agents": [
+    "OpenClaw sees 394 issues and 500 PRs in 24 hours",
+    "226 PRs merged vs 274 still open in OpenClaw",
+    "P0/P1 release blockers hit session state and message loss",
+    "PR #203871 backports five macOS fixes to 2026.11.6",
+    "Candidate Doctor blocks 2026.11.3 to 2026.11.5 upgrade",
+    "App/Gateway version skew triggers schema-migration refusal"
+  ],
+  "ai-infra": [
+    "No releases across vLLM, SGLang, llama.cpp, Ollama, LiteLLM",
+    "vLLM hunts silent wrong-output bugs: GQA, sampling underflow",
+    "Inkling-2-Mini launch sparks bug burst in llama.cpp and Ollama",
+    "LiteLLM battles a ReDoS-class availability vulnerability",
+    "SGLang enters CI maintenance mode (#21065)",
+    "Unsloth converges on ROCm/gfx1151 and Inkling-2 training"
+  ],
+  "ai-trending": [
+    "Agent skill bundles dominate GitHub trending today",
+    "Claude-BugHunter, superpowers, last30days-skill all trending",
+    "Cursor ships plugins spec; Google launches stitch-skills",
+    "CLI-Anything pushes making all software agent-native",
+    "Vectorless RAG rises: graphify, headroom, PageIndex",
+    "Token economics now first-class: caveman and headroom"
+  ],
+  "ai-web": [
+    "OpenAI posts two new index entries dated 2026-11-22",
+    "Both entries titled Perplexity And Intelligence, metadata only",
+    "Crawl found a duplicate URL entry, likely artifact",
+    "Anthropic publishes zero new articles this cycle",
+    "Quiet day for content but watch OpenAI index category",
+    "Anthropic pipeline remains in view for trend analysis"
+  ],
+  "ai-hn": [
+    "Inkling 2 Mini tops HN feed with 1456 points",
+    "Claude solves two open black-hole physics problems (575 pts)",
+    "Anthropic IPO aftershock erases Nasdaq 2026 gains",
+    "Prompt leakage hits OpenRouter and Together.ai",
+    "Signal pushes to restrict mobile AI agent data capture",
+    "Debate rages over real capability versus narrative"
+  ],
+  "ai-ph": [
+    "AlterContacts leads PH with 305 votes and 66 comments",
+    "MCP is the recurring theme across three launches",
+    "Privacy-first local AI clusters: Glassmail, AnyProfile",
+    "Open source dominates top launches: OpenVorld, Smorza",
+    "Developer tooling leads the mid-tier vote range",
+    "AI-native CRM demand stays strong for AlterContacts"
+  ],
+  "ai-hf": [
+    "Qwen3.8-27B rules: 20,889 likes, 6.3M downloads",
+    "unsloth GGUF hits 7.7M downloads atop Qwen ecosystem",
+    "Inkling-2 Mini nears 5K likes; GGUF at 806K downloads",
+    "Lightricks/LTX-2.5 hits ~13K likes in video gen",
+    "MiniMax-H3-Image reaches ~952K downloads",
+    "Uncensored and heretic community variants pull volume"
+  ],
+  "ai-community": [
+    "Dev.to debates agent safety and autonomous coding governance",
+    "Verification anxiety: do devs still understand shipped code?",
+    "RAG safety under load: 30 reactions, 30 comments",
+    "Agentic job applications blocked by brittle web forms",
+    "Lobste.rs leans into PagedAttention and sleep-based learning",
+    "Zero-trust hooks and MCP memory sharing lead practical posts"
+  ]
+}
