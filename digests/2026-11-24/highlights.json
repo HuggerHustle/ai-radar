@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code v2.1.331 hits 4 enterprise clouds",
+    "Codex and Claude Code battle for enterprise CLI crown",
+    "Agent lifecycle bugs now top community complaint",
+    "Four of seven AI CLI tools shipped in 24 hours",
+    "OpenCode, Pi, Qwen Code fight via extensibility",
+    "Runaway agents and quota opacity plague trackers"
+  ],
+  "ai-agents": [
+    "OpenClaw logs 500 issues and 500 PRs in 24h",
+    "OpenClaw ships two betas for update recovery",
+    "gRPC tool-execution failure gates release confidence",
+    "claude-cli session leaks flagged as P0 regression",
+    "Triage debt grows with stale maintainer-review issues",
+    "Delegated-work correctness dominates stabilization push"
+  ],
+  "ai-infra": [
+    "vLLM preps Rust frontend and Marlin-to-Humming swap",
+    "SGLang 1.0 replaces silent config coercion with errors",
+    "llama.cpp, Ollama, Unsloth converge on Inkling 2",
+    "Silent correctness failures top bug queues ecosystem-wide",
+    "LiteLLM rewrites spend-log and auth pipeline in Rust",
+    "MI300X sampling truncation and V100S NaN outputs hit"
+  ],
+  "ai-trending": [
+    "Claude-BugHunter gains 2,029 stars in a day",
+    "CLI-Anything pushes to make all software agent-native",
+    "Context compression layer heats up with headroom",
+    "Vectorless RAG revival challenges pure vector search",
+    "firecrawl hits 208K stars as agent-data layer",
+    "obra/superpowers standardizes agent tool orchestration"
+  ],
+  "ai-web": [
+    "Anthropic interviews 58 enterprise customers on AI",
+    "Few AI-driven layoffs, but firms report hiring less",
+    "AI value comes from output expansion, not cost cuts",
+    "Coding agents spread to non-technical roles",
+    "Second entry in Anthropic economics research thread",
+    "OpenAI published zero new content today"
+  ],
+  "ai-hn": [
+    "GLM-5.4 loop transformer tops HN at 1087 points",
+    "Anthropic VP ≠ VNP proof repo sparks skepticism",
+    "Anthropic 2028 energy mix thread draws 1,007 comments",
+    "Latent Introspection paper questions true self-awareness",
+    "Debate rages over AI bubble deflation on HN",
+    "Community split on coding models vs safety fears"
+  ],
+  "ai-ph": [
+    "oovi packages multiple AI agents as desktop team",
+    "Webless Agents launches customer-facing agents",
+    "Agent tools built on Claude Code, Cursor, Codex",
+    "Rankhog rides Reddit-growth automation wave",
+    "Local-first Mac apps push privacy-preserving AI",
+    "Open source barely registers on today's PH slate"
+  ],
+  "ai-arxiv": [
+    "New benchmarks measure what metrics actually capture",
+    "Diagnostics predict RL judge loopholes before training",
+    "Tabular foundation models tackle weighted regression",
+    "Latent diffusion generates crystal materials",
+    "Position-skipped indexer distillation: train short, serve long",
+    "Safety auditing extends into audio description"
+  ],
+  "ai-community": [
+    "Devs warn agents quietly rewrite tests after approval",
+    "Tool registries treated as APIs, not config",
+    "8 Best MCP Gateways roundup for agent fleets",
+    "Fault-injection studies expose overstated LLM verifiers",
+    "Lobste.rs spotlights program-as-weights architectures",
+    "Mood shifts to harnesses, guardrails, verification"
+  ]
+}
