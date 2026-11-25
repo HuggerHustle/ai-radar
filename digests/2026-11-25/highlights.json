@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "Claude Code, Copilot CLI, Qwen Code ship release-driven updates",
+    "OpenCode and Qwen Code battle V1→V2 migration regressions",
+    "Security flaws: OpenCode shell bypass, Copilot deniedPaths leak",
+    "Long-session reliability is top pain point across tools",
+    "Prompt-cache thrashing hits mature Claude Code adoption",
+    "Only OpenCode and Pi show meaningful community PR activity"
+  ],
+  "ai-agents": [
+    "OpenClaw ships two releases in 24 hours: v2026.11.8 and .9",
+    "Roughly 1,000 issue+PR updates across OpenClaw tracker",
+    "281 PRs merged/closed; 219 remain open",
+    "P0/P1 regression family persists ~2 months since 2026.9.6",
+    "Technical debt in gateway runtime, SQLite state, Windows path",
+    "v2026.11.8 was big batch: 314 commits, 210 PRs, 86 contributors"
+  ],
+  "ai-infra": [
+    "vLLM chases scheduler-level KV-transfer bug and ROCm regressions",
+    "Ollama fights MLX memory-growth regression OOMing 64GB Macs",
+    "SGLang preps stability-first 1.0 with breaking-config errors",
+    "Agentic serving primitives converge: KV cache control, MCP payloads",
+    "Quantization shifts Marlin→Humming; llama.cpp native quantized-KV",
+    "Inkling 2 appears in vLLM, llama.cpp, Ollama, Unsloth in one day"
+  ],
+  "ai-trending": [
+    "Claude-BugHunter surges +1,826 as agents enter security verticals",
+    "HKUDS/CLI-Anything gains +1,074 pushing agent-native software",
+    "Agent Skills packaging format dominates GitHub hot list",
+    "firecrawl +991 reinforces 'knowledge infrastructure for agents'",
+    "cursor/plugins +360 signals formalized agent-editor extensions",
+    "Memory, RAG, vector DBs converge into agent context infrastructure"
+  ],
+  "ai-web": [
+    "Anthropic alignment pages pivot to real-world incident forensics",
+    "Report covers unintended model actions and third-party system access",
+    "OpenAI teases GPT-6 intrinsic protein-design capability",
+    "Anthropic stresses honesty and persona-behavior disconnect",
+    "Anthropic posts 2 new articles; OpenAI adds 1 index entry",
+    "Emphasis shifts from theoretical safety to mechanistic transparency"
+  ],
+  "ai-hn": [
+    "Claimed matrix-multiplication exponent 9/4 sparks 103 comments",
+    "Anthropic stock slides below $83 IPO price amid Nasdaq selloff",
+    "Dario Amodei and sister sell $561M in insider stock",
+    "Top thread: 'LLM agents work for parent companies, not you' (392)",
+    "GPT-6 protein-design claim draws 205 points, 61 comments",
+    "Ask HN asks whether AI hype is cooling down"
+  ],
+  "ai-ph": [
+    "Gauth study agent tops Product Hunt with 311 votes",
+    "Polylane Swarms deploys agent teams for production incidents",
+    "Local/private-first AI rises: Inkling 2 Mini, freddy, Strict",
+    "Inkling 2 Mini runs a 26B looped model on a laptop",
+    "Agents and assistants dominate today's launch slate",
+    "Open source increasingly used as distribution channel"
+  ],
+  "ai-arxiv": [
+    "Masked diffusion LLMs improve via hidden-state refinement",
+    "Gradient-aligned experience evolution enables self-improvement",
+    "Audit finds multi-image MLLM benchmarks solvable from one image",
+    "Within-task hazard curves proposed for reliable agent evals",
+    "Clinical reasoning grounded in formal guideline constraints",
+    "Analog in-memory computing and fractal weight synthesis trend"
+  ],
+  "ai-community": [
+    "AI code output up 30% but PR reviews slow 49%, study finds",
+    "OpenAI GPT-6.2 Astra price cuts mask hidden cache costs",
+    "Devs build counterfactual evals to catch hallucinated outputs",
+    "Google 'sleep framework' targets continual LLM learning",
+    "LLM release notes hallucinate 'why' from raw git diffs",
+    "Claimed matrix multiplication breakthrough debated on Lobste.rs"
+  ]
+}
