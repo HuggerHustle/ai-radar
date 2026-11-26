@@ -1,0 +1,74 @@
+{
+  "ai-cli": [
+    "AI CLI tools shift to reliability and cost control",
+    "Claude Code optimizes prompt cache and compaction",
+    "Codex battles Windows regressions and session bugs",
+    "Gemini CLI ships SSRF and MCP OAuth hardening PRs",
+    "Copilot CLI and OpenCode hit silent plugin failures",
+    "Codex releases rust-v0.174.0-alpha.6"
+  ],
+  "ai-agents": [
+    "OpenClaw hits 345 issues and 500 PRs in 24h",
+    "OpenClaw ships v2026.11.10 feature release",
+    "OpenClaw LTS v2026.10.34 extended-stable lands",
+    "Update-path Doctor failures block managed npm upgrades",
+    "Session-state and message-loss regressions persist",
+    "Gateway RSS and SQLite worker OOM complaints grow"
+  ],
+  "ai-infra": [
+    "AI infra enters hardening, not feature expansion",
+    "vLLM sees 500 PRs and silent wrong-output bugs",
+    "SGLang targets stability-focused 1.0 release",
+    "llama.cpp SYCL path shows deterministic-logprob bugs",
+    "Ollama hit by silent-failure regressions",
+    "Looped MoE hybrids like Inkling-2 stress KV sizing"
+  ],
+  "ai-trending": [
+    "Agent skills dominate GitHub trending leaderboard",
+    "firecrawl hits 210K stars, +1,135 today",
+    "CLI-Anything crosses 1,100 stars on day one",
+    "Cursor plugins spec draws +416 stars",
+    "Vectorless RAG pitched by PageIndex and LEANN",
+    "claude-mem, mem0, cognee battle for agent memory"
+  ],
+  "ai-web": [
+    "Anthropic migrated Messages API from Python to Rust",
+    "Verification now the binding constraint on agents",
+    "Anthropic references new Claude Code and Cowork products",
+    "OpenAI posts zero new content today",
+    "Anthropic bets on infrastructure credibility over models",
+    "Rust migration solved generator-verifier gap"
+  ],
+  "ai-hn": [
+    "OpenAI preprint claims matmul exponent is 9/4",
+    "Matrix multiplication paper hits 1027 points",
+    "Anthropic stock breaks below $83 IPO price",
+    "LLM agents work for parent companies, not you",
+    "GPT-6 shows intrinsic protein-design capabilities",
+    "Community parses shorter Lean verification of GRH"
+  ],
+  "ai-ph": [
+    "Agent infrastructure dominates Product Hunt launches",
+    "Granular.Build tops with 234 votes for agent workspace",
+    "Clam AI lets you safely share inbox with agents",
+    "doola MCP lets agents run a US company",
+    "Fleetify launches open-source agent command center",
+    "Claude Ship and Viktor Code target developers"
+  ],
+  "ai-arxiv": [
+    "FlashProve-Next enables verifiable LLM API inference",
+    "Agent reliability under failure and recovery studied",
+    "Dual-polarity memory for tool-use agents proposed",
+    "KL-robust sample-complexity bounds for RL",
+    "Counterfactual world models push multimodal grounding",
+    "State-space attention targets efficiency gains"
+  ],
+  "ai-community": [
+    "AI agent trust and verification dominates Dev.to",
+    "Agent claimed tests passed but ran 74 of 105 files",
+    "Agent marked 471 notes verified with no verifier",
+    "Gemma on RTX 3050 shows settings beat model size",
+    "MCP tool schemas changing overnight hijack agents",
+    "Failover probe silently stopped watching for 17 days"
+  ]
+}
