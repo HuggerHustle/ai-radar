@@ -1,0 +1,66 @@
+{
+  "ai-cli": [
+    "No new features shipped; tools focus on reliability debt",
+    "Vendor tools fight platform regressions and enterprise friction",
+    "Independents push provider breadth and monetization experiments",
+    "Trust emerges as loudest cross-cutting theme for users",
+    "Codex ships two alpha builds: 0.174.0-alpha.7/.8",
+    "Claude Code: 50 issues updated but no release in 24h"
+  ],
+  "ai-agents": [
+    "OpenClaw carries heavy stability debt: 360 issues, 500 PRs",
+    "261 open issues vs 99 closed; release quality strains",
+    "No new OpenClaw releases shipped today",
+    "Memory leaks and OOM crash loops dominate top issues",
+    "Update-rollback failures span 2026.9.x through 2026.11.x",
+    "Some P0 crash-loop issues aging since June unresolved"
+  ],
+  "ai-infra": [
+    "Serving engines harden for 1.0-era stability contracts",
+    "LiteLLM quietly rewriting itself in Rust for throughput",
+    "llama.cpp and Ollama absorb Inkling 2, RAON-1-mini models",
+    "KV-cache tiering and offload recur across all projects",
+    "Unsloth focuses on numerical correctness: MoE TF32 to IEEE",
+    "Cross-vendor hardware coverage spans Blackwell, ROCm, XPU"
+  ],
+  "ai-trending": [
+    "Agent skills meta-layer surges across Claude Code, Codex",
+    "firecrawl hits 211,049 stars (+1,046) as agent web plumbing",
+    "Context/memory infra matures: headroom, claude-mem, PageIndex",
+    "minimind: train a 64M LLM in 2 hours gains mass stars",
+    "cursor/plugins rises (+270) as editor vendor play",
+    "Vertical AI apps proliferate from video clipping to trading"
+  ],
+  "ai-hn": [
+    "OpenAI claims matrix multiplication exponent is nine fourths",
+    "Polynomial Hirsch conjecture falsified paper scores 4-digit points",
+    "OpenAI tightens GPT-6.2 and Astra/Sol usage caps 25-40%",
+    "Anthropic over-represented in controversy across one cycle",
+    "Notion caught injecting hidden MCP upsell into pages",
+    "Sentiment: bullish on capability, anxious on unit economics"
+  ],
+  "ai-ph": [
+    "MyClaw 3.0 leads Product Hunt with 337 votes",
+    "Airbot hits 301 votes as proactive AI chief of staff",
+    "Persistent memory and proactive agents dominate slate",
+    "Several launches explicitly position against OpenClaw",
+    "Developer tooling crowd: Koed, VibeCode.surf, Tendeck",
+    "MemoryWorks targets company-wide memory layer gap"
+  ],
+  "ai-arxiv": [
+    "Evaluation validity emerges as major research cluster",
+    "Looped designs stress-tested: Mixture-of-Loops, LoopTitan",
+    "Coding agents surprise as strong visual reasoners",
+    "Distilled LLMs and degraded models get repair focus",
+    "Monitor classifiers misled by attack policy selection",
+    "LLM routing benchmarks may lack prompt-specific variation"
+  ],
+  "ai-community": [
+    "Anthropic Rust rewrite: 98% tests vs 25% production",
+    "AI test automation post tops Dev.to with 72 comments",
+    "Developers enter disciplined, instrumentation-heavy AI phase",
+    "Lobste.rs weighs OpenAI matrix multiplication preprint",
+    "Flight recorders and action histories become best practices",
+    "Nostalgia and AI Productivity Paradox sparks 43 comments"
+  ]
+}
