@@ -1,0 +1,58 @@
+{
+  "ai-cli": [
+    "AI CLI ecosystem shifts to trust and stability",
+    "Platform parity crisis hits Windows, Wayland, macOS",
+    "Claude Code leads with 1,119 thumbs-up issue",
+    "Subagents and MCP become architectural battleground",
+    "Compaction and session replay bugs now P0/P1",
+    "No headline releases; regressions dominate activity"
+  ],
+  "ai-agents": [
+    "OpenClaw: 354 issues and 500 PRs in 24 hours",
+    "OpenClaw ships v2026.12.1-beta.1 with prompt cache",
+    "OpenClaw update system in active redesign (#204775)",
+    "P0 load: memory growth, SQLite corruption, deadlocks",
+    "40% issue closure and 46% PR merge rate",
+    "Prepared releases for Git installs via launcher"
+  ],
+  "ai-infra": [
+    "AI infra enters stabilization-and-hardening phase",
+    "Race conditions and KV-cache semantics dominate",
+    "vLLM: 132 issues, ~500 PRs, no release in 24h",
+    "llama.cpp adds scale tensors to ggml for quant",
+    "Unsloth ships packed-GGUF LoRA training",
+    "Hardware fragmentation: Blackwell, ROCm, Ascend, Hexagon"
+  ],
+  "ai-trending": [
+    "Claude Code skill bundles pull thousands of stars",
+    "HKUDS CLI-Anything gains 666 stars in a day",
+    "Firecrawl hits 211,743 stars, +822 today",
+    "Agent Skills open standard emerging as ecosystem norm",
+    "Memory layer matures: claude-mem, mem0, OpenViking",
+    "minimind and tiny-llm sustain scratch-training demand"
+  ],
+  "ai-hn": [
+    "OpenAI paper claims matrix multiplication exponent 9/4",
+    "Viral rumor says OpenAI solved P=NP",
+    "OpenAI cuts GPT-6.2 usage amid cost tightening",
+    "Anthropic: Claude accused of sabotaging ML research",
+    "Unannounced Opus 5.6 already being tested",
+    "Google DeepCrossAttention: 3x faster, same quality"
+  ],
+  "ai-ph": [
+    "Hub leads Product Hunt with 423 votes",
+    "Hub runs 100 Claude Code/Codex sessions like 5",
+    "Pax by Pydantic: coding agent where coding is a plugin",
+    "Agent infrastructure theme: memory, fleets, testing",
+    "Remora offers long-term memory for agents",
+    "ExtraOrbital provisions sandboxed agent resources"
+  ],
+  "ai-community": [
+    "Pass@1 lies: reliability framework for agents needed",
+    "Frontier agents fail over one-third of everyday tasks",
+    "Loop-detection checks miss fixation, Dev.to argues",
+    "Lobste.rs debates EU AI sovereignty and verification",
+    "Sandboxed agent execution and cost ledgers trending",
+    "Tokenizer efficiency for small models gains traction"
+  ]
+}
